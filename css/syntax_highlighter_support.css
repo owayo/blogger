@@ -1,0 +1,55 @@
+#highlight-line-select-container{
+	margin-top:10px;
+	overflow-x:auto;
+	overflow-y:hidden;
+	white-space: nowrap;
+	width:514px;
+	display:block;
+	word-wrap: normal;
+}
+#highlight-line-select{
+	padding:0;
+	margin:0;
+}
+#highlight-line-select, #highlight-line-select >li{
+	font-family: monospace;
+	font-size:12px;
+}
+#highlight-line-select >li{
+	padding-left:2px;
+	list-style: decimal outside none;
+	margin:0;
+}
+#highlight-line-select >li>*{
+	font-family: monospace;
+	white-space: pre;
+}
+#highlight-line-select >li.highlight{
+	background-color: mistyrose;
+}
+#syntax-highlighter-support textarea{
+	font-family: monospace;
+	font-size: 12px;
+	line-height: 13px;
+	width: 510px;
+}
+#syntax-highlighter-support #preview{
+	width: 514px;
+	margin:10px 0 0;
+	border:none;
+}
+#syntax-highlighter-options {
+	margin:0;
+	padding:0;
+}
+#syntax-highlighter-options input[type='checkbox'][toggle] {
+	margin-left:2em;
+}
+#syntax-highlighter-options li{
+	list-style: none outside none;
+}
+/* ブラウザ別のスタイル */
+html.webkit #highlight-line-select >li:hover, html.mozilla #highlight-line-select >li:hover, html.opera #highlight-line-select >li:hover{
+	cursor:pointer;
+	background-color: salmon;
+}

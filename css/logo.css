@@ -1,0 +1,938 @@
+/* -------------------------------------------------- Android Robotのベース -------------------------------------------------- */
+.android-robot {
+	position: relative;
+	display: inline-block;
+	float: left;
+	margin-bottom:5px;
+}
+.android-robot *{
+	display: block;
+}
+.android-robot .head,.android-robot .head:before, .android-robot .head:after, .android-robot .body, .android-robot .body:before, .android-robot .body:after,.android-robot .leg:before, .android-robot .leg:after{
+	background-color: #A4C639;
+}
+.android-robot .head{
+	-moz-border-radius-topleft:50% 100%;
+	-moz-border-radius-topright:50% 100%;
+	border-top-left-radius: 50% 100%;
+	border-top-right-radius: 50% 100%;
+}
+.android-robot .head:before, .android-robot .head:after{
+	content: "";
+	position:absolute;
+	-moz-transform-origin:50% 0;
+	-webkit-transform-origin:50% 0;
+	-o-transform-origin:50% 0;
+	-ms-transform-origin:50% 0;
+	transform-origin:50% 0;
+}
+.android-robot .head:before{
+	-moz-transform:rotate(-30deg);
+	-webkit-transform:rotate(-30deg);
+	-o-transform:rotate(-30deg);
+	-ms-transform:rotate(-30deg);
+	transform:rotate(-30deg);
+}
+.android-robot .head:after{
+	-moz-transform:rotate(30deg);
+	-webkit-transform:rotate(30deg);
+	-o-transform:rotate(30deg);
+	-ms-transform:rotate(30deg);
+	transform:rotate(30deg);
+}
+.android-robot .head>.eye:before,.android-robot .head>.eye:after{
+	-moz-border-radius:50%;
+	background-color: #FFFFFF;
+	border-radius:50%;
+	content: "";
+	position:absolute;
+}
+.android-robot .body:before, .android-robot .body:after{
+	content: "";
+	position: absolute;
+	-moz-transform-origin:50% 20%;
+	-webkit-transform-origin:50% 20%;
+	-o-transform-origin:50% 20%;
+	-ms-transform-origin:50% 20%;
+	transform-origin:50% 20%;
+}
+.android-robot .leg:before, .android-robot .leg:after{
+	content: "";
+	position: absolute;
+}
+/* -------------------------------------------------- Android Robotのパーツ -------------------------------------------------- */
+.wrench{
+	position: relative;
+	width:20px;
+	height:50px;
+}
+.wrench .edge{
+	width:16px;
+	height:14px;
+	background-color: #999999;
+	border-radius: 40%;
+	margin-left: -50%;
+	position: absolute;
+	top: 0;
+	left: 5px;
+	z-index: 2;
+}
+.wrench .edge:before{
+	-moz-border-radius-bottomleft:5px 2px;
+	-moz-border-radius-bottomright:5px 2px;
+	-webkit-border-radius-bottomleft:5px 2px;
+	-webkit-border-radius-bottomright:5px 2px;
+	background-color: #FFFFFF;
+	border-bottom-left-radius: 5px 2px;
+	border-bottom-right-radius: 5px 2px;
+	content: "";
+	height: 10px;
+	left: 7px;
+	margin-left: -25%;
+	position: absolute;
+	top: -1px;
+	width:10px;
+	z-index: 3;
+}
+.wrench .bar{
+	-moz-border-radius-bottomleft:2.5px 2.5px;
+	-moz-border-radius-bottomright:2.5px 2.5px;
+	-webkit-border-radius-bottomleft:2.5px 2.5px;
+	-webkit-border-radius-bottomright:2.5px 2.5px;
+	background-color: #999999;
+	border-bottom-left-radius: 2.5px 2.5px;
+	border-bottom-right-radius: 2.5px 2.5px;
+	height: 100%;
+	left: 50%;
+	margin-left: -20%;
+	position: absolute;
+	top: 0;
+	width: 5px;
+	z-index: 1;
+}
+.smart-device{
+	-moz-border-radius:10%;
+	-webkit-border-radius:3px;
+	background: #666666;
+	border-radius:10%;
+	height:40px;
+	position: relative;
+	width:30px;
+}
+.smart-device:before{
+	content: "";
+	position: absolute;
+	background: #999999;
+	width:80%;
+	height:80%;
+	margin-left: 10%;
+	margin-top: 10%;
+}
+.eclipse{
+	-moz-border-radius:50%;
+	background-color: #6E0087;
+	background: -moz-radial-gradient(10% 10%, ellipse cover, #FFFFFF 0%, #6E0087 60%);
+	background-image: -ms-radial-gradient(10% 10%, ellipse cover, #FFFFFF 0%,#6E0087 60%);
+	background: -o-radial-gradient(10% 10%, ellipse cover, #FFFFFF 0%,#6E0087 60%);
+	background: -webkit-gradient(radial, 10% 10%, 0px, center center, 60%, color-stop(0%,#FFFFFF), color-stop(60%,#6E0087));
+	background: -webkit-radial-gradient(10% 10%, ellipse cover, #FFFFFF 0%,#6E0087 60%);
+	background: radial-gradient(10% 10%, ellipse cover, #FFFFFF 0%,#6E0087 60%);
+	border-left:2px solid #b37fd0;
+	border-radius:50%;
+	float: left;
+	margin:0 0 5px 0;
+	position: relative;
+}
+.eclipse.w32{
+	width:32px;
+	height:32px;
+	margin-left:4px;
+	margin-right:10px;
+	-webkit-border-radius:16px;
+}
+.eclipse.w16{
+	width:16px;
+	height:16px;
+	margin-left:2px;
+	margin-right:5px;
+	-webkit-border-radius:8px;
+}
+.eclipse .line{
+	border-bottom:1px solid #7374a2;
+	border-top:1px solid #7374a2;
+	position: absolute;
+	top: 50%;
+}
+.eclipse .line:before{
+	border-top:1px solid #7374a2;
+	position: absolute;
+	top: 50%;
+	content: "";
+}
+.eclipse.w32 .line{
+	height: 10px;
+	margin-top: -6px;
+	margin-left: -4px;
+	width: 40px;
+}
+.eclipse.w16 .line{
+	height: 5px;
+	margin-top: -3.5px;
+	margin-left: -2px;
+	width: 20px;
+}
+.eclipse.w32 .line:before{
+	width: 40px;
+}
+.eclipse.w16 .line:before{
+	width: 20px;
+	top: 2px;
+}
+.stick {
+	-moz-border-radius-bottomleft:50% 10%;
+	-moz-border-radius-bottomright:50% 10%;
+	-webkit-border-radius-bottomleft:1px 1px;
+	-webkit-border-radius-bottomright:1px 1px;
+	background: #666666;
+	border-bottom-left-radius: 50% 10%;
+	border-bottom-right-radius: 50% 10%;
+	height:32px;
+	margin-left:1px;
+	position: relative;
+	width:2px;
+}
+.stick:before {
+	-moz-border-radius:50%;
+	-webkit-border-radius:2px;
+	background: red;
+	border-radius:50%;
+	content: "";
+	display:block;
+	height:4px;
+	left: -1px;
+	position: absolute;
+	top: -3px;
+	width:4px;
+}
+.glass{
+	width:34px;
+	position: absolute;
+	top:4px;
+}
+.glass * {
+	-moz-border-radius-topleft:3px;
+	-moz-border-radius-topright:3px;
+	-webkit-border-radius-topleft:3px;
+	-webkit-border-radius-topright:3px;
+	border-color:#333;
+	border-style:solid;
+	border-top-left-radius: 3px;
+	border-top-right-radius: 3px;
+	border-width:2px 1px 1px;
+	height:6px;
+	position: absolute;
+	width:12px;
+}
+.glass .left {
+	left:3px;
+	border-bottom-left-radius: 3px 100%;
+	border-bottom-right-radius: 6px 100%;
+}
+.glass .right {
+	right:3px;
+	border-bottom-right-radius: 3px 100%;
+	border-bottom-left-radius: 6px 100%;
+}
+.android-robot.right-arm-down-slant .stick{
+	-moz-transform:rotate(-45deg);
+	-webkit-transform:rotate(-45deg);
+	-o-transform:rotate(-45deg);
+	-ms-transform:rotate(-45deg);
+	transform:rotate(-45deg);
+	left: -100%;
+}
+.android-robot .wrench{
+	width:40%;
+	height:50%;
+	position: absolute;
+	-moz-transform-origin:50% 0%;
+	-webkit-transform-origin:50% 0%;
+	-o-transform-origin:50% 0%;
+	-ms-transform-origin:50% 0%;
+	transform-origin:50% 0%;
+	top: 20%;
+}
+.android-robot.left-arm-down-slant .wrench{
+	-moz-transform:rotate(45deg);
+	-webkit-transform:rotate(45deg);
+	-o-transform:rotate(45deg);
+	-ms-transform:rotate(45deg);
+	transform:rotate(45deg);
+	left: 160%;
+}
+.android-robot.right-arm-down-slant .wrench{
+	-moz-transform:rotate(-45deg);
+	-webkit-transform:rotate(-45deg);
+	-o-transform:rotate(-45deg);
+	-ms-transform:rotate(-45deg);
+	transform:rotate(-45deg);
+	left: -100%;
+}
+.android-robot .smart-device{
+	width:50%;
+	height:40%;
+	position: absolute;
+	-moz-transform-origin:50% 0%;
+	-webkit-transform-origin:50% 0%;
+	-o-transform-origin:50% 0%;
+	-ms-transform-origin:50% 0%;
+	transform-origin:50% 0%;
+	top: 30%;
+}
+.android-robot.left-arm-down-slant .smart-device{
+	-moz-transform:rotate(45deg);
+	-webkit-transform:rotate(45deg);
+	-o-transform:rotate(45deg);
+	-ms-transform:rotate(45deg);
+	transform:rotate(45deg);
+	left: 145%;
+}
+.android-robot.right-arm-down-slant .smart-device{
+	-moz-transform:rotate(-45deg);
+	-webkit-transform:rotate(-45deg);
+	-o-transform:rotate(-45deg);
+	-ms-transform:rotate(-45deg);
+	transform:rotate(-45deg);
+	left: -95%;
+}
+.android-robot .eclipse{
+	position: absolute;
+	top: 25%;
+}
+.android-robot.w34.left-arm-down-slant .eclipse.w16{
+	left: 120%;
+}
+.android-robot.w34.right-arm-down-slant .eclipse.w16{
+	left: -90%;
+}
+.android-robot .stick{
+	position: absolute;
+	-moz-transform-origin:50% 0%;
+	-webkit-transform-origin:50% 0%;
+	-o-transform-origin:50% 0%;
+	-ms-transform-origin:50% 0%;
+	transform-origin:50% 0%;
+	top: 20%;
+}
+.android-robot.left-arm-down-slant .stick{
+	-moz-transform:rotate(45deg);
+	-webkit-transform:rotate(45deg);
+	-o-transform:rotate(45deg);
+	-ms-transform:rotate(45deg);
+	transform:rotate(45deg);
+	left: 190%;
+}
+.android-robot.right-arm-down-slant .stick{
+	-moz-transform:rotate(-45deg);
+	-webkit-transform:rotate(-45deg);
+	-o-transform:rotate(-45deg);
+	-ms-transform:rotate(-45deg);
+	transform:rotate(-45deg);
+	left: -100%;
+}
+/* -------------------------------------------------- Android Robotに持たせないパーツ -------------------------------------------------- */
+.board {
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+	background: #EEE;
+	border-radius:5px;
+	border:5px solid #333;
+	float: left;
+	height:50px;
+	margin-right: -30px;
+	width:100px;
+}
+.board .android-robot.w16{
+	margin-left:50%;
+	left:-8px;
+	margin-top:11px;
+	opacity: 0.5;
+}
+.price_down_arrow{
+	background: #FF6666; /* Old browsers */
+	background: -moz-linear-gradient(top, #FFCCCC 0%, #FF6666 100%); /* FF3.6+ */
+	background: -ms-linear-gradient(top, #FFCCCC 0%,#FF6666 100%); /* IE10+ */
+	background: -o-linear-gradient(top, #FFCCCC 0%,#FF6666 100%); /* Opera 11.10+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#FFCCCC), color-stop(100%,#FF6666)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top, #FFCCCC 0%,#FF6666 100%); /* Chrome10+,Safari5.1+ */
+	background: linear-gradient(top, #FFCCCC 0%,#FF6666 100%); /* W3C */
+	float: left;
+	height:30px;
+	margin-left:25px;
+	margin-right: -67px; /* robo margin left(25) + robo width/2(17) + arrow width/2(25) */
+	width:50px;
+	margin-bottom: 50px;
+}
+.price_down_arrow:before{
+	border-left: 50px solid transparent;
+	border-right: 50px solid transparent;
+	border-top: 50px solid #FF6666;
+	content: "";
+	display:block;
+	height: 0;
+	margin-left: -25px;
+	position: relative;
+	top: 30px;
+	width: 0;
+}
+.price_down_arrow:after{
+	color: #FFFFFF;
+	content: "\53\41\4c\45";
+	display: block;
+	font-family: Lucida Console;
+	font-size: 25px;
+	font-weight: bold;
+	margin-left: -25px;
+	position: relative;
+	text-align: center;
+	text-shadow: 0 1px 0px #EEE, 0 2px 0px #AAA, 0 3px 0px #666;
+	top: -25px;
+	width: 100px;
+	z-index: 10;
+}
+.price_down_arrow+.android-robot.w34{
+	margin-top:10px;
+	margin-bottom: 20px;
+}
+.price_down_arrow.w40{
+	height:15px;
+	width:24px;
+	margin-left:8px;
+	margin-right: -30px; /* robo margin left(10) + robo width/2(8) + arrow width/2(12) */
+	margin-bottom: 20px;
+}
+.price_down_arrow.w40:before{
+	border-left-width: 20px;
+	border-right-width: 20px;
+	border-top-width: 20px;
+	top: 15px;
+	margin-left: -8px;
+}
+.price_down_arrow.w40:after{
+	display: none;
+}
+.price_down_arrow.w40+.android-robot.w16{
+	margin-top:3px;
+}
+/* ---------------------------------------------------------------------------------------------------- */
+.android-robot.w68, .android-robot.w68 .head, .android-robot.w68 .body{
+	width: 68px;
+}
+.android-robot.w68 {
+	margin:8px 25px 5px 20px;
+}
+.android-robot.w68 .head {
+	height: 32px;
+	-webkit-border-top-left-radius:34px 32px;
+	-webkit-border-top-right-radius:34px 32px;
+}
+.android-robot.w68 .head:before, .android-robot.w68 .head:after{
+	-moz-border-radius-topleft:50% 2px;
+	-moz-border-radius-topright:50% 2px;
+	-webkit-border-top-left-radius:2px 2px;
+	-webkit-border-top-right-radius:2px 2px;
+	border-top-left-radius:50% 2px;
+	border-top-right-radius:50% 2px;
+	height: 14px;
+	top:-7px;
+	width: 4px;
+}
+.android-robot.w68 .head:before{
+	left:10px;
+}
+.android-robot.w68 .head:after{
+	right:10px;
+}
+.android-robot.w68 .head>.eye:before,.android-robot.w68 .head>.eye:after{
+	height: 6px;
+	width: 6px;
+	top:14px;
+	-webkit-border-radius:3px;
+}
+.android-robot.w68 .head>.eye:before{
+	left:15px;
+}
+.android-robot.w68 .head>.eye:after{
+	right:15px;
+}
+.android-robot.w68 .body{
+	-moz-border-radius-bottomleft:8px;
+	-moz-border-radius-bottomright:8px;
+	-webkit-border-radius-bottomleft:8px;
+	-webkit-border-radius-bottomright:8px;
+	border-bottom-left-radius: 8px;
+	border-bottom-right-radius: 8px;
+	height: 58px;
+	margin-top: 3px;
+}
+.android-robot.w68 .body:before, .android-robot.w68 .body:after{
+	-moz-border-radius:8px;
+	-webkit-border-radius:8px;
+	border-radius:8px;
+	height:47px;
+	top:32px;
+	width:16px;
+}
+.android-robot.w68 .body:before{
+	left:-19px;
+}
+.android-robot.w68 .body:after{
+	left:71px;
+}
+.android-robot.w68 .leg, .android-robot.w68 .leg:before, .android-robot.w68 .leg:after{
+	height:25px;
+}
+.android-robot.w68 .leg:before, .android-robot.w68 .leg:after{
+	-moz-border-radius-bottomleft:8px;
+	-moz-border-radius-bottomright:8px;
+	-webkit-border-radius-bottomleft:8px;
+	-webkit-border-radius-bottomright:8px;
+	border-bottom-left-radius: 8px;
+	border-bottom-right-radius: 8px;
+	width:16px;
+}
+.android-robot.w68 .leg:before{
+	left:15px;
+}
+.android-robot.w68 .leg:after{
+	left:37px;
+}
+/* ---------------------------------------------------------------------------------------------------- */
+.android-robot.w34, .android-robot.w34 .head, .android-robot.w34 .body{
+	width: 34px;
+}
+.android-robot.w34 {
+	margin:4px 15px 5px 10px;
+}
+.android-robot.w34 .head {
+	height: 16px;
+	-webkit-border-top-left-radius:17px 16px;
+	-webkit-border-top-right-radius:17px 16px;
+}
+.android-robot.w34 .head:before, .android-robot.w34 .head:after{
+	-moz-border-radius-topleft:50% 1px;
+	-moz-border-radius-topright:50% 1px;
+	-webkit-border-top-left-radius:1px 1px;
+	-webkit-border-top-right-radius:1px 1px;
+	border-top-left-radius:50% 1px;
+	border-top-right-radius:50% 1px;
+	height: 7px;
+	top:-3px;
+	width: 2px;
+}
+.android-robot.w34 .head:before{
+	left:5px;
+}
+.android-robot.w34 .head:after{
+	right:5px;
+}
+.android-robot.w34 .head>.eye:before,.android-robot.w34 .head>.eye:after{
+	height: 4px;
+	width: 4px;
+	top:7px;
+	-webkit-border-radius:2px;
+}
+.android-robot.w34 .head>.eye:before{
+	left:7px;
+}
+.android-robot.w34 .head>.eye:after{
+	right:7px;
+}
+.android-robot.w34 .body{
+	-moz-border-radius-bottomleft:4px;
+	-moz-border-radius-bottomright:4px;
+	-webkit-border-radius-bottomleft:4px;
+	-webkit-border-radius-bottomright:4px;
+	border-bottom-left-radius: 4px;
+	border-bottom-right-radius: 4px;
+	height: 29px;
+	margin-top: 1px;
+}
+.android-robot.w34 .body:before, .android-robot.w34 .body:after{
+	-moz-border-radius:4px;
+	-webkit-border-radius:4px;
+	border-radius:4px;
+	height:23px;
+	top:16px;
+	width:8px;
+}
+.android-robot.w34 .body:before{
+	left:-9px;
+}
+.android-robot.w34 .body:after{
+	left:35px;
+}
+.android-robot.w34 .leg, .android-robot.w34 .leg:before, .android-robot.w34 .leg:after{
+	height:12px;
+}
+.android-robot.w34 .leg:before, .android-robot.w34 .leg:after{
+	-moz-border-radius-bottomleft:4px;
+	-moz-border-radius-bottomright:4px;
+	-webkit-border-radius-bottomleft:4px;
+	-webkit-border-radius-bottomright:4px;
+	border-bottom-left-radius: 4px;
+	border-bottom-right-radius: 4px;
+	width:8px;
+}
+.android-robot.w34 .leg:before{
+	left:7px;
+}
+.android-robot.w34 .leg:after{
+	left:19px;
+}
+/* ---------------------------------------------------------------------------------------------------- */
+.android-robot.w16, .android-robot.w16 .head, .android-robot.w16 .body{
+	width: 16px;
+}
+.android-robot.w16 {
+	margin:2px 10px 5px 5px;
+}
+.android-robot.w16 .head {
+	height: 8px;
+	-webkit-border-top-left-radius:8px 8px;
+	-webkit-border-top-right-radius:8px 8px;
+}
+.android-robot.w16 .head:before, .android-robot.w16 .head:after{
+	-moz-border-radius-topleft:50% 1px;
+	-moz-border-radius-topright:50% 1px;
+	-webkit-border-top-left-radius:0.7px 1px;
+	-webkit-border-top-right-radius:0.7px 1px;
+	border-top-left-radius:50% 1px;
+	border-top-right-radius:50% 1px;
+	height: 5px;
+	top:-2px;
+	width: 1.5px;
+}
+.android-robot.w16 .head:before{
+	left:2px;
+}
+.android-robot.w16 .head:after{
+	right:2px;
+}
+.android-robot.w16 .head>.eye:before,.android-robot.w16 .head>.eye:after{
+	height: 2px;
+	width: 2px;
+	top:3px;
+	-webkit-border-radius:1px;
+}
+.android-robot.w16 .head>.eye:before{
+	left:3px;
+}
+.android-robot.w16 .head>.eye:after{
+	right:3px;
+}
+.android-robot.w16 .body{
+	-moz-border-radius-bottomleft:2px;
+	-moz-border-radius-bottomright:2px;
+	-webkit-border-radius-bottomleft:2px;
+	-webkit-border-radius-bottomright:2px;
+	border-bottom-left-radius: 2px;
+	border-bottom-right-radius: 2px;
+	height: 14px;
+	margin-top: 1px;
+}
+.android-robot.w16 .body:before, .android-robot.w16 .body:after{
+	-moz-border-radius:2px;
+	-webkit-border-radius:2px;
+	border-radius:2px;
+	height:11px;
+	top:8px;
+	width:4px;
+}
+.android-robot.w16 .body:before{
+	left:-5px;
+}
+.android-robot.w16 .body:after{
+	left:17px;
+}
+.android-robot.w16 .leg, .android-robot.w16 .leg:before, .android-robot.w16 .leg:after{
+	height:6px;
+}
+.android-robot.w16 .leg:before, .android-robot.w16 .leg:after{
+	-moz-border-radius-bottomleft:2px;
+	-moz-border-radius-bottomright:2px;
+	-webkit-border-radius-bottomleft:2px;
+	-webkit-border-radius-bottomright:2px;
+	border-bottom-left-radius: 2px;
+	border-bottom-right-radius: 2px;
+	width:4px;
+}
+.android-robot.w16 .leg:before{
+	left:3px;
+}
+.android-robot.w16 .leg:after{
+	left:9px;
+}
+/* -------------------------------------------------- Android Robotのアクション -------------------------------------------------- */
+.android-robot.head-right-up .head{
+	-moz-transform:rotate(10deg);
+	-webkit-transform:rotate(10deg);
+	-o-transform:rotate(10deg);
+	-ms-transform:rotate(10deg);
+	transform:rotate(10deg);
+	-moz-transform-origin:100% 100%;
+	-webkit-transform-origin:100% 100%;
+	-o-transform-origin:100% 100%;
+	-ms-transform-origin:100% 100%;
+	transform-origin:100% 100%;
+}
+.android-robot.left-arm-up .body:after, .android-robot.right-arm-up .body:before, .android-robot.right-arm-down-slant .body:before{
+	-moz-transform:rotate(180deg);
+	-webkit-transform:rotate(180deg);
+	-o-transform:rotate(180deg);
+	-ms-transform:rotate(180deg);
+	transform:rotate(180deg);
+}
+.android-robot.left-arm-down-slant .body:after{
+	-moz-transform:rotate(-45deg);
+	-webkit-transform:rotate(-45deg);
+	-o-transform:rotate(-45deg);
+	-ms-transform:rotate(-45deg);
+	transform:rotate(-45deg);
+}
+.android-robot.right-arm-up-slant .body:before{
+	-moz-transform:rotate(135deg);
+	-webkit-transform:rotate(135deg);
+	-o-transform:rotate(135deg);
+	-ms-transform:rotate(135deg);
+	transform:rotate(135deg);
+}
+.android-robot.left-arm-up-slant .body:after{
+	-moz-transform:rotate(-135deg);
+	-webkit-transform:rotate(-135deg);
+	-o-transform:rotate(-135deg);
+	-ms-transform:rotate(-135deg);
+	transform:rotate(-135deg);
+}
+.android-robot.right-arm-down-slant .body:before{
+	-moz-transform:rotate(45deg);
+	-webkit-transform:rotate(45deg);
+	-o-transform:rotate(45deg);
+	-ms-transform:rotate(45deg);
+	transform:rotate(45deg);
+}
+.android-robot.w34.left-arm-up-slant{
+	margin-right:25px
+}
+.android-robot.w34.right-arm-up-slant{
+	margin-left:25px
+}
+
+.android-robot.w68.left-arm-down-slant{
+	margin-right:40px;
+}
+.android-robot.w34.left-arm-down-slant{
+	margin-right:20px;
+}
+.android-robot.w16.left-arm-down-slant{
+	margin-right:10px;
+}
+.android-robot.w68.left-arm-down-slant.item{
+	margin-right:65px;
+}
+.android-robot.w34.left-arm-down-slant.item{
+	margin-right:35px;
+}
+.android-robot.w16.left-arm-down-slant.item{
+	margin-right:15px;
+}
+
+.android-robot.w68.right-arm-down-slant.item{
+	margin-left:65px;
+}
+.android-robot.w34.right-arm-down-slant.item{
+	margin-left:35px;
+}
+.android-robot.w16.right-arm-down-slant.item{
+	margin-left:15px;
+}
+/* -------------------------------------------------- Android Robotを利用したスタイル -------------------------------------------------- */
+h4 .android-robot, h5 .android-robot, h6 .android-robot {
+	margin:4px 4px -8px 0;
+}
+h4 .android-robot, h4 .android-robot .head, h4 .android-robot .body, h5 .android-robot, h5 .android-robot .head, h5 .android-robot .body, h6 .android-robot, h6 .android-robot .head, h6 .android-robot .body{
+	width: 30px;
+}
+h4 .android-robot .head, h5 .android-robot .head, h6 .android-robot .head {
+	height: 15px;
+	-webkit-border-top-left-radius:15px 15px;
+	-webkit-border-top-right-radius:15px 15px;
+}
+h4 .android-robot .head:before, h4 .android-robot .head:after, h5 .android-robot .head:before, h5 .android-robot .head:after, h6 .android-robot .head:before, h6 .android-robot .head:after{
+	-moz-border-radius-topleft:50% 1px;
+	-moz-border-radius-topright:50% 1px;
+	-webkit-border-top-left-radius:1px 1px;
+	-webkit-border-top-right-radius:1px 1px;
+	border-top-left-radius:50% 1px;
+	border-top-right-radius:50% 1px;
+	height: 7px;
+	top:-4px;
+	width: 2px;
+}
+h4 .android-robot .head:before, h5 .android-robot .head:before, h6 .android-robot .head:before{
+	left:5px;
+}
+h4 .android-robot .head:after, h5 .android-robot .head:after, h6 .android-robot .head:after{
+	right:5px;
+}
+h4 .android-robot .head>.eye:before,h4 .android-robot .head>.eye:after, h5 .android-robot .head>.eye:before,h5 .android-robot .head>.eye:after, h6 .android-robot .head>.eye:before,h6 .android-robot .head>.eye:after{
+	-moz-border-radius:2px;
+	-webkit-border-radius:2px;
+	border-radius:2px;
+	height: 4px;
+	top:6px;
+	width: 4px;
+}
+h4 .android-robot .head>.eye:before, h5 .android-robot .head>.eye:before, h6 .android-robot .head>.eye:before{
+	left:7px;
+}
+h4 .android-robot .head>.eye:after, h5 .android-robot .head>.eye:after, h6 .android-robot .head>.eye:after{
+	left:19px;
+}
+h4 .android-robot .body, h5 .android-robot .body, h6 .android-robot .body{
+	height: 10px;
+	margin-top: 1px;
+}
+.quote-container .android-robot.w16{
+	margin: 2px 10px 0 5px;
+	float: left;
+}
+.horizontal-rule{
+	text-align: center;
+    width: 100%;
+    margin: 10px 0;
+}
+.horizontal-rule .android-robot, .horizontal-rule .android-robot .head, .horizontal-rule .android-robot .body{
+	width: 16px;
+}
+.horizontal-rule .android-robot {
+	margin: 2px 0 0;
+	float: none;
+}
+.horizontal-rule .android-robot .head {
+	height: 8px;
+	-webkit-border-top-left-radius:8px 8px;
+	-webkit-border-top-right-radius:8px 8px;
+}
+.horizontal-rule .android-robot .head:before, .horizontal-rule .android-robot .head:after{
+	-moz-border-radius-topleft:50% 1px;
+	-moz-border-radius-topright:50% 1px;
+	-webkit-border-top-left-radius:0.7px 1px;
+	-webkit-border-top-right-radius:0.7px 1px;
+	border-top-left-radius:50% 1px;
+	border-top-right-radius:50% 1px;
+	height: 5px;
+	top:-1px;
+	width: 1.5px;
+}
+.horizontal-rule .android-robot .head:before{
+	left:2px;
+}
+.horizontal-rule .android-robot .head:after{
+	right:2px;
+}
+.horizontal-rule .android-robot .head>.eye:before,.horizontal-rule .android-robot .head>.eye:after{
+	height: 2px;
+	width: 2px;
+	top:3px;
+	-webkit-border-radius:1px;
+}
+.horizontal-rule .android-robot .head>.eye:before{
+	left:3px;
+}
+.horizontal-rule .android-robot .head>.eye:after{
+	left:11px;
+}
+.horizontal-rule .android-robot .body{
+	height: 5px;
+	margin-top: 1px;
+}
+.horizontal-rule .android-robot .body:before, .horizontal-rule .android-robot .body:after{
+	-moz-border-radius:2px;
+	-moz-transform-origin:50% 2px;
+	-ms-transform-origin:50% 2px;
+	-o-transform-origin:50% 2px;
+	-webkit-border-radius:2px;
+	-webkit-transform-origin:50% 2px;
+	border-radius:2px;
+	height:200px;
+	top:8px;
+	transform-origin:50% 2px;
+	width:4px;
+}
+.horizontal-rule .android-robot .body:before{
+	left:-5px;
+	-moz-transform:rotate(90deg);
+	-webkit-transform:rotate(90deg);
+	-o-transform:rotate(90deg);
+	-ms-transform:rotate(90deg);
+	transform:rotate(90deg);
+}
+.horizontal-rule .android-robot .body:after{
+	left:17px;
+	-moz-transform:rotate(-90deg);
+	-webkit-transform:rotate(-90deg);
+	-o-transform:rotate(-90deg);
+	-ms-transform:rotate(-90deg);
+	transform:rotate(-90deg);
+}
+
+.post-related .android-robot {
+	margin:4px 4px -8px 0;
+}
+.post-related .android-robot, .post-related .android-robot .head, .post-related .android-robot .body {
+	width: 30px;
+}
+.post-related .android-robot .head{
+	height: 15px;
+	-webkit-border-top-left-radius:15px 15px;
+	-webkit-border-top-right-radius:15px 15px;
+}
+.post-related .android-robot .head:before, .post-related .android-robot .head:after {
+	-moz-border-radius-topleft:50% 1px;
+	-moz-border-radius-topright:50% 1px;
+	-webkit-border-top-left-radius:1px 1px;
+	-webkit-border-top-right-radius:1px 1px;
+	border-top-left-radius:50% 1px;
+	border-top-right-radius:50% 1px;
+	height: 7px;
+	top:-4px;
+	width: 2px;
+}
+.post-related .android-robot .head:before {
+	left:5px;
+}
+.post-related .android-robot .head:after{
+	right:5px;
+}
+.post-related .android-robot .head>.eye:before,.post-related .android-robot .head>.eye:after {
+	-moz-border-radius:2px;
+	-webkit-border-radius:2px;
+	border-radius:2px;
+	height: 4px;
+	top:6px;
+	width: 4px;
+}
+.post-related .android-robot .head>.eye:before {
+	left:7px;
+}
+.post-related .android-robot .head>.eye:after {
+	left:19px;
+}
+.post-related .android-robot .body{
+	height: 10px;
+	margin-top: 1px;
+}
+.post-related .android-robot .head,.post-related .android-robot .head:before,.post-related .android-robot .head:after,.post-related .android-robot .body{
+  background-color:#A4C639;
+}
