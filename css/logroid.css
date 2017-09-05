@@ -1,4 +1,11 @@
 /* アイウエオ リスト */
 ol.aiue {
+  font-weight: bold;
   list-style-type : katakana;
+  margin-top: 40px;
+  margin-left: 20px;
+}
+.question {
+  font-size: 1.2em;
+  line-height: 1.6em;
 }
