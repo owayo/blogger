@@ -1,9 +1,23 @@
 /* アイウエオ リスト */
 ol.aiue {
-  font-weight: bold;
-  list-style-type : katakana;
+  list-style-type: none;
+  list-style-position:inside;
   margin-top: 40px;
   margin-left: 20px;
+}
+ol.aiue {
+  counter-reset: aiuecount 0;
+}
+ol.aiue li {
+  counter-increment: aiuecount;
+  margin: 10px 0 10px 40px;
+}
+ol.aiue li:before {
+  display: block;
+  content: counter(aiuecount, katakana) ".";
+  margin-left: -20px;
+  font-weight: bold;
+  font-family: Meiryo;
 }
 .question {
   font-size: 1.2em;
