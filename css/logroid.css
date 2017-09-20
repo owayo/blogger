@@ -1490,6 +1490,10 @@ a.google_play {
   height: 35px
 }
 
+th.width-150px {
+  width: 150px;
+}
+
 a.google_play_badge {
   -ms-user-select: none;
   -webkit-user-select: none;
@@ -1499,8 +1503,6 @@ a.google_play_badge {
   background-image: url("https://1.bp.blogspot.com/-OGMyqNS3yVM/WcJsXXIjc4I/AAAAAAAHfIQ/Srbllb4eyy4Ze4ExyBWzAS3YmvRne5a8QCLcBGAs/s1600/google-play-badge-w150.png");
   background-repeat: no-repeat;
   background-position: center;
-  background-color: #000;
-  min-width: 128px;
   width: 150px;
   height: 45px;
   display: block !important;
