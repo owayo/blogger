@@ -1502,6 +1502,7 @@ a.google_play_badge {
   background-color: #000;
   min-width: 128px;
   width: 150px;
+  height: 45px;
   display: block !important;
 }
 
