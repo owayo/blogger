@@ -437,8 +437,8 @@ h6 .android-robot .body {
   font-size: 130%;
   margin-left: 0;
   counter-increment: heading-4;
-  counter-reset: heading-5;
-  counter-reset: heading-6
+  counter-reset: heading-5 0;
+  counter-reset: heading-6 0;
 }
 
 .post-body h5 {
@@ -446,7 +446,7 @@ h6 .android-robot .body {
   font-size: 120%;
   margin-left: 1em;
   counter-increment: heading-5;
-  counter-reset: heading-6
+  counter-reset: heading-6 0;
 }
 
 .post-body h6 {
