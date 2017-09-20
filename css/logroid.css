@@ -1498,23 +1498,14 @@ a.google_play_badge {
   user-select: none;
   background-image: url("https://1.bp.blogspot.com/-OGMyqNS3yVM/WcJsXXIjc4I/AAAAAAAHfIQ/Srbllb4eyy4Ze4ExyBWzAS3YmvRne5a8QCLcBGAs/s1600/google-play-badge-w150.png");
   background-repeat: no-repeat;
+  background-position: center;
   background-color: #000;
-  background: url("https://1.bp.blogspot.com/-OGMyqNS3yVM/WcJsXXIjc4I/AAAAAAAHfIQ/Srbllb4eyy4Ze4ExyBWzAS3YmvRne5a8QCLcBGAs/s1600/google-play-badge-w150.png") no-repeat scroll 5px center, -moz-linear-gradient(#666, #000);
-  background: url("https://1.bp.blogspot.com/-OGMyqNS3yVM/WcJsXXIjc4I/AAAAAAAHfIQ/Srbllb4eyy4Ze4ExyBWzAS3YmvRne5a8QCLcBGAs/s1600/google-play-badge-w150.png") no-repeat scroll 5px center, -webkit-linear-gradient(#666, #000);
-  background: url("https://1.bp.blogspot.com/-OGMyqNS3yVM/WcJsXXIjc4I/AAAAAAAHfIQ/Srbllb4eyy4Ze4ExyBWzAS3YmvRne5a8QCLcBGAs/s1600/google-play-badge-w150.png") no-repeat scroll 5px center, linear-gradient(#666, #000);
   min-width: 128px;
   width: 150px;
-  display: block;
+  display: block !important;
 }
 
-.mobile a.google_play_badge {
-  background-position: center;
-  background: url("https://1.bp.blogspot.com/-OGMyqNS3yVM/WcJsXXIjc4I/AAAAAAAHfIQ/Srbllb4eyy4Ze4ExyBWzAS3YmvRne5a8QCLcBGAs/s1600/google-play-badge-w150.png") no-repeat scroll center center, -moz-linear-gradient(#666, #000);
-  background: url("https://1.bp.blogspot.com/-OGMyqNS3yVM/WcJsXXIjc4I/AAAAAAAHfIQ/Srbllb4eyy4Ze4ExyBWzAS3YmvRne5a8QCLcBGAs/s1600/google-play-badge-w150.png") no-repeat scroll center center, -webkit-linear-gradient(#666, #000);
-  background: url("https://1.bp.blogspot.com/-OGMyqNS3yVM/WcJsXXIjc4I/AAAAAAAHfIQ/Srbllb4eyy4Ze4ExyBWzAS3YmvRne5a8QCLcBGAs/s1600/google-play-badge-w150.png") no-repeat scroll center center, linear-gradient(#666, #000);
-  min-width: 35px;
-  height: 35px
-}
+.mobile a.google_play_badge {}
 
 a.google_play .caption {
   font-size: 8px;
