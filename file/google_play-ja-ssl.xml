@@ -1,0 +1,14 @@
+<SearchPlugin xmlns="http://www.mozilla.org/2006/browser/search/">
+<ShortName>Google Play (日本語)</ShortName>
+<Description>Google Play 日本語 にてSSL通信による検索を行います</Description>
+<InputEncoding>UTF-8</InputEncoding>
+<Image width="16" height="16">data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAACC0lEQVR42qXTYUgTYRwG8Of/npu7bZohWaKYaEhlImUiKcCZQiFBghZBCUmfagUcQABFtG9aAybR9xFQgMAOIiIRd1QFWkFFYCjhUQQVkrfblpva3t7dWRozWvSHP/fp+d1z790RxOx7oJUxAM8P9Zr4xyEAqL2sRf2VUOqasyPFEg+PHugrGLKBhqG7MZJI2VKVxa6dS6bPxdVw07FIwcCem/djTILCJEJ15Qr2N6TgZjDkIq6qtSe0vwItt8YEQIpogRxSvy0DpT4OF+MolqALKNi7+aT+R6A9OmE/Qi7Mihxkd8U39GyfFwhsyJde0VpvvFXp6rCRB3SOPxQA1gCxuTZ7y5Por/4Ed+Y76m4bkK00UMIj8EKlU9fMX8DhqSe/NaB1TTpcX3AuNgWPtQgRdNbHTXEdpK7rmg0cnZ50gNXQT8SbWcLpK6NolOZR3r1VhLkDyDDBeCd1hF7awPGPL/IAz+Iy+i/eQ83cHLwUR1mTG6V9NSbcfAQuhKk1tPYIA4lXq2fABAD4P6fRfekxqt69h8wsyCQakxWpGGoOUlso/xDPZN/EQFAAYNNsCgcvPENp6qsIxsVauoclB3fodwxsMA7ABQAoJbNptAemRXgBHkro4u7BtkfDG77/PMA3s6y0BD7An4wbuWDP00Dhn/L5mdfRxrMLij+ZCA5MHgkX9BetB/5nfgA1Pq4R4EDg5AAAAABJRU5ErkJggg==</Image>
+<SearchForm>https://play.google.com</SearchForm>
+<Url type="text/html" method="GET" template="https://play.google.com/store/search">
+  <Param name="hl" value="ja"/>
+  <Param name="c" value="apps"/>
+  <Param name="q" value="{searchTerms}"/>
+</Url>
+<Url type="application/x-suggestions+json" method="GET" template="https://play.google.com/store/search?q={searchTerms}&amp;c=apps&amp;hl={moz:locale}">
+</Url>
+</SearchPlugin>
