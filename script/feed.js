@@ -30,12 +30,12 @@ var Feed=function(data, entityTag){
         //console.log(now.getTime()+" "+((req.key).to_int() + LIMIT));
         // 1時間はlocalStorage内のデータを使う
         if(req.data == Object2Text(sendData) && now.getTime() < ((req.key).to_int() + LIMIT) ){
-//console.info("Storage data found.");
+console.info("Storage data found.");
           storageDataExist=true;
           var json=eval(res.data);
 //console.dir(json)
           for(var k in json){
-//console.info("Storage data parse. "+k);
+          console.info("Storage data parse. "+k);
             me.data[k].jsonObject=json[k];
             me.parse(k);
           };
@@ -45,12 +45,12 @@ var Feed=function(data, entityTag){
         }
       };
       if(!storageDataExist){
-//console.info("Storage data not found.");
+console.info("Storage data not found.");
         $.getJSON('http://log-roid.appspot.com/feed', sendData, function(json){
           //console.info("json");
           //console.dir(json);
           for(var k in json){
-//console.info("Storage data parse. "+k);
+console.info("Storage data parse. "+k);
             me.data[k].jsonObject=json[k];
             me.parse(k);
           };
