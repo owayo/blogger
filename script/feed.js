@@ -7,6 +7,7 @@ var now = new Date(),
 yesterday.setTime(new Date().getTime() - 86400000);
 
 var Feed = function(data, entityTag) {
+  console.dir(data);
   if (data) {
     var sendData = { urls: [], etag: entityTag },
       me = this;
