@@ -47,9 +47,9 @@ var Feed = function(data, entityTag) {
       };
       if (!storageDataExist) {
         console.info("Storage data not found.");
-        $.getJSON('http://log-roid.appspot.com/feed', sendData, function(json) {
+        $.getJSON('https://log-roid.appspot.com/feed', sendData, function(json) {
           //console.info("json");
-          //console.dir(json);
+          console.dir(json);
           for (var k in json) {
             console.info("Storage data parse. " + k);
             me.data[k].jsonObject = json[k];
