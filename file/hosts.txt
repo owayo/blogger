@@ -4,7 +4,7 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2017/10/04
+# last updated: 2017/10/06
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -39,6 +39,12 @@ white clickserve.dartsearch.net
 white ad.doubleclick.net
 white api.r10s.jp
 white c.kakaku.com
+white fbcdn.net
+white fbsbx.com
+white facebook.com
+white edge-chat.facebook.com
+white m.facebook.com
+white staticxx.facebook.com
 
 # 0076.pics
 127.0.0.1 p9kzz.stream.0076.pics
@@ -3610,6 +3616,9 @@ white c.kakaku.com
 
 # nukiero.club
 127.0.0.1 nukiero.club
+
+# oclasrv.com
+127.0.0.1 go.oclasrv.com
 
 # oct-pass.net
 127.0.0.1 js.oct-pass.net
