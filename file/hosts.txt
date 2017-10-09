@@ -4,7 +4,7 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2017/10/06
+# last updated: 2017/10/09
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -2023,6 +2023,9 @@ white yt3.ggpht.com
 # cpcdn.com
 127.0.0.1 img5-ak.cpcdn.com
 
+# cpm20.com
+127.0.0.1 www.cpm20.com
+
 # cq-andc.jp
 127.0.0.1 ad.cq-andc.jp
 
@@ -3661,6 +3664,9 @@ white yt3.ggpht.com
 # onclickpredictiv.com
 127.0.0.1 www.onclickpredictiv.com
 
+# onclkds.com
+127.0.0.1 onclkds.com
+
 # online-dn.com
 127.0.0.1 www.online-dn.com
 
@@ -3727,6 +3733,9 @@ white yt3.ggpht.com
 
 # pcmax.jp
 127.0.0.1 pcmax.jp
+
+# pcsafe8.win
+127.0.0.1 microsoft.com.a.pcsafe8.win
 
 # pdltracking.com
 127.0.0.1 click.pdltracking.com
