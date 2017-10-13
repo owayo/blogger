@@ -5,7 +5,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2017/10/13
-# block hosts: 32899 entry
+# block hosts: 32904 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -2031,6 +2031,9 @@ white yt3.ggpht.com
 
 # 47news.jp
 127.0.0.1 track.47news.jp
+
+# 493b98cce8bc1a2dd.com
+127.0.0.1 493b98cce8bc1a2dd.com
 
 # 4affiliate.net
 127.0.0.1 4affiliate.net
@@ -45597,6 +45600,9 @@ white yt3.ggpht.com
 # rabschot.info
 127.0.0.1 www.rabschot.info
 
+# rachief.info
+127.0.0.1 rachief.info
+
 # rackcdn.com
 127.0.0.1 c479636.r36.cf2.rackcdn.com
 127.0.0.1 c479842.r42.cf2.rackcdn.com
@@ -46241,6 +46247,7 @@ white yt3.ggpht.com
 127.0.0.1 redirectingat.com
 
 # redirectvoluum.com
+127.0.0.1 f0qbh.redirectvoluum.com
 127.0.0.1 j1nqm.redirectvoluum.com
 127.0.0.1 mdjjp.redirectvoluum.com
 127.0.0.1 mqot2.redirectvoluum.com
@@ -46454,6 +46461,9 @@ white yt3.ggpht.com
 
 # rehabdollars.com
 127.0.0.1 ads.rehabdollars.com
+
+# reimageplus.com
+127.0.0.1 ja.reimageplus.com
 
 # reinvigorate.net
 127.0.0.1 include.reinvigorate.net
@@ -59281,6 +59291,9 @@ white yt3.ggpht.com
 
 # xmoviesday.com
 127.0.0.1 xmoviesday.com
+
+# xmtrading.com
+127.0.0.1 www.xmtrading.com
 
 # xmts.net
 127.0.0.1 xmts.net
