@@ -5,7 +5,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2017/10/13
-# block hosts: 32904 entry
+# block hosts: 32915 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -3943,6 +3943,9 @@ white yt3.ggpht.com
 
 # active24stats.nl
 127.0.0.1 stat.active24stats.nl
+
+# active8ads.com
+127.0.0.1 xml.active8ads.com
 
 # activeadv.net
 127.0.0.1 adimg.activeadv.net
@@ -9673,6 +9676,9 @@ white yt3.ggpht.com
 # art-ing2.jp
 127.0.0.1 www.art-ing2.jp
 
+# artbreat.com
+127.0.0.1 artbreat.com
+
 # artcomix.com
 127.0.0.1 artcomix.com
 127.0.0.1 top.artcomix.com
@@ -12486,6 +12492,12 @@ white yt3.ggpht.com
 # boostclic.com
 127.0.0.1 track.boostclic.com
 
+# boostmacfaster.space
+127.0.0.1 boostmacfaster.space
+
+# boostmacfaster.tech
+127.0.0.1 boostmacfaster.tech
+
 # boostservice.com
 127.0.0.1 ns2.boostservice.com
 
@@ -14958,6 +14970,9 @@ white yt3.ggpht.com
 # click4cash.de
 127.0.0.1 adserver.click4cash.de
 127.0.0.1 click4cash.de
+
+# click629line.club
+127.0.0.1 redirect.click629line.club
 
 # click9.com
 127.0.0.1 xml.click9.com
@@ -18168,6 +18183,9 @@ white yt3.ggpht.com
 127.0.0.1 wwtdd.tags.crwdcntrl.net
 127.0.0.1 www.crwdcntrl.net
 127.0.0.1 yardbarker.tags.crwdcntrl.net
+
+# cryptofrenzy.net
+127.0.0.1 cryptofrenzy.net
 
 # crystalcruises.com
 127.0.0.1 metrics.crystalcruises.com
@@ -30244,6 +30262,9 @@ white yt3.ggpht.com
 # incgamers.com
 127.0.0.1 ads.incgamers.com
 
+# inclk.com
+127.0.0.1 p159109.inclk.com
+
 # incomeppc.com
 127.0.0.1 c.incomeppc.com
 
@@ -36938,6 +36959,10 @@ white yt3.ggpht.com
 # meiluziai.info
 127.0.0.1 meiluziai.info
 
+# mellowads.com
+127.0.0.1 banners.mellowads.com
+127.0.0.1 mellowads.com
+
 # melma.com
 127.0.0.1 ad.melma.com
 
@@ -43312,6 +43337,9 @@ white yt3.ggpht.com
 # pcsafe8.win
 127.0.0.1 microsoft.com.a.pcsafe8.win
 
+# pcsafer0.win
+127.0.0.1 microsoft.com.cdn.pcsafer0.win
+
 # pcspeedbooster.com
 127.0.0.1 www.pcspeedbooster.com
 
@@ -45452,6 +45480,9 @@ white yt3.ggpht.com
 
 # quebec-bin.com
 127.0.0.1 za1.quebec-bin.com
+
+# quebec-lea.com
+127.0.0.1 usa.quebec-lea.com
 
 # queen-casino.info
 127.0.0.1 www.queen-casino.info
