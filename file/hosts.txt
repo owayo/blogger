@@ -4,8 +4,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2017/10/13
-# block hosts: 32915 entry
+# last updated: 2017/10/14
+# block hosts: 32920 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -14904,6 +14904,9 @@ white yt3.ggpht.com
 127.0.0.1 metrics.cleveland.com
 127.0.0.1 te.cleveland.com
 
+# clhctrk.com
+127.0.0.1 c.clhctrk.com
+
 # clic-exchange.com
 127.0.0.1 clic-exchange.com
 
@@ -22889,6 +22892,9 @@ white yt3.ggpht.com
 # exsluts.com
 127.0.0.1 banners.exsluts.com
 
+# extdown.com
+127.0.0.1 c.extdown.com
+
 # extend-battery-life.com
 127.0.0.1 extend-battery-life.com
 
@@ -30264,6 +30270,7 @@ white yt3.ggpht.com
 
 # inclk.com
 127.0.0.1 p159109.inclk.com
+127.0.0.1 p232207.inclk.com
 
 # incomeppc.com
 127.0.0.1 c.incomeppc.com
@@ -43290,6 +43297,9 @@ white yt3.ggpht.com
 127.0.0.1 pcbutts1.com
 127.0.0.1 www.pcbutts1.com
 
+# pccleanerutils.com
+127.0.0.1 lp.pccleanerutils.com
+
 # pcekspert.com
 127.0.0.1 pcekspert.com
 
@@ -45483,6 +45493,7 @@ white yt3.ggpht.com
 
 # quebec-lea.com
 127.0.0.1 usa.quebec-lea.com
+127.0.0.1 use.quebec-lea.com
 
 # queen-casino.info
 127.0.0.1 www.queen-casino.info
