@@ -4,8 +4,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2017/10/11
-# block hosts: 32895 entry
+# last updated: 2017/10/13
+# block hosts: 32899 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -4868,6 +4868,9 @@ white yt3.ggpht.com
 
 # adeptscience.co.uk
 127.0.0.1 bat.adeptscience.co.uk
+
+# adexchangeperformance.com
+127.0.0.1 adexchangeperformance.com
 
 # adexcite.com
 127.0.0.1 adexcite.com
@@ -23670,6 +23673,7 @@ white yt3.ggpht.com
 # fivecdm.com
 127.0.0.1 ad2.fivecdm.com
 127.0.0.1 bc2.fivecdm.com
+127.0.0.1 cdn.fivecdm.com
 127.0.0.1 fivecdm.com
 
 # fivemillionfriends.com
@@ -38039,6 +38043,9 @@ white yt3.ggpht.com
 # mopub.com
 127.0.0.1 ads.mopub.com
 127.0.0.1 mopub.com
+
+# moradu.com
+127.0.0.1 moradu.com
 
 # moras.jp
 127.0.0.1 d.moras.jp
@@ -58450,6 +58457,9 @@ white yt3.ggpht.com
 
 # winknewsads.com
 127.0.0.1 winknewsads.com
+
+# winmanage.today
+127.0.0.1 winmanage.today
 
 # winneronline.com
 127.0.0.1 ads.winneronline.com
