@@ -2203,17 +2203,17 @@ ol.brackets-number {
 }
 
 ol.brackets-number {
-  counter-reset: numcount 0;
+  counter-reset: bncount 0;
 }
 
 ol.brackets-number li {
-  counter-increment: numcount;
+  counter-increment: bncount;
   margin: 10px 0 10px 40px;
 }
 
 ol.brackets-number li:before {
   display: block;
-  content: "(" counter(numcount, number) ")";
+  content: "(" counter(bncount, number) ")";
   margin-left: -20px;
   font-weight: bold;
   font-family: Meiryo;
@@ -2230,17 +2230,17 @@ ol.lower-alpha {
 }
 
 ol.brackets {
-  counter-reset: numcount 0;
+  counter-reset: lacount 0;
 }
 
 ol.lower-alpha li {
-  counter-increment: numcount;
+  counter-increment: lacount;
   margin: 10px 0 10px 40px;
 }
 
 ol.lower-alpha li:before {
   display: block;
-  content: counter(numcount, lower-alpha) ".";
+  content: counter(lacount, lower-alpha) ".";
   margin-left: -20px;
   font-weight: bold;
   font-family: Meiryo;
