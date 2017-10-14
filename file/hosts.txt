@@ -5,7 +5,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2017/10/15
-# block hosts: 32945 entry
+# block hosts: 32953 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -20340,6 +20340,9 @@ white yt3.ggpht.com
 # doubledaveskaty.com
 127.0.0.1 cheapmensmoncler.doubledaveskaty.com
 
+# doubledeepclick.com
+127.0.0.1 doubledeepclick.com
+
 # doublemax.net
 127.0.0.1 cf.doublemax.net
 
@@ -25978,6 +25981,9 @@ white yt3.ggpht.com
 # getweathercast.com
 127.0.0.1 getweathercast.com
 127.0.0.1 www.getweathercast.com
+
+# gewinnsteigern.com
+127.0.0.1 dsp.gewinnsteigern.com
 
 # gfan.com
 127.0.0.1 d.gfan.com
@@ -34006,6 +34012,9 @@ white yt3.ggpht.com
 # leadzu.com
 127.0.0.1 play.leadzu.com
 
+# leadzuaf.com
+127.0.0.1 play.leadzuaf.com
+
 # leaffi.jp
 127.0.0.1 leaffi.jp
 
@@ -40401,6 +40410,9 @@ white yt3.ggpht.com
 # netremote.com
 127.0.0.1 netremote.com
 
+# netrevgo.com
+127.0.0.1 delivery.adcash.dsp.netrevgo.com
+
 # netrip.ne.jp
 127.0.0.1 netrip.ne.jp
 
@@ -42752,6 +42764,9 @@ white yt3.ggpht.com
 127.0.0.1 ad.pandora.tv
 127.0.0.1 ads.pandora.tv
 127.0.0.1 prism.pandora.tv
+
+# panelsave.com
+127.0.0.1 panelsave.com
 
 # panepo.jp
 127.0.0.1 pc.panepo.jp
@@ -49922,6 +49937,9 @@ white yt3.ggpht.com
 # slim.com
 127.0.0.1 ads.slim.com
 
+# slimcdn.com
+127.0.0.1 dtrk.slimcdn.com
+
 # slotch.com
 127.0.0.1 adult.slotch.com
 127.0.0.1 slotch.com
@@ -55697,6 +55715,9 @@ white yt3.ggpht.com
 127.0.0.1 serve.tyroo.com
 127.0.0.1 tyroo.com
 
+# tyt333.com
+127.0.0.1 tyt333.com
+
 # tyxo.bg
 127.0.0.1 cnt.tyxo.bg
 127.0.0.1 tyxo.bg
@@ -60961,6 +60982,9 @@ white yt3.ggpht.com
 
 # zroitracker.com
 127.0.0.1 event.zroitracker.com
+
+# zryydi.com
+127.0.0.1 ssp.zryydi.com
 
 # ztod.com
 127.0.0.1 ads.ztod.com
