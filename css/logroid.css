@@ -2219,6 +2219,33 @@ ol.brackets-number li:before {
   font-family: Meiryo;
 }
 
+
+/* 小文字アルファベット */
+
+ol.lower-alpha {
+  list-style-type: none;
+  list-style-position: inside;
+  margin-top: 40px;
+  margin-left: 20px;
+}
+
+ol.brackets {
+  counter-reset: numcount 0;
+}
+
+ol.lower-alpha li {
+  counter-increment: numcount;
+  margin: 10px 0 10px 40px;
+}
+
+ol.lower-alpha li:before {
+  display: block;
+  content: counter(numcount, lower-alpha) ".";
+  margin-left: -20px;
+  font-weight: bold;
+  font-family: Meiryo;
+}
+
 .question {
   font-size: 1.2em;
   line-height: 1.6em;
