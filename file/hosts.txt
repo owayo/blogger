@@ -5,7 +5,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2017/10/14
-# block hosts: 32939 entry
+# block hosts: 32944 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -27739,6 +27739,9 @@ white yt3.ggpht.com
 # hickoryfarms.com
 127.0.0.1 stats.hickoryfarms.com
 
+# hicpm5.com
+127.0.0.1 www.hicpm5.com
+
 # hiddennetwork.com
 127.0.0.1 pubs.hiddennetwork.com
 
@@ -41542,6 +41545,9 @@ white yt3.ggpht.com
 # offersquality.com
 127.0.0.1 www.offersquality.com
 
+# offertogo.online
+127.0.0.1 offertogo.online
+
 # offeruniversity.com
 127.0.0.1 offeruniversity.com
 
@@ -42363,6 +42369,9 @@ white yt3.ggpht.com
 127.0.0.1 ads.outpersonals.com
 127.0.0.1 adserver.outpersonals.com
 127.0.0.1 banners.outpersonals.com
+
+# outputfx.com
+127.0.0.1 oc.outputfx.com
 
 # outsidehub.com
 127.0.0.1 ad.outsidehub.com
@@ -52034,6 +52043,9 @@ white yt3.ggpht.com
 # sup.com
 127.0.0.1 ads.sup.com
 
+# superasdc.pw
+127.0.0.1 superasdc.pw
+
 # superclix.de
 127.0.0.1 clix.superclix.de
 127.0.0.1 superclix.de
@@ -53688,6 +53700,9 @@ white yt3.ggpht.com
 
 # tidningsnatet.se
 127.0.0.1 oas.tidningsnatet.se
+
+# tiendaolimpia.com
+127.0.0.1 www.tiendaolimpia.com
 
 # tifbs.net
 127.0.0.1 uim.tifbs.net
