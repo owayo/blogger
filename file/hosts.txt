@@ -5,7 +5,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2017/10/15
-# block hosts: 32953 entry
+# block hosts: 32955 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -8095,6 +8095,9 @@ white yt3.ggpht.com
 
 # affordablewebsitetraffic.com
 127.0.0.1 www.affordablewebsitetraffic.com
+
+# afftrack.com
+127.0.0.1 sabiamedia.afftrack.com
 
 # afftracker.info
 127.0.0.1 afftracker.info
@@ -50157,6 +50160,9 @@ white yt3.ggpht.com
 
 # smartnews.be
 127.0.0.1 b.smartnews.be
+
+# smartoffer.site
+127.0.0.1 smartoffer.site
 
 # smartpressgroup.com
 127.0.0.1 ads.smartpressgroup.com
