@@ -4,8 +4,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2017/10/14
-# block hosts: 32944 entry
+# last updated: 2017/10/15
+# block hosts: 32945 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -24,6 +24,7 @@ white edge-chat.facebook.com
 white facebook.com
 white fbcdn.net
 white fbsbx.com
+white googleads.g.doubleclick.net
 white imgstat.ameba.jp
 white lh3.ggpht.com
 white lh3.googleusercontent.com
@@ -19291,6 +19292,9 @@ white yt3.ggpht.com
 127.0.0.1 fhg.digitaldesire.com
 127.0.0.1 zfhg.digitaldesire.com
 
+# digitaldsp.com
+127.0.0.1 digitaldsp.com
+
 # digitalhealthcare.com
 127.0.0.1 ads.digitalhealthcare.com
 127.0.0.1 delivery3.digitalhealthcare.com
@@ -20288,7 +20292,6 @@ white yt3.ggpht.com
 127.0.0.1 fls.doubleclick.net
 127.0.0.1 fls.uk.doubleclick.net
 127.0.0.1 gan.doubleclick.net
-127.0.0.1 googleads.g.doubleclick.net
 127.0.0.1 googleads2.g.doubleclick.net
 127.0.0.1 help.doubleclick.net
 127.0.0.1 ir.doubleclick.net
@@ -20422,6 +20425,9 @@ white yt3.ggpht.com
 # downloadrevenue.com
 127.0.0.1 downloadrevenue.com
 127.0.0.1 www.downloadrevenue.com
+
+# downloads.expert
+127.0.0.1 downloads.expert
 
 # downloadupload.com
 127.0.0.1 www.downloadupload.com
