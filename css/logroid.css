@@ -2192,6 +2192,33 @@ ol.aiue li:before {
   font-family: Meiryo;
 }
 
+
+/* 括弧つき数字リスト */
+
+ol.brackets-number {
+  list-style-type: none;
+  list-style-position: inside;
+  margin-top: 40px;
+  margin-left: 20px;
+}
+
+ol.brackets-number {
+  counter-reset: numcount 0;
+}
+
+ol.brackets-number li {
+  counter-increment: numcount;
+  margin: 10px 0 10px 40px;
+}
+
+ol.brackets-number li:before {
+  display: block;
+  content: "(" counter(numcount, number) ")";
+  margin-left: -20px;
+  font-weight: bold;
+  font-family: Meiryo;
+}
+
 .question {
   font-size: 1.2em;
   line-height: 1.6em;
