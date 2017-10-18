@@ -4,8 +4,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2017/10/15
-# block hosts: 32955 entry
+# last updated: 2017/10/18
+# block hosts: 32957 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -24,14 +24,12 @@ white edge-chat.facebook.com
 white facebook.com
 white fbcdn.net
 white fbsbx.com
-white googleads.g.doubleclick.net
 white imgstat.ameba.jp
 white lh3.ggpht.com
 white lh3.googleusercontent.com
 white line.me
 white m.facebook.com
 white pagead2.googlesyndication.com
-white pubads.g.doubleclick.net
 white r.r10s.jp
 white rd.rakuten.co.jp
 white s.yimg.jp
@@ -20295,6 +20293,7 @@ white yt3.ggpht.com
 127.0.0.1 fls.doubleclick.net
 127.0.0.1 fls.uk.doubleclick.net
 127.0.0.1 gan.doubleclick.net
+127.0.0.1 googleads.g.doubleclick.net
 127.0.0.1 googleads2.g.doubleclick.net
 127.0.0.1 help.doubleclick.net
 127.0.0.1 ir.doubleclick.net
@@ -20320,6 +20319,7 @@ white yt3.ggpht.com
 127.0.0.1 ns2.doubleclick.net
 127.0.0.1 optout.doubleclick.net
 127.0.0.1 paypalssl.doubleclick.net
+127.0.0.1 pubads.g.doubleclick.net
 127.0.0.1 rd.intl.doubleclick.net
 127.0.0.1 reports.doubleclick.net
 127.0.0.1 resolver.doubleclick.net
