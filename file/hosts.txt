@@ -5,7 +5,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2017/10/31
-# block hosts: 32959 entry
+# block hosts: 32978 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -5314,6 +5314,7 @@ white yt3.ggpht.com
 # adk2x.com
 127.0.0.1 adk2x.com
 127.0.0.1 adplexmedia.adk2x.com
+127.0.0.1 adsrvmedia.adk2x.com
 127.0.0.1 iasrv.adk2x.com
 127.0.0.1 wmedia.adk2x.com
 127.0.0.1 yepdigital.adk2x.com
@@ -10593,6 +10594,9 @@ white yt3.ggpht.com
 # bakersfield.com
 127.0.0.1 oascentral.bakersfield.com
 
+# ballerft.site
+127.0.0.1 track.ballerft.site
+
 # ballrs.info
 127.0.0.1 ballrs.info
 
@@ -11967,6 +11971,9 @@ white yt3.ggpht.com
 # bleepingcomputer.com
 127.0.0.1 ads.bleepingcomputer.com
 
+# blessbiz.online
+127.0.0.1 track.blessbiz.online
+
 # blick.ch
 127.0.0.1 ads.blick.ch
 
@@ -12513,6 +12520,9 @@ white yt3.ggpht.com
 
 # bootstrapcdn.com
 127.0.0.1 netdna.bootstrapcdn.com
+
+# bopstermedia56.com
+127.0.0.1 bopstermedia56.com
 
 # borlander.cn
 127.0.0.1 www.borlander.cn
@@ -18163,6 +18173,9 @@ white yt3.ggpht.com
 # cruisecritic.com
 127.0.0.1 oascentral.cruisecritic.com
 
+# crumobiapps.com
+127.0.0.1 track.crumobiapps.com
+
 # crunchgames.com
 127.0.0.1 www.crunchgames.com
 
@@ -19101,6 +19114,9 @@ white yt3.ggpht.com
 
 # destinationurl.com
 127.0.0.1 www.destinationurl.com
+
+# destricso.com
+127.0.0.1 destricso.com
 
 # details.com
 127.0.0.1 stats2.details.com
@@ -22569,6 +22585,9 @@ white yt3.ggpht.com
 127.0.0.1 pixel1553.everesttech.net
 127.0.0.1 pixel1739.everesttech.net
 
+# everifymatch.com
+127.0.0.1 www.everifymatch.com
+
 # everydaygays.com
 127.0.0.1 everydaygays.com
 127.0.0.1 www.everydaygays.com
@@ -23340,6 +23359,9 @@ white yt3.ggpht.com
 # fedex.com
 127.0.0.1 ehg.fedex.com
 127.0.0.1 metrics.fedex.com
+
+# fedsit.com
+127.0.0.1 fedsit.com
 
 # feedbackresearch.com
 127.0.0.1 feedbackresearch.com
@@ -27554,6 +27576,9 @@ white yt3.ggpht.com
 
 # hebiichigo.com
 127.0.0.1 x6.hebiichigo.com
+
+# heelo.gdn
+127.0.0.1 rd.heelo.gdn
 
 # heias.com
 127.0.0.1 ads.heias.com
@@ -35322,6 +35347,9 @@ white yt3.ggpht.com
 # lmportant-notlce-sc0.gdn
 127.0.0.1 lmportant-notlce-sc0.gdn
 
+# lnboxz200.gdn
+127.0.0.1 www.lnboxz200.gdn
+
 # lnkworld.com
 127.0.0.1 lw.lnkworld.com
 
@@ -36419,6 +36447,9 @@ white yt3.ggpht.com
 
 # maxmind.com
 127.0.0.1 j.maxmind.com
+
+# maxmusics.com
+127.0.0.1 maxmusics.com
 
 # maxonclick.com
 127.0.0.1 www.maxonclick.com
@@ -39824,6 +39855,9 @@ white yt3.ggpht.com
 # nationalunderwriter.com
 127.0.0.1 oascentral.nationalunderwriter.com
 
+# nativeappswall.com
+127.0.0.1 nativeappswall.com
+
 # natpal.com
 127.0.0.1 labs.natpal.com
 
@@ -40719,6 +40753,9 @@ white yt3.ggpht.com
 # newsquest.co.uk
 127.0.0.1 ads.newsquest.co.uk
 127.0.0.1 adsadmin.newsquest.co.uk
+
+# newstarads.com
+127.0.0.1 newstarads.com
 
 # newstimeslive.com
 127.0.0.1 oascentral.newstimeslive.com
@@ -41938,6 +41975,9 @@ white yt3.ggpht.com
 
 # onlinepills24.com
 127.0.0.1 www.onlinepills24.com
+
+# onlineprogramadstech.site
+127.0.0.1 onlineprogramadstech.site
 
 # onlinerewardcenter.com
 127.0.0.1 onlinerewardcenter.com
@@ -43599,6 +43639,9 @@ white yt3.ggpht.com
 
 # performable.com
 127.0.0.1 analytics.performable.com
+
+# performancerevenues.com
+127.0.0.1 tracking.performancerevenues.com
 
 # performancing.com
 127.0.0.1 metrics.performancing.com
@@ -52756,6 +52799,9 @@ white yt3.ggpht.com
 # taptapnetworks.com
 127.0.0.1 img.ads.taptapnetworks.com
 
+# taptica.com
+127.0.0.1 clk.taptica.com
+
 # tapulous.com
 127.0.0.1 analytics.tapulous.com
 127.0.0.1 blog.analytics.tapulous.com
@@ -55099,6 +55145,9 @@ white yt3.ggpht.com
 # trakpiy.com
 127.0.0.1 www.trakpiy.com
 
+# traktrafficflow.com
+127.0.0.1 www.traktrafficflow.com
+
 # tranent.nl
 127.0.0.1 dialer.tranent.nl
 127.0.0.1 pay.tranent.nl
@@ -55318,6 +55367,9 @@ white yt3.ggpht.com
 # trkalot.com
 127.0.0.1 trkalot.com
 127.0.0.1 www.trkalot.com
+
+# trklinklog.com
+127.0.0.1 click.trklinklog.com
 
 # troglod.com
 127.0.0.1 bannerexchange.troglod.com
@@ -59930,6 +59982,9 @@ white yt3.ggpht.com
 
 # yandeg.ru
 127.0.0.1 count.yandeg.ru
+
+# yandex.com
+127.0.0.1 redirect.appmetrica.yandex.com
 
 # yandex.ru
 127.0.0.1 advertising.yandex.ru
