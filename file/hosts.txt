@@ -4,8 +4,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2017/10/18
-# block hosts: 32957 entry
+# last updated: 2017/10/31
+# block hosts: 32959 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -24,6 +24,7 @@ white edge-chat.facebook.com
 white facebook.com
 white fbcdn.net
 white fbsbx.com
+white googleads.g.doubleclick.net
 white imgstat.ameba.jp
 white lh3.ggpht.com
 white lh3.googleusercontent.com
@@ -9452,6 +9453,7 @@ white yt3.ggpht.com
 127.0.0.1 api.applogsdk.com
 
 # applovin.com
+127.0.0.1 a.applovin.com
 127.0.0.1 rt.applovin.com
 
 # applyads.com
@@ -13665,6 +13667,9 @@ white yt3.ggpht.com
 
 # canardpc.com
 127.0.0.1 pub.canardpc.com
+
+# candy-network.com
+127.0.0.1 ad4.candy-network.com
 
 # candybar.co.kr
 127.0.0.1 ad.candybar.co.kr
@@ -20293,7 +20298,6 @@ white yt3.ggpht.com
 127.0.0.1 fls.doubleclick.net
 127.0.0.1 fls.uk.doubleclick.net
 127.0.0.1 gan.doubleclick.net
-127.0.0.1 googleads.g.doubleclick.net
 127.0.0.1 googleads2.g.doubleclick.net
 127.0.0.1 help.doubleclick.net
 127.0.0.1 ir.doubleclick.net
@@ -46945,6 +46949,9 @@ white yt3.ggpht.com
 
 # rgs-rostock.de
 127.0.0.1 www.rgs-rostock.de
+
+# rhocdn.net
+127.0.0.1 wpc.32df9.rhocdn.net
 
 # rian.ru
 127.0.0.1 rotabanner.rian.ru
