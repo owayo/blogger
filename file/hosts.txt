@@ -4,8 +4,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2017/10/31
-# block hosts: 32978 entry
+# last updated: 2017/11/19
+# block hosts: 32985 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -24,7 +24,6 @@ white edge-chat.facebook.com
 white facebook.com
 white fbcdn.net
 white fbsbx.com
-white googleads.g.doubleclick.net
 white imgstat.ameba.jp
 white lh3.ggpht.com
 white lh3.googleusercontent.com
@@ -3470,6 +3469,9 @@ white yt3.ggpht.com
 
 # a-a-access.com
 127.0.0.1 a-a-access.com
+
+# a-ads.com
+127.0.0.1 static.a-ads.com
 
 # a-c-engine.com
 127.0.0.1 a-c-engine.com
@@ -9454,7 +9456,6 @@ white yt3.ggpht.com
 127.0.0.1 api.applogsdk.com
 
 # applovin.com
-127.0.0.1 a.applovin.com
 127.0.0.1 rt.applovin.com
 
 # applyads.com
@@ -18525,6 +18526,9 @@ white yt3.ggpht.com
 # dabhit.com
 127.0.0.1 cdn.dabhit.com
 
+# dable.io
+127.0.0.1 api.dable.io
+
 # dac.co.jp
 127.0.0.1 dac.co.jp
 
@@ -19781,6 +19785,7 @@ white yt3.ggpht.com
 
 # docomo.ne.jp
 127.0.0.1 adnwif.smt.docomo.ne.jp
+127.0.0.1 cdn.adnwif.smt.docomo.ne.jp
 
 # doctors.co.il
 127.0.0.1 ads.doctors.co.il
@@ -20314,6 +20319,7 @@ white yt3.ggpht.com
 127.0.0.1 fls.doubleclick.net
 127.0.0.1 fls.uk.doubleclick.net
 127.0.0.1 gan.doubleclick.net
+127.0.0.1 googleads.g.doubleclick.net
 127.0.0.1 googleads2.g.doubleclick.net
 127.0.0.1 help.doubleclick.net
 127.0.0.1 ir.doubleclick.net
@@ -26267,6 +26273,9 @@ white yt3.ggpht.com
 
 # glssp.jp
 127.0.0.1 glssp.jp
+
+# glssp.net
+127.0.0.1 glssp.net
 
 # glxgroup.com
 127.0.0.1 www.glxgroup.com
@@ -45430,6 +45439,9 @@ white yt3.ggpht.com
 127.0.0.1 ad.pushad.net
 127.0.0.1 pushad.net
 
+# pushnative.com
+127.0.0.1 go.pushnative.com
+
 # pushplay.com
 127.0.0.1 ads.pushplay.com
 
@@ -50624,6 +50636,7 @@ white yt3.ggpht.com
 127.0.0.1 spacefetti.com
 
 # spacenine.biz
+127.0.0.1 js.spacenine.biz
 127.0.0.1 spacenine.biz
 
 # spaceports.com
@@ -55480,6 +55493,9 @@ white yt3.ggpht.com
 127.0.0.1 ads.trutv.com
 127.0.0.1 gdyn.trutv.com
 127.0.0.1 tracking.trutv.com
+
+# trw12.com
+127.0.0.1 trw12.com
 
 # trywith.us
 127.0.0.1 trywith.us
