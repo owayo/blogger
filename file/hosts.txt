@@ -4,8 +4,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2017/11/19
-# block hosts: 32985 entry
+# last updated: 2017/11/25
+# block hosts: 32995 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -428,6 +428,9 @@ white yt3.ggpht.com
 
 # 2-d.jp
 127.0.0.1 smart-gate.2-d.jp
+
+# 2-p-ap-p-sho-p-2016.site
+127.0.0.1 2-p-ap-p-sho-p-2016.site
 
 # 2001positions.com
 127.0.0.1 2001positions.com
@@ -9438,6 +9441,9 @@ white yt3.ggpht.com
 # applelinks.com
 127.0.0.1 ads.applelinks.com
 
+# application-webs-2016-shop.site
+127.0.0.1 application-webs-2016-shop.site
+
 # applicationstat.com
 127.0.0.1 applicationstat.com
 
@@ -15847,6 +15853,9 @@ white yt3.ggpht.com
 
 # codeclean.co.kr
 127.0.0.1 www.codeclean.co.kr
+
+# codeonclick.com
+127.0.0.1 c.codeonclick.com
 
 # cogtree.com
 127.0.0.1 cogtree.com
@@ -39617,6 +39626,9 @@ white yt3.ggpht.com
 # mytop-in.net
 127.0.0.1 mytop-in.net
 
+# mytopappshop2016.site
+127.0.0.1 mytopappshop2016.site
+
 # mytotalsearch.com
 127.0.0.1 bar.mytotalsearch.com
 127.0.0.1 www.mytotalsearch.com
@@ -40161,6 +40173,9 @@ white yt3.ggpht.com
 
 # neoworx.net
 127.0.0.1 www.neoworx.net
+
+# nephritish.com
+127.0.0.1 nephritish.com
 
 # nerve.com
 127.0.0.1 ads.nerve.com
@@ -41503,6 +41518,9 @@ white yt3.ggpht.com
 
 # obeus.com
 127.0.0.1 obeus.com
+
+# obix.pro
+127.0.0.1 trk.obix.pro
 
 # object.bg
 127.0.0.1 object.bg
@@ -44398,6 +44416,9 @@ white yt3.ggpht.com
 
 # popcde.com
 127.0.0.1 popunder.popcde.com
+
+# popcornvod.com
+127.0.0.1 www.popcornvod.com
 
 # popcounter.com
 127.0.0.1 popcounter.com
@@ -52147,6 +52168,9 @@ white yt3.ggpht.com
 # supereva.it
 127.0.0.1 banner.supereva.it
 
+# superfastcdn.com
+127.0.0.1 superfastcdn.com
+
 # superfastsservers.com
 127.0.0.1 superfastsservers.com
 127.0.0.1 www.superfastsservers.com
@@ -53655,6 +53679,9 @@ white yt3.ggpht.com
 
 # thetop10.com
 127.0.0.1 www.thetop10.com
+
+# thetopappshop2016.site
+127.0.0.1 thetopappshop2016.site
 
 # thetraf.net
 127.0.0.1 thetraf.net
@@ -56667,6 +56694,9 @@ white yt3.ggpht.com
 # velmedia.net
 127.0.0.1 ad.velmedia.net
 127.0.0.1 www.velmedia.net
+
+# velocecdn.com
+127.0.0.1 velocecdn.com
 
 # veloxia.com
 127.0.0.1 ads.veloxia.com
