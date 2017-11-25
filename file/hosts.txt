@@ -5,7 +5,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2017/11/25
-# block hosts: 32995 entry
+# block hosts: 32996 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -36988,6 +36988,9 @@ white yt3.ggpht.com
 
 # meebo.com
 127.0.0.1 rd.meebo.com
+
+# meet-asian-lady.net
+127.0.0.1 www.meet-asian-lady.net
 
 # meethotties.mobi
 127.0.0.1 meethotties.mobi
