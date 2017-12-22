@@ -4,8 +4,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2017/11/25
-# block hosts: 32996 entry
+# last updated: 2017/12/22
+# block hosts: 33014 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -9462,7 +9462,18 @@ white yt3.ggpht.com
 127.0.0.1 api.applogsdk.com
 
 # applovin.com
+127.0.0.1 assets.applovin.com
+127.0.0.1 img.applovin.com
+127.0.0.1 prod-a.applovin.com
+127.0.0.1 res1.applovin.com
 127.0.0.1 rt.applovin.com
+127.0.0.1 stage-img.applovin.com
+127.0.0.1 stage-pdn.applovin.com
+
+# applvn.com
+127.0.0.1 a.applvn.com
+127.0.0.1 d.applvn.com
+127.0.0.1 rt.applvn.com
 
 # applyads.com
 127.0.0.1 applyads.com
@@ -19794,6 +19805,7 @@ white yt3.ggpht.com
 
 # docomo.ne.jp
 127.0.0.1 adnwif.smt.docomo.ne.jp
+127.0.0.1 adw.addlv.smt.docomo.ne.jp
 127.0.0.1 cdn.adnwif.smt.docomo.ne.jp
 
 # doctors.co.il
@@ -22866,6 +22878,7 @@ white yt3.ggpht.com
 
 # exosrv.com
 127.0.0.1 ads.exosrv.com
+127.0.0.1 syndication.exosrv.com
 
 # expandsearch.com
 127.0.0.1 www.expandsearch.com
@@ -30178,6 +30191,7 @@ white yt3.ggpht.com
 127.0.0.1 impact-ad.jp
 127.0.0.1 jc.impact-ad.jp
 127.0.0.1 m.one.impact-ad.jp
+127.0.0.1 penta.a.one.impact-ad.jp
 127.0.0.1 s.f1.impact-ad.jp
 127.0.0.1 sr.impact-ad.jp
 127.0.0.1 ti.impact-ad.jp
@@ -33501,6 +33515,7 @@ white yt3.ggpht.com
 
 # kiosked.com
 127.0.0.1 kiosked.com
+127.0.0.1 scripts.kiosked.com
 
 # kipa.co.il
 127.0.0.1 upload.kipa.co.il
@@ -35825,6 +35840,9 @@ white yt3.ggpht.com
 
 # m-cat.jp
 127.0.0.1 m-cat.jp
+
+# m-live.jp
+127.0.0.1 asp.m-live.jp
 
 # m1e.net
 127.0.0.1 m01.m1e.net
@@ -41024,6 +41042,7 @@ white yt3.ggpht.com
 # nikkei.com
 127.0.0.1 adpriv.nikkei.com
 127.0.0.1 adprivcache.nikkei.com
+127.0.0.1 nkis.nikkei.com
 
 # nikkeibp.co.jp
 127.0.0.1 ads.nikkeibp.co.jp
@@ -49482,6 +49501,7 @@ white yt3.ggpht.com
 
 # shopserve.jp
 127.0.0.1 a.shopserve.jp
+127.0.0.1 enable="false">a.shopserve.jp
 
 # shopstyle.com
 127.0.0.1 ads.shopstyle.com
@@ -55555,6 +55575,9 @@ white yt3.ggpht.com
 # tubeanalporn.com
 127.0.0.1 tubeanalporn.com
 
+# tubecorporate.com
+127.0.0.1 out.tubecorporate.com
+
 # tubedirects.net
 127.0.0.1 tubedirects.net
 
@@ -55796,6 +55819,9 @@ white yt3.ggpht.com
 
 # txcsupport.com
 127.0.0.1 www.txcsupport.com
+
+# txxx.com
+127.0.0.1 ashot.txxx.com
 
 # txzbk.com
 127.0.0.1 txzbk.com
