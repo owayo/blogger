@@ -1399,6 +1399,10 @@ select[disabled] {
   width: 100%
 }
 
+.application_infomation.free-only tbody tr:not([sale-price="0"]) {
+  display: none;
+}
+
 .application_infomation th,
 .application_infomation td {
   padding: 6px
