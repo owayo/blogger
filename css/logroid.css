@@ -1395,6 +1395,14 @@ select[disabled] {
   margin: 10px
 }
 
+.free-app-toggle {
+  margin: 10px 0;
+}
+
+.free-app-toggle label {
+  font-size: 1.5em;
+}
+
 .application_infomation {
   width: 100%
 }
