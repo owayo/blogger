@@ -4,7 +4,7 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2017/12/22
+# last updated: 2018/02/11
 # block hosts: 33014 entry
 
 127.0.0.1       localhost
@@ -13,6 +13,7 @@
 fe80::1%lo0     localhost
 
 # white list
+white aax-fe.amazon-adsystem.com
 white ad-api-v01.uliza.jp
 white ad.dmm.com
 white ad.doubleclick.net
@@ -4406,6 +4407,7 @@ white yt3.ggpht.com
 
 # adapf.com
 127.0.0.1 adapf.com
+127.0.0.1 crs.adapf.com
 127.0.0.1 ds.adapf.com
 127.0.0.1 rs.adapf.com
 
@@ -8762,7 +8764,6 @@ white yt3.ggpht.com
 127.0.0.1 amazingsalez.ru
 
 # amazon-adsystem.com
-127.0.0.1 aax-fe.amazon-adsystem.com
 127.0.0.1 aax-us-east.amazon-adsystem.com
 127.0.0.1 amazon-adsystem.com
 127.0.0.1 fls-fe.amazon-adsystem.com
@@ -47323,6 +47324,9 @@ white yt3.ggpht.com
 127.0.0.1 banner.rootsweb.com
 127.0.0.1 counter.rootsweb.com
 
+# rossoad.com
+127.0.0.1 cdn.rossoad.com
+
 # rotaban.ru
 127.0.0.1 s1.rotaban.ru
 127.0.0.1 s2.rotaban.ru
@@ -49501,7 +49505,6 @@ white yt3.ggpht.com
 
 # shopserve.jp
 127.0.0.1 a.shopserve.jp
-127.0.0.1 enable="false">a.shopserve.jp
 
 # shopstyle.com
 127.0.0.1 ads.shopstyle.com
