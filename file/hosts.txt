@@ -4,8 +4,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2018/02/11
-# block hosts: 33014 entry
+# last updated: 2018/05/03
+# block hosts: 33060 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -3597,6 +3597,7 @@ white yt3.ggpht.com
 127.0.0.1 www.aacoolsearch.com
 
 # aaddcount.com
+127.0.0.1 js-ssl.aaddcount.com
 127.0.0.1 js.aaddcount.com
 
 # aaddzz.com
@@ -4174,6 +4175,9 @@ white yt3.ggpht.com
 127.0.0.1 ad-space.net
 127.0.0.1 adserver.ad-space.net
 127.0.0.1 www.ad-space.net
+
+# ad-splash.jp
+127.0.0.1 adv.ad-splash.jp
 
 # ad-srv.co
 127.0.0.1 ad-srv.co
@@ -5592,7 +5596,6 @@ white yt3.ggpht.com
 127.0.0.1 r.admob.com
 127.0.0.1 t.admob.com
 127.0.0.1 ytics.admob.com
-127.0.0.1 zhcn.admob.com
 
 # admobitrack.com
 127.0.0.1 admobitrack.com
@@ -6742,7 +6745,7 @@ white yt3.ggpht.com
 127.0.0.1 ad.caprofitx.adtdp.com
 127.0.0.1 adp-pubd-static.adtdp.com
 127.0.0.1 adtdp.com
-127.0.0.1 as.amanad.adtdp.com
+127.0.0.1 cdn.as.amanad.adtdp.com
 127.0.0.1 imp.amanad.adtdp.com
 127.0.0.1 inview.amanad.adtdp.com
 127.0.0.1 lodeo-adnw.adtdp.com
@@ -6840,6 +6843,7 @@ white yt3.ggpht.com
 127.0.0.1 adtech.us
 
 # adtechjp.com
+127.0.0.1 adserver.adtechjp.com
 127.0.0.1 adtechjp.com
 127.0.0.1 ums.adtechjp.com
 
@@ -8774,7 +8778,6 @@ white yt3.ggpht.com
 127.0.0.1 s.amazon-adsystem.com
 127.0.0.1 wms-fe.amazon-adsystem.com
 127.0.0.1 ws-fe.amazon-adsystem.com
-127.0.0.1 z-fe.amazon-adsystem.com
 
 # amazon.co.jp
 127.0.0.1 rcm-jp.amazon.co.jp
@@ -9341,6 +9344,9 @@ white yt3.ggpht.com
 # app-c.net
 127.0.0.1 api.app-c.net
 127.0.0.1 app-c.net
+
+# app-install-world.com
+127.0.0.1 app-install-world.com
 
 # app-play-stores.com
 127.0.0.1 click.app-play-stores.com
@@ -9923,6 +9929,7 @@ white yt3.ggpht.com
 
 # atas.io
 127.0.0.1 spot-01.atas.io
+127.0.0.1 tds-01.atas.io
 
 # atdmt.com
 127.0.0.1 adecn-w.atdmt.com
@@ -11131,6 +11138,9 @@ white yt3.ggpht.com
 127.0.0.1 api.bcfads.com
 127.0.0.1 bcfads.com
 
+# bcloudhost.com
+127.0.0.1 www.bcloudhost.com
+
 # bcnewsgroup.com
 127.0.0.1 ads.bcnewsgroup.com
 
@@ -12247,6 +12257,7 @@ white yt3.ggpht.com
 
 # blozoo.info
 127.0.0.1 cache.blozoo.info
+127.0.0.1 js.blozoo.info
 
 # blucigs.com
 127.0.0.1 affiliate.biate.blucigs.com
@@ -13549,6 +13560,9 @@ white yt3.ggpht.com
 # caiwa.jp
 127.0.0.1 crm-a.caiwa.jp
 
+# calcch.com
+127.0.0.1 secure.calcch.com
+
 # calgarystampede.com
 127.0.0.1 ads.calgarystampede.com
 
@@ -13698,6 +13712,7 @@ white yt3.ggpht.com
 127.0.0.1 pub.canardpc.com
 
 # candy-network.com
+127.0.0.1 ad2.candy-network.com
 127.0.0.1 ad4.candy-network.com
 
 # candybar.co.kr
@@ -14284,6 +14299,9 @@ white yt3.ggpht.com
 
 # celebritypicturesarchive.com
 127.0.0.1 www.celebritypicturesarchive.com
+
+# celebritytrip.club
+127.0.0.1 aff.celebritytrip.club
 
 # celebritywar.com
 127.0.0.1 www.celebritywar.com
@@ -15557,7 +15575,6 @@ white yt3.ggpht.com
 
 # cloudfront.net
 127.0.0.1 d18q5nc9wflibl.cloudfront.net
-127.0.0.1 d19o643lxir6wy.cloudfront.net
 127.0.0.1 d1aow18uk61pdc.cloudfront.net
 127.0.0.1 d1l6p2sc9645hc.cloudfront.net
 127.0.0.1 d1lfh4537s45mb.cloudfront.net
@@ -15566,6 +15583,7 @@ white yt3.ggpht.com
 127.0.0.1 d28nwox1gdjlve.cloudfront.net
 127.0.0.1 d2bgg7rjywcwsy.cloudfront.net
 127.0.0.1 d2cjo8xlt6fbwy.cloudfront.net
+127.0.0.1 d2p8taqyjofgrq.cloudfront.net
 127.0.0.1 d2zq3cb8ug8r1h.cloudfront.net
 127.0.0.1 d31qbv1cthcecs.cloudfront.net
 127.0.0.1 d33mfo0eh6vs57.cloudfront.net
@@ -15839,6 +15857,9 @@ white yt3.ggpht.com
 # coas2.co.kr
 127.0.0.1 ad.coas2.co.kr
 
+# cocoad.jp
+127.0.0.1 js.cocoad.jp
+
 # cocogals.com
 127.0.0.1 www.cocogals.com
 
@@ -15875,9 +15896,6 @@ white yt3.ggpht.com
 
 # coin-media.com
 127.0.0.1 coin-media.com
-
-# coincheck.com
-127.0.0.1 coincheck.com
 
 # coinsicmp.com
 127.0.0.1 go.coinsicmp.com
@@ -18501,6 +18519,9 @@ white yt3.ggpht.com
 # d-group.co.il
 127.0.0.1 bandoc.d-group.co.il
 
+# d-markets.net
+127.0.0.1 d-markets.net
+
 # d-suite.jp
 127.0.0.1 d-suite.jp
 127.0.0.1 dmp.d-suite.jp
@@ -19700,6 +19721,9 @@ white yt3.ggpht.com
 # dl-rms.com
 127.0.0.1 content.dl-rms.com
 
+# dlbooks.to
+127.0.0.1 gum.dlbooks.to
+
 # dlpo.jp
 127.0.0.1 dlpo.jp
 127.0.0.1 trck.dlpo.jp
@@ -20689,6 +20713,9 @@ white yt3.ggpht.com
 # dsnrmg.com
 127.0.0.1 dsnrmg.com
 127.0.0.1 www.dsnrmg.com
+
+# dsp-socialgameinfo.com
+127.0.0.1 js.dsp-socialgameinfo.com
 
 # dsparking.com
 127.0.0.1 dsparking.com
@@ -22221,6 +22248,10 @@ white yt3.ggpht.com
 127.0.0.1 erostracker.net
 127.0.0.1 www.erostracker.net
 
+# eroterest.net
+127.0.0.1 bpm.eroterest.net
+127.0.0.1 kok.eroterest.net
+
 # erotic-place.org
 127.0.0.1 doollli.erotic-place.org
 127.0.0.1 gayporn.erotic-place.org
@@ -22723,6 +22754,9 @@ white yt3.ggpht.com
 127.0.0.1 leave.exacttarget.com
 127.0.0.1 www.exacttarget.com
 
+# exad.jp
+127.0.0.1 ams.exad.jp
+
 # exaf.jp
 127.0.0.1 exaf.jp
 
@@ -22797,6 +22831,9 @@ white yt3.ggpht.com
 
 # exclusivegiftcards.com
 127.0.0.1 i.exclusivegiftcards.com
+
+# exclusiveoffer.today
+127.0.0.1 yourbest.exclusiveoffer.today
 
 # exct.net
 127.0.0.1 cl.exct.net
@@ -22878,7 +22915,6 @@ white yt3.ggpht.com
 127.0.0.1 syndication.exoclick.com
 
 # exosrv.com
-127.0.0.1 ads.exosrv.com
 127.0.0.1 syndication.exosrv.com
 
 # expandsearch.com
@@ -24881,6 +24917,9 @@ white yt3.ggpht.com
 # freqindustries.com
 127.0.0.1 www.freqindustries.com
 
+# fresh-tv.biz
+127.0.0.1 fresh-tv.biz
+
 # fresh-weather.com
 127.0.0.1 www.fresh-weather.com
 
@@ -25881,6 +25920,7 @@ white yt3.ggpht.com
 127.0.0.1 advision-adnw.genieesspv.jp
 127.0.0.1 aladdin.genieesspv.jp
 127.0.0.1 click-plus.genieesspv.jp
+127.0.0.1 enhance.genieesspv.jp
 127.0.0.1 genieesspv.jp
 127.0.0.1 sprout-ad.genieesspv.jp
 
@@ -30202,6 +30242,9 @@ white yt3.ggpht.com
 # impact.as
 127.0.0.1 impact.as
 
+# impact.ne.jp
+127.0.0.1 js.impact.ne.jp
+
 # impactengine.com
 127.0.0.1 content-ads.impactengine.com
 
@@ -32751,6 +32794,9 @@ white yt3.ggpht.com
 # japantoday.com
 127.0.0.1 banners.japantoday.com
 
+# japanxvideos.mobi
+127.0.0.1 aaa.japanxvideos.mobi
+
 # jasmin.hu
 127.0.0.1 counter.jasmin.hu
 
@@ -33112,6 +33158,7 @@ white yt3.ggpht.com
 127.0.0.1 ads.juicyads.com
 127.0.0.1 adserver.juicyads.com
 127.0.0.1 fill.juicyads.com
+127.0.0.1 js.juicyads.com
 127.0.0.1 juicyads.com
 127.0.0.1 mobile.juicyads.com
 127.0.0.1 www.juicyads.com
@@ -33239,7 +33286,11 @@ white yt3.ggpht.com
 # kaitaku.biz
 127.0.0.1 car21.kaitaku.biz
 
+# kaiu-marketing.com
+127.0.0.1 kaiu-marketing.com
+
 # kakaku.com
+127.0.0.1 linkage.kakaku.com
 127.0.0.1 notice.kakaku.com
 
 # kakaku.comscript
@@ -33718,6 +33769,9 @@ white yt3.ggpht.com
 
 # kosmix.com
 127.0.0.1 poweredby.kosmix.com
+
+# kotoran.com
+127.0.0.1 kotoran.com
 
 # koukoku.red
 127.0.0.1 koukoku.red
@@ -35256,6 +35310,7 @@ white yt3.ggpht.com
 127.0.0.1 www.glb.livejasmin.com
 
 # livelog.biz
+127.0.0.1 adv.livelog.biz
 127.0.0.1 blog.livelog.biz
 127.0.0.1 livelog.biz
 
@@ -35756,6 +35811,9 @@ white yt3.ggpht.com
 
 # lwken.com
 127.0.0.1 lwken.com
+
+# lwpuvq364b.pw
+127.0.0.1 as.lwpuvq364b.pw
 
 # lycos.co.kr
 127.0.0.1 kr-adimage.lycos.co.kr
@@ -36652,6 +36710,9 @@ white yt3.ggpht.com
 127.0.0.1 js.medi-8.net
 127.0.0.1 medi-8.net
 
+# media-a.net
+127.0.0.1 cdn.media-a.net
+
 # media-b.jp
 127.0.0.1 media-b.jp
 
@@ -37072,6 +37133,9 @@ white yt3.ggpht.com
 # megapowersearch.com
 127.0.0.1 www.megapowersearch.com
 
+# megaprizes-server76.loan
+127.0.0.1 competition7472.megaprizes-server76.loan
+
 # megaroticlive.com
 127.0.0.1 mbs.megaroticlive.com
 
@@ -37360,6 +37424,7 @@ white yt3.ggpht.com
 127.0.0.1 adfp.send.microad.jp
 127.0.0.1 adfunnel.microad.jp
 127.0.0.1 advertiser.microad.jp
+127.0.0.1 aid.send.microad.jp
 127.0.0.1 associate.microad.jp
 127.0.0.1 bw.microad.jp
 127.0.0.1 cache.microad.jp
@@ -38196,6 +38261,9 @@ white yt3.ggpht.com
 # montrealplus.ca
 127.0.0.1 cs.montrealplus.ca
 
+# moo-mam-tai.com
+127.0.0.1 ad.moo-mam-tai.com
+
 # mookie1.com
 127.0.0.1 b3-uk.mookie1.com
 127.0.0.1 b3.mookie1.com
@@ -38689,6 +38757,9 @@ white yt3.ggpht.com
 
 # mukulcast.com
 127.0.0.1 ad.mukulcast.com
+
+# mulan.cloud
+127.0.0.1 js.mulan.cloud
 
 # mulherescomcigarros.com
 127.0.0.1 banners.mulherescomcigarros.com
@@ -39906,6 +39977,9 @@ white yt3.ggpht.com
 
 # natural-drugshop.com
 127.0.0.1 natural-drugshop.com
+
+# natural-nine.jp
+127.0.0.1 natural-nine.jp
 
 # natuurpark.nl
 127.0.0.1 phpadsnew.new.natuurpark.nl
@@ -41699,6 +41773,9 @@ white yt3.ggpht.com
 # ofuda.cc
 127.0.0.1 e.ofuda.cc
 
+# og-affiliate.com
+127.0.0.1 media.og-affiliate.com
+
 # oggifinogi.com
 127.0.0.1 raw.oggifinogi.com
 127.0.0.1 tracking.oggifinogi.com
@@ -42430,6 +42507,9 @@ white yt3.ggpht.com
 
 # ouah.fr
 127.0.0.1 ouah.fr
+
+# our-will.com
+127.0.0.1 js.our-will.com
 
 # ourbesthits.com
 127.0.0.1 ourbesthits.com
@@ -44469,6 +44549,9 @@ white yt3.ggpht.com
 127.0.0.1 popinads.com
 127.0.0.1 www.popinads.com
 
+# popinfo.jp
+127.0.0.1 events.popinfo.jp
+
 # popmatters.com
 127.0.0.1 partners.popmatters.com
 
@@ -45111,6 +45194,9 @@ white yt3.ggpht.com
 # probenking.de
 127.0.0.1 probenking.de
 
+# problem-detection.info
+127.0.0.1 problem-detection.info
+
 # proboards.com
 127.0.0.1 s3.images.proboards.com
 
@@ -45491,6 +45577,9 @@ white yt3.ggpht.com
 
 # pusk.ru
 127.0.0.1 t.pusk.ru
+
+# pussl48.com
+127.0.0.1 pussl48.com
 
 # pussybabes.net
 127.0.0.1 pussybabes.net
@@ -46888,6 +46977,9 @@ white yt3.ggpht.com
 # reutersmedia.net
 127.0.0.1 s2.reutersmedia.net
 
+# revcontent.com
+127.0.0.1 trends.revcontent.com
+
 # reventon.mobi
 127.0.0.1 ads01.reventon.mobi
 
@@ -47704,6 +47796,7 @@ white yt3.ggpht.com
 127.0.0.1 blacknews.sakura.ne.jp
 127.0.0.1 cosmos413-2r.sakura.ne.jp
 127.0.0.1 majikichi.sakura.ne.jp
+127.0.0.1 mcgm.sakura.ne.jp
 127.0.0.1 smart-ad.sakura.ne.jp
 127.0.0.1 www16137ue.sakura.ne.jp
 
@@ -50805,6 +50898,7 @@ white yt3.ggpht.com
 127.0.0.1 www.spedia.net
 
 # speead.jp
+127.0.0.1 107008.speead.jp
 127.0.0.1 ads.speead.jp
 127.0.0.1 js.speead.jp
 127.0.0.1 speead.jp
@@ -51507,6 +51601,9 @@ white yt3.ggpht.com
 # ssangyong.co.il
 127.0.0.1 ssangyong.co.il
 127.0.0.1 www.ssangyong.co.il
+
+# ssl-lolipop.jp
+127.0.0.1 fem-staffservice.ssl-lolipop.jp
 
 # sspintrafmsmt.com
 127.0.0.1 sspintrafmsmt.com
@@ -54851,6 +54948,9 @@ white yt3.ggpht.com
 # traffic-in.com
 127.0.0.1 www.traffic-in.com
 
+# traffic-staff.com
+127.0.0.1 traffic-staff.com
+
 # traffic-trades.com
 127.0.0.1 www.traffic-trades.com
 
@@ -55565,6 +55665,9 @@ white yt3.ggpht.com
 # tsunokakushi.com
 127.0.0.1 x2.tsunokakushi.com
 
+# tsyndicate.com
+127.0.0.1 tsyndicate.com
+
 # tt-forums.net
 127.0.0.1 adsystem.tt-forums.net
 
@@ -55666,6 +55769,9 @@ white yt3.ggpht.com
 
 # tunein.com
 127.0.0.1 ads.tunein.com
+
+# tunnel-vision.info
+127.0.0.1 pc.tunnel-vision.info
 
 # turbo-surfer.com
 127.0.0.1 affiliates.turbo-surfer.com
@@ -56680,6 +56786,9 @@ white yt3.ggpht.com
 
 # vdshostter.ru
 127.0.0.1 vdshostter.ru
+
+# vebadu.com
+127.0.0.1 vebadu.com
 
 # vector.co.jp
 127.0.0.1 rd.vector.co.jp
@@ -58447,6 +58556,9 @@ white yt3.ggpht.com
 127.0.0.1 st.wetrack.it
 127.0.0.1 wetrack.it
 
+# wetrackall.com
+127.0.0.1 link.wetrackall.com
+
 # wfaa.com
 127.0.0.1 metrics.wfaa.com
 127.0.0.1 te.wfaa.com
@@ -58803,6 +58915,9 @@ white yt3.ggpht.com
 
 # wise-click.com
 127.0.0.1 feeds.wise-click.com
+
+# wiserapps.site
+127.0.0.1 wiserapps.site
 
 # wisewire.com
 127.0.0.1 wisewire.com
@@ -59914,6 +60029,7 @@ white yt3.ggpht.com
 127.0.0.1 b91.yahoo.co.jp
 127.0.0.1 b92.yahoo.co.jp
 127.0.0.1 b97.yahoo.co.jp
+127.0.0.1 bc-geocities.yahoo.co.jp
 127.0.0.1 bc.geocities.yahoo.co.jp
 127.0.0.1 btcs.yahoo.co.jp
 127.0.0.1 by.analytics.yahoo.co.jp
