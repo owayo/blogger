@@ -4,8 +4,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2018/05/03
-# block hosts: 33060 entry
+# last updated: 2018/05/17
+# block hosts: 33062 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -32,6 +32,7 @@ white line.me
 white m.facebook.com
 white pagead2.googlesyndication.com
 white r.r10s.jp
+white r10.to
 white rd.rakuten.co.jp
 white s.yimg.jp
 white s0.2mdn.net
@@ -5921,6 +5922,9 @@ white yt3.ggpht.com
 
 # adpulse.com
 127.0.0.1 ads.adpulse.com
+
+# adpushup.com
+127.0.0.1 optimize.adpushup.com
 
 # adpv.com
 127.0.0.1 ads.adpv.com
@@ -36796,6 +36800,7 @@ white yt3.ggpht.com
 127.0.0.1 mediad.co.jp
 
 # mediad2.jp
+127.0.0.1 js.mediad2.jp
 127.0.0.1 mediad2.jp
 
 # mediadevil.com
@@ -45882,9 +45887,6 @@ white yt3.ggpht.com
 
 # r.tv.com
 127.0.0.1 zi.r.tv.com
-
-# r10.to
-127.0.0.1 r10.to
 
 # r2t.jp
 127.0.0.1 www.r2t.jp
@@ -58945,6 +58947,7 @@ white yt3.ggpht.com
 127.0.0.1 www.witchlab.com
 
 # with2.net
+127.0.0.1 blog.with2.net
 127.0.0.1 parts.blog.with2.net
 127.0.0.1 with2.net
 
