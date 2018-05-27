@@ -13,7 +13,7 @@ $(function() {
         $legend = $('<legend>').text('表示カラム選択'),
         $columnSelector = $('<div class="column-selector">');
       $fieldSet.append($legend).append($columnSelector);
-      $table.before($fieldSet)
+      $table.before($fieldSet);
       widgetOption = $.extend(widgetOption, {
         columnSelector_container: $columnSelector,
         columnSelector_classHasSpan: 'has-span',
