@@ -16,9 +16,10 @@ Logroid.related_posts = Logroid.related_posts || (function(logroid) {
   }
 
   function addFeed(label, json) {
-    if (feed[label] == null) {
+    if (Object.keys(feed).indexOf(label) == -1) {
       feed[label] = []
     }
+    console.dir(json)
     feed[label].push({
       link: json.link,
       title: json.title,
