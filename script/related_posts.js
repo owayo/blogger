@@ -12,8 +12,10 @@ Logroid.related_posts = Logroid.related_posts || (function(logroid) {
   }
 
   function getFeed(label) {
-    console.info(label)
-      // https://developer.yahoo.com/yql/
+    // https://developer.yahoo.com/yql/
+    $.getJSON("https://query.yahooapis.com/v1/public/yql?q=select%20updated%2Ctitle%2Clink%20from%20rss%20where%20url%20%3D%20'https%3A%2F%2Flogroid.blogspot.com%2Ffeeds%2Fposts%2Fdefault%2F-%2F" + label + "%3Falt%3Drss'&format=json&env=store%3A%2F%2Fdatatables.org%2Falltableswithkeys", function(res) {
+      console.dir(res);
+    });
     $.ajax({
       url: "https://query.yahooapis.com/v1/public/yql?q=select%20updated%2Ctitle%2Clink%20from%20rss%20where%20url%20%3D%20'https%3A%2F%2Flogroid.blogspot.com%2Ffeeds%2Fposts%2Fdefault%2F-%2F" + label + "%3Falt%3Drss'&format=json&env=store%3A%2F%2Fdatatables.org%2Falltableswithkeys",
       type: 'GET',
@@ -35,9 +37,7 @@ Logroid.related_posts = Logroid.related_posts || (function(logroid) {
       $('.post.hentry').each(function(i, entry) {
         var $entry = $(entry),
           labels = getLabel($entry);
-        console.info(entry)
         $.each(labels, function(ii, label) {
-          console.info(label);
           getFeed(label);
         });
       });
