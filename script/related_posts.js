@@ -12,7 +12,7 @@ Logroid.related_posts = Logroid.related_posts || (function(logroid) {
   }
 
   function getFeed(label) {
-    $.ajax({
+    $.xajax({
       url: '://logroid.blogspot.com/feeds/posts/default/-/' + label,
       type: 'GET',
       cache: false,
@@ -42,5 +42,5 @@ Logroid.related_posts = Logroid.related_posts || (function(logroid) {
 
   };
 })(Logroid);
-
+console.dir($.xajax)
 Logroid.related_posts.start();
