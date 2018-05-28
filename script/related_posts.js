@@ -46,5 +46,5 @@ Logroid.related_posts = Logroid.related_posts || (function(logroid) {
 
   };
 })(Logroid);
-
+console.info("start")
 Logroid.related_posts.start();
