@@ -28,6 +28,7 @@ Logroid.related_posts = Logroid.related_posts || (function(logroid) {
   function getFeed(labels, index) {
     if (labels.length <= index) {
       drawFeed();
+      return
     }
     // https://developer.yahoo.com/yql/
     var label = labels[index];
