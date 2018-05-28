@@ -74,7 +74,9 @@ Logroid.related_posts = Logroid.related_posts || (function(logroid) {
     }
     var label = labels[index];
     if (StorageKeyExist([KEY_PREFIX + label])) {
-      addFeed(label, eval(StorageLoad(KEY_PREFIX + label).data));
+      $.each(eval(StorageLoad(KEY_PREFIX + label).data), function(i, item) {
+        addFeed(label, item);
+      });
       getFeed(labels, index + 1);
     } else {
       // https://developer.yahoo.com/yql/
