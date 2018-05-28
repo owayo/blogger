@@ -294,6 +294,7 @@ function StorageSave(key, obj, k) {
 function StorageLoad(key) {
   var r = null;
   if (localStorage && localStorage.getItem && localStorage[key]) {
+    console.info('localStorage get. (' + key + ')');
     r = { key: localStorage.getItem(key + "_key"), data: localStorage.getItem(key) }
       //    console.dir(r);
   };
