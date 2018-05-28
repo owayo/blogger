@@ -36,9 +36,7 @@ Logroid.related_posts = Logroid.related_posts || (function(logroid) {
       $.each(json.query.results.item, function(i, item) {
         addFeed(item);
       });
-      if (labels.length > index + 1) {
-        getFeed(labels, index + 1)
-      }
+      getFeed(labels, index + 1);
     });
   }
   return {
