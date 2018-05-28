@@ -33,9 +33,11 @@ Logroid.related_posts = Logroid.related_posts || (function(logroid) {
     var label = labels[index];
     $.getJSON("https://query.yahooapis.com/v1/public/yql?q=select%20updated%2Ctitle%2Clink%20from%20rss%20where%20url%20%3D%20'https%3A%2F%2Flogroid.blogspot.com%2Ffeeds%2Fposts%2Fdefault%2F-%2F" + label + "%3Falt%3Drss'&format=json&env=store%3A%2F%2Fdatatables.org%2Falltableswithkeys", function(json) {
       console.dir(json);
-      $.each(json.query.results.item, function(i, item) {
-        addFeed(item);
-      });
+      if (json != null && json.query != null && json.query.results != null && json.query.results.item != null) {
+        $.each(json.query.results.item, function(i, item) {
+          addFeed(item);
+        });
+      }
       getFeed(labels, index + 1);
     });
   }
