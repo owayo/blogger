@@ -63,7 +63,7 @@ Logroid.related_posts = Logroid.related_posts || (function(logroid) {
     }
     var label = labels[index];
     if (StorageKeyExist([KEY_PREFIX + label])) {
-      addFeed(label, JSON.parse(StorageLoad(KEY_PREFIX + label)));
+      addFeed(label, StorageLoad(KEY_PREFIX + label));
       getFeed(labels, index + 1);
     } else {
       // https://developer.yahoo.com/yql/
@@ -71,7 +71,7 @@ Logroid.related_posts = Logroid.related_posts || (function(logroid) {
         console.dir(json);
         if (json != null && json.query != null && json.query.results != null && json.query.results.item != null) {
           $.each(json.query.results.item, function(i, item) {
-            StorageSave(KEY_PREFIX + label, JSON.stringify(item));
+            StorageSave(KEY_PREFIX + label, item);
             addFeed(label, item);
           });
         }
