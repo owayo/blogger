@@ -16,10 +16,10 @@ Logroid.related_posts = Logroid.related_posts || (function(logroid) {
   }
 
   function addFeed(label, json) {
-    if (logroid.related_posts.feed[label] == null) {
-      logroid.related_posts.feed[label] = []
+    if (feed[label] == null) {
+      feed[label] = []
     }
-    logroid.related_posts.feed[label].push({
+    feed[label].push({
       link: json.link,
       title: json.title,
       updated: json.updated,
@@ -30,9 +30,11 @@ Logroid.related_posts = Logroid.related_posts || (function(logroid) {
   function getLabelFeed(labels) {
     var f = [];
     $.each(labels, function(i, l) {
-      f.push(logroid.related_posts.feed[l]);
+      f.push(feed[l]);
     });
+    console.dir(f)
     f = Array.prototype.concat.apply([], f);
+    console.dir(f)
     f.sort(function(a, b) {
       return b - a;
     });
@@ -44,13 +46,14 @@ Logroid.related_posts = Logroid.related_posts || (function(logroid) {
   }
 
   function drawRelatedPost() {
+    console.dir(feed);
     logroid.related_posts.$entries.each(function(i, entry) {
       var $entry = $(entry),
         $related = $entry.find('.post-related'),
         $list = $related.find('.list'),
         labels = getLabel($entry);
       $.each(getLabelFeed(labels), function(i, f) {
-        console.dir(f)
+        console.info(f)
         $list.append($('<li>').append($('<a>').text(f.title).attr('href', f.link)));
       });
       $related.fadeIn('slow');
