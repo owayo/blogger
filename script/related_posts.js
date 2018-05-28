@@ -16,10 +16,10 @@ Logroid.related_posts = Logroid.related_posts || (function(logroid) {
   }
 
   function addFeed(label, json) {
-    if (feed[label] == null) {
-      feed[label] = []
+    if (logroid.related_posts.feed[label] == null) {
+      logroid.related_posts.feed[label] = []
     }
-    feed[label].push({
+    logroid.related_posts.feed[label].push({
       link: json.link,
       title: json.title,
       updated: json.updated,
@@ -30,7 +30,7 @@ Logroid.related_posts = Logroid.related_posts || (function(logroid) {
   function getLabelFeed(labels) {
     var f = [];
     $.each(labels, function(i, l) {
-      f.push(feed[l]);
+      f.push(logroid.related_posts.feed[l]);
     });
     f = Array.prototype.concat.apply([], f);
     f.sort(function(a, b) {
