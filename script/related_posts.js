@@ -35,6 +35,7 @@ Logroid.related_posts = Logroid.related_posts || (function(logroid) {
       $('div.post.hentry').each(function(i, entry) {
         var $entry = $(entry),
           labels = getLabel($entry);
+        console.info(entry)
         $.each(labels, function(ii, label) {
           console.info(label);
           getFeed(label);
