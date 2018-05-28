@@ -268,10 +268,16 @@ function getPostCount() {
 };
 
 function StorageKeyExist(keys) {
-  var r = true;
+  var r = true,
+    now = new Date(),
+    nowMs = now.getTime();
   if (localStorage) {
     for (var i = 0, maxi = keys.length; i < maxi; i++) {
-      if (!localStorage[keys[i]] || !localStorage[keys[i] + "_key"]) {
+      var key = localStorage[keys[i]] ? keys[i] : localStorage[keys[i] + '_key'] ? keys[i] + '_key' : null;
+      if (key == null) {
+        r = false;
+        break;
+      } else if (localStorage[key] + (1000 * 60 * 60 * 24) < nowMs) {
         r = false;
         break;
       }
