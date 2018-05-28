@@ -32,6 +32,7 @@ Logroid.related_posts = Logroid.related_posts || (function(logroid) {
   }
   return {
     start: function() {
+      console.info('entry search')
       $('div.post.hentry').each(function(i, entry) {
         var $entry = $(entry),
           labels = getLabel($entry);
@@ -46,5 +47,5 @@ Logroid.related_posts = Logroid.related_posts || (function(logroid) {
 
   };
 })(Logroid);
-console.info("start")
+
 Logroid.related_posts.start();
