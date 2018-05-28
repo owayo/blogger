@@ -62,7 +62,7 @@ Logroid.related_posts = Logroid.related_posts || (function(logroid) {
       return
     }
     var label = labels[index];
-    if (StorageKeyExist(KEY_PREFIX + label)) {
+    if (StorageKeyExist([KEY_PREFIX + label])) {
       addFeed(label, JSON.parse(StorageLoad(KEY_PREFIX + label)));
       getFeed(labels, index + 1);
     } else {
