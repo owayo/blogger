@@ -7,7 +7,7 @@ var now = new Date(),
 yesterday.setTime(new Date().getTime() - 86400000);
 
 var Feed = function(data, entityTag) {
-  console.dir(data);
+  // console.dir(data);
   if (data) {
     var sendData = { urls: [], etag: entityTag },
       me = this;
@@ -22,7 +22,7 @@ var Feed = function(data, entityTag) {
         };
       }
     };
-    console.dir(sendData);
+    // console.dir(sendData);
     if (0 < sendData.urls.length) {
       var storageDataExist = false;
       if (StorageKeyExist([FEEDREQ, FEEDRES])) {
@@ -31,12 +31,12 @@ var Feed = function(data, entityTag) {
         //console.log(now.getTime()+" "+((req.key).to_int() + LIMIT));
         // 1時間はlocalStorage内のデータを使う
         if (req.data == Object2Text(sendData) && now.getTime() < ((req.key).to_int() + LIMIT)) {
-          console.info("Storage data found.");
+          // console.info("Storage data found.");
           storageDataExist = true;
           var json = eval(res.data);
           //console.dir(json)
           for (var k in json) {
-            console.info("Storage data parse. " + k);
+            // console.info("Storage data parse. " + k);
             me.data[k].jsonObject = json[k];
             me.parse(k);
           };
@@ -46,12 +46,12 @@ var Feed = function(data, entityTag) {
         }
       };
       if (!storageDataExist) {
-        console.info("Storage data not found.");
+        //console.info("Storage data not found.");
         $.getJSON('https://log-roid.appspot.com/feed', sendData, function(json) {
           //console.info("json");
-          console.dir(json);
+          // console.dir(json);
           for (var k in json) {
-            console.info("Storage data parse. " + k);
+            // console.info("Storage data parse. " + k);
             me.data[k].jsonObject = json[k];
             me.parse(k);
           };
