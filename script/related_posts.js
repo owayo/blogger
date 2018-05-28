@@ -3,6 +3,7 @@ var Logroid = Logroid || {};
 Logroid.related_posts = Logroid.related_posts || (function(logroid) {
   var KEY_PREFIX = 'related_posts-';
   var feed = {};
+  var $entries = null;
 
   function getLabel($entry) {
     var $labels = $entry.find('.post-footer .post-labels a[rel=tag]');
@@ -21,18 +22,42 @@ Logroid.related_posts = Logroid.related_posts || (function(logroid) {
     feed[label].push({
       link: json.link,
       title: json.title,
-      updated: Date.parse(json.updated)
+      updated: json.updated,
+      date: Date.parse(json.updated)
     });
   }
 
-  function drawFeed() {
-    console.dir(feed)
+  function getLabelFeed(labels) {
+    var f = [];
+    $.each(labels, function(i, l) {
+      f.push(feed[l]);
+    });
+    f = Array.prototype.concat.apply([], f);
+    f.sort(function(a, b) {
+      return b - a;
+    });
+    if (f.length > 5) {
+      return f.slice(0, 5)
+    }
+    return f
+  }
 
+  function drawRelatedPost() {
+    console.dir(feed)
+    this.$entries.each(function(i, entry) {
+      var $entry = $(entry),
+        $related = $entry.find('.post-related'),
+        $list = $related.find('.list'),
+        labels = getLabel($entry);
+      $.each(getLabelFeed(labels), function(i, f) {
+        $list.append($('<li>').append($('<a>').text(f.title).attr('href', f.link)));
+      });
+    });
   }
 
   function getFeed(labels, index) {
     if (labels.length <= index) {
-      drawFeed();
+      drawRelatedPost();
       return
     }
     var label = labels[index];
@@ -56,11 +81,11 @@ Logroid.related_posts = Logroid.related_posts || (function(logroid) {
   return {
     start: function() {
       var labels = []
-      $('.post.hentry').each(function(i, entry) {
-        var $entry = $(entry);
-        labels.push(getLabel($entry));
+      this.$entries = $('.post.hentry');
+      this.$entries.each(function(i, entry) {
+        labels.push(getLabel($(entry)));
       });
-      Array.prototype.concat.apply([], labels);
+      labels = Array.prototype.concat.apply([], labels);
       labels = labels.filter(function(x, i, self) {
         return self.indexOf(x) === i;
       });
