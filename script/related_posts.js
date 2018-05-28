@@ -50,8 +50,9 @@ $(function() {
   function check(selector, func) {
     if ($(selector).length > 0) {
       func();
+    } else {
+      setTimeout(function() { check(selector, func) }, 100);
     }
-    setTimeout(function() { check(selector, func) }, 100);
   }
   check('.post.hentry', function() { Logroid.related_posts.start(); })
 });
