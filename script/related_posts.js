@@ -51,6 +51,7 @@ Logroid.related_posts = Logroid.related_posts || (function(logroid) {
       $.each(getLabelFeed(labels), function(i, f) {
         $list.append($('<li>').append($('<a>').text(f.title).attr('href', f.link)));
       });
+      $related.fadeIn('slow');
     });
   }
 
