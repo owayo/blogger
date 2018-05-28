@@ -81,8 +81,9 @@ Logroid.related_posts = Logroid.related_posts || (function(logroid) {
   }
   return {
     start: function() {
-      var labels = []
+      var labels = [];
       this.$entries = $('.post.hentry');
+      console.dir(this);
       this.$entries.each(function(i, entry) {
         labels.push(getLabel($(entry)));
       });
