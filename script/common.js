@@ -282,6 +282,10 @@ function StorageKeyExist(keys) {
 
 function StorageSave(key, obj, k) {
   if (localStorage && localStorage.setItem) {
+    if (arguments.length == 2) {
+      var now = new Date();
+      k = now.getTime();
+    }
     localStorage.setItem(key + "_key", (typeof k == 'string') ? k : k.toString());
     localStorage.setItem(key, Object2Text(obj));
   }
