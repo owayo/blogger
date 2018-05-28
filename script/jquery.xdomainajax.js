@@ -10,7 +10,7 @@
  * @info http://james.padolsey.com/javascript/cross-domain-requests-with-jquery/
  */
 
-jQuery.xajax = (function(_ajax) {
+jQuery.ajax = (function(_ajax) {
 
   var protocol = location.protocol,
     hostname = location.hostname,
@@ -44,6 +44,8 @@ jQuery.xajax = (function(_ajax) {
         diagnostics: true,
         env: 'store://datatables.org/alltableswithkeys'
       };
+
+      console.dir(o)
 
       // Since it's a JSONP request
       // complete === success

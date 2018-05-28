@@ -13,7 +13,7 @@ Logroid.related_posts = Logroid.related_posts || (function(logroid) {
 
   function getFeed(label) {
     console.info(label)
-    $.xajax({
+    $.ajax({
       url: 'https://logroid.blogspot.com/feeds/posts/default/-/' + label,
       type: 'GET',
       cache: false,
