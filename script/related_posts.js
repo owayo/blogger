@@ -36,6 +36,7 @@ Logroid.related_posts = Logroid.related_posts || (function(logroid) {
     f.sort(function(a, b) {
       return b - a;
     });
+    console.dir(f)
     if (f.length > 5) {
       return f.slice(0, 5)
     }
@@ -49,6 +50,7 @@ Logroid.related_posts = Logroid.related_posts || (function(logroid) {
         $list = $related.find('.list'),
         labels = getLabel($entry);
       $.each(getLabelFeed(labels), function(i, f) {
+        console.dir(f)
         $list.append($('<li>').append($('<a>').text(f.title).attr('href', f.link)));
       });
       $related.fadeIn('slow');
