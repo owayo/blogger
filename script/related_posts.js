@@ -43,11 +43,7 @@ Logroid.related_posts = Logroid.related_posts || (function(logroid) {
   }
 
   function drawRelatedPost() {
-    console.dir(feed);
-    console.dir(this);
-    console.dir($entries);
-    console.dir(logroid.related_posts.$entries);
-    $entries.each(function(i, entry) {
+    logroid.related_posts.$entries.each(function(i, entry) {
       var $entry = $(entry),
         $related = $entry.find('.post-related'),
         $list = $related.find('.list'),
