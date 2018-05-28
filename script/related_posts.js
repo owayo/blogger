@@ -20,6 +20,11 @@ Logroid.related_posts = Logroid.related_posts || (function(logroid) {
       timeout: 5000,
       success: function(res, status) {
         console.dir(res);
+      },
+      error: function(req, status, errorThrown) {
+        console.dir(req);
+        console.dir(status);
+        console.dir(errorThrown);
       }
     });
   }
