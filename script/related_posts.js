@@ -33,7 +33,8 @@ Logroid.related_posts = Logroid.related_posts || (function(logroid) {
   return {
     start: function() {
       console.info('entry search')
-      $('div.post.hentry').each(function(i, entry) {
+      console.dir($('.post.hentry'));
+      $('.post.hentry').each(function(i, entry) {
         var $entry = $(entry),
           labels = getLabel($entry);
         console.info(entry)
