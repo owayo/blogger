@@ -107,5 +107,5 @@ Logroid.related_posts = Logroid.related_posts || (function(logroid) {
   };
 })(Logroid);
 $(function() {
-  elementLoadCallback('.post.hentry', function() { Logroid.related_posts.start(); })
+  elementLoadCallback('.post.hentry', function($entries) { Logroid.related_posts.start($entries); })
 });
