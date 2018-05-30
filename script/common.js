@@ -307,6 +307,7 @@ function StorageSave(key, obj, k) {
     }
     localStorage.setItem(key + "_key", (typeof k == 'string') ? k : k.toString());
     localStorage.setItem(key, Object2Text(obj));
+    console.info('localStorage saved. (' + key + ')');
   }
 };
 
