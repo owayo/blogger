@@ -387,5 +387,14 @@ function getParameter() {
   };
   return obj;
 };
+
+function elementLoadCallback(selector, func) {
+  var $ele = $(selector);
+  if ($ele.length > 0) {
+    func($ele);
+  } else {
+    setTimeout(function() { elementLoadCallback(selector, func); }, 100);
+  }
+}
 var LOGGER = null;
 $(window).trigger('commonLoaded');
