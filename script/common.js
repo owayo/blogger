@@ -169,6 +169,17 @@ Array.prototype.ignoreCaseSort = function() {
     return (a.toString().toLowerCase() < b.toString().toLowerCase()) ? -1 : 1;
   });
 };
+if (typeof Array.prototype.flatten != 'function') {
+  Array.prototype.flatten = function() {
+    return Array.prototype.concat.apply([], this);
+  };
+}
+Array.prototype.uniq = function() {
+  var arr = this;
+  return arr.filter(function(x, i, self) {
+    return self.indexOf(x) === i;
+  });
+};
 Number.prototype.round = function(n) {
   var s = this,
     r = 0,
@@ -275,9 +286,11 @@ function StorageKeyExist(keys) {
     for (var i = 0, maxi = keys.length; i < maxi; i++) {
       var key = localStorage[keys[i]] ? keys[i] : localStorage[keys[i] + '_key'] ? keys[i] + '_key' : null;
       if (key == null) {
+        console.info('localStorage not exist. (' + keys[i] + ')');
         r = false;
         break;
       } else if (localStorage[key] + (1000 * 60 * 60 * 24) < nowMs) {
+        console.info('localStorage expired. (' + keys[i] + ')');
         r = false;
         break;
       }

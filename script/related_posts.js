@@ -44,9 +44,7 @@ Logroid.related_posts = Logroid.related_posts || (function(logroid) {
     uniq.sort(function(a, b) {
       return b - a;
     });
-    uniq = uniq.filter(function(x, i, self) {
-      return self.indexOf(x) === i;
-    });
+    uniq = uniq.uniq();
     if (uniq.length > 5) {
       return uniq.slice(0, 5)
     }
@@ -93,16 +91,14 @@ Logroid.related_posts = Logroid.related_posts || (function(logroid) {
     }
   }
   return {
-    start: function() {
+    start: function($entries) {
       var labels = [];
-      this.$entries = $('.post.hentry');
+      this.$entries = $entries;
       this.$entries.each(function(i, entry) {
         labels.push(getLabel($(entry)));
       });
-      labels = Array.prototype.concat.apply([], labels);
-      labels = labels.filter(function(x, i, self) {
-        return self.indexOf(x) === i;
-      });
+      labels = labels.flatten();
+      labels = labels.uniq();
       console.dir(labels);
       getFeed(labels, 0);
     }
@@ -111,12 +107,5 @@ Logroid.related_posts = Logroid.related_posts || (function(logroid) {
   };
 })(Logroid);
 $(function() {
-  function check(selector, func) {
-    if ($(selector).length > 0) {
-      func();
-    } else {
-      setTimeout(function() { check(selector, func) }, 100);
-    }
-  }
-  check('.post.hentry', function() { Logroid.related_posts.start(); })
+  elementLoadCallback('.post.hentry', function() { Logroid.related_posts.start(); })
 });
