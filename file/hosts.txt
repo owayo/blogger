@@ -4,8 +4,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2018/05/17
-# block hosts: 33062 entry
+# last updated: 2018/06/04
+# block hosts: 33065 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -12060,6 +12060,9 @@ white yt3.ggpht.com
 
 # blog-livedorr.com
 127.0.0.1 blog-livedorr.com
+
+# blog-sokuhou.com
+127.0.0.1 blog-sokuhou.com
 
 # blog.com
 127.0.0.1 ads.blog.com
@@ -40236,6 +40239,7 @@ white yt3.ggpht.com
 127.0.0.1 output.nend.net
 127.0.0.1 s.nend.net
 127.0.0.1 s2.nend.net
+127.0.0.1 vdapp.nend.net
 
 # nengu.jp
 127.0.0.1 x6.nengu.jp
@@ -56252,6 +56256,7 @@ white yt3.ggpht.com
 
 # unity3d.com
 127.0.0.1 adserver.unityads.unity3d.com
+127.0.0.1 cdn-akamai.unityads.unity3d.com
 
 # universesearches.com
 127.0.0.1 universesearches.com
