@@ -37,6 +37,7 @@ Logroid.related_posts = Logroid.related_posts || (function(logroid) {
     });
     f = Array.prototype.concat.apply([], f);
     $.each(f, function(i, ff) {
+      console.dir(ff);
       if (!ff.link.endsWith(excludeUrl) && urls.indexOf(ff.link) == -1) {
         uniq.push(ff);
       }
