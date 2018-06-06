@@ -66,6 +66,7 @@ Logroid.related_posts = Logroid.related_posts || (function(logroid) {
         url = $entry.find('.post-title.entry-title>a').attr('href');
       }
       var feedList = getLabelsFeed(labels, url);
+      console.dir(feedList);
       if (feedList.length == 0) {
         return;
       }
