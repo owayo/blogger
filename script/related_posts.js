@@ -35,8 +35,7 @@ Logroid.related_posts = Logroid.related_posts || (function(logroid) {
     $.each(labels, function(i, l) {
       f.push(feed[l]);
     });
-    f = Array.prototype.concat.apply([], f);
-    $.each(f, function(i, ff) {
+    $.each(f.flatten(), function(i, ff) {
       console.dir(ff);
       if (!ff.link.endsWith(excludeUrl) && urls.indexOf(ff.link) == -1) {
         uniq.push(ff);
