@@ -32,11 +32,13 @@ Logroid.related_posts = Logroid.related_posts || (function(logroid) {
       uniq = [],
       urls = [];
     excludeUrl = excludeUrl.replace(/^https?/, '');
+    console.info(excludeUrl);
     $.each(labels, function(i, l) {
       f.push(feed[l]);
     });
     f = Array.prototype.concat.apply([], f);
     $.each(f, function(i, ff) {
+      console.info(ff.link.endsWith(excludeUrl));
       if (ff.link.endsWith(excludeUrl) && urls.indexOf(ff.link) == -1) {
         uniq.push(ff);
       }
