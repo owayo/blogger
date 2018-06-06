@@ -31,12 +31,13 @@ Logroid.related_posts = Logroid.related_posts || (function(logroid) {
     var f = [],
       uniq = [],
       urls = [];
+    excludeUrl = excludeUrl.replace(/^https?/, '');
     $.each(labels, function(i, l) {
       f.push(feed[l]);
     });
     f = Array.prototype.concat.apply([], f);
     $.each(f, function(i, ff) {
-      if (ff.link != excludeUrl && urls.indexOf(ff.link) == -1) {
+      if (ff.link.endsWith(excludeUrl) && urls.indexOf(ff.link) == -1) {
         uniq.push(ff);
       }
       urls.push(ff.link);
@@ -67,7 +68,7 @@ Logroid.related_posts = Logroid.related_posts || (function(logroid) {
       }
       var feedList = getLabelsFeed(labels, url);
       console.dir(feedList);
-      console.dir(url);
+      console.info(url);
       if (feedList.length == 0) {
         return;
       }
