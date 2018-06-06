@@ -38,8 +38,8 @@ Logroid.related_posts = Logroid.related_posts || (function(logroid) {
     if (f.length == 0) {
       return f;
     }
+    console.dir(f.flatten());
     $.each(f.flatten(), function(i, ff) {
-      console.dir(ff);
       if (!ff.link.endsWith(excludeUrl) && urls.indexOf(ff.link) == -1) {
         uniq.push(ff);
       }
@@ -95,7 +95,6 @@ Logroid.related_posts = Logroid.related_posts || (function(logroid) {
       getFeed(labels, index + 1);
     } else {
       // https://developer.yahoo.com/yql/
-      console.info("https://query.yahooapis.com/v1/public/yql?q=select%20updated%2Ctitle%2Clink%20from%20rss(0%2C5)%20where%20url%20%3D%20'https%3A%2F%2Flogroid.blogspot.com%2Ffeeds%2Fposts%2Fdefault%2F-%2F" + label + "%3Falt%3Drss'&format=json&env=store%3A%2F%2Fdatatables.org%2Falltableswithkeys")
       $.getJSON("https://query.yahooapis.com/v1/public/yql?q=select%20updated%2Ctitle%2Clink%20from%20rss(0%2C5)%20where%20url%20%3D%20'https%3A%2F%2Flogroid.blogspot.com%2Ffeeds%2Fposts%2Fdefault%2F-%2F" + label + "%3Falt%3Drss'&format=json&env=store%3A%2F%2Fdatatables.org%2Falltableswithkeys", function(json) {
         console.dir(json);
         if (json != null && json.query != null && json.query.count > 0 && json.query.results != null && json.query.results.item != null) {
