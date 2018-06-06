@@ -33,7 +33,9 @@ Logroid.related_posts = Logroid.related_posts || (function(logroid) {
       urls = [];
     excludeUrl = excludeUrl.replace(/^https?/, '');
     $.each(labels, function(i, l) {
-      f.push(feed[l]);
+      if (feed[l]) {
+        f.push(feed[l]);
+      }
     });
     if (f.length == 0) {
       return f;
