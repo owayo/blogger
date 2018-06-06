@@ -65,7 +65,11 @@ Logroid.related_posts = Logroid.related_posts || (function(logroid) {
       } else {
         url = $entry.find('.post-title.entry-title>a').attr('href');
       }
-      $.each(getLabelsFeed(labels, url), function(i, f) {
+      var feedList = getLabelsFeed(labels, url);
+      if (feedList.length == 0) {
+        return;
+      }
+      $.each(feedList, function(i, f) {
         $list.append($('<li>').append($('<a>').text(f.title).attr('href', f.link)));
       });
       $related.fadeIn('slow');
