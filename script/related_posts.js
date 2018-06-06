@@ -38,6 +38,7 @@ Logroid.related_posts = Logroid.related_posts || (function(logroid) {
     if (f.length == 0) {
       return f;
     }
+    console.dir(f);
     console.dir(f.flatten());
     $.each(f.flatten(), function(i, ff) {
       if (!ff.link.endsWith(excludeUrl) && urls.indexOf(ff.link) == -1) {
