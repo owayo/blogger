@@ -27,7 +27,7 @@ Logroid.related_posts = Logroid.related_posts || (function(logroid) {
     });
   }
 
-  function getLabelsFeed(labels) {
+  function getLabelsFeed(labels, excludeUrl) {
     var f = [],
       uniq = [],
       urls = [];
@@ -36,7 +36,7 @@ Logroid.related_posts = Logroid.related_posts || (function(logroid) {
     });
     f = Array.prototype.concat.apply([], f);
     $.each(f, function(i, ff) {
-      if (urls.indexOf(ff.link) == -1) {
+      if (ff.link != excludeUrl && urls.indexOf(ff.link) == -1) {
         uniq.push(ff);
       }
       urls.push(ff.link);
@@ -57,8 +57,15 @@ Logroid.related_posts = Logroid.related_posts || (function(logroid) {
       var $entry = $(entry),
         $related = $entry.find('.post-related'),
         $list = $related.find('.list'),
-        labels = getLabel($entry);
-      $.each(getLabelsFeed(labels), function(i, f) {
+        labels = getLabel($entry),
+        $url = $('link[rel="canonical"]'),
+        url = null;
+      if ($url.length > 0) {
+        url = $url.attr('href');
+      } else {
+        url = $entry.find('.post-title.entry-title>a').attr('href');
+      }
+      $.each(getLabelsFeed(labels, url), function(i, f) {
         $list.append($('<li>').append($('<a>').text(f.title).attr('href', f.link)));
       });
       $related.fadeIn('slow');
@@ -103,8 +110,6 @@ Logroid.related_posts = Logroid.related_posts || (function(logroid) {
       console.dir(labels);
       getFeed(labels, 0);
     }
-
-
   };
 })(Logroid);
 $(function() {
