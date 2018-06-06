@@ -58,7 +58,7 @@ Logroid.related_posts = Logroid.related_posts || (function(logroid) {
         $related = $entry.find('.post-related'),
         $list = $related.find('.list'),
         labels = getLabel($entry),
-        $url = $('link[rel="canonical"][href$=.html]'),
+        $url = $('link[rel="canonical"][href$=".html"]'),
         url = null;
       if ($url.length > 0) {
         url = $url.attr('href');
