@@ -40,8 +40,6 @@ Logroid.related_posts = Logroid.related_posts || (function(logroid) {
     if (f.length == 0) {
       return f;
     }
-    console.dir(f);
-    console.dir(f.flatten());
     $.each(f.flatten(), function(i, ff) {
       if (!ff.link.endsWith(excludeUrl) && urls.indexOf(ff.link) == -1) {
         uniq.push(ff);
@@ -59,7 +57,6 @@ Logroid.related_posts = Logroid.related_posts || (function(logroid) {
   }
 
   function drawRelatedPost() {
-    console.dir(feed);
     logroid.related_posts.$entries.each(function(i, entry) {
       var $entry = $(entry),
         $related = $entry.find('.post-related'),
@@ -74,7 +71,6 @@ Logroid.related_posts = Logroid.related_posts || (function(logroid) {
       }
       var feedList = getLabelsFeed(labels, url);
       console.dir(feedList);
-      console.info(url);
       if (feedList.length == 0) {
         return;
       }
