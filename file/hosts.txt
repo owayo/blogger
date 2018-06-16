@@ -4,8 +4,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2018/06/04
-# block hosts: 33065 entry
+# last updated: 2018/06/16
+# block hosts: 33069 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -8121,6 +8121,10 @@ white yt3.ggpht.com
 # afftrackinglinks.com
 127.0.0.1 afftrackinglinks.com
 127.0.0.1 www.afftrackinglinks.com
+
+# afi-b.com
+127.0.0.1 t.afi-b.com
+127.0.0.1 www.afi-b.com
 
 # afixi.com
 127.0.0.1 ads.afixi.com
@@ -32896,6 +32900,9 @@ white yt3.ggpht.com
 # jiemai-tech.com
 127.0.0.1 ad.jiemai-tech.com
 
+# jinjin-tv.net
+127.0.0.1 jinjin-tv.net
+
 # jinkads.de
 127.0.0.1 jinkads.de
 
@@ -50467,6 +50474,7 @@ white yt3.ggpht.com
 
 # smv.to
 127.0.0.1 ad.smv.to
+127.0.0.1 candy.smv.to
 
 # snacktools.net
 127.0.0.1 stats.snacktools.net
