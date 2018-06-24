@@ -4,8 +4,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2018/06/16
-# block hosts: 33069 entry
+# last updated: 2018/06/24
+# block hosts: 33070 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -22289,6 +22289,9 @@ white yt3.ggpht.com
 
 # erotizer.info
 127.0.0.1 erotizer.info
+
+# erotube69.pw
+127.0.0.1 erotube69.pw
 
 # erotyka.zy.pl
 127.0.0.1 r.ranking.erotyka.zy.pl
