@@ -4,8 +4,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2018/06/24
-# block hosts: 33070 entry
+# last updated: 2018/07/18
+# block hosts: 33076 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -23442,6 +23442,9 @@ white yt3.ggpht.com
 # fedsit.com
 127.0.0.1 fedsit.com
 
+# feeda.info
+127.0.0.1 feeda.info
+
 # feedbackresearch.com
 127.0.0.1 feedbackresearch.com
 
@@ -40250,6 +40253,7 @@ white yt3.ggpht.com
 127.0.0.1 s.nend.net
 127.0.0.1 s2.nend.net
 127.0.0.1 vdapp.nend.net
+127.0.0.1 www.nend.net
 
 # nengu.jp
 127.0.0.1 x6.nengu.jp
@@ -41674,7 +41678,9 @@ white yt3.ggpht.com
 
 # oct-pass.net
 127.0.0.1 js.oct-pass.net
+127.0.0.1 log.oct-pass.net
 127.0.0.1 oct-pass.net
+127.0.0.1 static.oct-pass.net
 
 # octopuspop.com
 127.0.0.1 ap.octopuspop.com
@@ -46220,6 +46226,9 @@ white yt3.ggpht.com
 
 # rateit.com
 127.0.0.1 click.rateit.com
+
+# rating-widget.com
+127.0.0.1 js.rating-widget.com
 
 # ratix.no
 127.0.0.1 c.ratix.no
@@ -55801,6 +55810,7 @@ white yt3.ggpht.com
 
 # turn.com
 127.0.0.1 ad.turn.com
+127.0.0.1 ad2.cdns.turn.com
 127.0.0.1 ad2.turn.com
 127.0.0.1 cdn.turn.com
 127.0.0.1 r.turn.com
