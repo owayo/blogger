@@ -4,8 +4,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2018/07/18
-# block hosts: 33076 entry
+# last updated: 2018/08/13
+# block hosts: 33077 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -46,6 +46,7 @@ white web-jp.ad-v.jp
 white ws.tapjoyads.com
 white www.google-analytics.com
 white www.googleadservices.com
+white youtube.googleapis.com
 white yt3.ggpht.com
 
 # 000webhost.com
@@ -645,6 +646,9 @@ white yt3.ggpht.com
 
 # 2blo.net
 127.0.0.1 2blo.net
+
+# 2ch.live
+127.0.0.1 ad.2ch.live
 
 # 2ch.net
 127.0.0.1 count.2ch.net
@@ -4133,6 +4137,9 @@ white yt3.ggpht.com
 # ad-net.co.uk
 127.0.0.1 tools.ad-net.co.uk
 127.0.0.1 www.ad-net.co.uk
+
+# ad-nex.com
+127.0.0.1 ad-nex.com
 
 # ad-pay.de
 127.0.0.1 ad-pay.de
@@ -26708,9 +26715,6 @@ white yt3.ggpht.com
 
 # googleanalyticsclicks.com
 127.0.0.1 googleanalyticsclicks.com
-
-# googleapis.com
-127.0.0.1 youtube.googleapis.com
 
 # googlecode.com
 127.0.0.1 analytics-api-samples.googlecode.com
