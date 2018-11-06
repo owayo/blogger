@@ -4,8 +4,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2018/08/13
-# block hosts: 33077 entry
+# last updated: 2018/11/06
+# block hosts: 33089 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -3591,6 +3591,9 @@ white yt3.ggpht.com
 # aaacafe.ne.jp
 127.0.0.1 f45c.aaacafe.ne.jp
 
+# aaacompany.net
+127.0.0.1 srv1.aaacompany.net
+
 # aaaf.jp
 127.0.0.1 aaaf.jp
 127.0.0.1 www.aaaf.jp
@@ -5686,6 +5689,10 @@ white yt3.ggpht.com
 # adnico.jp
 127.0.0.1 100291.adnico.jp
 127.0.0.1 adnico.jp
+127.0.0.1 js.adnico.jp
+
+# adnium.com
+127.0.0.1 a.adnium.com
 
 # adnxs.com
 127.0.0.1 admeld.adnxs.com
@@ -5882,6 +5889,9 @@ white yt3.ggpht.com
 
 # adpolestar.net
 127.0.0.1 adpolestar.net
+
+# adpon.jp
+127.0.0.1 ad.adpon.jp
 
 # adpon.net
 127.0.0.1 adpon.net
@@ -23218,6 +23228,9 @@ white yt3.ggpht.com
 127.0.0.1 a.as-us.falkag.net
 127.0.0.1 red01.as-us.falkag.net
 
+# fam-8.com
+127.0.0.1 public.fam-8.com
+
 # fam-ad.com
 127.0.0.1 fam-ad.com
 
@@ -25269,6 +25282,9 @@ white yt3.ggpht.com
 
 # fywap.com
 127.0.0.1 hi.fywap.com
+
+# g-af.com
+127.0.0.1 www.g-af.com
 
 # g-deai.net
 127.0.0.1 image.g-deai.net
@@ -32910,6 +32926,9 @@ white yt3.ggpht.com
 # jiemai-tech.com
 127.0.0.1 ad.jiemai-tech.com
 
+# jim-dandy.jp
+127.0.0.1 jim-dandy.jp
+
 # jinjin-tv.net
 127.0.0.1 jinjin-tv.net
 
@@ -33300,6 +33319,10 @@ white yt3.ggpht.com
 
 # kaboodle.com
 127.0.0.1 dc.kaboodle.com
+
+# kaffnet.com
+127.0.0.1 ad.adapter.kaffnet.com
+127.0.0.1 ad.api.kaffnet.com
 
 # kagennotuki.com
 127.0.0.1 x8.kagennotuki.com
@@ -35926,6 +35949,9 @@ white yt3.ggpht.com
 
 # m-live.jp
 127.0.0.1 asp.m-live.jp
+
+# m-space.jp
+127.0.0.1 md.m-space.jp
 
 # m1e.net
 127.0.0.1 m01.m1e.net
@@ -38902,6 +38928,9 @@ white yt3.ggpht.com
 # mximg.com
 127.0.0.1 title.mximg.com
 
+# mxmkitchen.com
+127.0.0.1 mxmkitchen.com
+
 # mxpnl.com
 127.0.0.1 cdn.mxpnl.com
 
@@ -40334,6 +40363,9 @@ white yt3.ggpht.com
 
 # net-pratique.fr
 127.0.0.1 www.net-pratique.fr
+
+# net-public.com
+127.0.0.1 s.net-public.com
 
 # net-s-sof-t-open.site
 127.0.0.1 net-s-sof-t-open.site
@@ -45111,6 +45143,7 @@ white yt3.ggpht.com
 
 # prf.hn
 127.0.0.1 aos-creative.prf.hn
+127.0.0.1 creative.prf.hn
 
 # pricebandit.com
 127.0.0.1 pricebandit.com
@@ -56112,7 +56145,6 @@ white yt3.ggpht.com
 
 # uliza.jp
 127.0.0.1 ad-beacon-v01.uliza.jp
-127.0.0.1 www2.uliza.jp
 
 # ultimaguard.com
 127.0.0.1 pay1.ultimaguard.com
