@@ -4,8 +4,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2018/11/06
-# block hosts: 33089 entry
+# last updated: 2018/12/08
+# block hosts: 33091 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -7015,6 +7015,9 @@ white yt3.ggpht.com
 
 # adtrix.com
 127.0.0.1 netshelter.adtrix.com
+
+# adtrue.com
+127.0.0.1 cdn.adtrue.com
 
 # adtube.de
 127.0.0.1 ads.adtube.de
@@ -53214,6 +53217,7 @@ white yt3.ggpht.com
 127.0.0.1 ax6.a.tea-nifty.com
 
 # teads.tv
+127.0.0.1 a.teads.tv
 127.0.0.1 cdn.teads.tv
 127.0.0.1 teads.tv
 
