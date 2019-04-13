@@ -4,8 +4,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2018/12/08
-# block hosts: 33091 entry
+# last updated: 2019/04/13
+# block hosts: 33102 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -6925,6 +6925,9 @@ white yt3.ggpht.com
 # adtive.co.kr
 127.0.0.1 ad5.adtive.co.kr
 127.0.0.1 ad7.adtive.co.kr
+
+# adtng.com
+127.0.0.1 a.adtng.com
 
 # adtoll.com
 127.0.0.1 adserve.adtoll.com
@@ -17618,6 +17621,9 @@ white yt3.ggpht.com
 # cosmocode.de
 127.0.0.1 foo.cosmocode.de
 
+# cosp.jp
+127.0.0.1 ad.cosp.jp
+
 # cossette.com
 127.0.0.1 cossette.com
 
@@ -19754,6 +19760,9 @@ white yt3.ggpht.com
 
 # dlbooks.to
 127.0.0.1 gum.dlbooks.to
+
+# dlero.net
+127.0.0.1 dlero.net
 
 # dlpo.jp
 127.0.0.1 dlpo.jp
@@ -22844,6 +22853,7 @@ white yt3.ggpht.com
 127.0.0.1 exchangeclicksonline.com
 
 # excite.co.jp
+127.0.0.1 ad-wisteria.excite.co.jp
 127.0.0.1 adimp.excite.co.jp
 127.0.0.1 adimpkwd.excite.co.jp
 127.0.0.1 hs.excite.co.jp
@@ -34801,6 +34811,9 @@ white yt3.ggpht.com
 # listinus.de
 127.0.0.1 banner.listinus.de
 
+# litaheart.com
+127.0.0.1 system.litaheart.com
+
 # litas.com
 127.0.0.1 litas.com
 
@@ -36124,6 +36137,9 @@ white yt3.ggpht.com
 # magnify.net
 127.0.0.1 stats.magnify.net
 127.0.0.1 thirdworld.magnify.net
+
+# mahimeta.com
+127.0.0.1 mahimeta.com
 
 # maho.jp
 127.0.0.1 ad2.maho.jp
@@ -37889,6 +37905,7 @@ white yt3.ggpht.com
 # moatads.com
 127.0.0.1 js.moatads.com
 127.0.0.1 moatads.com
+127.0.0.1 z.moatads.com
 
 # moba8.net
 127.0.0.1 moba8.net
@@ -45549,6 +45566,9 @@ white yt3.ggpht.com
 127.0.0.1 showadsak.pubmatic.com
 127.0.0.1 track.pubmatic.com
 
+# pubmine.com
+127.0.0.1 s.pubmine.com
+
 # pubnative.net
 127.0.0.1 api.pubnative.net
 
@@ -47263,6 +47283,9 @@ white yt3.ggpht.com
 # rightstats.com
 127.0.0.1 rightstats.com
 127.0.0.1 www.rightstats.com
+
+# rihoworld.com
+127.0.0.1 www.rihoworld.com
 
 # rihzsedipaqq.com
 127.0.0.1 rihzsedipaqq.com
@@ -54858,6 +54881,9 @@ white yt3.ggpht.com
 # trackingmaster.co.cc
 127.0.0.1 trackingmaster.co.cc
 
+# trackingpro.pro
+127.0.0.1 spot-01.trackingpro.pro
+
 # trackingsoft.com
 127.0.0.1 trackingsoft.com
 
@@ -59524,6 +59550,9 @@ white yt3.ggpht.com
 127.0.0.1 ads.xbiz.com
 127.0.0.1 engine.xbiz.com
 127.0.0.1 exchange.xbiz.com
+
+# xbooks.to
+127.0.0.1 gum.xbooks.to
 
 # xbox.com
 127.0.0.1 o.xbox.com
