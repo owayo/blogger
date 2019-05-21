@@ -4,8 +4,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2019/04/13
-# block hosts: 33102 entry
+# last updated: 2019/05/22
+# block hosts: 33105 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -4207,6 +4207,7 @@ white yt3.ggpht.com
 127.0.0.1 dist.adp.ad-stir.com
 127.0.0.1 dist.bpc.ad-stir.com
 127.0.0.1 js.ad-stir.com
+127.0.0.1 nad.ad-stir.com
 127.0.0.1 rtb.ad-stir.com
 127.0.0.1 sync.ad-stir.com
 
@@ -6765,6 +6766,7 @@ white yt3.ggpht.com
 127.0.0.1 ad.amanad.adtdp.com
 127.0.0.1 ad.caprofitx.adtdp.com
 127.0.0.1 adp-pubd-static.adtdp.com
+127.0.0.1 adsd-sync.amanad.adtdp.com
 127.0.0.1 adtdp.com
 127.0.0.1 cdn.as.amanad.adtdp.com
 127.0.0.1 imp.amanad.adtdp.com
@@ -30275,6 +30277,7 @@ white yt3.ggpht.com
 127.0.0.1 as.wi.impact-ad.jp
 127.0.0.1 as.yl.impact-ad.jp
 127.0.0.1 aw.dw.impact-ad.jp
+127.0.0.1 c.one.impact-ad.jp
 127.0.0.1 ch.impact-ad.jp
 127.0.0.1 dc.impact-ad.jp
 127.0.0.1 img.ak.impact-ad.jp
