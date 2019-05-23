@@ -4,8 +4,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2019/05/22
-# block hosts: 33105 entry
+# last updated: 2019/05/24
+# block hosts: 33135 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -13,24 +13,56 @@
 fe80::1%lo0     localhost
 
 # white list
+white 10.afs.googleadservices.com
+white 18.afs.googleadservices.com
+white 2.afs.googleadservices.com
+white 4.afs.googleadservices.com
 white aax-fe.amazon-adsystem.com
 white ad-api-v01.uliza.jp
 white ad.dmm.com
 white ad.doubleclick.net
 white api.r10s.jp
 white app-adforce.jp
+white beacons-blackholed.gcp.gvt2.com
+white beacons-handoff.gcp.gvt2.com
+white beacons.gcp.gvt2.com
+white beacons.gvt2.com
+white beacons2.gvt2.com
+white beacons3.gvt2.com
+white beacons4.gvt2.com
+white beacons5.gvt2.com
+white beta.nav.cx
 white c.kakaku.com
 white clickserve.dartsearch.net
+white conn.nav.cx
 white edge-chat.facebook.com
 white facebook.com
 white fbcdn.net
 white fbsbx.com
+white feedads.googleadservices.com
+white gae-nel-asia-northeast1.gcp.gvt2.com
+white gae-nel-eu-west.gcp.gvt2.com
+white gae-nel-us-central.gcp.gvt2.com
+white gae-nel-us-east1.gcp.gvt2.com
+white gce-beacons.gcp.gvt2.com
+white gce-us-central1-c.gcp.gvt2.com
+white gce-us-east1-b.gcp.gvt2.com
+white imageads.googleadservices.com
 white imgstat.ameba.jp
 white lh3.ggpht.com
 white lh3.googleusercontent.com
 white line.me
 white m.facebook.com
+white nav.cx
+white o-o---preferred---fra---beacons.gvt2.com
+white o-o---preferred---sin11s03---gae-nel-us-central.gcp.gvt2.com
+white pagead2.googleadservices.com
 white pagead2.googlesyndication.com
+white partner.googleadservices.com
+white partnerssl.googleadservices.com
+white portus-28443170.gvt2.com
+white portus-31804820.gvt2.com
+white portus.gvt2.com
 white r.r10s.jp
 white r10.to
 white rd.rakuten.co.jp
@@ -4201,6 +4233,7 @@ white yt3.ggpht.com
 127.0.0.1 ad.ad-stir.com
 127.0.0.1 adtag.ad-stir.com
 127.0.0.1 api.ad-stir.com
+127.0.0.1 api.ad.ad-stir.com
 127.0.0.1 bypass-image.ad-stir.com
 127.0.0.1 bypass.ad-stir.com
 127.0.0.1 dist.ad-stir.com
@@ -4210,6 +4243,7 @@ white yt3.ggpht.com
 127.0.0.1 nad.ad-stir.com
 127.0.0.1 rtb.ad-stir.com
 127.0.0.1 sync.ad-stir.com
+127.0.0.1 tr.ad-stir.com
 
 # ad-tech.com
 127.0.0.1 ad-tech.com
@@ -6928,6 +6962,9 @@ white yt3.ggpht.com
 127.0.0.1 ad5.adtive.co.kr
 127.0.0.1 ad7.adtive.co.kr
 
+# adtlgc.com
+127.0.0.1 code3.adtlgc.com
+
 # adtng.com
 127.0.0.1 a.adtng.com
 
@@ -7835,6 +7872,7 @@ white yt3.ggpht.com
 
 # adzcore.com
 127.0.0.1 action.adzcore.com
+127.0.0.1 click.adzcore.com
 
 # adzele.com
 127.0.0.1 www.adzele.com
@@ -8382,10 +8420,12 @@ white yt3.ggpht.com
 
 # akamaihd.net
 127.0.0.1 inmobisdk-a.akamaihd.net
+127.0.0.1 middycdn-a.akamaihd.net
 127.0.0.1 redge-a.akamaihd.net
 127.0.0.1 tapjoycdn-a.akamaihd.net
 
 # akamaized.net
+127.0.0.1 browsi-a.akamaized.net
 127.0.0.1 cdn-guile.akamaized.net
 127.0.0.1 sfilegamefeat.akamaized.net
 127.0.0.1 speee-ad.akamaized.net
@@ -11642,8 +11682,12 @@ white yt3.ggpht.com
 127.0.0.1 bidclix.net
 127.0.0.1 www.bidclix.net
 
+# bidr.io
+127.0.0.1 match.prod.bidr.io
+
 # bidswitch.net
 127.0.0.1 bidswitch.net
+127.0.0.1 x.bidswitch.net
 
 # bidsystem.com
 127.0.0.1 atl.mv.bidsystem.com
@@ -11657,6 +11701,9 @@ white yt3.ggpht.com
 127.0.0.1 social.bidsystem.com
 127.0.0.1 socpixel.bidsystem.com
 127.0.0.1 tagline.bidsystem.com
+
+# bidtheatre.com
+127.0.0.1 match.adsby.bidtheatre.com
 
 # bidtheweb.com
 127.0.0.1 www.bidtheweb.com
@@ -20825,6 +20872,7 @@ white yt3.ggpht.com
 
 # duapps.com
 127.0.0.1 api.mobula.sdk.duapps.com
+127.0.0.1 nrcapi.ssl2.duapps.com
 127.0.0.1 pasta.esfile.duapps.com
 127.0.0.1 union-tracking.duapps.com
 
@@ -23264,6 +23312,9 @@ white yt3.ggpht.com
 
 # fancrew.jp
 127.0.0.1 fancrew.jp
+
+# fancs.com
+127.0.0.1 www.fancs.com
 
 # fandango.com
 127.0.0.1 a.fandango.com
@@ -26725,10 +26776,7 @@ white yt3.ggpht.com
 127.0.0.1 googleadsense.ya.com
 
 # googleadservices.com
-127.0.0.1 4.afs.googleadservices.com
-127.0.0.1 feedads.googleadservices.com
 127.0.0.1 googleadservices.com
-127.0.0.1 imageads.googleadservices.com
 127.0.0.1 imageads1.googleadservices.com
 127.0.0.1 imageads2.googleadservices.com
 127.0.0.1 imageads3.googleadservices.com
@@ -26738,8 +26786,6 @@ white yt3.ggpht.com
 127.0.0.1 imageads7.googleadservices.com
 127.0.0.1 imageads8.googleadservices.com
 127.0.0.1 imageads9.googleadservices.com
-127.0.0.1 pagead2.googleadservices.com
-127.0.0.1 partner.googleadservices.com
 
 # googleadsserving.cn
 127.0.0.1 static.googleadsserving.cn
@@ -27217,6 +27263,7 @@ white yt3.ggpht.com
 
 # gsspcln.jp
 127.0.0.1 gsspcln.jp
+127.0.0.1 js.gsspcln.jp
 
 # gssprt.jp
 127.0.0.1 gssprt.jp
@@ -27356,12 +27403,6 @@ white yt3.ggpht.com
 # gvt1.com
 127.0.0.1 r7---sn-oguesnls.gvt1.com
 
-# gvt2.com
-127.0.0.1 beacons.gvt2.com
-127.0.0.1 beacons2.gvt2.com
-127.0.0.1 beacons3.gvt2.com
-127.0.0.1 beacons4.gvt2.com
-
 # gw8888.com
 127.0.0.1 gw8888.com
 
@@ -27417,6 +27458,9 @@ white yt3.ggpht.com
 
 # hahaue.com
 127.0.0.1 ct2.hahaue.com
+
+# haina.jp
+127.0.0.1 image.haina.jp
 
 # hairboutique.com
 127.0.0.1 ads.hairboutique.com
@@ -29486,7 +29530,9 @@ white yt3.ggpht.com
 127.0.0.1 spcnv.i-mobile.co.jp
 127.0.0.1 spdeliver.i-mobile.co.jp
 127.0.0.1 spdeliverp.i-mobile.co.jp
+127.0.0.1 spdmg.i-mobile.co.jp
 127.0.0.1 spmeasure.i-mobile.co.jp
+127.0.0.1 spnativeapi.i-mobile.co.jp
 127.0.0.1 spnet2-1.i-mobile.co.jp
 127.0.0.1 spnet33.i-mobile.co.jp
 127.0.0.1 spnet5.i-mobile.co.jp
@@ -29495,6 +29541,7 @@ white yt3.ggpht.com
 127.0.0.1 spsvc3.i-mobile.co.jp
 127.0.0.1 spsvc4.i-mobile.co.jp
 127.0.0.1 spsvc5.i-mobile.co.jp
+127.0.0.1 ssp-bidapi.i-mobile.co.jp
 127.0.0.1 ssp-sync.i-mobile.co.jp
 127.0.0.1 xid.i-mobile.co.jp
 
@@ -35342,6 +35389,9 @@ white yt3.ggpht.com
 127.0.0.1 image.adv.livedoor.com
 127.0.0.1 st.search.livedoor.com
 
+# livedoor.jp
+127.0.0.1 t.blog.livedoor.jp
+
 # livedoor.net
 127.0.0.1 arms.livedoor.net
 127.0.0.1 blogroll.livedoor.net
@@ -35594,9 +35644,13 @@ white yt3.ggpht.com
 127.0.0.1 lm.logicalmedia.com
 
 # logly.co.jp
+127.0.0.1 abc.logly.co.jp
 127.0.0.1 b.logly.co.jp
+127.0.0.1 cdn.logly.co.jp
+127.0.0.1 dsp.logly.co.jp
 127.0.0.1 l.logly.co.jp
 127.0.0.1 logly.co.jp
+127.0.0.1 www.logly.co.jp
 
 # logua.com
 127.0.0.1 logua.com
@@ -36868,6 +36922,7 @@ white yt3.ggpht.com
 127.0.0.1 mediad.co.jp
 
 # mediad2.jp
+127.0.0.1 dsp.mediad2.jp
 127.0.0.1 js.mediad2.jp
 127.0.0.1 mediad2.jp
 
@@ -40288,8 +40343,10 @@ white yt3.ggpht.com
 127.0.0.1 ad7.nend.net
 127.0.0.1 ad8.nend.net
 127.0.0.1 ad9.nend.net
+127.0.0.1 board.nend.net
 127.0.0.1 c1.nend.net
 127.0.0.1 cs.nend.net
+127.0.0.1 dev.nend.net
 127.0.0.1 di.nend.net
 127.0.0.1 img1.nend.net
 127.0.0.1 impression.nend.net
@@ -40304,10 +40361,15 @@ white yt3.ggpht.com
 127.0.0.1 js9.nend.net
 127.0.0.1 lois.nend.net
 127.0.0.1 lona.nend.net
+127.0.0.1 lonb.nend.net
+127.0.0.1 lons.nend.net
+127.0.0.1 mtl.nend.net
 127.0.0.1 nend.net
 127.0.0.1 output.nend.net
 127.0.0.1 s.nend.net
 127.0.0.1 s2.nend.net
+127.0.0.1 us.nend.net
+127.0.0.1 v1.nend.net
 127.0.0.1 vdapp.nend.net
 127.0.0.1 www.nend.net
 
@@ -41028,6 +41090,7 @@ white yt3.ggpht.com
 127.0.0.1 newzia.jp
 
 # nex8.net
+127.0.0.1 cs.nex8.net
 127.0.0.1 nex8.net
 
 # nexac.com
@@ -41673,6 +41736,9 @@ white yt3.ggpht.com
 # o2onbusiness.de
 127.0.0.1 o2onbusiness.de
 127.0.0.1 www.o2onbusiness.de
+
+# o2u.jp
+127.0.0.1 a.o2u.jp
 
 # oaft.net
 127.0.0.1 oaft.net
@@ -50991,6 +51057,7 @@ white yt3.ggpht.com
 
 # speead.jp
 127.0.0.1 107008.speead.jp
+127.0.0.1 admin.speead.jp
 127.0.0.1 ads.speead.jp
 127.0.0.1 js.speead.jp
 127.0.0.1 speead.jp
@@ -57666,6 +57733,9 @@ white yt3.ggpht.com
 # vrbo.com
 127.0.0.1 om.vrbo.com
 
+# vrizead.com
+127.0.0.1 api.adserver.vrizead.com
+
 # vroomsearch.com
 127.0.0.1 vroomsearch.com
 127.0.0.1 www.vroomsearch.com
@@ -58832,6 +58902,9 @@ white yt3.ggpht.com
 
 # wiezoekje.nl
 127.0.0.1 ads.wiezoekje.nl
+
+# wifishare.jp
+127.0.0.1 api.wifishare.jp
 
 # wikia-beacon.com
 127.0.0.1 a.wikia-beacon.com
@@ -61098,8 +61171,13 @@ white yt3.ggpht.com
 127.0.0.1 zemanta.com
 
 # zenback.jp
+127.0.0.1 blog.zenback.jp
+127.0.0.1 designhack.zenback.jp
+127.0.0.1 oyaki.zenback.jp
 127.0.0.1 w.zenback.jp
+127.0.0.1 web-jinkaku.zenback.jp
 127.0.0.1 widget.zenback.jp
+127.0.0.1 www.zenback.jp
 
 # zencudo.co.uk
 127.0.0.1 ad.zencudo.co.uk
