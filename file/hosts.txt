@@ -5,7 +5,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2019/05/25
-# block hosts: 33490 entry
+# block hosts: 33445 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -55,9 +55,7 @@ white yt3.ggpht.com
 127.0.0.1 error404.000webhost.com
 
 # 0076.pics
-127.0.0.1 p9kzz.stream.0076.pics
 127.0.0.1 stream.0076.pics
-127.0.0.1 xevzz.stream.0076.pics
 
 # 00fun.com
 127.0.0.1 00fun.com
@@ -90,9 +88,6 @@ white yt3.ggpht.com
 
 # 076076.jp
 127.0.0.1 log.076076.jp
-
-# 08search.com
-127.0.0.1 08search.com
 
 # 0catch.com
 127.0.0.1 banner.0catch.com
@@ -145,9 +140,6 @@ white yt3.ggpht.com
 
 # 103bees.com
 127.0.0.1 103bees.com
-
-# 107.58.18
-127.0.0.1 184.107.58.18
 
 # 10click.com
 127.0.0.1 ads.10click.com
@@ -702,9 +694,6 @@ white yt3.ggpht.com
 # 2mng.com
 127.0.0.1 need.2mng.com
 
-# 2mobio.com
-127.0.0.1 av4.2mobio.com
-
 # 2ndads.com
 127.0.0.1 serve.2ndads.com
 
@@ -741,7 +730,6 @@ white yt3.ggpht.com
 127.0.0.1 agwebshots.112.2o7.net
 127.0.0.1 agyahooag.112.2o7.net
 127.0.0.1 albanytimesunion.122.2o7.net
-127.0.0.1 allabout.122.2o7.net
 127.0.0.1 allbritton.122.2o7.net
 127.0.0.1 amdvtest.112.2o7.net
 127.0.0.1 americanexpress.122.2o7.net
@@ -1017,7 +1005,6 @@ white yt3.ggpht.com
 127.0.0.1 eplans.112.2o7.net
 127.0.0.1 eremedia.112.2o7.net
 127.0.0.1 eset.122.2o7.net
-127.0.0.1 eurostar.122.2o7.net
 127.0.0.1 eventbrite.122.2o7.net
 127.0.0.1 evepdaggiesports.112.2o7.net
 127.0.0.1 evepdaikencom.112.2o7.net
@@ -1046,7 +1033,6 @@ white yt3.ggpht.com
 127.0.0.1 f2nmycareer.112.2o7.net
 127.0.0.1 f2nsmh.112.2o7.net
 127.0.0.1 f2ntheage.112.2o7.net
-127.0.0.1 facebookinc.122.2o7.net
 127.0.0.1 faceoff.112.2o7.net
 127.0.0.1 factiva.122.2o7.net
 127.0.0.1 farecastcom.122.2o7.net
@@ -1752,7 +1738,6 @@ white yt3.ggpht.com
 127.0.0.1 viaaddictingclips.112.2o7.net
 127.0.0.1 viaaddictinggames.112.2o7.net
 127.0.0.1 viaatom.112.2o7.net
-127.0.0.1 viaatomv6.112.2o7.net
 127.0.0.1 viabestweekever.112.2o7.net
 127.0.0.1 viacomedycentral.112.2o7.net
 127.0.0.1 viacomedycentralrl.112.2o7.net
@@ -1766,13 +1751,10 @@ white yt3.ggpht.com
 127.0.0.1 viamtvtr3s.112.2o7.net
 127.0.0.1 viamtvuk.112.2o7.net
 127.0.0.1 viamtvukdev.112.2o7.net
-127.0.0.1 viaquiz.112.2o7.net
 127.0.0.1 viarnd.112.2o7.net
 127.0.0.1 viasatsatelliteservices.112.2o7.net
 127.0.0.1 viashockwave.112.2o7.net
-127.0.0.1 viaspike.112.2o7.net
 127.0.0.1 viavh1com.112.2o7.net
-127.0.0.1 viavh1scandalist.112.2o7.net
 127.0.0.1 viavh1video.112.2o7.net
 127.0.0.1 viay2m.112.2o7.net
 127.0.0.1 victoriaadvocate.112.2o7.net
@@ -3213,9 +3195,6 @@ white yt3.ggpht.com
 # 6rooms.com
 127.0.0.1 pole.6rooms.com
 
-# 70.38.70
-127.0.0.1 195.70.38.70
-
 # 70e.com
 127.0.0.1 70e.com
 
@@ -3276,9 +3255,6 @@ white yt3.ggpht.com
 
 # 787787.com
 127.0.0.1 787787.com
-
-# 7889261.com
-127.0.0.1 dqrzz.super-hub.7889261.com
 
 # 7889596.com
 127.0.0.1 all.7889596.com
@@ -5488,7 +5464,6 @@ white yt3.ggpht.com
 127.0.0.1 static.adlantis.jp
 127.0.0.1 uuid.adlantis.jp
 127.0.0.1 vatan.adlantis.jp
-127.0.0.1 vatanir.adlantis.jp
 127.0.0.1 www.adlantis.jp
 
 # adlatte.co.jp
@@ -5789,7 +5764,6 @@ white yt3.ggpht.com
 127.0.0.1 adnext.fr
 
 # adnico.jp
-127.0.0.1 100291.adnico.jp
 127.0.0.1 adnico.jp
 127.0.0.1 js.adnico.jp
 
@@ -7596,7 +7570,6 @@ white yt3.ggpht.com
 127.0.0.1 uac.advertising.com
 127.0.0.1 wap.advertising.com
 127.0.0.1 www.advertising.com
-127.0.0.1 www.jp.advertising.com
 
 # advertising.cz
 127.0.0.1 advertising.cz
@@ -8488,34 +8461,48 @@ white yt3.ggpht.com
 # akamaihd.net
 127.0.0.1 104-129-204-60_s-184-26-143-105_ts-1554673078-clienttons-s.akamaihd.net
 127.0.0.1 104-129-205-19_s-184-26-143-105_ts-1558635888-clienttons-s.akamaihd.net
+127.0.0.1 12-163-76-45_s-23-204-109-88_ts-1558727820-clienttons-s.akamaihd.net
 127.0.0.1 165-225-106-172_s-104-102-246-24_ts-1558612139-clienttons-s.akamaihd.net
+127.0.0.1 165-225-38-147_s-208-185-118-88_ts-1558718308-clienttons-s.akamaihd.net
+127.0.0.1 165-225-38-147_s-208-185-118-96_ts-1558720138-clienttons-s.akamaihd.net
+127.0.0.1 165-225-60-49_s-184-50-239-105_ts-1558722234-clienttons-s.akamaihd.net
 127.0.0.1 165-225-60-61_s-23-222-248-35_ts-1558552447-clienttons-s.akamaihd.net
 127.0.0.1 165-225-68-64_s-2-23-84-111_ts-1558682485-clienttons-s.akamaihd.net
 127.0.0.1 165-225-73-41_s-2-20-189-26_ts-1558701671-clienttons-s.akamaihd.net
+127.0.0.1 165-225-80-106_s-88-221-134-242_ts-1558715898-clienttons-s.akamaihd.net
 127.0.0.1 165-225-81-5_s-88-221-134-242_ts-1558682213-clienttons-s.akamaihd.net
 127.0.0.1 205-134-47-254_s-208-185-118-96_ts-1558619773-clienttons-s.akamaihd.net
+127.0.0.1 205-134-63-8_s-23-215-131-203_ts-1558687044-clienttons-s.akamaihd.net
 127.0.0.1 205-134-63-8_s-23-3-13-153_ts-1558533516-clienttons-s.akamaihd.net
 127.0.0.1 209-137-133-210_s-23-60-96-67_ts-1558735269-clienttons-s.akamaihd.net
 127.0.0.1 2geyluqxhrqeqxhingsq-pauivs-65764fcd8-clientnsv4-s.akamaihd.net
 127.0.0.1 5visions1-a.akamaihd.net
+127.0.0.1 61-20-222-106_s-139-175-87-17_ts-1558760286-clienttons-s.akamaihd.net
+127.0.0.1 61-20-222-106_s-139-175-87-19_ts-1558760008-clienttons-s.akamaihd.net
 127.0.0.1 64-215-22-90_s-72-246-216-228_ts-1558551735-clienttons-s.akamaihd.net
 127.0.0.1 64-215-22-96_s-72-246-216-228_ts-1558703689-clienttons-s.akamaihd.net
+127.0.0.1 81-23-93-102_s-151-21-209-91_ts-1558603722-clienttons-s.akamaihd.net
 127.0.0.1 a114avoddashs3ww-a.akamaihd.net
 127.0.0.1 a132avodhlss3ww-a.akamaihd.net
 127.0.0.1 a215avoddashs3ww-a.akamaihd.net
+127.0.0.1 abp-i.akamaihd.net
 127.0.0.1 adformvod-vh.akamaihd.net
 127.0.0.1 aisvox-a.akamaihd.net
+127.0.0.1 apispecialboxsit-a.akamaihd.net
 127.0.0.1 appnext-a.akamaihd.net
 127.0.0.1 assetshuluimcom-a.akamaihd.net
 127.0.0.1 bcbolt446c5271-a.akamaihd.net
+127.0.0.1 bcbolte44808b7-a.akamaihd.net
 127.0.0.1 bcsecure01-a.akamaihd.net
 127.0.0.1 bilder-a.akamaihd.net
 127.0.0.1 bitdash-a.akamaihd.net
 127.0.0.1 blzddist1-a.akamaihd.net
 127.0.0.1 bnetcmsus-a.akamaihd.net
 127.0.0.1 boltacorn1-a.akamaihd.net
+127.0.0.1 bsruylixjc2egxhijsfq-pblnx9-877693a04-clientnsv4-s.akamaihd.net
 127.0.0.1 canvaspl-a.akamaihd.net
 127.0.0.1 cbsadsales-a.akamaihd.net
+127.0.0.1 cdnapps-a.akamaihd.net
 127.0.0.1 cdncache1-a.akamaihd.net
 127.0.0.1 cnnnews18-lh.akamaihd.net
 127.0.0.1 coubsecure-s.akamaihd.net
@@ -8523,6 +8510,7 @@ white yt3.ggpht.com
 127.0.0.1 csnnevod-f.akamaihd.net
 127.0.0.1 csnphivod-f.akamaihd.net
 127.0.0.1 dafitistaticcl-a.akamaihd.net
+127.0.0.1 dasersteuni-vh.akamaihd.net
 127.0.0.1 devicecbsnews-a.akamaihd.net
 127.0.0.1 ds-aksb-a.akamaihd.net
 127.0.0.1 eaassets-a.akamaihd.net
@@ -8541,17 +8529,32 @@ white yt3.ggpht.com
 127.0.0.1 hojeemdia-lh.akamaihd.net
 127.0.0.1 hrardmediathek-vh.akamaihd.net
 127.0.0.1 httpsak-a.akamaihd.net
+127.0.0.1 hu-a.akamaihd.net
+127.0.0.1 hukn42qxhfbecxhiysma-pwe4fo-8f65fdab1-clientnsv4-s.akamaihd.net
+127.0.0.1 hukn42ulv5lrexhiznpa-p9q7bh-d5bf84377-clientnsv4-s.akamaihd.net
+127.0.0.1 hukn42ulv5lrqxhizjea-pi1yqz-869e23cd7-clientnsv4-s.akamaihd.net
 127.0.0.1 i4c7f1c00-ds-aksb-a.akamaihd.net
+127.0.0.1 idlrmwwiraslgxhfts3a-p69nkn-4c0c10e58-clientnsv4-s.akamaihd.net
 127.0.0.1 idlrmygiraslgxhg2ala-ptn4gd-63aaf9f6c-clientnsv4-s.akamaihd.net
 127.0.0.1 inmobisdk-a.akamaihd.net
 127.0.0.1 iperformmedia-a.akamaihd.net
 127.0.0.1 kbget1-a.akamaihd.net
+127.0.0.1 kelv2zuxcxizsxhgm7fa-pgmxsm-75ad98d8f-clientnsv4-s.akamaihd.net
 127.0.0.1 lolstatic-a.akamaihd.net
 127.0.0.1 marquizquiz-a.akamaihd.net
 127.0.0.1 mazrldyx343yqxhisjja-pl8l5u-34ff9addb-clientnsv4-s.akamaihd.net
 127.0.0.1 middycdn-a.akamaihd.net
 127.0.0.1 mindjolt-a.akamaihd.net
 127.0.0.1 miteleooyala-a.akamaihd.net
+127.0.0.1 nca42faxaqqwkxheb2hq-f-25d090fac-clientnsv4-s.akamaihd.net
+127.0.0.1 nca42faxaqqwkxheb6pa-f-bbe68a2c1-clientnsv4-s.akamaihd.net
+127.0.0.1 nca42faxaqqwkxheb6zq-f-d9d05e64e-clientnsv4-s.akamaihd.net
+127.0.0.1 nca42faxaqqwkxhec2aq-f-0cfbba0b4-clientnsv4-s.akamaihd.net
+127.0.0.1 nca42faxaqqwkxhecgcq-f-bd075f8d9-clientnsv4-s.akamaihd.net
+127.0.0.1 nca42faxaqqwkxhechia-f-82fcad8f4-clientnsv4-s.akamaihd.net
+127.0.0.1 nca42faxaqqwkxhecpba-f-a962b99ba-clientnsv4-s.akamaihd.net
+127.0.0.1 nca42faxaqqwkxhecygq-f-d6c3fb338-clientnsv4-s.akamaihd.net
+127.0.0.1 nca42fcdqoqecxhechva-pnqrfi-7dd2a4586-clientnsv4-s.akamaihd.net
 127.0.0.1 ndxdxetw22qngxhirjbq-pyp6r1-1edcd2020-clientnsv4-s.akamaihd.net
 127.0.0.1 netrefer-a.akamaihd.net
 127.0.0.1 neulioneumt-a.akamaihd.net
@@ -8572,10 +8575,14 @@ white yt3.ggpht.com
 127.0.0.1 trial-eum-clientnsv4-s.akamaihd.net
 127.0.0.1 tv5flashlive-f.akamaihd.net
 127.0.0.1 ustvstaticcdn2-a.akamaihd.net
+127.0.0.1 uxqsne6m5whjuxhif2fa-pld5kd-255bf8660-clientnsv4-s.akamaihd.net
+127.0.0.1 uxqsne6m5whlqxhie5sa-pmqg2r-d9017d163-clientnsv4-s.akamaihd.net
+127.0.0.1 uxqtymlilotgcxhig25a-psjqsr-93126d7dc-clientnsv4-s.akamaihd.net
 127.0.0.1 uxqtypj74odugxhft57q-pyum1f-a049b6fc1-clientnsv4-s.akamaihd.net
 127.0.0.1 uxqtysyx25uuuxhg7r2a-pzdd53-436d175df-clientnsv4-s.akamaihd.net
 127.0.0.1 uxquiqc7mwhfsxhhtn2q-p68rpa-44d894bed-clientnsv4-s.akamaihd.net
 127.0.0.1 uxquskiccbvgaxhh4ztq-phrxlr-8c98be737-clientnsv4-s.akamaihd.net
+127.0.0.1 uxqva2sy3wdlexhidx5a-pwzc8v-f1b9b7173-clientnsv4-s.akamaihd.net
 127.0.0.1 uxqvcbky3wdlqxhhtjsq-ploz2k-5da22a9d8-clientnsv4-s.akamaihd.net
 127.0.0.1 vodibnlive-vh.akamaihd.net
 127.0.0.1 vodpresegmented-a.akamaihd.net
@@ -8589,15 +8596,19 @@ white yt3.ggpht.com
 127.0.0.1 zwdc77vf7y2faxhibyfa-f-8ab16849d-clientnsv4-s.akamaihd.net
 127.0.0.1 zwdd6caxamgxgxhfoxka-p3tzup-da5c47bf9-clientnsv4-s.akamaihd.net
 127.0.0.1 zwdd6caxamgzwxhfkwga-p42zu6-440268360-clientnsv4-s.akamaihd.net
+127.0.0.1 zwdd6caxamgzwxhhvvca-pstbpw-b448ea12f-clientnsv4-s.akamaihd.net
 127.0.0.1 zynga1-a.akamaihd.net
 
 # akamaized.net
 127.0.0.1 125skyfiregce-vimeo.akamaized.net
 127.0.0.1 132skyfiregce-vimeo.akamaized.net
 127.0.0.1 138skyfiregce-vimeo.akamaized.net
+127.0.0.1 140skyfiregce-vimeo.akamaized.net
 127.0.0.1 162skyfiregce-vimeo.akamaized.net
 127.0.0.1 164skyfiregce-vimeo.akamaized.net
+127.0.0.1 176skyfiregce-vimeo.akamaized.net
 127.0.0.1 194skyfiregce-vimeo.akamaized.net
+127.0.0.1 22skyfiregce-vimeo.akamaized.net
 127.0.0.1 4skyfiregce-vimeo.akamaized.net
 127.0.0.1 56skyfiregce-vimeo.akamaized.net
 127.0.0.1 66skyfiregce-vimeo.akamaized.net
@@ -8638,6 +8649,8 @@ white yt3.ggpht.com
 127.0.0.1 epsilonlivehls.akamaized.net
 127.0.0.1 eus-streaming-video-msn-com.akamaized.net
 127.0.0.1 feobuscape1.akamaized.net
+127.0.0.1 ferret-one.akamaized.net
+127.0.0.1 ferret.akamaized.net
 127.0.0.1 gamefaqs.akamaized.net
 127.0.0.1 gamepark.akamaized.net
 127.0.0.1 gamewith.akamaized.net
@@ -8656,17 +8669,22 @@ white yt3.ggpht.com
 127.0.0.1 mediahuisassets.akamaized.net
 127.0.0.1 megazebra-facebook-trails.akamaized.net
 127.0.0.1 mtvdashliveusp2-a.akamaized.net
+127.0.0.1 mtvdashvodcloud-a.akamaized.net
 127.0.0.1 mwf-service.akamaized.net
 127.0.0.1 myoptum.akamaized.net
 127.0.0.1 nbocdn.akamaized.net
 127.0.0.1 nbofront.akamaized.net
 127.0.0.1 newsradio.akamaized.net
+127.0.0.1 ninja.akamaized.net
 127.0.0.1 ocsstreaming.akamaized.net
 127.0.0.1 olyhdliveextraads-amd.akamaized.net
+127.0.0.1 opgg-cdn.akamaized.net
 127.0.0.1 orig-web2.akamaized.net
 127.0.0.1 originassets.akamaized.net
 127.0.0.1 p-nine.akamaized.net
+127.0.0.1 pe-ak-vp01a-9c9media.akamaized.net
 127.0.0.1 pe-ak-vp06a-9c9media.akamaized.net
+127.0.0.1 portalbr.akamaized.net
 127.0.0.1 repvideo-6-lh.akamaized.net
 127.0.0.1 res.akamaized.net
 127.0.0.1 roktcdn1.akamaized.net
@@ -8674,15 +8692,19 @@ white yt3.ggpht.com
 127.0.0.1 sfilegamefeat.akamaized.net
 127.0.0.1 shop23-makeshop.akamaized.net
 127.0.0.1 shop27-makeshop.akamaized.net
+127.0.0.1 slike-v.akamaized.net
 127.0.0.1 smlycdn.akamaized.net
 127.0.0.1 speee-ad.akamaized.net
 127.0.0.1 sportradar-lco.akamaized.net
 127.0.0.1 sprtsecureassets.akamaized.net
 127.0.0.1 static-dm.akamaized.net
 127.0.0.1 static-entertainment-eas-s-msn-com.akamaized.net
+127.0.0.1 static-spartan-eas-s-msn-com.akamaized.net
 127.0.0.1 statics-uhf-eus.akamaized.net
+127.0.0.1 statics-uhf-wus.akamaized.net
 127.0.0.1 statig0.akamaized.net
 127.0.0.1 stritz-prod.akamaized.net
+127.0.0.1 techrepublicmedia.akamaized.net
 127.0.0.1 tmsi.akamaized.net
 127.0.0.1 toofab.akamaized.net
 127.0.0.1 toy-static.akamaized.net
@@ -8841,9 +8863,6 @@ white yt3.ggpht.com
 # allantivirus.net
 127.0.0.1 allantivirus.net
 127.0.0.1 www.allantivirus.net
-
-# allapp.pw
-127.0.0.1 pldrgergelgllinkp.allapp.pw
 
 # allblet.net
 127.0.0.1 guide.allblet.net
@@ -9150,7 +9169,6 @@ white yt3.ggpht.com
 127.0.0.1 entrecard.s3.amazonaws.com
 127.0.0.1 exitsplash.s3.amazonaws.com
 127.0.0.1 forumwarz.s3.amazonaws.com
-127.0.0.1 google-protection.com.s3-website-ap-northeast-1.amazonaws.com
 127.0.0.1 html5adkit.plusmo.s3.amazonaws.com
 127.0.0.1 htmlads.s3.amazonaws.com
 127.0.0.1 inneractive-assets.s3.amazonaws.com
@@ -14932,9 +14950,6 @@ white yt3.ggpht.com
 # chicagotribune.com
 127.0.0.1 te.chicagotribune.com
 
-# chicappa.jp
-127.0.0.1 err.chicappa.jp
-
 # chicashumedas.com
 127.0.0.1 banners.chicashumedas.com
 
@@ -17435,7 +17450,6 @@ white yt3.ggpht.com
 
 # com.ua
 127.0.0.1 100.mbn.com.ua
-127.0.0.1 120.mbn.com.ua
 127.0.0.1 160.mbn.com.ua
 127.0.0.1 ab.adpro.com.ua
 127.0.0.1 ads.mp3-online.com.ua
@@ -18263,16 +18277,12 @@ white yt3.ggpht.com
 127.0.0.1 1es.cqcounter.com
 127.0.0.1 1fr.cqcounter.com
 127.0.0.1 1in.cqcounter.com
-127.0.0.1 1it.cqcounter.com
 127.0.0.1 1jo.cqcounter.com
 127.0.0.1 1nl.cqcounter.com
 127.0.0.1 1no.cqcounter.com
 127.0.0.1 1pt.cqcounter.com
 127.0.0.1 1se.cqcounter.com
-127.0.0.1 1si.cqcounter.com
-127.0.0.1 1th.cqcounter.com
 127.0.0.1 1tr.cqcounter.com
-127.0.0.1 1ua.cqcounter.com
 127.0.0.1 1uk.cqcounter.com
 127.0.0.1 1us.cqcounter.com
 127.0.0.1 1xxx.cqcounter.com
@@ -20610,7 +20620,6 @@ white yt3.ggpht.com
 # doubleclick.com
 127.0.0.1 ad.doubleclick.com
 127.0.0.1 ads.doubleclick.com
-127.0.0.1 amazon.doubleclick.com
 127.0.0.1 doubleclick.com
 127.0.0.1 m.doubleclick.com
 127.0.0.1 www.doubleclick.com
@@ -20695,9 +20704,6 @@ white yt3.ggpht.com
 127.0.0.1 ad2.doubleclick.net
 127.0.0.1 ad3.doubleclick.net
 127.0.0.1 ad4.doubleclick.net
-127.0.0.1 ad5.doubleclick.net
-127.0.0.1 ad6.doubleclick.net
-127.0.0.1 ad7.doubleclick.net
 127.0.0.1 ad8.doubleclick.net
 127.0.0.1 ad9.doubleclick.net
 127.0.0.1 adclick.g.doubleclick.net
@@ -23734,8 +23740,6 @@ white yt3.ggpht.com
 127.0.0.1 analyzer-img.fc2.com
 127.0.0.1 analyzer.fc2.com
 127.0.0.1 analyzer2.fc2.com
-127.0.0.1 analyzer3.fc2.com
-127.0.0.1 analyzer4.fc2.com
 127.0.0.1 analyzer5.fc2.com
 127.0.0.1 analyzer51.fc2.com
 127.0.0.1 analyzer52.fc2.com
@@ -26984,7 +26988,6 @@ white yt3.ggpht.com
 127.0.0.1 bwb101.goo.ne.jp
 127.0.0.1 log000.goo.ne.jp
 127.0.0.1 owb101.goo.ne.jp
-127.0.0.1 x.goo.ne.jp
 
 # good-black4u.com
 127.0.0.1 good-black4u.com
@@ -29280,9 +29283,6 @@ white yt3.ggpht.com
 127.0.0.1 hostscounter.com
 127.0.0.1 www.hostscounter.com
 
-# hot-dances.com
-127.0.0.1 1.hot-dances.com
-
 # hot-lindsay.com
 127.0.0.1 www.hot-lindsay.com
 
@@ -29531,9 +29531,6 @@ white yt3.ggpht.com
 
 # http-tunneling.com
 127.0.0.1 www.http-tunneling.com
-
-# httpdads.com
-127.0.0.1 1.httpdads.com
 
 # httpool.com
 127.0.0.1 ad.httpool.com
@@ -30638,7 +30635,6 @@ white yt3.ggpht.com
 127.0.0.1 img.mn.impact-ad.jp
 127.0.0.1 impact-ad.jp
 127.0.0.1 indo.id.sea.impact-ad.jp
-127.0.0.1 jc.impact-ad.jp
 127.0.0.1 m-us-ca.one.impact-ad.jp
 127.0.0.1 m.one.impact-ad.jp
 127.0.0.1 me.impact-ad.jp
@@ -30700,9 +30696,6 @@ white yt3.ggpht.com
 
 # impressionz.co.uk
 127.0.0.1 impressionz.co.uk
-
-# improve-system-online-service.com
-127.0.0.1 s.improve-system-online-service.com
 
 # impulseleads.com
 127.0.0.1 impulseleads.com
@@ -31426,7 +31419,6 @@ white yt3.ggpht.com
 # intellitxt.com
 127.0.0.1 10best.us.intellitxt.com
 127.0.0.1 1src.us.intellitxt.com
-127.0.0.1 1up.us.intellitxt.com
 127.0.0.1 247wallstreet.us.intellitxt.com
 127.0.0.1 24wrestling.us.intellitxt.com
 127.0.0.1 2snaps.us.intellitxt.com
@@ -32733,7 +32725,6 @@ white yt3.ggpht.com
 127.0.0.1 cnt1.itgear.jp
 
 # itmedia.co.jp
-127.0.0.1 ad.itmedia.co.jp
 127.0.0.1 fc.itmedia.co.jp
 127.0.0.1 tb.itmedia.co.jp
 
@@ -33484,9 +33475,6 @@ white yt3.ggpht.com
 
 # jp-yupp111.com
 127.0.0.1 jp-yupp111.com
-
-# jp18.com
-127.0.0.1 errors.jp18.com
 
 # jpbrand7.com
 127.0.0.1 jpbrand7.com
@@ -37877,7 +37865,6 @@ white yt3.ggpht.com
 127.0.0.1 advertiser.microad.jp
 127.0.0.1 aid.send.microad.jp
 127.0.0.1 associate.microad.jp
-127.0.0.1 bw.microad.jp
 127.0.0.1 cache.microad.jp
 127.0.0.1 cache.send.microad.jp
 127.0.0.1 cache.ssend.microad.jp
@@ -39487,12 +39474,10 @@ white yt3.ggpht.com
 127.0.0.1 bank01.mi.ads.mp.mydas.mobi
 127.0.0.1 bank01.mi.clicks.mp.mydas.mobi
 127.0.0.1 bank02.ads.dt.mydas.mobi
-127.0.0.1 bank02.ads.mp.mydas.mobi
 127.0.0.1 bank02.clicks.mp.mydas.mobi
 127.0.0.1 bank02.mi.ads.mp.mydas.mobi
 127.0.0.1 bank02.mi.clicks.mp.mydas.mobi
 127.0.0.1 bank03.ads.dt.mydas.mobi
-127.0.0.1 bank03.ads.mp.mydas.mobi
 127.0.0.1 bank03.clicks.mp.mydas.mobi
 127.0.0.1 bank03.mi.ads.mp.mydas.mobi
 127.0.0.1 bank03.mi.clicks.mp.mydas.mobi
@@ -39502,17 +39487,14 @@ white yt3.ggpht.com
 127.0.0.1 bank04.mi.ads.mp.mydas.mobi
 127.0.0.1 bank04.mi.clicks.mp.mydas.mobi
 127.0.0.1 bank05.ads.dt.mydas.mobi
-127.0.0.1 bank05.ads.mp.mydas.mobi
 127.0.0.1 bank05.clicks.mp.mydas.mobi
 127.0.0.1 bank05.mi.ads.mp.mydas.mobi
 127.0.0.1 bank05.mi.clicks.mp.mydas.mobi
 127.0.0.1 bank06.ads.dt.mydas.mobi
-127.0.0.1 bank06.ads.mp.mydas.mobi
 127.0.0.1 bank06.clicks.mp.mydas.mobi
 127.0.0.1 bank06.mi.ads.mp.mydas.mobi
 127.0.0.1 bank06.mi.clicks.mp.mydas.mobi
 127.0.0.1 bank07.ads.dt.mydas.mobi
-127.0.0.1 bank07.ads.mp.mydas.mobi
 127.0.0.1 bank07.clicks.mp.mydas.mobi
 127.0.0.1 bank07.mi.ads.mp.mydas.mobi
 127.0.0.1 bank07.mi.clicks.mp.mydas.mobi
@@ -39522,7 +39504,6 @@ white yt3.ggpht.com
 127.0.0.1 bank08.mi.ads.mp.mydas.mobi
 127.0.0.1 bank08.mi.clicks.mp.mydas.mobi
 127.0.0.1 bank09.ads.dt.mydas.mobi
-127.0.0.1 bank09.ads.mp.mydas.mobi
 127.0.0.1 bank09.clicks.mp.mydas.mobi
 127.0.0.1 bank09.mi.ads.mp.mydas.mobi
 127.0.0.1 bank09.mi.clicks.mp.mydas.mobi
@@ -39543,7 +39524,6 @@ white yt3.ggpht.com
 127.0.0.1 bank108.mi.clicks.mp.mydas.mobi
 127.0.0.1 bank109.mi.clicks.mp.mydas.mobi
 127.0.0.1 bank11.ads.dt.mydas.mobi
-127.0.0.1 bank11.ads.mp.mydas.mobi
 127.0.0.1 bank11.clicks.mp.mydas.mobi
 127.0.0.1 bank11.mi.ads.mp.mydas.mobi
 127.0.0.1 bank11.mi.clicks.mp.mydas.mobi
@@ -39558,7 +39538,6 @@ white yt3.ggpht.com
 127.0.0.1 bank118.mi.clicks.mp.mydas.mobi
 127.0.0.1 bank119.mi.clicks.mp.mydas.mobi
 127.0.0.1 bank12.ads.dt.mydas.mobi
-127.0.0.1 bank12.ads.mp.mydas.mobi
 127.0.0.1 bank12.clicks.mp.mydas.mobi
 127.0.0.1 bank12.mi.ads.mp.mydas.mobi
 127.0.0.1 bank12.mi.clicks.mp.mydas.mobi
@@ -39587,13 +39566,11 @@ white yt3.ggpht.com
 127.0.0.1 bank137.mi.clicks.mp.mydas.mobi
 127.0.0.1 bank138.mi.clicks.mp.mydas.mobi
 127.0.0.1 bank139.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank14.ads.mp.mydas.mobi
 127.0.0.1 bank14.clicks.mp.mydas.mobi
 127.0.0.1 bank14.mi.ads.mp.mydas.mobi
 127.0.0.1 bank14.mi.clicks.mp.mydas.mobi
 127.0.0.1 bank140.mi.clicks.mp.mydas.mobi
 127.0.0.1 bank15.ads.dt.mydas.mobi
-127.0.0.1 bank15.ads.mp.mydas.mobi
 127.0.0.1 bank15.clicks.mp.mydas.mobi
 127.0.0.1 bank15.mi.ads.mp.mydas.mobi
 127.0.0.1 bank15.mi.clicks.mp.mydas.mobi
@@ -39608,7 +39585,6 @@ white yt3.ggpht.com
 127.0.0.1 bank158.mi.clicks.mp.mydas.mobi
 127.0.0.1 bank159.mi.clicks.mp.mydas.mobi
 127.0.0.1 bank16.ads.dt.mydas.mobi
-127.0.0.1 bank16.ads.mp.mydas.mobi
 127.0.0.1 bank16.clicks.mp.mydas.mobi
 127.0.0.1 bank16.mi.ads.mp.mydas.mobi
 127.0.0.1 bank16.mi.clicks.mp.mydas.mobi
@@ -39619,7 +39595,6 @@ white yt3.ggpht.com
 127.0.0.1 bank164.mi.clicks.mp.mydas.mobi
 127.0.0.1 bank165.mi.clicks.mp.mydas.mobi
 127.0.0.1 bank17.ads.dt.mydas.mobi
-127.0.0.1 bank17.ads.mp.mydas.mobi
 127.0.0.1 bank17.clicks.mp.mydas.mobi
 127.0.0.1 bank17.mi.ads.mp.mydas.mobi
 127.0.0.1 bank17.mi.clicks.mp.mydas.mobi
@@ -39629,7 +39604,6 @@ white yt3.ggpht.com
 127.0.0.1 bank18.mi.ads.mp.mydas.mobi
 127.0.0.1 bank18.mi.clicks.mp.mydas.mobi
 127.0.0.1 bank19.ads.dt.mydas.mobi
-127.0.0.1 bank19.ads.mp.mydas.mobi
 127.0.0.1 bank19.clicks.mp.mydas.mobi
 127.0.0.1 bank19.mi.ads.mp.mydas.mobi
 127.0.0.1 bank19.mi.clicks.mp.mydas.mobi
@@ -39638,66 +39612,50 @@ white yt3.ggpht.com
 127.0.0.1 bank20.clicks.mp.mydas.mobi
 127.0.0.1 bank20.mi.ads.mp.mydas.mobi
 127.0.0.1 bank20.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank21.ads.mp.mydas.mobi
 127.0.0.1 bank21.clicks.mp.mydas.mobi
 127.0.0.1 bank21.mi.ads.mp.mydas.mobi
 127.0.0.1 bank21.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank22.ads.mp.mydas.mobi
 127.0.0.1 bank22.clicks.mp.mydas.mobi
 127.0.0.1 bank22.mi.ads.mp.mydas.mobi
 127.0.0.1 bank22.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank23.ads.mp.mydas.mobi
 127.0.0.1 bank23.clicks.mp.mydas.mobi
 127.0.0.1 bank23.mi.ads.mp.mydas.mobi
 127.0.0.1 bank23.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank24.ads.mp.mydas.mobi
 127.0.0.1 bank24.clicks.mp.mydas.mobi
 127.0.0.1 bank24.mi.ads.mp.mydas.mobi
 127.0.0.1 bank24.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank25.ads.mp.mydas.mobi
 127.0.0.1 bank25.clicks.mp.mydas.mobi
 127.0.0.1 bank25.mi.ads.mp.mydas.mobi
 127.0.0.1 bank25.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank26.ads.mp.mydas.mobi
 127.0.0.1 bank26.clicks.mp.mydas.mobi
 127.0.0.1 bank26.mi.ads.mp.mydas.mobi
 127.0.0.1 bank26.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank27.ads.mp.mydas.mobi
 127.0.0.1 bank27.clicks.mp.mydas.mobi
 127.0.0.1 bank27.mi.ads.mp.mydas.mobi
 127.0.0.1 bank27.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank28.ads.mp.mydas.mobi
 127.0.0.1 bank28.clicks.mp.mydas.mobi
 127.0.0.1 bank28.mi.ads.mp.mydas.mobi
 127.0.0.1 bank28.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank29.ads.mp.mydas.mobi
 127.0.0.1 bank29.clicks.mp.mydas.mobi
 127.0.0.1 bank29.mi.ads.mp.mydas.mobi
 127.0.0.1 bank29.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank30.ads.mp.mydas.mobi
 127.0.0.1 bank30.clicks.mp.mydas.mobi
 127.0.0.1 bank30.mi.ads.mp.mydas.mobi
 127.0.0.1 bank30.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank31.ads.mp.mydas.mobi
 127.0.0.1 bank31.clicks.mp.mydas.mobi
 127.0.0.1 bank31.mi.ads.mp.mydas.mobi
 127.0.0.1 bank31.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank32.ads.mp.mydas.mobi
 127.0.0.1 bank32.clicks.mp.mydas.mobi
 127.0.0.1 bank32.mi.ads.mp.mydas.mobi
 127.0.0.1 bank32.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank33.ads.mp.mydas.mobi
 127.0.0.1 bank33.clicks.mp.mydas.mobi
 127.0.0.1 bank33.mi.ads.mp.mydas.mobi
 127.0.0.1 bank33.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank34.ads.mp.mydas.mobi
 127.0.0.1 bank34.mi.ads.mp.mydas.mobi
 127.0.0.1 bank34.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank35.ads.mp.mydas.mobi
 127.0.0.1 bank35.clicks.mp.mydas.mobi
 127.0.0.1 bank35.mi.ads.mp.mydas.mobi
 127.0.0.1 bank35.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank36.ads.mp.mydas.mobi
 127.0.0.1 bank36.clicks.mp.mydas.mobi
 127.0.0.1 bank36.mi.ads.mp.mydas.mobi
 127.0.0.1 bank36.mi.clicks.mp.mydas.mobi
@@ -39705,23 +39663,18 @@ white yt3.ggpht.com
 127.0.0.1 bank37.clicks.mp.mydas.mobi
 127.0.0.1 bank37.mi.ads.mp.mydas.mobi
 127.0.0.1 bank37.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank38.ads.mp.mydas.mobi
 127.0.0.1 bank38.clicks.mp.mydas.mobi
 127.0.0.1 bank38.mi.ads.mp.mydas.mobi
 127.0.0.1 bank38.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank39.ads.mp.mydas.mobi
 127.0.0.1 bank39.clicks.mp.mydas.mobi
 127.0.0.1 bank39.mi.ads.mp.mydas.mobi
 127.0.0.1 bank39.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank40.ads.mp.mydas.mobi
 127.0.0.1 bank40.clicks.mp.mydas.mobi
 127.0.0.1 bank40.mi.ads.mp.mydas.mobi
 127.0.0.1 bank40.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank41.ads.mp.mydas.mobi
 127.0.0.1 bank41.clicks.mp.mydas.mobi
 127.0.0.1 bank41.mi.ads.mp.mydas.mobi
 127.0.0.1 bank41.mi.clicks.mp.mydas.mobi
-127.0.0.1 bank42.ads.mp.mydas.mobi
 127.0.0.1 bank42.clicks.mp.mydas.mobi
 127.0.0.1 bank42.mi.ads.mp.mydas.mobi
 127.0.0.1 bank42.mi.clicks.mp.mydas.mobi
@@ -40664,11 +40617,6 @@ white yt3.ggpht.com
 127.0.0.1 ad2.nend.net
 127.0.0.1 ad3.nend.net
 127.0.0.1 ad4.nend.net
-127.0.0.1 ad5.nend.net
-127.0.0.1 ad6.nend.net
-127.0.0.1 ad7.nend.net
-127.0.0.1 ad8.nend.net
-127.0.0.1 ad9.nend.net
 127.0.0.1 board.nend.net
 127.0.0.1 c1.nend.net
 127.0.0.1 cs.nend.net
@@ -40677,14 +40625,6 @@ white yt3.ggpht.com
 127.0.0.1 img1.nend.net
 127.0.0.1 impression.nend.net
 127.0.0.1 js1.nend.net
-127.0.0.1 js2.nend.net
-127.0.0.1 js3.nend.net
-127.0.0.1 js4.nend.net
-127.0.0.1 js5.nend.net
-127.0.0.1 js6.nend.net
-127.0.0.1 js7.nend.net
-127.0.0.1 js8.nend.net
-127.0.0.1 js9.nend.net
 127.0.0.1 lois.nend.net
 127.0.0.1 lona.nend.net
 127.0.0.1 lonb.nend.net
@@ -41073,7 +41013,6 @@ white yt3.ggpht.com
 127.0.0.1 leadback.netseer.com
 
 # netshelter.net
-127.0.0.1 1.servedby.netshelter.net
 127.0.0.1 ad.netshelter.net
 127.0.0.1 ad1.netshelter.net
 127.0.0.1 ad2.netshelter.net
@@ -46336,7 +46275,6 @@ white yt3.ggpht.com
 # qwapi.com
 127.0.0.1 ad.qwapi.com
 127.0.0.1 adbatch.qwapi.com
-127.0.0.1 event-img.qwapi.com
 127.0.0.1 img.qwapi.com
 
 # qwertystudios.com
@@ -47038,10 +46976,8 @@ white yt3.ggpht.com
 # redirectvoluum.com
 127.0.0.1 f0qbh.redirectvoluum.com
 127.0.0.1 j1nqm.redirectvoluum.com
-127.0.0.1 mdjjp.redirectvoluum.com
 127.0.0.1 mqot2.redirectvoluum.com
 127.0.0.1 oi2cz.redirectvoluum.com
-127.0.0.1 paxsj.redirectvoluum.com
 127.0.0.1 tmfps.redirectvoluum.com
 127.0.0.1 v9ds9.redirectvoluum.com
 
@@ -51610,7 +51546,6 @@ white yt3.ggpht.com
 
 # sprout-ad.com
 127.0.0.1 101623.sprout-ad.com
-127.0.0.1 101650.sprout-ad.com
 127.0.0.1 ads.sprout-ad.com
 127.0.0.1 d.sprout-ad.com
 127.0.0.1 i.sprout-ad.com
@@ -57153,10 +57088,8 @@ white yt3.ggpht.com
 
 # valueclick.jp
 127.0.0.1 ads.ict.valueclick.jp
-127.0.0.1 st.lidr.valueclick.jp
 
 # valueclick.ne.jp
-127.0.0.1 hosts.valueclick.ne.jp
 127.0.0.1 kansas.valueclick.ne.jp
 127.0.0.1 oz.valueclick.ne.jp
 127.0.0.1 st.valueclick.ne.jp
