@@ -4,8 +4,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2019/05/30
-# block hosts: 34575 entry
+# last updated: 2019/05/31
+# block hosts: 36380 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -69,7 +69,14 @@ white yt3.ggpht.com
 
 # 032439.com
 127.0.0.1 032439.com
+127.0.0.1 07nyzp7t6umbo1w3fsmyx.032439.com
+127.0.0.1 09www.032439.com
 127.0.0.1 80gw6ry3i3x3qbrkwhxhw.032439.com
+127.0.0.1 jkqu6nl1.032439.com
+127.0.0.1 ww2.032439.com
+127.0.0.1 www.032439.com
+127.0.0.1 www.09www.032439.com
+127.0.0.1 www.80gw6ry3i3x3qbrkwhxhw.032439.com
 
 # 0430.com
 127.0.0.1 cht.0430.com
@@ -122,6 +129,7 @@ white yt3.ggpht.com
 
 # 100webads.com
 127.0.0.1 100webads.com
+127.0.0.1 www.100webads.com
 
 # 101com.com
 127.0.0.1 101com.com
@@ -160,6 +168,7 @@ white yt3.ggpht.com
 127.0.0.1 1100i.com
 127.0.0.1 i.1100i.com
 127.0.0.1 images.1100i.com
+127.0.0.1 www.1100i.com
 
 # 1133.cc
 127.0.0.1 1133.cc
@@ -185,6 +194,8 @@ white yt3.ggpht.com
 # 123ads.nl
 127.0.0.1 123ads.nl
 127.0.0.1 ad.123ads.nl
+127.0.0.1 mail.123ads.nl
+127.0.0.1 stats.123ads.nl
 127.0.0.1 statz.123ads.nl
 
 # 123appz.com
@@ -196,6 +207,10 @@ white yt3.ggpht.com
 
 # 123count.com
 127.0.0.1 123count.com
+127.0.0.1 classic.123count.com
+127.0.0.1 count1.123count.com
+127.0.0.1 mail.123count.com
+127.0.0.1 server2.123count.com
 127.0.0.1 www.123count.com
 
 # 123counters.com
@@ -203,6 +218,10 @@ white yt3.ggpht.com
 
 # 123counts.com
 127.0.0.1 123counts.com
+127.0.0.1 counter.123counts.com
+127.0.0.1 mail.123counts.com
+127.0.0.1 ww2.123counts.com
+127.0.0.1 ww2.counter.123counts.com
 127.0.0.1 www.123counts.com
 
 # 123direct.info
@@ -210,9 +229,11 @@ white yt3.ggpht.com
 
 # 123found.com
 127.0.0.1 123found.com
+127.0.0.1 www.123found.com
 
 # 123go.com
 127.0.0.1 123go.com
+127.0.0.1 www.123go.com
 
 # 123go.net
 127.0.0.1 ns1.123go.net
@@ -226,6 +247,10 @@ white yt3.ggpht.com
 
 # 123pagerank.com
 127.0.0.1 123pagerank.com
+127.0.0.1 fr.123pagerank.com
+127.0.0.1 ro.123pagerank.com
+127.0.0.1 us.123pagerank.com
+127.0.0.1 www.123pagerank.com
 
 # 123stat.com
 127.0.0.1 123stat.com
@@ -240,6 +265,10 @@ white yt3.ggpht.com
 
 # 124365.com
 127.0.0.1 124365.com
+127.0.0.1 8fn01.124365.com
+127.0.0.1 h32l5.124365.com
+127.0.0.1 u9zqi6cq.124365.com
+127.0.0.1 www.124365.com
 
 # 128b.com
 127.0.0.1 ads.128b.com
@@ -268,6 +297,19 @@ white yt3.ggpht.com
 # 160tracker.com
 127.0.0.1 160tracker.com
 127.0.0.1 ads.160tracker.com
+127.0.0.1 adv.160tracker.com
+127.0.0.1 mobroll.160tracker.com
+127.0.0.1 offers.160tracker.com
+127.0.0.1 post.160tracker.com
+127.0.0.1 trusignal.160tracker.com
+127.0.0.1 ww1.160tracker.com
+127.0.0.1 ww1.adv.160tracker.com
+127.0.0.1 ww1.mobroll.160tracker.com
+127.0.0.1 ww17.trusignal.160tracker.com
+127.0.0.1 ww38.160tracker.com
+127.0.0.1 ww38.ads.160tracker.com
+127.0.0.1 ww38.adv.160tracker.com
+127.0.0.1 ww38.trusignal.160tracker.com
 127.0.0.1 www.160tracker.com
 
 # 163.com
@@ -290,11 +332,16 @@ white yt3.ggpht.com
 
 # 180hits.de
 127.0.0.1 180hits.de
+127.0.0.1 www.180hits.de
 
 # 180searchassistant.com
 127.0.0.1 180searchassistant.com
+127.0.0.1 cpanel.180searchassistant.com
+127.0.0.1 downloads.180searchassistant.com
 127.0.0.1 powered-by.180searchassistant.com
 127.0.0.1 searchresults.180searchassistant.com
+127.0.0.1 webdisk.180searchassistant.com
+127.0.0.1 webmail.180searchassistant.com
 127.0.0.1 www.180searchassistant.com
 
 # 180solutions.com
@@ -410,6 +457,7 @@ white yt3.ggpht.com
 
 # 1traff.ru
 127.0.0.1 1traff.ru
+127.0.0.1 www.1traff.ru
 
 # 1und1.com
 127.0.0.1 banner.1und1.com
@@ -422,6 +470,7 @@ white yt3.ggpht.com
 
 # 1x1rank.com
 127.0.0.1 1x1rank.com
+127.0.0.1 www.1x1rank.com
 
 # 1zabslwvn538n4i5tcjl.com
 127.0.0.1 1zabslwvn538n4i5tcjl.com
@@ -452,6 +501,7 @@ white yt3.ggpht.com
 
 # 2020search.com
 127.0.0.1 2020search.com
+127.0.0.1 search.2020search.com
 127.0.0.1 ws1.2020search.com
 127.0.0.1 www.2020search.com
 
@@ -592,6 +642,7 @@ white yt3.ggpht.com
 # 247wsr.com
 127.0.0.1 247wsr.com
 127.0.0.1 ads.247wsr.com
+127.0.0.1 www.247wsr.com
 
 # 24counter.com
 127.0.0.1 24counter.com
@@ -603,6 +654,8 @@ white yt3.ggpht.com
 
 # 24log.de
 127.0.0.1 24log.de
+127.0.0.1 counter.24log.de
+127.0.0.1 www.24log.de
 
 # 24log.es
 127.0.0.1 counter.24log.es
@@ -661,12 +714,16 @@ white yt3.ggpht.com
 
 # 2cpa.com
 127.0.0.1 2cpa.com
+127.0.0.1 randy-maugans.randy-maugans-wholesale-fraud-fake-traffic-real-money.2cpa.com
+127.0.0.1 www.2cpa.com
 
 # 2daygetaways.com
 127.0.0.1 2daygetaways.com
+127.0.0.1 www.2daygetaways.com
 
 # 2dollarfix.com
 127.0.0.1 2dollarfix.com
+127.0.0.1 www.2dollarfix.com
 
 # 2every.net
 127.0.0.1 2every.net
@@ -1932,6 +1989,7 @@ white yt3.ggpht.com
 127.0.0.1 pop10.2z0o.net
 127.0.0.1 pop2.2z0o.net
 127.0.0.1 req2.2z0o.net
+127.0.0.1 www10.2z0o.net
 
 # 301c.com
 127.0.0.1 www.301c.com
@@ -1986,10 +2044,19 @@ white yt3.ggpht.com
 
 # 3721.com
 127.0.0.1 3721.com
+127.0.0.1 assistant.3721.com
+127.0.0.1 cns.3721.com
 127.0.0.1 cnsmin.3721.com
+127.0.0.1 corp.3721.com
 127.0.0.1 download.3721.com
+127.0.0.1 help.3721.com
 127.0.0.1 img.3721.com
+127.0.0.1 shanghai.3721.com
+127.0.0.1 sms.3721.com
+127.0.0.1 union.3721.com
+127.0.0.1 user.3721.com
 127.0.0.1 www.3721.com
+127.0.0.1 zs.3721.com
 
 # 3721.net
 127.0.0.1 3721.net
@@ -2148,6 +2215,8 @@ white yt3.ggpht.com
 # 4d5.net
 127.0.0.1 4d5.net
 127.0.0.1 banners.4d5.net
+127.0.0.1 s0.4d5.net
+127.0.0.1 www.4d5.net
 
 # 4qsurvey.com
 127.0.0.1 4qsurvey.com
@@ -2215,6 +2284,11 @@ white yt3.ggpht.com
 
 # 518ad.com
 127.0.0.1 518ad.com
+127.0.0.1 dm.518ad.com
+127.0.0.1 lbwz.518ad.com
+127.0.0.1 pic.en.518ad.com
+127.0.0.1 plate.518ad.com
+127.0.0.1 www.518ad.com
 
 # 51link.com
 127.0.0.1 51link.com
@@ -2228,7 +2302,19 @@ white yt3.ggpht.com
 # 51yes.com
 127.0.0.1 51yes.com
 127.0.0.1 ad.51yes.com
+127.0.0.1 admincount33.51yes.com
+127.0.0.1 admincount42.51yes.com
+127.0.0.1 admincount8.51yes.com
+127.0.0.1 counf12.51yes.com
+127.0.0.1 counf17.51yes.com
+127.0.0.1 counf26.51yes.com
+127.0.0.1 counf29.51yes.com
+127.0.0.1 counf33.51yes.com
+127.0.0.1 counf44.51yes.com
+127.0.0.1 counf45.51yes.com
+127.0.0.1 counf6.51yes.com
 127.0.0.1 count.51yes.com
+127.0.0.1 count05.51yes.com
 127.0.0.1 count1.51yes.com
 127.0.0.1 count10.51yes.com
 127.0.0.1 count100.51yes.com
@@ -2452,6 +2538,7 @@ white yt3.ggpht.com
 127.0.0.1 count297.51yes.com
 127.0.0.1 count298.51yes.com
 127.0.0.1 count299.51yes.com
+127.0.0.1 count3--2.51yes.com
 127.0.0.1 count3.51yes.com
 127.0.0.1 count30.51yes.com
 127.0.0.1 count300.51yes.com
@@ -3230,7 +3317,9 @@ white yt3.ggpht.com
 127.0.0.1 count998.51yes.com
 127.0.0.1 count999.51yes.com
 127.0.0.1 countt.51yes.com
+127.0.0.1 demo.51yes.com
 127.0.0.1 www.51yes.com
+127.0.0.1 www2.51yes.com
 
 # 522kuaigo.com
 127.0.0.1 522kuaigo.com
@@ -3365,6 +3454,11 @@ white yt3.ggpht.com
 
 # 777blogz.com
 127.0.0.1 777blogz.com
+127.0.0.1 ftp.777blogz.com
+127.0.0.1 mail.777blogz.com
+127.0.0.1 pop.777blogz.com
+127.0.0.1 smtp.777blogz.com
+127.0.0.1 www.777blogz.com
 
 # 777partner.com
 127.0.0.1 777partner.com
@@ -3387,6 +3481,7 @@ white yt3.ggpht.com
 
 # 77search.com
 127.0.0.1 77search.com
+127.0.0.1 www.77search.com
 
 # 77tracking.com
 127.0.0.1 77tracking.com
@@ -3394,6 +3489,7 @@ white yt3.ggpht.com
 
 # 787787.com
 127.0.0.1 787787.com
+127.0.0.1 mail.787787.com
 
 # 7889596.com
 127.0.0.1 all.7889596.com
@@ -3406,7 +3502,12 @@ white yt3.ggpht.com
 127.0.0.1 www.7adpower.com
 
 # 7art-screensavers.com
+127.0.0.1 3d.7art-screensavers.com
 127.0.0.1 7art-screensavers.com
+127.0.0.1 clipart.7art-screensavers.com
+127.0.0.1 clock.7art-screensavers.com
+127.0.0.1 mail.7art-screensavers.com
+127.0.0.1 webmail.7art-screensavers.com
 127.0.0.1 www.7art-screensavers.com
 
 # 7bpeople.com
@@ -3431,14 +3532,20 @@ white yt3.ggpht.com
 
 # 7search.com
 127.0.0.1 7search.com
+127.0.0.1 blog.7search.com
 127.0.0.1 conversion.7search.com
+127.0.0.1 enews1.7search.com
+127.0.0.1 faq.7search.com
 127.0.0.1 ia1.7search.com
 127.0.0.1 img.7search.com
 127.0.0.1 meta.7search.com
+127.0.0.1 ns1.7search.com
+127.0.0.1 ns2.7search.com
 127.0.0.1 www.7search.com
 
 # 7shark.com
 127.0.0.1 7shark.com
+127.0.0.1 www.7shark.com
 
 # 7sultans.com
 127.0.0.1 7sultans.com
@@ -3566,6 +3673,7 @@ white yt3.ggpht.com
 
 # 99count.com
 127.0.0.1 99count.com
+127.0.0.1 www.99count.com
 
 # 99stats.com
 127.0.0.1 www.99stats.com
@@ -3584,6 +3692,10 @@ white yt3.ggpht.com
 
 # 9v.cn
 127.0.0.1 9v.cn
+127.0.0.1 back.9v.cn
+127.0.0.1 cpc2.9v.cn
+127.0.0.1 hd.9v.cn
+127.0.0.1 www.9v.cn
 
 # 9vad.com
 127.0.0.1 9vad.com
@@ -3811,9 +3923,25 @@ white yt3.ggpht.com
 
 # abacho.net
 127.0.0.1 abacho.net
+127.0.0.1 dbdmx.abacho.net
+127.0.0.1 dbdmx1.abacho.net
+127.0.0.1 dbdmx2.abacho.net
+127.0.0.1 dbdmx3.abacho.net
+127.0.0.1 dns01.abacho.net
+127.0.0.1 dns02.abacho.net
+127.0.0.1 mail.abacho.net
+127.0.0.1 mrqnsrcprhcb.abacho.net
+127.0.0.1 ngkkuhinubnc.abacho.net
+127.0.0.1 nudcnktbnvdo.abacho.net
+127.0.0.1 qwiizzpauayl.abacho.net
+127.0.0.1 smtp.abacho.net
+127.0.0.1 umtrnklbofif.abacho.net
+127.0.0.1 www.abacho.net
+127.0.0.1 yfjoqgvpoenj.abacho.net
 
 # abc-ads.com
 127.0.0.1 abc-ads.com
+127.0.0.1 www.abc-ads.com
 
 # abc15.com
 127.0.0.1 ewstv.abc15.com
@@ -3892,6 +4020,9 @@ white yt3.ggpht.com
 # aboutwebservices.com
 127.0.0.1 aboutwebservices.com
 127.0.0.1 ad.aboutwebservices.com
+127.0.0.1 betatest.aboutwebservices.com
+127.0.0.1 suspect1.aboutwebservices.com
+127.0.0.1 suspect2.aboutwebservices.com
 
 # aboutyouquestionsurvey.com
 127.0.0.1 aboutyouquestionsurvey.com
@@ -4176,9 +4307,6 @@ white yt3.ggpht.com
 # ad-arata.com
 127.0.0.1 ad-arata.com
 127.0.0.1 ad.ad-arata.com
-
-# ad-arata.s3.amazonaws.com
-127.0.0.1 ad-arata.s3.amazonaws.com
 
 # ad-bemti.com
 127.0.0.1 ad-bemti.com
@@ -4599,9 +4727,19 @@ white yt3.ggpht.com
 127.0.0.1 ads-svx.adbrite.com
 127.0.0.1 ads.adbrite.com
 127.0.0.1 b1.adbrite.com
+127.0.0.1 bounce.adbrite.com
 127.0.0.1 bstats.adbrite.com
 127.0.0.1 click.adbrite.com
 127.0.0.1 files.adbrite.com
+127.0.0.1 ljyllztvqgea.adbrite.com
+127.0.0.1 mga03.adbrite.com
+127.0.0.1 ns1-cont.adbrite.com
+127.0.0.1 ns2-cont.adbrite.com
+127.0.0.1 ns2.adbrite.com
+127.0.0.1 ns3-cont.adbrite.com
+127.0.0.1 ns3.adbrite.com
+127.0.0.1 ns4.adbrite.com
+127.0.0.1 ornslfmtoxjn.adbrite.com
 127.0.0.1 pic.adbrite.com
 127.0.0.1 site.www.adbrite.com
 127.0.0.1 stats.adbrite.com
@@ -5057,7 +5195,6 @@ white yt3.ggpht.com
 127.0.0.1 xml.adfclick1.com
 
 # adfirmative.com
-127.0.0.1 222-33544_999.pub.adfirmative.com
 127.0.0.1 c.adfirmative.com
 127.0.0.1 www.adfirmative.com
 
@@ -5713,9 +5850,6 @@ white yt3.ggpht.com
 127.0.0.1 ads.admarvel.com
 127.0.0.1 www.admarvel.com
 
-# admarvel.s3.amazonaws.com
-127.0.0.1 admarvel.s3.amazonaws.com
-
 # admaster.de
 127.0.0.1 admaster.de
 
@@ -5734,9 +5868,6 @@ white yt3.ggpht.com
 
 # admazing.com
 127.0.0.1 d.admazing.com
-
-# admed.net.ru
-127.0.0.1 admed.net.ru
 
 # admedia.com
 127.0.0.1 admedia.com
@@ -6306,9 +6437,6 @@ white yt3.ggpht.com
 # adpix.jp
 127.0.0.1 adpix.jp
 
-# adpixel.com.ru
-127.0.0.1 adpixel.com.ru
-
 # adplan-ds.com
 127.0.0.1 ad.adplan-ds.com
 127.0.0.1 adplan-ds.com
@@ -6360,6 +6488,9 @@ white yt3.ggpht.com
 
 # adpro.com.ua
 127.0.0.1 ab.adpro.com.ua
+127.0.0.1 ac.adpro.com.ua
+127.0.0.1 edu.adpro.com.ua
+127.0.0.1 www.adpro.com.ua
 
 # adprofile.net
 127.0.0.1 cb.adprofile.net
@@ -6408,6 +6539,37 @@ white yt3.ggpht.com
 
 # adready.com
 127.0.0.1 a.adready.com
+127.0.0.1 a.adready.coma.adready.com
+127.0.0.1 adgainer.adready.com
+127.0.0.1 adsupnow.adready.com
+127.0.0.1 advisr.adready.com
+127.0.0.1 asu.adready.com
+127.0.0.1 blog.adready.com
+127.0.0.1 bn.adready.com
+127.0.0.1 cosmopolitan.adready.com
+127.0.0.1 cpxiasia.adready.com
+127.0.0.1 csuorganizational.adready.com
+127.0.0.1 espn.adready.com
+127.0.0.1 everflow.adready.com
+127.0.0.1 iplookup.adready.com
+127.0.0.1 lookup.adready.com
+127.0.0.1 mediabuy.adready.com
+127.0.0.1 mni.adready.com
+127.0.0.1 nbcuniversal.adready.com
+127.0.0.1 nytimes.adready.com
+127.0.0.1 olsb.adready.com
+127.0.0.1 platform.adready.com
+127.0.0.1 premium.adready.com
+127.0.0.1 qiigo.adready.com
+127.0.0.1 seventeen.adready.com
+127.0.0.1 sfgate.adready.com
+127.0.0.1 simpleview.adready.com
+127.0.0.1 site.adready.com
+127.0.0.1 univision.adready.com
+127.0.0.1 www.adready.com
+127.0.0.1 yahoo.adready.com
+127.0.0.1 yahoomydisplayads.adready.com
+127.0.0.1 ymda.adready.com
 
 # adready.net
 127.0.0.1 adready.net
@@ -6540,9 +6702,6 @@ white yt3.ggpht.com
 
 # ads.cc
 127.0.0.1 ads.cc
-
-# ads.co.com
-127.0.0.1 ads.co.com
 
 # ads.dk
 127.0.0.1 ad.ads.dk
@@ -6755,9 +6914,6 @@ white yt3.ggpht.com
 # adserveuk.com
 127.0.0.1 adserveuk.com
 
-# adservice223.appspot.com
-127.0.0.1 adservice223.appspot.com
-
 # adservicedomain.info
 127.0.0.1 adservicedomain.info
 
@@ -6966,13 +7122,40 @@ white yt3.ggpht.com
 
 # adsonar.com
 127.0.0.1 37.adsonar.com
+127.0.0.1 abcnews.adsonar.com
 127.0.0.1 ads.adsonar.com
+127.0.0.1 ads.espn.adsonar.com
 127.0.0.1 ads.tw.adsonar.com
 127.0.0.1 adsonar.com
+127.0.0.1 aol.adsonar.com
+127.0.0.1 aolmail.adsonar.com
+127.0.0.1 asylum.adsonar.com
+127.0.0.1 careerbuilder.adsonar.com
+127.0.0.1 cnnmoney.adsonar.com
+127.0.0.1 dowjones.adsonar.com
+127.0.0.1 forbes.adsonar.com
 127.0.0.1 foxnews.adsonar.com
+127.0.0.1 golf.adsonar.com
+127.0.0.1 investingchannel.adsonar.com
 127.0.0.1 js.adsonar.com
+127.0.0.1 m-ads.adsonar.com
+127.0.0.1 merriam-webster.adsonar.com
 127.0.0.1 newsletter.adsonar.com
+127.0.0.1 optout.adsonar.com
+127.0.0.1 optout3.adsonar.com
 127.0.0.1 redir.adsonar.com
+127.0.0.1 roi.adsonar.com
+127.0.0.1 secure-js.adsonar.com
+127.0.0.1 sl-retargeting.adsonar.com
+127.0.0.1 southernprogress.adsonar.com
+127.0.0.1 ssl-ads-tw.adsonar.com
+127.0.0.1 ssl-ads.adsonar.com
+127.0.0.1 ssl-sl-retargeting.adsonar.com
+127.0.0.1 thehollywoodgossip.adsonar.com
+127.0.0.1 thestreet.adsonar.com
+127.0.0.1 time.adsonar.com
+127.0.0.1 washingtonpost.adsonar.com
+127.0.0.1 www.adsonar.com
 
 # adsonlineinc.com
 127.0.0.1 adsonlineinc.com
@@ -7096,9 +7279,6 @@ white yt3.ggpht.com
 # adtagger.com
 127.0.0.1 adtagger.com
 
-# adtago.s3.amazonaws.com
-127.0.0.1 adtago.s3.amazonaws.com
-
 # adtaily.com
 127.0.0.1 assets.adtaily.com
 127.0.0.1 static.adtaily.com
@@ -7183,6 +7363,7 @@ white yt3.ggpht.com
 127.0.0.1 ipacc1.adtech.fr
 127.0.0.1 ipdata.adtech.fr
 127.0.0.1 iq001.adtech.fr
+127.0.0.1 l.adtech.fr
 127.0.0.1 ldglob01.adtech.fr
 127.0.0.1 ldglob02.adtech.fr
 127.0.0.1 ldimage01.adtech.fr
@@ -7215,6 +7396,42 @@ white yt3.ggpht.com
 127.0.0.1 sgs001.adtech.fr
 127.0.0.1 sokrates.adtech.fr
 127.0.0.1 susi.adtech.fr
+127.0.0.1 upload.adtech.fr
+127.0.0.1 www.247support.adtech.fr
+127.0.0.1 www.adforce.adtech.fr
+127.0.0.1 www.adserv001.adtech.fr
+127.0.0.1 www.adserv002.adtech.fr
+127.0.0.1 www.adserv004.adtech.fr
+127.0.0.1 www.adserv006.adtech.fr
+127.0.0.1 www.adserv007.adtech.fr
+127.0.0.1 www.adserver.adtech.fr
+127.0.0.1 www.adtech.fr
+127.0.0.1 www.bitburg.adtech.fr
+127.0.0.1 www.corba.adtech.fr
+127.0.0.1 www.imageserv.adtech.fr
+127.0.0.1 www.imserv002.adtech.fr
+127.0.0.1 www.imserv00x.adtech.fr
+127.0.0.1 www.imssl01.adtech.fr
+127.0.0.1 www.ldglob01.adtech.fr
+127.0.0.1 www.ldimage01.adtech.fr
+127.0.0.1 www.ldserv01.adtech.fr
+127.0.0.1 www.manage001.adtech.fr
+127.0.0.1 www.pix521.adtech.fr
+127.0.0.1 www.report02.adtech.fr
+127.0.0.1 www.reporter.adtech.fr
+127.0.0.1 www.reporter001.adtech.fr
+127.0.0.1 www.schumacher.adtech.fr
+127.0.0.1 www.select001.adtech.fr
+127.0.0.1 www.select002.adtech.fr
+127.0.0.1 www.select004.adtech.fr
+127.0.0.1 www.service001.adtech.fr
+127.0.0.1 www.service002.adtech.fr
+127.0.0.1 www.service003.adtech.fr
+127.0.0.1 www.service00x.adtech.fr
+127.0.0.1 www.services.adtech.fr
+127.0.0.1 www.services1.adtech.fr
+127.0.0.1 www.susi.adtech.fr
+127.0.0.1 www.xml.adtech.fr
 127.0.0.1 xml.adtech.fr
 
 # adtech.info
@@ -7980,33 +8197,126 @@ white yt3.ggpht.com
 127.0.0.1 dsp.advertmediasdata.com
 
 # advertserve.com
+127.0.0.1 aaamidatlantic.advertserve.com
 127.0.0.1 aalbc.advertserve.com
 127.0.0.1 accva.advertserve.com
+127.0.0.1 adbetnet.advertserve.com
+127.0.0.1 adbetnetadmin.advertserve.com
+127.0.0.1 adchub.advertserve.com
+127.0.0.1 adchub2.advertserve.com
+127.0.0.1 additudemag.advertserve.com
+127.0.0.1 adesa.advertserve.com
+127.0.0.1 adkom.advertserve.com
 127.0.0.1 advertserve.com
+127.0.0.1 albawaba.advertserve.com
+127.0.0.1 alk.advertserve.com
+127.0.0.1 allstate.advertserve.com
+127.0.0.1 bahraincinema.advertserve.com
 127.0.0.1 bayoubuzz.advertserve.com
+127.0.0.1 betnetmed.advertserve.com
+127.0.0.1 bluellipse.advertserve.com
 127.0.0.1 cdn.advertserve.com
+127.0.0.1 cemnet.advertserve.com
+127.0.0.1 cineworld.advertserve.com
 127.0.0.1 circuit.advertserve.com
+127.0.0.1 collabo.advertserve.com
+127.0.0.1 customerthink.advertserve.com
+127.0.0.1 cybertraff.advertserve.com
 127.0.0.1 d2.advertserve.com
+127.0.0.1 dafabet.advertserve.com
+127.0.0.1 dbcc.advertserve.com
+127.0.0.1 demand.advertserve.com
+127.0.0.1 digginginteractive.advertserve.com
+127.0.0.1 digitalmedianet.advertserve.com
+127.0.0.1 distressedmullet.advertserve.com
 127.0.0.1 divavillage.advertserve.com
+127.0.0.1 dogstardaily.advertserve.com
+127.0.0.1 dominionpost.advertserve.com
+127.0.0.1 dotcomconsultancy.advertserve.com
 127.0.0.1 endi.advertserve.com
+127.0.0.1 exchange.advertserve.com
+127.0.0.1 eyemagazine.advertserve.com
+127.0.0.1 fhg.advertserve.com
 127.0.0.1 findbliss.advertserve.com
+127.0.0.1 fixedpos.advertserve.com
 127.0.0.1 foreignpolicy.advertserve.com
+127.0.0.1 forward.advertserve.com
 127.0.0.1 gazetteextra.advertserve.com
+127.0.0.1 gazettextra.advertserve.com
+127.0.0.1 gearslutz.advertserve.com
+127.0.0.1 generalaviationnews.advertserve.com
+127.0.0.1 ghafla.advertserve.com
+127.0.0.1 globalsmt.advertserve.com
+127.0.0.1 gmtoday.advertserve.com
+127.0.0.1 gtp.advertserve.com
+127.0.0.1 hmpads.advertserve.com
+127.0.0.1 hmpholdings.advertserve.com
 127.0.0.1 hometheaterreview.advertserve.com
+127.0.0.1 hutchgo.advertserve.com
 127.0.0.1 imagevenue.advertserve.com
 127.0.0.1 ipt-ltd.advertserve.com
 127.0.0.1 ipt.advertserve.com
+127.0.0.1 jazziz.advertserve.com
+127.0.0.1 jbn.advertserve.com
+127.0.0.1 jewishcontentnetwork.advertserve.com
+127.0.0.1 joslin.advertserve.com
 127.0.0.1 jra.advertserve.com
+127.0.0.1 kenyans.advertserve.com
+127.0.0.1 lbmjournal.advertserve.com
+127.0.0.1 leadcapitalcrpadmin.advertserve.com
+127.0.0.1 linuxgizmos.advertserve.com
+127.0.0.1 ljb.advertserve.com
+127.0.0.1 mainebiz.advertserve.com
+127.0.0.1 matzav.advertserve.com
 127.0.0.1 medbanner.advertserve.com
 127.0.0.1 messagespace.advertserve.com
+127.0.0.1 metroparent.advertserve.com
+127.0.0.1 morecommision.advertserve.com
+127.0.0.1 motorcycle.advertserve.com
+127.0.0.1 mybookie.advertserve.com
+127.0.0.1 nanowerk.advertserve.com
+127.0.0.1 nebusinessmedia.advertserve.com
+127.0.0.1 neiturnermediagroup.advertserve.com
+127.0.0.1 newyorksocialdiary.advertserve.com
+127.0.0.1 northcoastmedia.advertserve.com
 127.0.0.1 nursingcenter2.advertserve.com
+127.0.0.1 octoberresearch.advertserve.com
 127.0.0.1 oppknocks.advertserve.com
+127.0.0.1 pilmedia.advertserve.com
 127.0.0.1 podtrac.advertserve.com
+127.0.0.1 prensa.advertserve.com
 127.0.0.1 pridesource.advertserve.com
+127.0.0.1 privacy.advertserve.com
 127.0.0.1 projectorreviews.advertserve.com
+127.0.0.1 ramgroupholdings.advertserve.com
+127.0.0.1 rcni.advertserve.com
 127.0.0.1 realfoodmedia.advertserve.com
+127.0.0.1 recmanagement.advertserve.com
+127.0.0.1 reliableplant.advertserve.com
+127.0.0.1 rewards.advertserve.com
+127.0.0.1 roimedia.advertserve.com
+127.0.0.1 savantmedia.advertserve.com
+127.0.0.1 secure.advertserve.com
+127.0.0.1 shippers.advertserve.com
+127.0.0.1 smartads.advertserve.com
+127.0.0.1 supervalu.advertserve.com
+127.0.0.1 tec.advertserve.com
+127.0.0.1 tester.advertserve.com
+127.0.0.1 theyeshivaworld.advertserve.com
+127.0.0.1 tmf.advertserve.com
 127.0.0.1 tradearabia.advertserve.com
+127.0.0.1 tradearabia2.advertserve.com
+127.0.0.1 tradehouse.advertserve.com
+127.0.0.1 travelresearchonline.advertserve.com
 127.0.0.1 trucking.advertserve.com
+127.0.0.1 truckline.advertserve.com
+127.0.0.1 usatourist.advertserve.com
+127.0.0.1 viant.advertserve.com
+127.0.0.1 viantadmin.advertserve.com
+127.0.0.1 videos.advertserve.com
+127.0.0.1 visioncare.advertserve.com
+127.0.0.1 wbjournal.advertserve.com
+127.0.0.1 woodenboat.advertserve.com
 127.0.0.1 www.advertserve.com
 
 # advertstream.com
@@ -8263,17 +8573,11 @@ white yt3.ggpht.com
 # adzele.com
 127.0.0.1 www.adzele.com
 
-# adzerk-www.s3.amazonaws.com
-127.0.0.1 adzerk-www.s3.amazonaws.com
-
 # adzerk.net
 127.0.0.1 adzerk.net
 127.0.0.1 engine.adzerk.net
 127.0.0.1 engine2.adzerk.net
 127.0.0.1 static.adzerk.net
-
-# adzerk.s3.amazonaws.com
-127.0.0.1 adzerk.s3.amazonaws.com
 
 # adzerver.com
 127.0.0.1 adzerver.com
@@ -8807,20 +9111,171 @@ white yt3.ggpht.com
 127.0.0.1 www.burstnet.akadns.net
 
 # akamai.net
+127.0.0.1 a1127.b.akamai.net
+127.0.0.1 a122.g2.akamai.net
+127.0.0.1 a1441.g4.akamai.net
+127.0.0.1 a1467.b.akamai.net
+127.0.0.1 a1505.g2.akamai.net
+127.0.0.1 a1737.w4.akamai.net
+127.0.0.1 a1763.g.akamai.net
+127.0.0.1 a1793.b.akamai.net
+127.0.0.1 a1796.g.akamai.net
+127.0.0.1 a1843.b.akamai.net
+127.0.0.1 a1887.b.akamai.net
+127.0.0.1 a1895.b.akamai.net
+127.0.0.1 a1904.b.akamai.net
+127.0.0.1 a1907.dscw14.akamai.net
+127.0.0.1 a1916.b.akamai.net
+127.0.0.1 a1939.b.akamai.net
+127.0.0.1 a1951.b.akamai.net
+127.0.0.1 a1962.b.akamai.net
+127.0.0.1 a1967.b.akamai.net
+127.0.0.1 a1999.b.akamai.net
+127.0.0.1 a2047.g.akamai.net
 127.0.0.1 a248.e.akamai.net
+127.0.0.1 a369.dscf1.akamai.net
+127.0.0.1 a40.dscg10.akamai.net
+127.0.0.1 a59.g.akamai.net
+127.0.0.1 a61.dscg10.akamai.net
+127.0.0.1 a81.dscg10.akamai.net
+127.0.0.1 n1b.akamai.net
+127.0.0.1 n1dscg1.akamai.net
+127.0.0.1 n1v.akamai.net
+127.0.0.1 n1w10.akamai.net
+127.0.0.1 n1w20.akamai.net
+127.0.0.1 n2ca.akamai.net
+127.0.0.1 n2dscf1.akamai.net
+127.0.0.1 n2dscg1.akamai.net
+127.0.0.1 n2w10.akamai.net
+127.0.0.1 n2w16.akamai.net
+127.0.0.1 n2w20.akamai.net
+127.0.0.1 n3d.akamai.net
+127.0.0.1 n3dscb.akamai.net
+127.0.0.1 n3dscf1.akamai.net
+127.0.0.1 n3dscksd.akamai.net
+127.0.0.1 n3g.akamai.net
+127.0.0.1 n3mm1.akamai.net
+127.0.0.1 n3nag.akamai.net
+127.0.0.1 n3w10.akamai.net
+127.0.0.1 n3w20.akamai.net
+127.0.0.1 n3x.akamai.net
+127.0.0.1 n4b.akamai.net
+127.0.0.1 n4dscb.akamai.net
+127.0.0.1 n4dscd.akamai.net
+127.0.0.1 n4dscg1.akamai.net
+127.0.0.1 n4g.akamai.net
+127.0.0.1 n4gi3.akamai.net
+127.0.0.1 n4nag.akamai.net
+127.0.0.1 n4p.akamai.net
+127.0.0.1 n4r.akamai.net
+127.0.0.1 n5b.akamai.net
+127.0.0.1 n5d.akamai.net
+127.0.0.1 n5dscb.akamai.net
+127.0.0.1 n5dscd.akamai.net
+127.0.0.1 n5dscf1.akamai.net
+127.0.0.1 n5dscg10.akamai.net
+127.0.0.1 n5dscksd.akamai.net
+127.0.0.1 n5dscr.akamai.net
+127.0.0.1 n5f1.akamai.net
+127.0.0.1 n5q.akamai.net
+127.0.0.1 n5r.akamai.net
+127.0.0.1 n5v.akamai.net
+127.0.0.1 n5w16.akamai.net
+127.0.0.1 n5w4.akamai.net
+127.0.0.1 n6b.akamai.net
+127.0.0.1 n6ca.akamai.net
+127.0.0.1 n6d.akamai.net
+127.0.0.1 n6dscd.akamai.net
+127.0.0.1 n6dscg1.akamai.net
+127.0.0.1 n6dscq.akamai.net
+127.0.0.1 n6g.akamai.net
+127.0.0.1 n6g1.akamai.net
+127.0.0.1 n6g2.akamai.net
+127.0.0.1 n6q.akamai.net
+127.0.0.1 n6r.akamai.net
+127.0.0.1 n6w3.akamai.net
+127.0.0.1 n6w7.akamai.net
+127.0.0.1 n7b.akamai.net
+127.0.0.1 n7ca.akamai.net
+127.0.0.1 n7d.akamai.net
+127.0.0.1 n7dscf1.akamai.net
+127.0.0.1 n7dscg.akamai.net
+127.0.0.1 n7dscg1.akamai.net
+127.0.0.1 n7dscq.akamai.net
+127.0.0.1 n7dscr.akamai.net
+127.0.0.1 n7g1.akamai.net
+127.0.0.1 n7g2.akamai.net
+127.0.0.1 n7gi3.akamai.net
+127.0.0.1 n7mm1.akamai.net
+127.0.0.1 n7q.akamai.net
+127.0.0.1 n7w3.akamai.net
+127.0.0.1 n7w4.akamai.net
+127.0.0.1 n7x.akamai.net
+127.0.0.1 n7xc.akamai.net
+127.0.0.1 user-att-104-1-192-0.a248.e.akamai.net
+127.0.0.1 user-att-104-13-192-0.a248.e.akamai.net
+127.0.0.1 user-att-104-186-224-0.a248.e.akamai.net
+127.0.0.1 user-att-104-191-32-0.a248.e.akamai.net
+127.0.0.1 user-att-104-3-208-0.a248.e.akamai.net
+127.0.0.1 user-att-107-129-32-0.a248.e.akamai.net
+127.0.0.1 user-att-107-136-128-0.a248.e.akamai.net
+127.0.0.1 user-att-107-140-112-0.a248.e.akamai.net
+127.0.0.1 user-att-107-192-0-0.a248.e.akamai.net
+127.0.0.1 user-att-107-196-168-0.a248.e.akamai.net
+127.0.0.1 user-att-107-199-240-0.a248.e.akamai.net
+127.0.0.1 user-att-107-211-112-0.a248.e.akamai.net
+127.0.0.1 user-att-108-192-16-0.a248.e.akamai.net
+127.0.0.1 user-att-108-194-248-0.a248.e.akamai.net
+127.0.0.1 user-att-108-239-128-0.a248.e.akamai.net
+127.0.0.1 user-att-108-255-200-0.a248.e.akamai.net
+127.0.0.1 user-att-108-84-0-0.a248.e.akamai.net
+127.0.0.1 user-att-108-89-32-0.a248.e.akamai.net
+127.0.0.1 user-att-108-92-176-0.a248.e.akamai.net
+127.0.0.1 user-att-12-130-168-0.a248.e.akamai.net
+127.0.0.1 user-att-12-163-72-0.a248.e.akamai.net
+127.0.0.1 user-att-12-199-200-0.a248.e.akamai.net
+127.0.0.1 user-att-162-224-80-0.a248.e.akamai.net
+127.0.0.1 user-att-162-226-168-0.a248.e.akamai.net
+127.0.0.1 user-att-172-9-232-0.a248.e.akamai.net
+127.0.0.1 user-att-184-41-64-0.a248.e.akamai.net
+127.0.0.1 user-att-195-75-72-0.a248.e.akamai.net
+127.0.0.1 user-att-199-106-168-0.a248.e.akamai.net
+127.0.0.1 user-att-199-164-56-0.a248.e.akamai.net
+127.0.0.1 user-att-208-191-24-0.a248.e.akamai.net
+127.0.0.1 user-att-216-100-160-0.a248.e.akamai.net
+127.0.0.1 user-att-23-116-40-0.a248.e.akamai.net
+127.0.0.1 user-att-64-216-184-0.a248.e.akamai.net
+127.0.0.1 user-att-67-124-208-0.a248.e.akamai.net
+127.0.0.1 user-att-70-239-160-0.a248.e.akamai.net
+127.0.0.1 user-att-71-130-88-0.a248.e.akamai.net
+127.0.0.1 user-att-71-135-64-0.a248.e.akamai.net
+127.0.0.1 user-att-75-5-96-0.a248.e.akamai.net
+127.0.0.1 user-att-75-51-144-0.a248.e.akamai.net
+127.0.0.1 user-att-76-201-64-0.a248.e.akamai.net
+127.0.0.1 user-att-76-201-72-0.a248.e.akamai.net
+127.0.0.1 user-att-76-236-40-0.a248.e.akamai.net
+127.0.0.1 user-att-76-247-176-0.a248.e.akamai.net
+127.0.0.1 user-att-98-172-112-0.a248.e.akamai.net
+127.0.0.1 user-att-98-189-184-0.a248.e.akamai.net
+127.0.0.1 user-att-98-66-0-0.a248.e.akamai.net
+127.0.0.1 user-att-99-106-248-0.a248.e.akamai.net
+127.0.0.1 user-att-99-113-88-0.a248.e.akamai.net
+127.0.0.1 user-att-99-124-152-0.a248.e.akamai.net
+127.0.0.1 user-att-99-187-224-0.a248.e.akamai.net
+127.0.0.1 user-att-99-20-232-0.a248.e.akamai.net
+127.0.0.1 user-att-99-20-64-0.a248.e.akamai.net
+127.0.0.1 user-att-99-41-152-0.a248.e.akamai.net
+127.0.0.1 user-att-99-43-168-0.a248.e.akamai.net
+127.0.0.1 user-att-99-45-168-0.a248.e.akamai.net
+127.0.0.1 user-att-99-57-72-0.a248.e.akamai.net
+127.0.0.1 user-att-99-65-176-0.a248.e.akamai.net
+127.0.0.1 user-att-99-67-64-0.a248.e.akamai.net
+127.0.0.1 user-att-99-8-64-0.a248.e.akamai.net
+127.0.0.1 user-att-99-92-96-0.a248.e.akamai.net
+127.0.0.1 user-att-99-98-160-0.a248.e.akamai.net
 
 # akamaihd.net
-127.0.0.1 173-44-94-86_s-65-175-141-202_ts-1559059118-clienttons-s.akamaihd.net
-127.0.0.1 194-244-16-114_s-92-123-101-211_ts-1559033659-clienttons-s.akamaihd.net
 127.0.0.1 5j8ujmnywdoc-a.akamaihd.net
-127.0.0.1 61-20-222-104_s-104-116-243-171_ts-1559057302-clienttons-s.akamaihd.net
-127.0.0.1 61-20-222-104_s-139-175-236-224_ts-1559050468-clienttons-s.akamaihd.net
-127.0.0.1 61-20-222-104_s-139-175-236-48_ts-1559050627-clienttons-s.akamaihd.net
-127.0.0.1 61-20-222-104_s-139-175-236-48_ts-1559054365-clienttons-s.akamaihd.net
-127.0.0.1 61-20-222-104_s-139-175-236-48_ts-1559054509-clienttons-s.akamaihd.net
-127.0.0.1 61-20-222-104_s-139-175-236-48_ts-1559058809-clienttons-s.akamaihd.net
-127.0.0.1 61-20-222-104_s-139-175-236-48_ts-1559061021-clienttons-s.akamaihd.net
-127.0.0.1 61-20-222-104_s-139-175-87-19_ts-1559065459-clienttons-s.akamaihd.net
 127.0.0.1 abcnewsplayer-a.akamaihd.net
 127.0.0.1 aisrtlnext-a.akamaihd.net
 127.0.0.1 aj5vswfq77x5qxhnjdqa-pwzvbi-65f9afd00-clientnsv4-s.akamaihd.net
@@ -8883,7 +9338,6 @@ white yt3.ggpht.com
 127.0.0.1 kbmerch1-a.akamaihd.net
 127.0.0.1 kiwitaxistatic-a.akamaihd.net
 127.0.0.1 laf3u3accz7uqxhnpilq-px4b25-41e9754ac-clientnsv4-s.akamaihd.net
-127.0.0.1 matrix_pd_o-a.akamaihd.net
 127.0.0.1 middycdn-a.akamaihd.net
 127.0.0.1 miteleooyala-vh.akamaihd.net
 127.0.0.1 mlstaticquic-a.akamaihd.net
@@ -8918,7 +9372,6 @@ white yt3.ggpht.com
 127.0.0.1 v2datalakeb2wio-a.akamaihd.net
 127.0.0.1 videogazzanet-vh.akamaihd.net
 127.0.0.1 voanews-vh.akamaihd.net
-127.0.0.1 vod_hls_ndtv-vh.akamaihd.net
 127.0.0.1 vodnowusoawsdash-a.akamaihd.net
 127.0.0.1 wowzaprod122-i.akamaihd.net
 127.0.0.1 wtanalytics-a.akamaihd.net
@@ -9051,9 +9504,109 @@ white yt3.ggpht.com
 127.0.0.1 z5ams.akamaized.net
 
 # akastream.net
+127.0.0.1 a1009.m.akastream.net
+127.0.0.1 a1042.vmg0.akastream.net
+127.0.0.1 a1093.vmg0.akastream.net
+127.0.0.1 a1103.m.akastream.net
+127.0.0.1 a1110.m.akastream.net
+127.0.0.1 a1142.vmg0.akastream.net
+127.0.0.1 a1170.lmc3.akastream.net
+127.0.0.1 a1198.m.akastream.net
+127.0.0.1 a1247.m.akastream.net
+127.0.0.1 a1318.vmg0.akastream.net
+127.0.0.1 a1324.vmg0.akastream.net
 127.0.0.1 a1388.m.akastream.net
+127.0.0.1 a1447.m.akastream.net
+127.0.0.1 a1472.vmg0.akastream.net
+127.0.0.1 a1514.lmc3.akastream.net
+127.0.0.1 a1606.m.akastream.net
+127.0.0.1 a1671.m.akastream.net
+127.0.0.1 a17.m.akastream.net
+127.0.0.1 a1704.m.akastream.net
+127.0.0.1 a1808.vmg0.akastream.net
+127.0.0.1 a1830.vmg0.akastream.net
+127.0.0.1 a1847.m.akastream.net
 127.0.0.1 a1873.m.akastream.net
+127.0.0.1 a1924.m.akastream.net
+127.0.0.1 a1927.vmg0.akastream.net
+127.0.0.1 a1952.m.akastream.net
+127.0.0.1 a246.lmc3.akastream.net
+127.0.0.1 a275.vmg0.akastream.net
+127.0.0.1 a3-192.akastream.net
+127.0.0.1 a338.m.akastream.net
+127.0.0.1 a341.m.akastream.net
 127.0.0.1 a344.m.akastream.net
+127.0.0.1 a420.vmg0.akastream.net
+127.0.0.1 a423.m.akastream.net
+127.0.0.1 a436.m.akastream.net
+127.0.0.1 a437.vmg0.akastream.net
+127.0.0.1 a5-192.akastream.net
+127.0.0.1 a500.m.akastream.net
+127.0.0.1 a507.vmg0.akastream.net
+127.0.0.1 a51.m.akastream.net
+127.0.0.1 a524.vmg0.akastream.net
+127.0.0.1 a572.vmg0.akastream.net
+127.0.0.1 a608.vmg0.akastream.net
+127.0.0.1 a631.vmg0.akastream.net
+127.0.0.1 a7-192.akastream.net
+127.0.0.1 a722.vmg0.akastream.net
+127.0.0.1 a736.m.akastream.net
+127.0.0.1 a768.m.akastream.net
+127.0.0.1 a776.m.akastream.net
+127.0.0.1 a779.vmg0.akastream.net
+127.0.0.1 a837.vmg0.akastream.net
+127.0.0.1 a842.vmg0.akastream.net
+127.0.0.1 a9-192.akastream.net
+127.0.0.1 a969.m.akastream.net
+127.0.0.1 a989.m.akastream.net
+127.0.0.1 a99.m.akastream.net
+127.0.0.1 a990.m.akastream.net
+127.0.0.1 la11.akastream.net
+127.0.0.1 la3.akastream.net
+127.0.0.1 la4.akastream.net
+127.0.0.1 la5.akastream.net
+127.0.0.1 lac1.akastream.net
+127.0.0.1 lac2.akastream.net
+127.0.0.1 lar4.akastream.net
+127.0.0.1 lar6.akastream.net
+127.0.0.1 lar7.akastream.net
+127.0.0.1 n0m.akastream.net
+127.0.0.1 n1lmg6.akastream.net
+127.0.0.1 n1m.akastream.net
+127.0.0.1 n1vmc2.akastream.net
+127.0.0.1 n1vmg0.akastream.net
+127.0.0.1 n1vmg1.akastream.net
+127.0.0.1 n1vmg2.akastream.net
+127.0.0.1 n2lmg6.akastream.net
+127.0.0.1 n2m.akastream.net
+127.0.0.1 n2vmg0.akastream.net
+127.0.0.1 n2vmg1.akastream.net
+127.0.0.1 n2vmg2.akastream.net
+127.0.0.1 n3lmg6.akastream.net
+127.0.0.1 n3m.akastream.net
+127.0.0.1 n3vmg0.akastream.net
+127.0.0.1 n3vmg1.akastream.net
+127.0.0.1 n3vmg2.akastream.net
+127.0.0.1 n4lmg6.akastream.net
+127.0.0.1 n4lmg8.akastream.net
+127.0.0.1 n4m.akastream.net
+127.0.0.1 n4vmg0.akastream.net
+127.0.0.1 n4vmg1.akastream.net
+127.0.0.1 n4vmg2.akastream.net
+127.0.0.1 n5lmg6.akastream.net
+127.0.0.1 n5m.akastream.net
+127.0.0.1 n5vmg0.akastream.net
+127.0.0.1 n5vmg1.akastream.net
+127.0.0.1 n5vmg2.akastream.net
+127.0.0.1 n6lmg6.akastream.net
+127.0.0.1 n6m.akastream.net
+127.0.0.1 n6vmg0.akastream.net
+127.0.0.1 n6vmg1.akastream.net
+127.0.0.1 n6vmg2.akastream.net
+127.0.0.1 n7m.akastream.net
+127.0.0.1 n7vmg0.akastream.net
+127.0.0.1 n7vmg1.akastream.net
+127.0.0.1 n7vmg2.akastream.net
 
 # akavita.com
 127.0.0.1 adlik.akavita.com
@@ -9102,9 +9655,6 @@ white yt3.ggpht.com
 
 # alertpay.com
 127.0.0.1 www.alertpay.com
-
-# alexa-sitestats.s3.amazonaws.com
-127.0.0.1 alexa-sitestats.s3.amazonaws.com
 
 # alexa-xxx.com
 127.0.0.1 www.alexa-xxx.com
@@ -9305,9 +9855,6 @@ white yt3.ggpht.com
 # alltop.com
 127.0.0.1 at-adserver.alltop.com
 
-# alltraff.spb.ru
-127.0.0.1 alltraff.spb.ru
-
 # alluremedia.com.au
 127.0.0.1 network.alluremedia.com.au
 
@@ -9489,6 +10036,48 @@ white yt3.ggpht.com
 127.0.0.1 rcm.amazon.com
 127.0.0.1 ws.amazon.com
 
+# amazonaws.com
+127.0.0.1 ad-arata.s3.amazonaws.com
+127.0.0.1 admarvel.s3.amazonaws.com
+127.0.0.1 adtago.s3.amazonaws.com
+127.0.0.1 adzerk-www.s3.amazonaws.com
+127.0.0.1 adzerk.s3.amazonaws.com
+127.0.0.1 alexa-sitestats.s3.amazonaws.com
+127.0.0.1 analytics-beacon-1354134853.us-east-1.elb.amazonaws.com
+127.0.0.1 assets-hellobar-com.s3.amazonaws.com
+127.0.0.1 biowebb-data.s3.amazonaws.com
+127.0.0.1 blamads-assets.s3.amazonaws.com
+127.0.0.1 bokete-photo-gamma.s3.amazonaws.com
+127.0.0.1 bro1.s3.amazonaws.com
+127.0.0.1 btrpreroll.s3.amazonaws.com
+127.0.0.1 campaign-tapad.s3.amazonaws.com
+127.0.0.1 click.s3.amazonaws.com
+127.0.0.1 clutchmag.s3.amazonaws.com
+127.0.0.1 ecommstats.s3.amazonaws.com
+127.0.0.1 entrecard.s3.amazonaws.com
+127.0.0.1 exitsplash.s3.amazonaws.com
+127.0.0.1 forumwarz.s3.amazonaws.com
+127.0.0.1 html5adkit.plusmo.s3.amazonaws.com
+127.0.0.1 htmlads.s3.amazonaws.com
+127.0.0.1 inneractive-assets.s3.amazonaws.com
+127.0.0.1 livefyre-avatar.s3.amazonaws.com
+127.0.0.1 matchbin-assets.s3.amazonaws.com
+127.0.0.1 mediatakeout.s3.amazonaws.com
+127.0.0.1 mobpopup-elb-1179019535.us-east-1.elb.amazonaws.com
+127.0.0.1 mobypicture.s3.amazonaws.com
+127.0.0.1 mondoads.s3.amazonaws.com
+127.0.0.1 ncads.s3.amazonaws.com
+127.0.0.1 phan-js.s3.amazonaws.com
+127.0.0.1 slideshare-audio.s3.amazonaws.com
+127.0.0.1 sp.ltassrv.com.s3.amazonaws.com
+127.0.0.1 tracking.opencandy.com.s3.amazonaws.com
+127.0.0.1 ttv-boxart.s3.amazonaws.com
+127.0.0.1 twittermoms.s3.amazonaws.com
+127.0.0.1 viewerstats.docstoc.com.s3.amazonaws.com
+127.0.0.1 vml1.s3.amazonaws.com
+127.0.0.1 xmlconfig.ltassrv.com.s3.amazonaws.com
+127.0.0.1 yab-adimages.s3.amazonaws.com
+
 # amazones-tools.com
 127.0.0.1 www.amazones-tools.com
 
@@ -9540,9 +10129,6 @@ white yt3.ggpht.com
 
 # amh.sh
 127.0.0.1 amh.sh
-
-# amhen.com.ru
-127.0.0.1 amhen.com.ru
 
 # ami-admin.com
 127.0.0.1 ads1.ami-admin.com
@@ -9618,12 +10204,6 @@ white yt3.ggpht.com
 
 # analoganalytics.com
 127.0.0.1 sb1.analoganalytics.com
-
-# analytics-api-samples.googlecode.com
-127.0.0.1 analytics-api-samples.googlecode.com
-
-# analytics-beacon-1354134853.us-east-1.elb.amazonaws.com
-127.0.0.1 analytics-beacon-1354134853.us-east-1.elb.amazonaws.com
 
 # anandtech.com
 127.0.0.1 dynamic1.anandtech.com
@@ -9730,9 +10310,6 @@ white yt3.ggpht.com
 127.0.0.1 ads.anm.co.uk
 127.0.0.1 adserver.anm.co.uk
 127.0.0.1 iad.anm.co.uk
-
-# anna.homeftp.net
-127.0.0.1 anna.homeftp.net
 
 # annathumbs.com
 127.0.0.1 www.annathumbs.com
@@ -10172,6 +10749,13 @@ white yt3.ggpht.com
 # appsgeyser.com
 127.0.0.1 ads.appsgeyser.com
 
+# appspot.com
+127.0.0.1 adservice223.appspot.com
+127.0.0.1 bleu8888.appspot.com
+127.0.0.1 echofonads.appspot.com
+127.0.0.1 optimizely.appspot.com
+127.0.0.1 zenpie-adoption.appspot.com
+
 # appssavvy.com
 127.0.0.1 oascentral.appssavvy.com
 
@@ -10508,9 +11092,6 @@ white yt3.ggpht.com
 127.0.0.1 ass4all.com
 127.0.0.1 www.ass4all.com
 
-# assets-hellobar-com.s3.amazonaws.com
-127.0.0.1 assets-hellobar-com.s3.amazonaws.com
-
 # assoc-amazon.com
 127.0.0.1 assoc-amazon.com
 127.0.0.1 www.assoc-amazon.com
@@ -10751,107 +11332,8 @@ white yt3.ggpht.com
 127.0.0.1 aulde.net
 
 # auone-net.jp
-127.0.0.1 002210086111.wimax.auone-net.jp
-127.0.0.1 011205086111.wimax.auone-net.jp
-127.0.0.1 088203086111.wimax.auone-net.jp
-127.0.0.1 119209086111.wimax.auone-net.jp
-127.0.0.1 127210086111.wimax.auone-net.jp
-127.0.0.1 153210086111.wimax.auone-net.jp
-127.0.0.1 181210086111.wimax.auone-net.jp
-127.0.0.1 240212086111.wimax.auone-net.jp
-127.0.0.1 254122248182.wimax.auone-net.jp
 127.0.0.1 ac.auone-net.jp
-127.0.0.1 ae.auone-net.jp
-127.0.0.1 autodiscover.ab.auone-net.jp
-127.0.0.1 autodiscover.ac.auone-net.jp
-127.0.0.1 autodiscover.ae.auone-net.jp
-127.0.0.1 cgi.auone-net.jp
-127.0.0.1 cgit81.web.auone-net.jp
-127.0.0.1 dmta0001.auone-net.jp
-127.0.0.1 dmta0002.auone-net.jp
-127.0.0.1 dmta0003-f.auone-net.jp
-127.0.0.1 dmta0003.auone-net.jp
-127.0.0.1 dmta0004.auone-net.jp
-127.0.0.1 dmta0005.auone-net.jp
-127.0.0.1 dmta0006.auone-net.jp
-127.0.0.1 dmta0008.auone-net.jp
-127.0.0.1 dmta0009.auone-net.jp
-127.0.0.1 dmta0010.auone-net.jp
-127.0.0.1 dmta0011.auone-net.jp
-127.0.0.1 dmta0012.auone-net.jp
-127.0.0.1 dmta0027.auone-net.jp
-127.0.0.1 dmta03.auone-net.jp
-127.0.0.1 dmta1001.auone-net.jp
-127.0.0.1 dmta1005.auone-net.jp
-127.0.0.1 dmta1006.auone-net.jp
-127.0.0.1 dmta1007.auone-net.jp
-127.0.0.1 dmta1008.auone-net.jp
-127.0.0.1 dmta1009.auone-net.jp
-127.0.0.1 dmta1011.auone-net.jp
-127.0.0.1 hpkd.auone-net.jp
-127.0.0.1 imap.ab.auone-net.jp
-127.0.0.1 imap.ac.auone-net.jp
-127.0.0.1 imap.ae.auone-net.jp
-127.0.0.1 imta1001.auone-net.jp
-127.0.0.1 imta1003.auone-net.jp
-127.0.0.1 imta1006.auone-net.jp
-127.0.0.1 imta1007.auone-net.jp
-127.0.0.1 imta1020.auone-net.jp
-127.0.0.1 mail-ae0-f52.auone-net.jp
-127.0.0.1 mail-ae0-f53.auone-net.jp
-127.0.0.1 mail-ae0-f54.auone-net.jp
-127.0.0.1 mail-ae0-f55.auone-net.jp
-127.0.0.1 mail-ae0-f56.auone-net.jp
-127.0.0.1 mail-ae0-f57.auone-net.jp
-127.0.0.1 mail-ae0-f58.auone-net.jp
-127.0.0.1 mail-ae0-f59.auone-net.jp
-127.0.0.1 mail-ae0-f60.auone-net.jp
-127.0.0.1 mail-ae0-f61.auone-net.jp
-127.0.0.1 mail-ae0-f62.auone-net.jp
-127.0.0.1 mail-ae0-f63.auone-net.jp
-127.0.0.1 mail-ae1-f1.auone-net.jp
-127.0.0.1 mail-ae1-f10.auone-net.jp
-127.0.0.1 mail-ae1-f11.auone-net.jp
-127.0.0.1 mail-ae1-f12.auone-net.jp
-127.0.0.1 mail-ae1-f2.auone-net.jp
-127.0.0.1 mail-ae1-f3.auone-net.jp
-127.0.0.1 mail-ae1-f4.auone-net.jp
-127.0.0.1 mail-ae1-f5.auone-net.jp
-127.0.0.1 mail-ae1-f6.auone-net.jp
-127.0.0.1 mail-ae1-f7.auone-net.jp
-127.0.0.1 mail-ae1-f8.auone-net.jp
-127.0.0.1 mail-ae1-f9.auone-net.jp
-127.0.0.1 mail.auone-net.jp
-127.0.0.1 mailset.auone-net.jp
-127.0.0.1 mig102.auone-net.jp
-127.0.0.1 msa.ab.auone-net.jp
-127.0.0.1 msa.ae.auone-net.jp
-127.0.0.1 omta1002.auone-net.jp
-127.0.0.1 omta1024.auone-net.jp
-127.0.0.1 pop.ab.auone-net.jp
-127.0.0.1 pop.ac.auone-net.jp
-127.0.0.1 pop.ae.auone-net.jp
-127.0.0.1 rly01002.auone-net.jp
-127.0.0.1 selfpage-sorry.auone-net.jp
-127.0.0.1 selfpage.auone-net.jp
-127.0.0.1 signup-sorry.auone-net.jp
-127.0.0.1 signup.auone-net.jp
-127.0.0.1 snd00001.auone-net.jp
-127.0.0.1 snd00003.auone-net.jp
-127.0.0.1 snd00005.auone-net.jp
-127.0.0.1 snd00006.auone-net.jp
-127.0.0.1 snd00014.auone-net.jp
-127.0.0.1 snd01001.auone-net.jp
-127.0.0.1 snd01003.auone-net.jp
-127.0.0.1 snd01007.auone-net.jp
-127.0.0.1 snd01008.auone-net.jp
-127.0.0.1 voipself-sorry.auone-net.jp
-127.0.0.1 voipself.auone-net.jp
-127.0.0.1 webmail.auone-net.jp
 127.0.0.1 www.ab.auone-net.jp
-127.0.0.1 www.auone-net.jp
-127.0.0.1 www2.auone-net.jp
-127.0.0.1 www3.auone-net.jp
 
 # aureate.com
 127.0.0.1 aureate.com
@@ -11779,7 +12261,6 @@ white yt3.ggpht.com
 
 # baynote.net
 127.0.0.1 dell-global.baynote.net
-127.0.0.1 vign_foxnews-news.baynote.net
 
 # baz.ch
 127.0.0.1 ads.baz.ch
@@ -12135,9 +12616,6 @@ white yt3.ggpht.com
 
 # bestsexycelebs.com
 127.0.0.1 www.bestsexycelebs.com
-
-# bestsites.net.ru
-127.0.0.1 bestsites.net.ru
 
 # besttoolbars.net
 127.0.0.1 www.besttoolbars.net
@@ -12542,9 +13020,6 @@ white yt3.ggpht.com
 # binomax.net
 127.0.0.1 binomax.net
 
-# biowebb-data.s3.amazonaws.com
-127.0.0.1 biowebb-data.s3.amazonaws.com
-
 # biscom.net
 127.0.0.1 ads.biscom.net
 
@@ -12694,9 +13169,6 @@ white yt3.ggpht.com
 # blagovesti.ru
 127.0.0.1 www.blagovesti.ru
 
-# blamads-assets.s3.amazonaws.com
-127.0.0.1 blamads-assets.s3.amazonaws.com
-
 # blamads.com
 127.0.0.1 ad.blamads.com
 127.0.0.1 ads.blamads.com
@@ -12730,9 +13202,6 @@ white yt3.ggpht.com
 
 # blessbiz.online
 127.0.0.1 track.blessbiz.online
-
-# bleu8888.appspot.com
-127.0.0.1 bleu8888.appspot.com
 
 # blick.ch
 127.0.0.1 ads.blick.ch
@@ -12912,6 +13381,10 @@ white yt3.ggpht.com
 # blogrush.com
 127.0.0.1 blogrush.com
 
+# blogspot.com
+127.0.0.1 cheapmonclerdownsds.blogspot.com
+127.0.0.1 pcbutts1-therealtruth.blogspot.com
+
 # blogtalkradio.com
 127.0.0.1 ads.blogtalkradio.com
 
@@ -12979,6 +13452,9 @@ white yt3.ggpht.com
 127.0.0.1 blowsearch.com
 127.0.0.1 web.blowsearch.com
 127.0.0.1 www.blowsearch.com
+
+# bloxcms.com
+127.0.0.1 stats-newyork1.bloxcms.com
 
 # blozoo.info
 127.0.0.1 cache.blozoo.info
@@ -13163,9 +13639,6 @@ white yt3.ggpht.com
 127.0.0.1 adimage.bokee.com
 127.0.0.1 blogmark.bokee.com
 
-# bokete-photo-gamma.s3.amazonaws.com
-127.0.0.1 bokete-photo-gamma.s3.amazonaws.com
-
 # bokunenjin.com
 127.0.0.1 x6.bokunenjin.com
 127.0.0.1 x8.bokunenjin.com
@@ -13244,7 +13717,10 @@ white yt3.ggpht.com
 
 # boom.ro
 127.0.0.1 a.boom.ro
+127.0.0.1 b.boom.ro
+127.0.0.1 blog.boom.ro
 127.0.0.1 boom.ro
+127.0.0.1 s.boom.ro
 
 # boom.ru
 127.0.0.1 err.boom.ru
@@ -13749,9 +14225,6 @@ white yt3.ggpht.com
 # britishgas.co.uk
 127.0.0.1 webtrends1.britishgas.co.uk
 
-# bro1.s3.amazonaws.com
-127.0.0.1 bro1.s3.amazonaws.com
-
 # broadbandpublisher.com
 127.0.0.1 admanager2.broadbandpublisher.com
 127.0.0.1 stats.broadbandpublisher.com
@@ -13846,12 +14319,106 @@ white yt3.ggpht.com
 # btrll.com
 127.0.0.1 2754.btrll.com
 127.0.0.1 2819.btrll.com
+127.0.0.1 adbcache.btrll.com
 127.0.0.1 amscdn.btrll.com
+127.0.0.1 ao.btrll.com
+127.0.0.1 br-ss.btrll.com
+127.0.0.1 brxcdn2.btrll.com
+127.0.0.1 c123558.conv.btrll.com
+127.0.0.1 c124354.conv.btrll.com
+127.0.0.1 c125431.conv.btrll.com
+127.0.0.1 c125689.conv.btrll.com
+127.0.0.1 c126265.conv.btrll.com
+127.0.0.1 c126279.conv.btrll.com
+127.0.0.1 c126547.conv.btrll.com
+127.0.0.1 c126617.conv.btrll.com
+127.0.0.1 c126652.conv.btrll.com
+127.0.0.1 c126684.conv.btrll.com
+127.0.0.1 c126714.conv.btrll.com
+127.0.0.1 c126756.conv.btrll.com
+127.0.0.1 c126842.conv.btrll.com
+127.0.0.1 c126912.conv.btrll.com
+127.0.0.1 c126945.conv.btrll.com
+127.0.0.1 c126989.conv.btrll.com
+127.0.0.1 c127011.conv.btrll.com
+127.0.0.1 c127152.conv.btrll.com
+127.0.0.1 c127476.conv.btrll.com
+127.0.0.1 c127478.conv.btrll.com
+127.0.0.1 c127482.conv.btrll.com
+127.0.0.1 c127493.conv.btrll.com
+127.0.0.1 c127603.conv.btrll.com
+127.0.0.1 c127608.conv.btrll.com
+127.0.0.1 c127613.conv.btrll.com
+127.0.0.1 c127614.conv.btrll.com
+127.0.0.1 c127616.conv.btrll.com
+127.0.0.1 c127618.conv.btrll.com
+127.0.0.1 c127627.conv.btrll.com
+127.0.0.1 c127748.conv.btrll.com
+127.0.0.1 c127823.conv.btrll.com
+127.0.0.1 c127906.conv.btrll.com
+127.0.0.1 c127909.conv.btrll.com
+127.0.0.1 c127910.conv.btrll.com
+127.0.0.1 c127911.conv.btrll.com
+127.0.0.1 c127954.conv.btrll.com
+127.0.0.1 c127985.conv.btrll.com
+127.0.0.1 c128103.conv.btrll.com
+127.0.0.1 c128104.conv.btrll.com
+127.0.0.1 c128300.conv.btrll.com
+127.0.0.1 c128387.conv.btrll.com
+127.0.0.1 c128488.conv.btrll.com
+127.0.0.1 c128581.conv.btrll.com
+127.0.0.1 c128641.conv.btrll.com
+127.0.0.1 c128695.conv.btrll.com
+127.0.0.1 c128700.conv.btrll.com
+127.0.0.1 c128701.conv.btrll.com
+127.0.0.1 c128916.conv.btrll.com
+127.0.0.1 c128917.conv.btrll.com
+127.0.0.1 c129011.conv.btrll.com
+127.0.0.1 c129061.conv.btrll.com
+127.0.0.1 c129062.conv.btrll.com
+127.0.0.1 c129126.conv.btrll.com
+127.0.0.1 c129156.conv.btrll.com
+127.0.0.1 c6569187.conv.btrll.com
 127.0.0.1 cache.btrll.com
+127.0.0.1 coop.btrll.com
+127.0.0.1 geo-evserv.btrll.com
+127.0.0.1 geo-rtbserv-v2.btrll.com
+127.0.0.1 geo-rtbserv.btrll.com
+127.0.0.1 geo-um.btrll.com
+127.0.0.1 gitlab.btrll.com
+127.0.0.1 horizon.btrll.com
+127.0.0.1 l3dsr-cserv-um-21.iad3.btrll.com
+127.0.0.1 localhost.btrll.com
+127.0.0.1 marketing.btrll.com
+127.0.0.1 marketplace.btrll.com
+127.0.0.1 mobile.btrll.com
+127.0.0.1 mon-v01-00b.btrll.com
+127.0.0.1 mve.btrll.com
+127.0.0.1 optout.btrll.com
+127.0.0.1 pageurl-brx.btrll.com
+127.0.0.1 pageurl.btrll.com
+127.0.0.1 pipboy.btrll.com
+127.0.0.1 pix.btrll.com
+127.0.0.1 pix2.btrll.com
+127.0.0.1 pixeldust.btrll.com
+127.0.0.1 s.update.btrll.com
+127.0.0.1 scoutwatch.btrll.com
 127.0.0.1 segs.btrll.com
-
-# btrpreroll.s3.amazonaws.com
-127.0.0.1 btrpreroll.s3.amazonaws.com
+127.0.0.1 shim.btrll.com
+127.0.0.1 test.btrll.com
+127.0.0.1 turbo.btrll.com
+127.0.0.1 um-21.btrll.com
+127.0.0.1 um-23.btrll.com
+127.0.0.1 vast.bp3847455.btrll.com
+127.0.0.1 vast.bp3849041.btrll.com
+127.0.0.1 vast.bp3854899.btrll.com
+127.0.0.1 vast.bp3858221.btrll.com
+127.0.0.1 vast.bp3858633.btrll.com
+127.0.0.1 vast.bp3859955.btrll.com
+127.0.0.1 vast.bp3866925.btrll.com
+127.0.0.1 vast.bp3871606.btrll.com
+127.0.0.1 vast.btrll.com
+127.0.0.1 vw.btrll.com
 
 # btstatic.com
 127.0.0.1 btstatic.com
@@ -14317,9 +14884,6 @@ white yt3.ggpht.com
 
 # camelmedia.net
 127.0.0.1 openx.camelmedia.net
-
-# campaign-tapad.s3.amazonaws.com
-127.0.0.1 campaign-tapad.s3.amazonaws.com
 
 # campaignmonitor.com
 127.0.0.1 campaignmonitor.com
@@ -15226,9 +15790,6 @@ white yt3.ggpht.com
 # cheapflights.com
 127.0.0.1 ads.cheapflights.com
 
-# cheapmonclerdownsds.blogspot.com
-127.0.0.1 cheapmonclerdownsds.blogspot.com
-
 # cheappharma.org
 127.0.0.1 cheappharma.org
 
@@ -15728,9 +16289,6 @@ white yt3.ggpht.com
 
 # click-url.com
 127.0.0.1 main.click-url.com
-
-# click.s3.amazonaws.com
-127.0.0.1 click.s3.amazonaws.com
 
 # click10.com
 127.0.0.1 scrooge.click10.com
@@ -16296,6 +16854,32 @@ white yt3.ggpht.com
 # clothingjp.com
 127.0.0.1 www.clothingjp.com
 
+# cloudapp.net
+127.0.0.1 np7beacon.cloudapp.net
+
+# cloudfront.net
+127.0.0.1 d18q5nc9wflibl.cloudfront.net
+127.0.0.1 d1aow18uk61pdc.cloudfront.net
+127.0.0.1 d1l6p2sc9645hc.cloudfront.net
+127.0.0.1 d1lfh4537s45mb.cloudfront.net
+127.0.0.1 d1miuq6afqay8u.cloudfront.net
+127.0.0.1 d1ros97qkrwjf5.cloudfront.net
+127.0.0.1 d28nwox1gdjlve.cloudfront.net
+127.0.0.1 d2bgg7rjywcwsy.cloudfront.net
+127.0.0.1 d2cjo8xlt6fbwy.cloudfront.net
+127.0.0.1 d2p8taqyjofgrq.cloudfront.net
+127.0.0.1 d2zq3cb8ug8r1h.cloudfront.net
+127.0.0.1 d31qbv1cthcecs.cloudfront.net
+127.0.0.1 d33mfo0eh6vs57.cloudfront.net
+127.0.0.1 d3anogn3pbtk4v.cloudfront.net
+127.0.0.1 d3hmb5h5qngs7g.cloudfront.net
+127.0.0.1 d3mgo879eugsjh.cloudfront.net
+127.0.0.1 d3oltyb66oj2v8.cloudfront.net
+127.0.0.1 d5nxst8fruw4z.cloudfront.net
+127.0.0.1 d8rk54i4mohrb.cloudfront.net
+127.0.0.1 dnn506yrbagrg.cloudfront.net
+127.0.0.1 dtym7iokkjlif.cloudfront.net
+
 # cloudmobi.net
 127.0.0.1 cloudmobi.net
 
@@ -16357,9 +16941,6 @@ white yt3.ggpht.com
 127.0.0.1 www2.clustrmaps.com
 127.0.0.1 www3.clustrmaps.com
 127.0.0.1 www4.clustrmaps.com
-
-# clutchmag.s3.amazonaws.com
-127.0.0.1 clutchmag.s3.amazonaws.com
 
 # clx.ru
 127.0.0.1 s.clx.ru
@@ -16566,6 +17147,9 @@ white yt3.ggpht.com
 127.0.0.1 trackingmaster.co.cc
 127.0.0.1 www.uppdapa.co.cc
 
+# co.com
+127.0.0.1 ads.co.com
+
 # co.kz
 127.0.0.1 counter.co.kz
 
@@ -16645,9 +17229,27 @@ white yt3.ggpht.com
 
 # collective-media.net
 127.0.0.1 a.collective-media.net
+127.0.0.1 aan.collective-media.net
 127.0.0.1 ad.collective-media.net
+127.0.0.1 admin1.lga2.collective-media.net
 127.0.0.1 b.collective-media.net
+127.0.0.1 haproxy001.iad3.collective-media.net
+127.0.0.1 haproxy001.sjc4.collective-media.net
+127.0.0.1 haproxy002.iad3.collective-media.net
+127.0.0.1 haproxy002.sjc4.collective-media.net
+127.0.0.1 haproxy003.iad3.collective-media.net
+127.0.0.1 haproxy003.sjc4.collective-media.net
+127.0.0.1 haproxy004.iad3.collective-media.net
+127.0.0.1 haproxy004.sjc4.collective-media.net
+127.0.0.1 iad3.collective-media.net
+127.0.0.1 k.collective-media.net
 127.0.0.1 l.collective-media.net
+127.0.0.1 lorigin.collective-media.net
+127.0.0.1 origin.collective-media.net
+127.0.0.1 qa1.collective-media.net
+127.0.0.1 t.collective-media.net
+127.0.0.1 toro-dal-01.collective-media.net
+127.0.0.1 web01.collective-media.net
 
 # collectiveads.net
 127.0.0.1 collectiveads.net
@@ -16723,11 +17325,9 @@ white yt3.ggpht.com
 127.0.0.1 microsoft.com.org
 127.0.0.1 www.www.microsoft.com.org
 
-# com.s3.amazonaws.com
-127.0.0.1 sp.ltassrv.com.s3.amazonaws.com
-127.0.0.1 tracking.opencandy.com.s3.amazonaws.com
-127.0.0.1 viewerstats.docstoc.com.s3.amazonaws.com
-127.0.0.1 xmlconfig.ltassrv.com.s3.amazonaws.com
+# com.ru
+127.0.0.1 adpixel.com.ru
+127.0.0.1 amhen.com.ru
 
 # com2us.net
 127.0.0.1 com2ushub.com2us.net
@@ -16931,13 +17531,23 @@ white yt3.ggpht.com
 
 # connextra.com
 127.0.0.1 aa.connextra.com
+127.0.0.1 affiliate.connextra.com
 127.0.0.1 bb.connextra.com
 127.0.0.1 cc.connextra.com
 127.0.0.1 connextra.com
 127.0.0.1 dd.connextra.com
 127.0.0.1 ee.connextra.com
 127.0.0.1 ff.connextra.com
+127.0.0.1 ns1.connextra.com
+127.0.0.1 ssl.connextra.com
+127.0.0.1 store.connextra.com
+127.0.0.1 uat-adservers.connextra.com
+127.0.0.1 uat-datacapture.connextra.com
+127.0.0.1 uat-workbench.connextra.com
+127.0.0.1 us.connextra.com
+127.0.0.1 workbench.connextra.com
 127.0.0.1 www.connextra.com
+127.0.0.1 zz.connextra.com
 
 # consearch.jp
 127.0.0.1 consearch.jp
@@ -17122,7 +17732,6 @@ white yt3.ggpht.com
 # coolwebsearch.com
 127.0.0.1 coolwebsearch.com
 127.0.0.1 php.coolwebsearch.com
-127.0.0.1 search_fd.php.coolwebsearch.com
 127.0.0.1 stats.coolwebsearch.com
 127.0.0.1 www.coolwebsearch.com
 
@@ -17578,9 +18187,6 @@ white yt3.ggpht.com
 127.0.0.1 links.crackportal.com
 127.0.0.1 www.crackportal.com
 
-# cracks.spb.ru
-127.0.0.1 cracks.spb.ru
-
 # crackserver.com
 127.0.0.1 www.crackserver.com
 
@@ -17912,9 +18518,6 @@ white yt3.ggpht.com
 127.0.0.1 ads.ctvdigital.net
 127.0.0.1 metrics.ctvdigital.net
 
-# cube.jpn.com
-127.0.0.1 cube.jpn.com
-
 # cubics.com
 127.0.0.1 ads.cubics.com
 127.0.0.1 cubics.com
@@ -17989,12 +18592,6 @@ white yt3.ggpht.com
 127.0.0.1 comcluster.cxense.com
 127.0.0.1 cxense.com
 127.0.0.1 scdn.cxense.com
-
-# cxoadfarm.dyndns.info
-127.0.0.1 cxoadfarm.dyndns.info
-
-# cxoreport.dnsalias.net
-127.0.0.1 cxoreport.dnsalias.net
 
 # cxsar.info
 127.0.0.1 cxsar.info
@@ -18140,32 +18737,8 @@ white yt3.ggpht.com
 # d.cn
 127.0.0.1 res5.d.cn
 
-# d18q5nc9wflibl.cloudfront.net
-127.0.0.1 d18q5nc9wflibl.cloudfront.net
-
-# d1aow18uk61pdc.cloudfront.net
-127.0.0.1 d1aow18uk61pdc.cloudfront.net
-
 # d1g.com
 127.0.0.1 oas.d1g.com
-
-# d1l6p2sc9645hc.cloudfront.net
-127.0.0.1 d1l6p2sc9645hc.cloudfront.net
-
-# d1lfh4537s45mb.cloudfront.net
-127.0.0.1 d1lfh4537s45mb.cloudfront.net
-
-# d1miuq6afqay8u.cloudfront.net
-127.0.0.1 d1miuq6afqay8u.cloudfront.net
-
-# d1ros97qkrwjf5.cloudfront.net
-127.0.0.1 d1ros97qkrwjf5.cloudfront.net
-
-# d28nwox1gdjlve.cloudfront.net
-127.0.0.1 d28nwox1gdjlve.cloudfront.net
-
-# d2bgg7rjywcwsy.cloudfront.net
-127.0.0.1 d2bgg7rjywcwsy.cloudfront.net
 
 # d2c.ne.jp
 127.0.0.1 ad.ssp.d2c.ne.jp
@@ -18175,40 +18748,10 @@ white yt3.ggpht.com
 127.0.0.1 d2c.ne.jp
 127.0.0.1 lisads.d2c.ne.jp
 
-# d2cjo8xlt6fbwy.cloudfront.net
-127.0.0.1 d2cjo8xlt6fbwy.cloudfront.net
-
-# d2p8taqyjofgrq.cloudfront.net
-127.0.0.1 d2p8taqyjofgrq.cloudfront.net
-
-# d2zq3cb8ug8r1h.cloudfront.net
-127.0.0.1 d2zq3cb8ug8r1h.cloudfront.net
-
-# d31qbv1cthcecs.cloudfront.net
-127.0.0.1 d31qbv1cthcecs.cloudfront.net
-
-# d33mfo0eh6vs57.cloudfront.net
-127.0.0.1 d33mfo0eh6vs57.cloudfront.net
-
-# d3anogn3pbtk4v.cloudfront.net
-127.0.0.1 d3anogn3pbtk4v.cloudfront.net
-
-# d3hmb5h5qngs7g.cloudfront.net
-127.0.0.1 d3hmb5h5qngs7g.cloudfront.net
-
-# d3mgo879eugsjh.cloudfront.net
-127.0.0.1 d3mgo879eugsjh.cloudfront.net
-
-# d3oltyb66oj2v8.cloudfront.net
-127.0.0.1 d3oltyb66oj2v8.cloudfront.net
-
 # d4p.net
 127.0.0.1 doubleclick.d4p.net
 127.0.0.1 realmedia-a592.d4p.net
 127.0.0.1 realmedia-a800.d4p.net
-
-# d5nxst8fruw4z.cloudfront.net
-127.0.0.1 d5nxst8fruw4z.cloudfront.net
 
 # d655.com
 127.0.0.1 d655.com
@@ -18216,9 +18759,6 @@ white yt3.ggpht.com
 # d87.eu
 127.0.0.1 d87.eu
 127.0.0.1 www.d87.eu
-
-# d8rk54i4mohrb.cloudfront.net
-127.0.0.1 d8rk54i4mohrb.cloudfront.net
 
 # da-ads.com
 127.0.0.1 da-ads.com
@@ -18535,6 +19075,11 @@ white yt3.ggpht.com
 
 # ddirk.com
 127.0.0.1 www.ddirk.com
+
+# de.com
+127.0.0.1 s32.research.de.com
+127.0.0.1 s62.research.de.com
+127.0.0.1 s95.research.de.com
 
 # de.vu
 127.0.0.1 adboost.de.vu
@@ -19438,9 +19983,6 @@ white yt3.ggpht.com
 127.0.0.1 trjoy.dnion.com
 127.0.0.1 www.dnion.com
 
-# dnn506yrbagrg.cloudfront.net
-127.0.0.1 dnn506yrbagrg.cloudfront.net
-
 # dnparking.com
 127.0.0.1 forsale.dnparking.com
 127.0.0.1 pop.dnparking.com
@@ -19456,6 +19998,9 @@ white yt3.ggpht.com
 127.0.0.1 dns-look-up.com
 127.0.0.1 nb.dns-look-up.com
 127.0.0.1 upd.dns-look-up.com
+
+# dnsalias.net
+127.0.0.1 cxoreport.dnsalias.net
 
 # dnsstat.com
 127.0.0.1 dnsstat.com
@@ -19738,7 +20283,31 @@ white yt3.ggpht.com
 127.0.0.1 97.6.87.194.dynamic.dol.ru
 127.0.0.1 98.6.87.194.dynamic.dol.ru
 127.0.0.1 99.6.87.194.dynamic.dol.ru
+127.0.0.1 avtoal.dol.ru
+127.0.0.1 banner.dol.ru
+127.0.0.1 bestis.dol.ru
+127.0.0.1 bi.dol.ru
+127.0.0.1 cgntv.dol.ru
+127.0.0.1 cocca.dol.ru
 127.0.0.1 dynamic.dol.ru
+127.0.0.1 fmastr.dol.ru
+127.0.0.1 goznak.ve.dol.ru
+127.0.0.1 infhos.dol.ru
+127.0.0.1 mail.dol.ru
+127.0.0.1 migrus.dol.ru
+127.0.0.1 mosmbf.dol.ru
+127.0.0.1 mx.smtp.pop3.dol.ru
+127.0.0.1 ns.dol.ru
+127.0.0.1 pop.pop3.dol.ru
+127.0.0.1 pop3.smtp.pop3.dol.ru
+127.0.0.1 ppunit.dol.ru
+127.0.0.1 slops.dol.ru
+127.0.0.1 smtp.cgp.dol.ru
+127.0.0.1 splod.dol.ru
+127.0.0.1 tekton.dol.ru
+127.0.0.1 tolyar.dol.ru
+127.0.0.1 www.dol.ru
+127.0.0.1 zhaba.dol.ru
 
 # dolanadserver.com
 127.0.0.1 www.dolanadserver.com
@@ -20543,14 +21112,86 @@ white yt3.ggpht.com
 127.0.0.1 cdn.dsultra.com
 
 # dt00.net
+127.0.0.1 aa.goodsblock.dt00.net
 127.0.0.1 aa.newsblock.dt00.net
 127.0.0.1 ab.goodsblock.dt00.net
+127.0.0.1 ab.newsblock.dt00.net
+127.0.0.1 ac.goodsblock.dt00.net
+127.0.0.1 ac.newsblock.dt00.net
+127.0.0.1 ad.goodsblock.dt00.net
+127.0.0.1 admin.dt00.net
+127.0.0.1 admin2.dt00.net
+127.0.0.1 admin3.dt00.net
+127.0.0.1 admin4.dt00.net
+127.0.0.1 ae.goodsblock.dt00.net
+127.0.0.1 af.goodsblock.dt00.net
+127.0.0.1 ag.goodsblock.dt00.net
+127.0.0.1 ah.goodsblock.dt00.net
+127.0.0.1 ai.goodsblock.dt00.net
+127.0.0.1 aj.goodsblock.dt00.net
+127.0.0.1 alpha-pma.dt00.net
+127.0.0.1 alpha.design.dt00.net
+127.0.0.1 bank.dt00.net
+127.0.0.1 beta.admin.dt00.net
+127.0.0.1 beta.admin4.dt00.net
+127.0.0.1 capping.dt00.net
+127.0.0.1 centrifugo.dt00.net
+127.0.0.1 connectors.dt00.net
+127.0.0.1 css.dt00.net
+127.0.0.1 etc.dt00.net
+127.0.0.1 falcon.dt00.net
+127.0.0.1 fog.dt00.net
 127.0.0.1 foreign.dt00.net
+127.0.0.1 gbimg.dt00.net
+127.0.0.1 gimg.dt00.net
+127.0.0.1 gjs.dt00.net
+127.0.0.1 goodsblock.dt00.net
+127.0.0.1 goodsblock2.dt00.net
+127.0.0.1 goose-vm-client.dt00.net
+127.0.0.1 goose.dt00.net
+127.0.0.1 graylog-old.dt00.net
+127.0.0.1 graylog.dt00.net
+127.0.0.1 helpdesk.dt00.net
+127.0.0.1 himg.dt00.net
+127.0.0.1 images-ru-sources.dt00.net
 127.0.0.1 img.dt00.net
+127.0.0.1 imgg.dt00.net
 127.0.0.1 imgn.dt00.net
+127.0.0.1 js.dt00.net
+127.0.0.1 jsc.dt00.net
+127.0.0.1 jsg.dt00.net
+127.0.0.1 jsn.dt00.net
+127.0.0.1 jsu.dt00.net
+127.0.0.1 kube-alpha.dt00.net
+127.0.0.1 kube-node1.dt00.net
+127.0.0.1 kube-node4r.dt00.net
+127.0.0.1 kube-vm-node1.dt00.net
+127.0.0.1 logo.img.dt00.net
+127.0.0.1 mail.dt00.net
+127.0.0.1 mail.vm.dt00.net
 127.0.0.1 mg.dt00.net
+127.0.0.1 nas0.dt00.net
 127.0.0.1 nbimg.dt00.net
+127.0.0.1 newsblock.dt00.net
+127.0.0.1 ns.dt00.net
+127.0.0.1 ns2.dt00.net
+127.0.0.1 ns3.dt00.net
+127.0.0.1 nsvm.dt00.net
+127.0.0.1 office.dt00.net
+127.0.0.1 oth.dt00.net
+127.0.0.1 pimg.dt00.net
+127.0.0.1 pma.dt00.net
+127.0.0.1 redash-vm.dt00.net
+127.0.0.1 redmine.dt00.net
+127.0.0.1 smiimg.dt00.net
+127.0.0.1 star.dt00.net
+127.0.0.1 support.dt00.net
 127.0.0.1 tmp.dt00.net
+127.0.0.1 topblock.dt00.net
+127.0.0.1 topnews.dt00.net
+127.0.0.1 vm.dt00.net
+127.0.0.1 www.dt00.net
+127.0.0.1 youtrack.dt00.net
 
 # dt07.net
 127.0.0.1 aa.newsblock.dt07.net
@@ -20595,9 +21236,6 @@ white yt3.ggpht.com
 
 # dtscout.com
 127.0.0.1 dtscout.com
-
-# dtym7iokkjlif.cloudfront.net
-127.0.0.1 dtym7iokkjlif.cloudfront.net
 
 # duapp.com
 127.0.0.1 agentchannel.api.duapp.com
@@ -20707,6 +21345,9 @@ white yt3.ggpht.com
 
 # dynamic-media.org
 127.0.0.1 ads.dynamic-media.org
+
+# dyndns.info
+127.0.0.1 cxoadfarm.dyndns.info
 
 # dyppl.com
 127.0.0.1 dyppl.com
@@ -21029,9 +21670,6 @@ white yt3.ggpht.com
 # eccentrix.com
 127.0.0.1 ads.eccentrix.com
 
-# echofonads.appspot.com
-127.0.0.1 echofonads.appspot.com
-
 # echtegratisproben.de
 127.0.0.1 echtegratisproben.de
 
@@ -21057,9 +21695,6 @@ white yt3.ggpht.com
 
 # ecomedia.bg
 127.0.0.1 openx.ecomedia.bg
-
-# ecommstats.s3.amazonaws.com
-127.0.0.1 ecommstats.s3.amazonaws.com
 
 # econda-monitor.de
 127.0.0.1 www.econda-monitor.de
@@ -21653,9 +22288,6 @@ white yt3.ggpht.com
 # entk.net
 127.0.0.1 entk.net
 
-# entrecard.s3.amazonaws.com
-127.0.0.1 entrecard.s3.amazonaws.com
-
 # entrepreneur.com
 127.0.0.1 entrepreneur.com
 
@@ -21905,7 +22537,6 @@ white yt3.ggpht.com
 127.0.0.1 mybb.ero-advertising.com
 127.0.0.1 nata.ero-advertising.com
 127.0.0.1 nners.ero-advertising.com
-127.0.0.1 o_thus.ero-advertising.com
 127.0.0.1 oata.ero-advertising.com
 127.0.0.1 opads.ero-advertising.com
 127.0.0.1 pagepeel.ero-advertising.com
@@ -22728,9 +23359,6 @@ white yt3.ggpht.com
 
 # exitrafic.net
 127.0.0.1 www.exitrafic.net
-
-# exitsplash.s3.amazonaws.com
-127.0.0.1 exitsplash.s3.amazonaws.com
 
 # exoclick.com
 127.0.0.1 ads.exoclick.com
@@ -23905,10 +24533,16 @@ white yt3.ggpht.com
 
 # flvdirect.com
 127.0.0.1 a.flvdirect.com
+127.0.0.1 bundles.flvdirect.com
+127.0.0.1 cdn-w.flvdirect.com
 127.0.0.1 download.flvdirect.com
+127.0.0.1 flvdirect.comwww.flvdirect.com
 127.0.0.1 submit.flvdirect.com
+127.0.0.1 ww8.flvdirect.com
 127.0.0.1 www.flvdirect.com
+127.0.0.1 www.flvdirect.comwww.flvdirect.com
 127.0.0.1 www1.flvdirect.com
+127.0.0.1 www6.flvdirect.com
 
 # flvmoviesdownloader.com
 127.0.0.1 flvmoviesdownloader.com
@@ -24227,9 +24861,6 @@ white yt3.ggpht.com
 
 # forumforfree.com
 127.0.0.1 s2.forumforfree.com
-
-# forumwarz.s3.amazonaws.com
-127.0.0.1 forumwarz.s3.amazonaws.com
 
 # forvideo.at
 127.0.0.1 forvideo.at
@@ -25003,7 +25634,106 @@ white yt3.ggpht.com
 
 # funpic.de
 127.0.0.1 404.funpic.de
+127.0.0.1 adoloftittler.funpic.de
+127.0.0.1 aggroforfree.ag.funpic.de
+127.0.0.1 ahmety.funpic.de
+127.0.0.1 biznessmanonline.bi.funpic.de
+127.0.0.1 chrisatack.ch.funpic.de
+127.0.0.1 cornelia1.funpic.de
+127.0.0.1 dbrs.funpic.de
+127.0.0.1 debeta.funpic.de
+127.0.0.1 emrecanozkok.em.funpic.de
+127.0.0.1 facebk000.funpic.de
+127.0.0.1 flashwelt.funpic.de
+127.0.0.1 ftp.h4ck3rz1.h4.funpic.de
+127.0.0.1 ftp.seerumxd.se.funpic.de
+127.0.0.1 ftp.yaqxswcdevfr.ya.funpic.de
+127.0.0.1 gamer18.funpic.de
+127.0.0.1 gerd123.ftp-web.funpic.de
+127.0.0.1 herostars.funpic.de
+127.0.0.1 how2gethazanat.ho.funpic.de
+127.0.0.1 illusions1.il.funpic.de
+127.0.0.1 immusic.im.funpic.de
+127.0.0.1 jadeclan.ja.funpic.de
+127.0.0.1 jessicalove.funpic.de
+127.0.0.1 kathihuba.ka.funpic.de
+127.0.0.1 konfliktloesung.ko.funpic.de
+127.0.0.1 larseinsle1.la.funpic.de
+127.0.0.1 lifepictures.li.funpic.de
+127.0.0.1 litunier.li.funpic.de
+127.0.0.1 localscope.funpic.de
+127.0.0.1 lolfuiserbwe.funpic.de
+127.0.0.1 lolomat555666.lo.funpic.de
+127.0.0.1 macitforum.ma.funpic.de
+127.0.0.1 mcgangster95.funpic.de
 127.0.0.1 media.funpic.de
+127.0.0.1 nellys.ne.funpic.de
+127.0.0.1 neon05.ne.funpic.de
+127.0.0.1 netroal.funpic.de
+127.0.0.1 nozack.funpic.de
+127.0.0.1 ogaloader.funpic.de
+127.0.0.1 ogazii.og.funpic.de
+127.0.0.1 patrickdg123.pa.funpic.de
+127.0.0.1 paypalde.funpic.de
+127.0.0.1 paypaltransfer.funpic.de
+127.0.0.1 peter233.pe.funpic.de
+127.0.0.1 peterenis.funpic.de
+127.0.0.1 pfeifenputzer.pf.funpic.de
+127.0.0.1 pingaming.funpic.de
+127.0.0.1 pippi68.pi.funpic.de
+127.0.0.1 plusicon.pl.funpic.de
+127.0.0.1 puschel24.pu.funpic.de
+127.0.0.1 pwnd4now.pw.funpic.de
+127.0.0.1 qjalpobvl16.qj.funpic.de
+127.0.0.1 quickyboy.qu.funpic.de
+127.0.0.1 qwefvbn.qw.funpic.de
+127.0.0.1 raffa991.ra.funpic.de
+127.0.0.1 rapidgame.ra.funpic.de
+127.0.0.1 rev6down.re.funpic.de
+127.0.0.1 routir908.funpic.de
+127.0.0.1 sagocugenc.sa.funpic.de
+127.0.0.1 sam4el.sa.funpic.de
+127.0.0.1 schnulli112.sc.funpic.de
+127.0.0.1 sd23rsdf54tydg4d.sd.funpic.de
+127.0.0.1 sdbajkbasdkjbsda.sd.funpic.de
+127.0.0.1 selektor.se.funpic.de
+127.0.0.1 sidorockz.si.funpic.de
+127.0.0.1 siedlercraft.si.funpic.de
+127.0.0.1 sioclan.si.funpic.de
+127.0.0.1 skulls0815.funpic.de
+127.0.0.1 sniperdemon.sn.funpic.de
+127.0.0.1 snoppy0066.sn.funpic.de
+127.0.0.1 spencer2k6.sp.funpic.de
+127.0.0.1 sperberer88.sp.funpic.de
+127.0.0.1 spidersm4.sp.funpic.de
+127.0.0.1 stakrix.st.funpic.de
+127.0.0.1 steampowered1.st.funpic.de
+127.0.0.1 teamaytest1.te.funpic.de
+127.0.0.1 technoking.funpic.de
+127.0.0.1 testserverroblox.funpic.de
+127.0.0.1 teto.te.funpic.de
+127.0.0.1 therealturbolord.th.funpic.de
+127.0.0.1 theyoughnation.th.funpic.de
+127.0.0.1 trafo2.funpic.de
+127.0.0.1 tratmi.tr.funpic.de
+127.0.0.1 turane.tu.funpic.de
+127.0.0.1 tygadownloads.funpic.de
+127.0.0.1 unnak.un.funpic.de
+127.0.0.1 viparsiv.funpic.de
+127.0.0.1 viyudog.funpic.de
+127.0.0.1 wackeln123.wa.funpic.de
+127.0.0.1 werwrewre.we.funpic.de
+127.0.0.1 westendboy.we.funpic.de
+127.0.0.1 xacmaz.xa.funpic.de
+127.0.0.1 xfamozz.xf.funpic.de
+127.0.0.1 xmasday.funpic.de
+127.0.0.1 xplayerz.xp.funpic.de
+127.0.0.1 xsslight.xs.funpic.de
+127.0.0.1 xxb0txx.xx.funpic.de
+127.0.0.1 yavuztuncil.ya.funpic.de
+127.0.0.1 your.yo.funpic.de
+127.0.0.1 youunett.yo.funpic.de
+127.0.0.1 yroctpjwm16.yr.funpic.de
 
 # funshopfun.com
 127.0.0.1 track.funshopfun.com
@@ -25816,9 +26546,6 @@ white yt3.ggpht.com
 127.0.0.1 geotarget.info
 127.0.0.1 www.geotarget.info
 
-# geotool.servehttp.com
-127.0.0.1 geotool.servehttp.com
-
 # geotrust.com
 127.0.0.1 smarticon.geotrust.com
 
@@ -26553,6 +27280,9 @@ white yt3.ggpht.com
 
 # googleanalyticsclicks.com
 127.0.0.1 googleanalyticsclicks.com
+
+# googlecode.com
+127.0.0.1 analytics-api-samples.googlecode.com
 
 # googlegroups.com
 127.0.0.1 8ec6d0b7-a-62cb3a1a-s-sites.googlegroups.com
@@ -28409,18 +29139,55 @@ white yt3.ggpht.com
 
 # hittail.com
 127.0.0.1 10006.hittail.com
+127.0.0.1 100114.hittail.com
+127.0.0.1 100827.hittail.com
 127.0.0.1 10168.hittail.com
+127.0.0.1 102118.hittail.com
+127.0.0.1 102583.hittail.com
+127.0.0.1 103145.hittail.com
+127.0.0.1 103922.hittail.com
+127.0.0.1 103942.hittail.com
+127.0.0.1 103969.hittail.com
+127.0.0.1 105547.hittail.com
+127.0.0.1 106272.hittail.com
+127.0.0.1 106794.hittail.com
+127.0.0.1 107255.hittail.com
+127.0.0.1 107268.hittail.com
+127.0.0.1 107497.hittail.com
+127.0.0.1 107828.hittail.com
+127.0.0.1 107892.hittail.com
+127.0.0.1 108434.hittail.com
+127.0.0.1 10906.hittail.com
+127.0.0.1 109313.hittail.com
+127.0.0.1 110153.hittail.com
+127.0.0.1 110301.hittail.com
+127.0.0.1 110884.hittail.com
+127.0.0.1 11128.hittail.com
+127.0.0.1 111464.hittail.com
+127.0.0.1 111484.hittail.com
+127.0.0.1 114139.hittail.com
+127.0.0.1 115962.hittail.com
+127.0.0.1 118077.hittail.com
+127.0.0.1 11879.hittail.com
+127.0.0.1 121857.hittail.com
 127.0.0.1 1262.hittail.com
+127.0.0.1 12710.hittail.com
 127.0.0.1 12877.hittail.com
+127.0.0.1 1321.hittail.com
 127.0.0.1 13223.hittail.com
+127.0.0.1 13536.hittail.com
 127.0.0.1 14228.hittail.com
 127.0.0.1 15141.hittail.com
+127.0.0.1 15281.hittail.com
 127.0.0.1 15628.hittail.com
 127.0.0.1 15694.hittail.com
 127.0.0.1 16565.hittail.com
+127.0.0.1 17751.hittail.com
+127.0.0.1 18373.hittail.com
 127.0.0.1 19097.hittail.com
 127.0.0.1 19500.hittail.com
 127.0.0.1 19533.hittail.com
+127.0.0.1 21327.hittail.com
 127.0.0.1 21807.hittail.com
 127.0.0.1 22537.hittail.com
 127.0.0.1 23315.hittail.com
@@ -28428,6 +29195,8 @@ white yt3.ggpht.com
 127.0.0.1 24725.hittail.com
 127.0.0.1 24809.hittail.com
 127.0.0.1 25057.hittail.com
+127.0.0.1 25775.hittail.com
+127.0.0.1 26085.hittail.com
 127.0.0.1 26288.hittail.com
 127.0.0.1 27460.hittail.com
 127.0.0.1 27891.hittail.com
@@ -28436,7 +29205,9 @@ white yt3.ggpht.com
 127.0.0.1 31335.hittail.com
 127.0.0.1 314.hittail.com
 127.0.0.1 31870.hittail.com
+127.0.0.1 32309.hittail.com
 127.0.0.1 3241.hittail.com
+127.0.0.1 33154.hittail.com
 127.0.0.1 3415.hittail.com
 127.0.0.1 34245.hittail.com
 127.0.0.1 3463.hittail.com
@@ -28446,24 +29217,63 @@ white yt3.ggpht.com
 127.0.0.1 3933.hittail.com
 127.0.0.1 3957.hittail.com
 127.0.0.1 4134.hittail.com
+127.0.0.1 4261.hittail.com
+127.0.0.1 453.hittail.com
 127.0.0.1 4560.hittail.com
+127.0.0.1 461.hittail.com
 127.0.0.1 4612.hittail.com
+127.0.0.1 4799.hittail.com
+127.0.0.1 525.hittail.com
 127.0.0.1 71158.hittail.com
+127.0.0.1 7257565.hittail.com
+127.0.0.1 72980.hittail.com
 127.0.0.1 73091.hittail.com
+127.0.0.1 75503.hittail.com
 127.0.0.1 77266.hittail.com
+127.0.0.1 77754.hittail.com
 127.0.0.1 78843.hittail.com
+127.0.0.1 80154.hittail.com
 127.0.0.1 815.hittail.com
 127.0.0.1 8260.hittail.com
+127.0.0.1 83512.hittail.com
+127.0.0.1 87151.hittail.com
+127.0.0.1 8891.hittail.com
+127.0.0.1 8949156.hittail.com
 127.0.0.1 8959.hittail.com
+127.0.0.1 91451.hittail.com
+127.0.0.1 91842.hittail.com
 127.0.0.1 922.hittail.com
 127.0.0.1 9394.hittail.com
+127.0.0.1 94314.hittail.com
 127.0.0.1 9446.hittail.com
+127.0.0.1 95110.hittail.com
+127.0.0.1 95126.hittail.com
+127.0.0.1 95127.hittail.com
 127.0.0.1 9547.hittail.com
 127.0.0.1 9563.hittail.com
+127.0.0.1 95644.hittail.com
 127.0.0.1 9571.hittail.com
+127.0.0.1 95722.hittail.com
+127.0.0.1 96071.hittail.com
+127.0.0.1 96175.hittail.com
+127.0.0.1 96328.hittail.com
+127.0.0.1 96880.hittail.com
+127.0.0.1 97439.hittail.com
+127.0.0.1 97608.hittail.com
+127.0.0.1 98407.hittail.com
+127.0.0.1 98408.hittail.com
+127.0.0.1 98667.hittail.com
+127.0.0.1 98744.hittail.com
+127.0.0.1 99187.hittail.com
+127.0.0.1 99410.hittail.com
+127.0.0.1 blog-qa.hittail.com
+127.0.0.1 blog.hittail.com
+127.0.0.1 forum.hittail.com
 127.0.0.1 hittail.com
+127.0.0.1 status.hittail.com
 127.0.0.1 tracking.hittail.com
 127.0.0.1 tracking2.hittail.com
+127.0.0.1 www.hittail.com
 
 # hitweb.org
 127.0.0.1 hitweb.org
@@ -28606,6 +29416,9 @@ white yt3.ggpht.com
 # homeeq.com
 127.0.0.1 homeeq.com
 127.0.0.1 www.homeeq.com
+
+# homeftp.net
+127.0.0.1 anna.homeftp.net
 
 # homegrocier.com
 127.0.0.1 homegrocier.com
@@ -29944,9 +30757,6 @@ white yt3.ggpht.com
 127.0.0.1 adserver.html.it
 127.0.0.1 click.html.it
 
-# htmlads.s3.amazonaws.com
-127.0.0.1 htmlads.s3.amazonaws.com
-
 # htmlcounter.com
 127.0.0.1 htmlcounter.com
 127.0.0.1 www.htmlcounter.com
@@ -30860,6 +31670,11 @@ white yt3.ggpht.com
 
 # im.cz
 127.0.0.1 1.im.cz
+127.0.0.1 10.im.cz
+127.0.0.1 appklik.im.cz
+127.0.0.1 i.im.cz
+127.0.0.1 spoluzaci.im.cz
+127.0.0.1 www.im.cz
 
 # image-ad.jp
 127.0.0.1 i.image-ad.jp
@@ -31235,6 +32050,9 @@ white yt3.ggpht.com
 # in.gr
 127.0.0.1 adman.in.gr
 
+# in.net
+127.0.0.1 user.in.net
+
 # in2.com
 127.0.0.1 adcenter.in2.com
 
@@ -31606,9 +32424,6 @@ white yt3.ggpht.com
 127.0.0.1 m2m1.inner-active.mobi
 127.0.0.1 wv.inner-active.mobi
 
-# inneractive-assets.s3.amazonaws.com
-127.0.0.1 inneractive-assets.s3.amazonaws.com
-
 # innity.com
 127.0.0.1 as.innity.com
 127.0.0.1 avp.innity.com
@@ -31858,11 +32673,13 @@ white yt3.ggpht.com
 127.0.0.1 247wallstreet.us.intellitxt.com
 127.0.0.1 2snaps.us.intellitxt.com
 127.0.0.1 2spyware.us.intellitxt.com
+127.0.0.1 4guysfromrolla.us.intellitxt.com
 127.0.0.1 4w-wrestling.us.intellitxt.com
 127.0.0.1 4x4review.us.intellitxt.com
 127.0.0.1 5starsupport.us.intellitxt.com
 127.0.0.1 9down.us.intellitxt.com
 127.0.0.1 able2know.us.intellitxt.com
+127.0.0.1 accountingexplanation.uk.intellitxt.com
 127.0.0.1 accuweather.us.intellitxt.com
 127.0.0.1 aceshowbiz.us.intellitxt.com
 127.0.0.1 aclasscelebs.us.intellitxt.com
@@ -31874,6 +32691,7 @@ white yt3.ggpht.com
 127.0.0.1 adwarereport.us.intellitxt.com
 127.0.0.1 afraidtoask.us.intellitxt.com
 127.0.0.1 afterdawn.us.intellitxt.com
+127.0.0.1 airlinepilotcentral.us.intellitxt.com
 127.0.0.1 albinoblacksheep.us.intellitxt.com
 127.0.0.1 alive.us.intellitxt.com
 127.0.0.1 allcarselectric.us.intellitxt.com
@@ -31892,11 +32710,13 @@ white yt3.ggpht.com
 127.0.0.1 appscout.us.intellitxt.com
 127.0.0.1 aquasoft.us.intellitxt.com
 127.0.0.1 architecturaldesigns.us.intellitxt.com
+127.0.0.1 arcor.de.intellitxt.com
 127.0.0.1 artistdirect.us.intellitxt.com
 127.0.0.1 askmen.us.intellitxt.com
 127.0.0.1 askmen2.us.intellitxt.com
 127.0.0.1 atspace.de.intellitxt.com
 127.0.0.1 audio.de.intellitxt.com
+127.0.0.1 autoexpress.uk.intellitxt.com
 127.0.0.1 autoforums.us.intellitxt.com
 127.0.0.1 autoforumuniverse.us.intellitxt.com
 127.0.0.1 automobilemag.us.intellitxt.com
@@ -31904,10 +32724,13 @@ white yt3.ggpht.com
 127.0.0.1 autospies.us.intellitxt.com
 127.0.0.1 awardspace.de.intellitxt.com
 127.0.0.1 away.us.intellitxt.com
+127.0.0.1 aws.images.intellitxt.com
 127.0.0.1 babes.ign.us.intellitxt.com
 127.0.0.1 backseatcuddler.us.intellitxt.com
 127.0.0.1 bargainpda.us.intellitxt.com
 127.0.0.1 baselinemag.us.intellitxt.com
+127.0.0.1 bathchronicle.uk.intellitxt.com
+127.0.0.1 beetle-forum.de.intellitxt.com
 127.0.0.1 beliefnet.us.intellitxt.com
 127.0.0.1 betanews.us.intellitxt.com
 127.0.0.1 bigbigforums.us.intellitxt.com
@@ -31920,6 +32743,7 @@ white yt3.ggpht.com
 127.0.0.1 bleepingcomputer.us.intellitxt.com
 127.0.0.1 bolt.us.intellitxt.com
 127.0.0.1 bootdaily.us.intellitxt.com
+127.0.0.1 bossip.us.intellitxt.com
 127.0.0.1 boxingscene.us.intellitxt.com
 127.0.0.1 boxofficeprophets.us.intellitxt.com
 127.0.0.1 bradpittnow.us.intellitxt.com
@@ -31930,6 +32754,7 @@ white yt3.ggpht.com
 127.0.0.1 bukisa.us.intellitxt.com
 127.0.0.1 bullz-eye.us.intellitxt.com
 127.0.0.1 bumpshack.us.intellitxt.com
+127.0.0.1 bunte.de.intellitxt.com
 127.0.0.1 business.msnbc.us.intellitxt.com
 127.0.0.1 businessinsider.us.intellitxt.com
 127.0.0.1 businessknowhow.us.intellitxt.com
@@ -31969,6 +32794,9 @@ white yt3.ggpht.com
 127.0.0.1 cheatcc.us.intellitxt.com
 127.0.0.1 cheatingdome.us.intellitxt.com
 127.0.0.1 chip.de.intellitxt.com
+127.0.0.1 chip.pl.intellitxt.com
+127.0.0.1 ciao.de.intellitxt.com
+127.0.0.1 cleanmpg.us.intellitxt.com
 127.0.0.1 cmp.us.intellitxt.com
 127.0.0.1 cnet.us.intellitxt.com
 127.0.0.1 coedmagazine.us.intellitxt.com
@@ -31985,8 +32813,11 @@ white yt3.ggpht.com
 127.0.0.1 computerbase.de.intellitxt.com
 127.0.0.1 computerhilfen.de.intellitxt.com
 127.0.0.1 computershopper.uk.intellitxt.com
+127.0.0.1 computerwissen-de.intellitxt.com
 127.0.0.1 computerwoche.de.intellitxt.com
 127.0.0.1 computing.uk.intellitxt.com
+127.0.0.1 computing.us.intellitxt.com
+127.0.0.1 connect.de.intellitxt.com
 127.0.0.1 consumerreview.us.intellitxt.com
 127.0.0.1 contactmusic.uk.intellitxt.com
 127.0.0.1 cooksrecipes.us.intellitxt.com
@@ -32000,6 +32831,7 @@ white yt3.ggpht.com
 127.0.0.1 csnation.us.intellitxt.com
 127.0.0.1 ctv.us.intellitxt.com
 127.0.0.1 cube.ign.us.intellitxt.com
+127.0.0.1 cwpittsburgh.cbslocal.us.intellitxt.com
 127.0.0.1 dabcc.us.intellitxt.com
 127.0.0.1 dailygab.us.intellitxt.com
 127.0.0.1 dailystab.us.intellitxt.com
@@ -32014,8 +32846,11 @@ white yt3.ggpht.com
 127.0.0.1 delawareonline.us.intellitxt.com
 127.0.0.1 demonews.us.intellitxt.com
 127.0.0.1 denguru.us.intellitxt.com
+127.0.0.1 denofgeek.uk.intellitxt.com
 127.0.0.1 derekhail.us.intellitxt.com
 127.0.0.1 destructoid.us.intellitxt.com
+127.0.0.1 dev.k.intellitxt.com
+127.0.0.1 devguru.us.intellitxt.com
 127.0.0.1 devshed.us.intellitxt.com
 127.0.0.1 dietsinreview.us.intellitxt.com
 127.0.0.1 digit-life.uk.intellitxt.com
@@ -32044,6 +32879,7 @@ white yt3.ggpht.com
 127.0.0.1 ehomeupgrade.us.intellitxt.com
 127.0.0.1 ehow.us.intellitxt.com
 127.0.0.1 electronista.us.intellitxt.com
+127.0.0.1 elitepvpers-de.intellitxt.com
 127.0.0.1 emaxhealth.us.intellitxt.com
 127.0.0.1 encyclocentral.us.intellitxt.com
 127.0.0.1 entertainment.msn.us.intellitxt.com
@@ -32056,6 +32892,7 @@ white yt3.ggpht.com
 127.0.0.1 eweek.us.intellitxt.com
 127.0.0.1 examnotes.us.intellitxt.com
 127.0.0.1 excite.us.intellitxt.com
+127.0.0.1 experts-exchange-us.intellitxt.com
 127.0.0.1 experts.us.intellitxt.com
 127.0.0.1 expertvillage.us.intellitxt.com
 127.0.0.1 extntechnologies.us.intellitxt.com
@@ -32118,6 +32955,7 @@ white yt3.ggpht.com
 127.0.0.1 genmay.us.intellitxt.com
 127.0.0.1 ghacks.de.intellitxt.com
 127.0.0.1 girlsaskguys.us.intellitxt.com
+127.0.0.1 girlshideout.us.intellitxt.com
 127.0.0.1 givememyremote.us.intellitxt.com
 127.0.0.1 gjerrigknark.no.intellitxt.com
 127.0.0.1 goal.us.intellitxt.com
@@ -32128,11 +32966,13 @@ white yt3.ggpht.com
 127.0.0.1 gottabemobile.us.intellitxt.com
 127.0.0.1 govpro.us.intellitxt.com
 127.0.0.1 graytv.us.intellitxt.com
+127.0.0.1 gs-forum.de.intellitxt.com
 127.0.0.1 gsmarena.us.intellitxt.com
 127.0.0.1 gtmedia.us.intellitxt.com
 127.0.0.1 gtrforums.us.intellitxt.com
 127.0.0.1 gulli.de.intellitxt.com
 127.0.0.1 guru3d.us.intellitxt.com
+127.0.0.1 gutefrage.de.intellitxt.com
 127.0.0.1 guyism.us.intellitxt.com
 127.0.0.1 hackedgadgets.us.intellitxt.com
 127.0.0.1 hairboutique.us.intellitxt.com
@@ -32147,6 +32987,7 @@ white yt3.ggpht.com
 127.0.0.1 health.msnbc.us.intellitxt.com
 127.0.0.1 helium.us.intellitxt.com
 127.0.0.1 hexus.uk.intellitxt.com
+127.0.0.1 hifi-forum.de.intellitxt.com
 127.0.0.1 highdefforum.us.intellitxt.com
 127.0.0.1 hiphopdx.us.intellitxt.com
 127.0.0.1 hiphopgalaxy.fr.intellitxt.com
@@ -32157,10 +32998,12 @@ white yt3.ggpht.com
 127.0.0.1 hollywoodbackwash.us.intellitxt.com
 127.0.0.1 hollywoodchicago.us.intellitxt.com
 127.0.0.1 hollywooddame.us.intellitxt.com
+127.0.0.1 hollywoodlife-us.intellitxt.com
 127.0.0.1 hollywoodstreetking.us.intellitxt.com
 127.0.0.1 hollywoodtuna.us.intellitxt.com
 127.0.0.1 hometheaterhifi.us.intellitxt.com
 127.0.0.1 hondahookup.us.intellitxt.com
+127.0.0.1 hongkiat.us.intellitxt.com
 127.0.0.1 hoopsvibe.us.intellitxt.com
 127.0.0.1 hoopsworld.us.intellitxt.com
 127.0.0.1 hoovers.us.intellitxt.com
@@ -32173,6 +33016,7 @@ white yt3.ggpht.com
 127.0.0.1 hq-celebrity.us.intellitxt.com
 127.0.0.1 htmlcenter.us.intellitxt.com
 127.0.0.1 huliq.us.intellitxt.com
+127.0.0.1 hwupgrade.it.intellitxt.com
 127.0.0.1 i-hacked.us.intellitxt.com
 127.0.0.1 i4u.us.intellitxt.com
 127.0.0.1 iamnotageek.us.intellitxt.com
@@ -32182,14 +33026,18 @@ white yt3.ggpht.com
 127.0.0.1 idm.us.intellitxt.com
 127.0.0.1 idontlikeyouinthatway.us.intellitxt.com
 127.0.0.1 iesb.us.intellitxt.com
+127.0.0.1 ifood.us.intellitxt.com
+127.0.0.1 igeneration-fr.intellitxt.com
 127.0.0.1 ign.us.intellitxt.com
 127.0.0.1 images.intellitxt.com
 127.0.0.1 imnotobsessed.us.intellitxt.com
 127.0.0.1 impactwrestling.us.intellitxt.com
 127.0.0.1 imreportcard.us.intellitxt.com
 127.0.0.1 india-forums.us.intellitxt.com
+127.0.0.1 indystar.us.intellitxt.com
 127.0.0.1 infopackets.us.intellitxt.com
 127.0.0.1 infos-du-net.fr.intellitxt.com
+127.0.0.1 infosat-de.intellitxt.com
 127.0.0.1 inquake.de.intellitxt.com
 127.0.0.1 insidemacgames.us.intellitxt.com
 127.0.0.1 intellitxt.com
@@ -32216,7 +33064,10 @@ white yt3.ggpht.com
 127.0.0.1 jupiter.us.intellitxt.com
 127.0.0.1 justjared.us.intellitxt.com
 127.0.0.1 justmovietrailers.us.intellitxt.com
+127.0.0.1 k.intellitxt.com
 127.0.0.1 kaboose.us.intellitxt.com
+127.0.0.1 kentuckynewera.us.intellitxt.com
+127.0.0.1 kfz-net-de.intellitxt.com
 127.0.0.1 killerstartups.us.intellitxt.com
 127.0.0.1 knac.us.intellitxt.com
 127.0.0.1 knowyourmobile.uk.intellitxt.com
@@ -32245,6 +33096,7 @@ white yt3.ggpht.com
 127.0.0.1 macnn.us.intellitxt.com
 127.0.0.1 macobserver.us.intellitxt.com
 127.0.0.1 macwelt.de.intellitxt.com
+127.0.0.1 macworld-uk.intellitxt.com
 127.0.0.1 mad.uk.intellitxt.com
 127.0.0.1 madpenguin.us.intellitxt.com
 127.0.0.1 mainstreet.us.intellitxt.com
@@ -32253,7 +33105,9 @@ white yt3.ggpht.com
 127.0.0.1 makemeheal.us.intellitxt.com
 127.0.0.1 makeushot.us.intellitxt.com
 127.0.0.1 masalatalk.us.intellitxt.com
+127.0.0.1 mathhelpforum.us.intellitxt.com
 127.0.0.1 mazdaworld.us.intellitxt.com
+127.0.0.1 mcmcse.us.intellitxt.com
 127.0.0.1 medicinenet.us.intellitxt.com
 127.0.0.1 medindia.us.intellitxt.com
 127.0.0.1 memoclic.fr.intellitxt.com
@@ -32271,6 +33125,7 @@ white yt3.ggpht.com
 127.0.0.1 mobilewhack.us.intellitxt.com
 127.0.0.1 mobilityguru.us.intellitxt.com
 127.0.0.1 mobilitysite.us.intellitxt.com
+127.0.0.1 modem-drivers.us.intellitxt.com
 127.0.0.1 monstersandcritics.uk.intellitxt.com
 127.0.0.1 morningstar.us.intellitxt.com
 127.0.0.1 motortrend.us.intellitxt.com
@@ -32305,16 +33160,20 @@ white yt3.ggpht.com
 127.0.0.1 nihoncar.us.intellitxt.com
 127.0.0.1 ninjadude.us.intellitxt.com
 127.0.0.1 nodevice.uk.intellitxt.com
+127.0.0.1 notebookreview.us.intellitxt.com
 127.0.0.1 ntcompatible.us.intellitxt.com
 127.0.0.1 obgyn.us.intellitxt.com
 127.0.0.1 oceanup.us.intellitxt.com
 127.0.0.1 octools.us.intellitxt.com
 127.0.0.1 ocworkbench.us.intellitxt.com
+127.0.0.1 office-loesung.de.intellitxt.com
 127.0.0.1 officer.us.intellitxt.com
 127.0.0.1 ok.uk.intellitxt.com
 127.0.0.1 okmagazine.us.intellitxt.com
 127.0.0.1 onlamp.us.intellitxt.com
 127.0.0.1 oocenter.us.intellitxt.com
+127.0.0.1 optout.intellitxt.com
+127.0.0.1 orlandosentinel.us.intellitxt.com
 127.0.0.1 osdir.us.intellitxt.com
 127.0.0.1 ostg.us.intellitxt.com
 127.0.0.1 outofsightmedia.us.intellitxt.com
@@ -32322,18 +33181,22 @@ white yt3.ggpht.com
 127.0.0.1 overclockersonline.us.intellitxt.com
 127.0.0.1 overthelimit.us.intellitxt.com
 127.0.0.1 pal-item.us.intellitxt.com
+127.0.0.1 pandaapp.us.intellitxt.com
 127.0.0.1 pc-infopratique.fr.intellitxt.com
+127.0.0.1 pcadvisor-uk.intellitxt.com
 127.0.0.1 pcadvisor.uk.intellitxt.com
+127.0.0.1 pcastuces.fr.intellitxt.com
+127.0.0.1 pcgames.de.intellitxt.com
 127.0.0.1 pcinpact.fr.intellitxt.com
 127.0.0.1 pcmag.us.intellitxt.com
 127.0.0.1 pcper.us.intellitxt.com
 127.0.0.1 pcpro.uk.intellitxt.com
+127.0.0.1 pctipp.ch.intellitxt.com
 127.0.0.1 pcw.uk.intellitxt.com
 127.0.0.1 pcwelt.de.intellitxt.com
 127.0.0.1 pencomputing.us.intellitxt.com
 127.0.0.1 penton.us.intellitxt.com
 127.0.0.1 perezhilton.us.intellitxt.com
-127.0.0.1 philadelphia_cbslocal.us.intellitxt.com
 127.0.0.1 phonearena.us.intellitxt.com
 127.0.0.1 php-mag.de.intellitxt.com
 127.0.0.1 php-magnet.de.intellitxt.com
@@ -32369,6 +33232,7 @@ white yt3.ggpht.com
 127.0.0.1 psp.ign.us.intellitxt.com
 127.0.0.1 psx.ign.us.intellitxt.com
 127.0.0.1 punchjump.us.intellitxt.com
+127.0.0.1 pupcity.us.intellitxt.com
 127.0.0.1 pwinsider.us.intellitxt.com
 127.0.0.1 qj.us.intellitxt.com
 127.0.0.1 quickpwn.us.intellitxt.com
@@ -32384,7 +33248,10 @@ white yt3.ggpht.com
 127.0.0.1 recipeland.us.intellitxt.com
 127.0.0.1 redbalcony.us.intellitxt.com
 127.0.0.1 reelmovienews.us.intellitxt.com
+127.0.0.1 remedyhealthmedia.us.intellitxt.com
 127.0.0.1 reseaux-telecoms.fr.intellitxt.com
+127.0.0.1 reuters.uk.intellitxt.com
+127.0.0.1 reuters.us.intellitxt.com
 127.0.0.1 revolution.ign.us.intellitxt.com
 127.0.0.1 rickey.us.intellitxt.com
 127.0.0.1 rightpundits.us.intellitxt.com
@@ -32445,6 +33312,8 @@ white yt3.ggpht.com
 127.0.0.1 surebaby.us.intellitxt.com
 127.0.0.1 symbian-freak.us.intellitxt.com
 127.0.0.1 symbianone.us.intellitxt.com
+127.0.0.1 sysprobs.us.intellitxt.com
+127.0.0.1 t-online.de.intellitxt.com
 127.0.0.1 tastefulcelebs.us.intellitxt.com
 127.0.0.1 tbohiphop.us.intellitxt.com
 127.0.0.1 tcmagazine.uk.intellitxt.com
@@ -32504,6 +33373,7 @@ white yt3.ggpht.com
 127.0.0.1 tomsforumz.us.intellitxt.com
 127.0.0.1 tomshardware.fr.intellitxt.com
 127.0.0.1 tomshardware.se.intellitxt.com
+127.0.0.1 tomshw-it.intellitxt.com
 127.0.0.1 tomsnetworking.us.intellitxt.com
 127.0.0.1 toofab.us.intellitxt.com
 127.0.0.1 topdownloads.nl.intellitxt.com
@@ -32529,9 +33399,11 @@ white yt3.ggpht.com
 127.0.0.1 tweetsoup.us.intellitxt.com
 127.0.0.1 twitchguru.us.intellitxt.com
 127.0.0.1 ubergizmo.us.intellitxt.com
+127.0.0.1 ubuntugeek.uk.intellitxt.com
 127.0.0.1 uk.intellitxt.com
 127.0.0.1 ultimate-guitar.us.intellitxt.com
 127.0.0.1 uncoached.us.intellitxt.com
+127.0.0.1 unternehmen-heute.de.intellitxt.com
 127.0.0.1 upi.us.intellitxt.com
 127.0.0.1 us.intellitxt.com
 127.0.0.1 vault9.us.intellitxt.com
@@ -32539,12 +33411,14 @@ white yt3.ggpht.com
 127.0.0.1 videocodezone.us.intellitxt.com
 127.0.0.1 videojug.uk.intellitxt.com
 127.0.0.1 vidnet.us.intellitxt.com
+127.0.0.1 viralplanet.uk.intellitxt.com
 127.0.0.1 vitalfootball.uk.intellitxt.com
 127.0.0.1 vladtv.us.intellitxt.com
 127.0.0.1 vnunet.uk.intellitxt.com
 127.0.0.1 voodoofiles.us.intellitxt.com
 127.0.0.1 warcry.us.intellitxt.com
 127.0.0.1 warp2search.us.intellitxt.com
+127.0.0.1 watchgeneration-fr.intellitxt.com
 127.0.0.1 wdxcyber.us.intellitxt.com
 127.0.0.1 webuser.uk.intellitxt.com
 127.0.0.1 webwereld.nl.intellitxt.com
@@ -32555,11 +33429,14 @@ white yt3.ggpht.com
 127.0.0.1 wi-fitechnology.uk.intellitxt.com
 127.0.0.1 wincert.us.intellitxt.com
 127.0.0.1 windows7news.uk.intellitxt.com
+127.0.0.1 windowsbbs-us.intellitxt.com
 127.0.0.1 windowsbbs.us.intellitxt.com
 127.0.0.1 windowsitpro.us.intellitxt.com
+127.0.0.1 winfaq.de.intellitxt.com
 127.0.0.1 winfuture.de.intellitxt.com
 127.0.0.1 winmatrix.us.intellitxt.com
 127.0.0.1 winterrowd.us.intellitxt.com
+127.0.0.1 wintotal.de.intellitxt.com
 127.0.0.1 wiregirl.us.intellitxt.com
 127.0.0.1 wireless.ign.us.intellitxt.com
 127.0.0.1 wirelessforums.us.intellitxt.com
@@ -32573,6 +33450,7 @@ white yt3.ggpht.com
 127.0.0.1 wwe.us.intellitxt.com
 127.0.0.1 wwtdd.us.intellitxt.com
 127.0.0.1 www.intellitxt.com
+127.0.0.1 x-drivers.ru.intellitxt.com
 127.0.0.1 x17online.us.intellitxt.com
 127.0.0.1 xbox.ign.us.intellitxt.com
 127.0.0.1 xbox360.ign.us.intellitxt.com
@@ -32603,13 +33481,33 @@ white yt3.ggpht.com
 127.0.0.1 ads.interactivetools.com
 
 # interclick.com
+127.0.0.1 3.g.interclick.com
 127.0.0.1 a1.interclick.com
 127.0.0.1 ad.interclick.com
+127.0.0.1 ak.osmdcs.interclick.com
 127.0.0.1 campaigns.interclick.com
+127.0.0.1 cdn.interclick.com
+127.0.0.1 cdnk.interclick.com
+127.0.0.1 east.g.interclick.com
+127.0.0.1 east.idcs.interclick.com
+127.0.0.1 east.osmdcs.interclick.com
+127.0.0.1 facebook.a1.interclick.com
 127.0.0.1 idcs.interclick.com
 127.0.0.1 interclick.com
+127.0.0.1 msn.a1.interclick.com
 127.0.0.1 osmdcs.interclick.com
+127.0.0.1 osmsync.interclick.com
+127.0.0.1 px.g.interclick.com
+127.0.0.1 px.gs.interclick.com
+127.0.0.1 secure.interclick.com
+127.0.0.1 u2sb.interclick.com
+127.0.0.1 vcampaigns.interclick.com
+127.0.0.1 west.a1.interclick.com
+127.0.0.1 west.g.interclick.com
+127.0.0.1 west.idcs.interclick.com
+127.0.0.1 west.osmdcs.interclick.com
 127.0.0.1 www.interclick.com
+127.0.0.1 y.a1.interclick.com
 
 # interclimax.com
 127.0.0.1 banners.interclimax.com
@@ -33901,6 +34799,9 @@ white yt3.ggpht.com
 # jpmoncler2014.com
 127.0.0.1 www.jpmoncler2014.com
 
+# jpn.com
+127.0.0.1 cube.jpn.com
+
 # jpn0315.info
 127.0.0.1 jpn0315.info
 
@@ -34701,6 +35602,12 @@ white yt3.ggpht.com
 # l2m.net
 127.0.0.1 14713804a.l2m.net
 127.0.0.1 30280827a.l2m.net
+127.0.0.1 31867483a.l2m.net
+127.0.0.1 33362002a.l2m.net
+127.0.0.1 e.l2m.net
+127.0.0.1 www.14713804a.l2m.net
+127.0.0.1 www.31867483a.l2m.net
+127.0.0.1 www.l2m.net
 
 # l4d2dl.com
 127.0.0.1 l4d2dl.com
@@ -35174,10 +36081,88 @@ white yt3.ggpht.com
 127.0.0.1 rt.liftdna.com
 
 # ligatus.com
+127.0.0.1 a-sll.ligatus.com
+127.0.0.1 a-ssl.ligatus.com
 127.0.0.1 a.ligatus.com
 127.0.0.1 ads-de.ret01.ligatus.com
+127.0.0.1 ads-fr.ligatus.com
+127.0.0.1 ads-fr.ret01.ligatus.com
+127.0.0.1 ads-nl.ret01.ligatus.com
+127.0.0.1 ads-tr.ret01.ligatus.com
+127.0.0.1 adx.helios.ligatus.com
+127.0.0.1 adyard-adfarm.ligatus.com
+127.0.0.1 ap.ligatus.com
+127.0.0.1 c.ligatus.com
+127.0.0.1 cb.ligatus.com
+127.0.0.1 cdn-cdx-woa.helios.ligatus.com
+127.0.0.1 cdn.cp.ligatus.com
+127.0.0.1 content.ligatus.com
+127.0.0.1 ct-origin-dev.ligatus.com
+127.0.0.1 ct.ligatus.com
+127.0.0.1 d.ligatus.com
+127.0.0.1 d2.ligatus.com
+127.0.0.1 dealmanager.ligatus.com
+127.0.0.1 delivery.hyde.ligatus.com
+127.0.0.1 directads-new.ligatus.com
+127.0.0.1 directads-support.ligatus.com
+127.0.0.1 directads-tool.ligatus.com
+127.0.0.1 directads.ligatus.com
+127.0.0.1 directads2.ligatus.com
+127.0.0.1 dsp.ligatus.com
+127.0.0.1 dsp2.ligatus.com
+127.0.0.1 e-ssl.ligatus.com
+127.0.0.1 e.ligatus.com
+127.0.0.1 ext.ligatus.com
+127.0.0.1 fa-ssl.ligatus.com
+127.0.0.1 fr1.ligatus.com
+127.0.0.1 h-sll.ligatus.com
+127.0.0.1 h-ssl.ligatus.com
+127.0.0.1 h.ligatus.com
+127.0.0.1 i-l.ligatus.com
+127.0.0.1 i-origin-mhenrich.webdev.ligatus.com
+127.0.0.1 i-origin.ligatus.com
+127.0.0.1 i-ssl.ligatus.com
+127.0.0.1 i.ligatus.com
+127.0.0.1 id.ligatus.com
+127.0.0.1 image.cp.ligatus.com
+127.0.0.1 l.ligatus.com
 127.0.0.1 ligatus.com
+127.0.0.1 mail.ligatus.com
 127.0.0.1 ms.ligatus.com
+127.0.0.1 optout.helios.ligatus.com
+127.0.0.1 push.rce.ligatus.com
+127.0.0.1 qa.ligatus.com
+127.0.0.1 r.ligatus.com
+127.0.0.1 rce-reporting.ligatus.com
+127.0.0.1 rce.ligatus.com
+127.0.0.1 render.helio.ligatus.com
+127.0.0.1 render.helios.ligatus.com
+127.0.0.1 report-a.ligatus.com
+127.0.0.1 report-d2.ligatus.com
+127.0.0.1 reporting.ligatus.com
+127.0.0.1 s.ligatus.com
+127.0.0.1 self-booking.ligatus.com
+127.0.0.1 selfbooking.ligatus.com
+127.0.0.1 ssl.ligatus.com
+127.0.0.1 start.ligatus.com
+127.0.0.1 static.ligatus.com
+127.0.0.1 t-ssl.ligatus.com
+127.0.0.1 t.ligatus.com
+127.0.0.1 tagmanager.ligatus.com
+127.0.0.1 tr.hugin.ligatus.com
+127.0.0.1 track.ligatus.com
+127.0.0.1 tracking.cp.ligatus.com
+127.0.0.1 tracking.hyde.ligatus.com
+127.0.0.1 trk.elios.ligatus.com
+127.0.0.1 trk.helios.ligatus.com
+127.0.0.1 trk.hellos.ligatus.com
+127.0.0.1 turbo.hyde.ligatus.com
+127.0.0.1 updater.hyde.ligatus.com
+127.0.0.1 vext.ligatus.com
+127.0.0.1 www.ligatus.com
+127.0.0.1 www.self-booking.ligatus.com
+127.0.0.1 x-qa.ligatus.com
+127.0.0.1 x.ligatus.com
 
 # ligatus.de
 127.0.0.1 ligatus.de
@@ -36082,110 +37067,13 @@ white yt3.ggpht.com
 127.0.0.1 roppiyar.livedoor.biz
 
 # livedoor.com
-127.0.0.1 2fclip.livedoor.com
-127.0.0.1 4koma.livedoor.com
 127.0.0.1 adv.livedoor.com
-127.0.0.1 amigo.m.livedoor.com
-127.0.0.1 api.clip.livedoor.com
-127.0.0.1 api.livedoor.com
 127.0.0.1 app.click.livedoor.com
-127.0.0.1 auth.livedoor.com
-127.0.0.1 avatar.livedoor.com
-127.0.0.1 biztrip.livedoor.com
-127.0.0.1 blog.livedoor.com
-127.0.0.1 blog.m.livedoor.com
-127.0.0.1 blogos.livedoor.com
-127.0.0.1 blogroll.livedoor.com
-127.0.0.1 books.livedoor.com
-127.0.0.1 campaign.livedoor.com
-127.0.0.1 career.livedoor.com
-127.0.0.1 career.news.livedoor.com
-127.0.0.1 chat.livedoor.com
-127.0.0.1 ck.rd.livedoor.com
 127.0.0.1 click.adv.livedoor.com
-127.0.0.1 click.livedoor.com
 127.0.0.1 clip.livedoor.com
-127.0.0.1 cms.blog.livedoor.com
-127.0.0.1 cms.profile.livedoor.com
-127.0.0.1 contact.livedoor.com
 127.0.0.1 counter2.blog.livedoor.com
-127.0.0.1 cx.livedoor.com
-127.0.0.1 depart.livedoor.com
-127.0.0.1 dev.livedoor.com
-127.0.0.1 docs.livedoor.com
-127.0.0.1 email.livedoor.com
-127.0.0.1 encoder.livedoor.com
-127.0.0.1 finance.livedoor.com
-127.0.0.1 frepa.m.livedoor.com
-127.0.0.1 g.livedoor.com
-127.0.0.1 game.livedoor.com
-127.0.0.1 games.livedoor.com
-127.0.0.1 girls.livedoor.com
-127.0.0.1 gmail.livedoor.com
-127.0.0.1 golf.livedoor.com
-127.0.0.1 gourmet.livedoor.com
-127.0.0.1 grandhotel.livedoor.com
-127.0.0.1 guide.livedoor.com
-127.0.0.1 haiku.blog.livedoor.com
-127.0.0.1 help.livedoor.com
-127.0.0.1 helpguide.livedoor.com
-127.0.0.1 htwww.livedoor.com
-127.0.0.1 idoldvd.livedoor.com
 127.0.0.1 image.adv.livedoor.com
-127.0.0.1 image.blog.4koma.livedoor.com
-127.0.0.1 image.blog.anime.livedoor.com
-127.0.0.1 image.blog.livedoor.com
-127.0.0.1 image.clip.livedoor.com
-127.0.0.1 image.livedoor.com
-127.0.0.1 image.news.livedoor.com
-127.0.0.1 image.reader.livedoor.com
-127.0.0.1 img.blog.livedoor.com
-127.0.0.1 img.pics.livedoor.com
-127.0.0.1 js.news.livedoor.com
-127.0.0.1 kabu.livedoor.com
-127.0.0.1 kabu.pr.livedoor.com
-127.0.0.1 kakaku.livedoor.com
-127.0.0.1 keyword.livedoor.com
-127.0.0.1 ladio.livedoor.com
-127.0.0.1 ldnewsapp-api.livedoor.com
-127.0.0.1 loveblog.livedoor.com
-127.0.0.1 mail.livedoor.com
-127.0.0.1 map.livedoor.com
-127.0.0.1 member.livedoor.com
-127.0.0.1 news.livedoor.com
-127.0.0.1 opera.livedoor.com
-127.0.0.1 parts.news.livedoor.com
-127.0.0.1 pics.livedoor.com
-127.0.0.1 portal.profile.livedoor.com
-127.0.0.1 posren.livedoor.com
-127.0.0.1 pro-g.livedoor.com
-127.0.0.1 profile.livedoor.com
-127.0.0.1 provider.livedoor.com
-127.0.0.1 rd.livedoor.com
-127.0.0.1 reader.livedoor.com
-127.0.0.1 recruit.livedoor.com
-127.0.0.1 recycle.livedoor.com
-127.0.0.1 rentalbbs.livedoor.com
-127.0.0.1 search.livedoor.com
-127.0.0.1 sf.livedoor.com
-127.0.0.1 shopping.livedoor.com
-127.0.0.1 sl.news.livedoor.com
-127.0.0.1 soccer.livedoor.com
-127.0.0.1 sorry.livedoor.com
-127.0.0.1 sports.livedoor.com
 127.0.0.1 st.search.livedoor.com
-127.0.0.1 t-select.livedoor.com
-127.0.0.1 tehai.livedoor.com
-127.0.0.1 tokyo.gourmet.livedoor.com
-127.0.0.1 translate.livedoor.com
-127.0.0.1 travel.livedoor.com
-127.0.0.1 travel.pr.livedoor.com
-127.0.0.1 tv.livedoor.com
-127.0.0.1 weather.livedoor.com
-127.0.0.1 wiki.livedoor.com
-127.0.0.1 wireless.livedoor.com
-127.0.0.1 ww.livedoor.com
-127.0.0.1 www.livedoor.com
 
 # livedoor.net
 127.0.0.1 arms.livedoor.net
@@ -36196,9 +37084,6 @@ white yt3.ggpht.com
 
 # liveforsearch.com
 127.0.0.1 www.liveforsearch.com
-
-# livefyre-avatar.s3.amazonaws.com
-127.0.0.1 livefyre-avatar.s3.amazonaws.com
 
 # livefyre.com
 127.0.0.1 bootstrap.livefyre.com
@@ -37355,9 +38240,6 @@ white yt3.ggpht.com
 127.0.0.1 associmage.match.com
 127.0.0.1 media.match.com
 
-# matchbin-assets.s3.amazonaws.com
-127.0.0.1 matchbin-assets.s3.amazonaws.com
-
 # matchbin.com
 127.0.0.1 ads.matchbin.com
 127.0.0.1 analytics.matchbin.com
@@ -37885,9 +38767,6 @@ white yt3.ggpht.com
 
 # mediatakeout.com
 127.0.0.1 server2.mediatakeout.com
-
-# mediatakeout.s3.amazonaws.com
-127.0.0.1 mediatakeout.s3.amazonaws.com
 
 # mediatarget.com
 127.0.0.1 search.mediatarget.com
@@ -38644,6 +39523,13 @@ white yt3.ggpht.com
 
 # mktw.net
 127.0.0.1 a.mktw.net
+127.0.0.1 b.mktw.net
+127.0.0.1 i.mktw.net
+127.0.0.1 i.origin.mktw.net
+127.0.0.1 i.sb.mktw.net
+127.0.0.1 li.mktw.net
+127.0.0.1 on.mktw.net
+127.0.0.1 podcast.mktw.net
 
 # mlclick.com
 127.0.0.1 www.mlclick.com
@@ -38873,9 +39759,6 @@ white yt3.ggpht.com
 # mobpartner.mobi
 127.0.0.1 media.mobpartner.mobi
 
-# mobpopup-elb-1179019535.us-east-1.elb.amazonaws.com
-127.0.0.1 mobpopup-elb-1179019535.us-east-1.elb.amazonaws.com
-
 # mobra.in
 127.0.0.1 go.mobra.in
 
@@ -38903,9 +39786,6 @@ white yt3.ggpht.com
 
 # mobylog.jp
 127.0.0.1 mobylog.jp
-
-# mobypicture.s3.amazonaws.com
-127.0.0.1 mobypicture.s3.amazonaws.com
 
 # mocda1.com
 127.0.0.1 bf.mocda1.com
@@ -39098,9 +39978,6 @@ white yt3.ggpht.com
 
 # mondespersistants.com
 127.0.0.1 stats.mondespersistants.com
-
-# mondoads.s3.amazonaws.com
-127.0.0.1 mondoads.s3.amazonaws.com
 
 # mondogames.com
 127.0.0.1 ads.mondogames.com
@@ -39455,7 +40332,9 @@ white yt3.ggpht.com
 127.0.0.1 a.global.msads.net
 127.0.0.1 ads1.msads.net
 127.0.0.1 ads2.msads.net
+127.0.0.1 b.ads1.msads.net
 127.0.0.1 b.ads2.msads.net
+127.0.0.1 cdnads.msads.net
 127.0.0.1 global.msads.net
 127.0.0.1 msads.net
 
@@ -40468,15 +41347,108 @@ white yt3.ggpht.com
 127.0.0.1 mystabcounter.info
 
 # mystat-in.net
+127.0.0.1 010813090204.c.mystat-in.net
+127.0.0.1 011208174844.c.mystat-in.net
 127.0.0.1 011707160008.c.mystat-in.net
+127.0.0.1 011812085002.c.mystat-in.net
+127.0.0.1 012010172243.c.mystat-in.net
+127.0.0.1 012011183133.c.mystat-in.net
+127.0.0.1 012314150415.c.mystat-in.net
+127.0.0.1 012815083246.c.mystat-in.net
+127.0.0.1 013113223351.c.mystat-in.net
+127.0.0.1 020206143926.c.mystat-in.net
+127.0.0.1 020811202103.c.mystat-in.net
+127.0.0.1 021008115200.c.mystat-in.net
+127.0.0.1 021311195211.c.mystat-in.net
+127.0.0.1 021314154821.c.mystat-in.net
+127.0.0.1 021507135912.c.mystat-in.net
+127.0.0.1 021510190152.c.mystat-in.net
+127.0.0.1 021706141710.c.mystat-in.net
+127.0.0.1 022015063431.c.mystat-in.net
+127.0.0.1 022110005033.c.mystat-in.net
+127.0.0.1 022406152044.c.mystat-in.net
+127.0.0.1 022807114527.c.mystat-in.net
+127.0.0.1 030407141853.c.mystat-in.net
+127.0.0.1 030810180325.c.mystat-in.net
+127.0.0.1 030915182131.c.mystat-in.net
+127.0.0.1 031406124335.c.mystat-in.net
+127.0.0.1 032210045344.c.mystat-in.net
+127.0.0.1 032406192753.c.mystat-in.net
+127.0.0.1 032408020640.c.mystat-in.net
+127.0.0.1 032508234303.c.mystat-in.net
+127.0.0.1 032707103334.c.mystat-in.net
+127.0.0.1 032816145323.c.mystat-in.net
+127.0.0.1 040510111616.c.mystat-in.net
+127.0.0.1 040511143722.c.mystat-in.net
+127.0.0.1 041206021457.c.mystat-in.net
+127.0.0.1 041913153657.c.mystat-in.net
+127.0.0.1 042009172413.c.mystat-in.net
+127.0.0.1 042907015328.c.mystat-in.net
+127.0.0.1 050804081252.c.mystat-in.net
+127.0.0.1 051513215900.c.mystat-in.net
+127.0.0.1 052015012251.c.mystat-in.net
+127.0.0.1 052908212003.c.mystat-in.net
+127.0.0.1 053110212952.c.mystat-in.net
+127.0.0.1 060113180422.c.mystat-in.net
 127.0.0.1 060810131024.c.mystat-in.net
+127.0.0.1 061115170746.c.mystat-in.net
+127.0.0.1 061514120738.c.mystat-in.net
 127.0.0.1 061606084448.c.mystat-in.net
+127.0.0.1 061912222404.c.mystat-in.net
+127.0.0.1 062414145053.c.mystat-in.net
+127.0.0.1 062514234254.c.mystat-in.net
+127.0.0.1 063009005045.c.mystat-in.net
+127.0.0.1 070506175129.c.mystat-in.net
+127.0.0.1 070607151649.c.mystat-in.net
+127.0.0.1 070612234344.c.mystat-in.net
 127.0.0.1 070806142521.c.mystat-in.net
+127.0.0.1 071308212820.c.mystat-in.net
+127.0.0.1 071806155822.c.mystat-in.net
+127.0.0.1 072609095159.c.mystat-in.net
+127.0.0.1 081211162859.c.mystat-in.net
+127.0.0.1 081905152731.c.mystat-in.net
+127.0.0.1 082106160313.c.mystat-in.net
+127.0.0.1 090209021312.c.mystat-in.net
+127.0.0.1 090309092314.c.mystat-in.net
+127.0.0.1 090806225209.c.mystat-in.net
 127.0.0.1 090906042103.c.mystat-in.net
+127.0.0.1 090909184444.c.mystat-in.net
+127.0.0.1 091015002748.c.mystat-in.net
+127.0.0.1 091607210052.c.mystat-in.net
+127.0.0.1 091707165232.c.mystat-in.net
+127.0.0.1 091905091414.c.mystat-in.net
 127.0.0.1 092706152958.c.mystat-in.net
+127.0.0.1 092811000451.c.mystat-in.net
+127.0.0.1 100704064719.c.mystat-in.net
+127.0.0.1 100907213633.c.mystat-in.net
+127.0.0.1 101014134857.c.mystat-in.net
+127.0.0.1 101205082228.c.mystat-in.net
+127.0.0.1 101306050319.c.mystat-in.net
 127.0.0.1 102106151057.c.mystat-in.net
+127.0.0.1 103015190143.c.mystat-in.net
+127.0.0.1 103109121929.c.mystat-in.net
+127.0.0.1 110713143200.c.mystat-in.net
+127.0.0.1 111206215724.c.mystat-in.net
+127.0.0.1 111316220137.c.mystat-in.net
+127.0.0.1 111698122802.c.mystat-in.net
 127.0.0.1 112006133326.c.mystat-in.net
+127.0.0.1 112112214924.c.mystat-in.net
+127.0.0.1 112205024411.c.mystat-in.net
+127.0.0.1 112510220413.c.mystat-in.net
+127.0.0.1 120209095144.c.mystat-in.net
+127.0.0.1 120309161640.c.mystat-in.net
+127.0.0.1 120407190315.c.mystat-in.net
+127.0.0.1 120610153956.c.mystat-in.net
+127.0.0.1 120706154200.c.mystat-in.net
+127.0.0.1 120907124634.c.mystat-in.net
+127.0.0.1 121413231551.c.mystat-in.net
+127.0.0.1 121510201446.c.mystat-in.net
+127.0.0.1 121605103051.c.mystat-in.net
 127.0.0.1 121807150325.c.mystat-in.net
+127.0.0.1 121907020028.c.mystat-in.net
+127.0.0.1 121911204534.c.mystat-in.net
+127.0.0.1 122611170414.c.mystat-in.net
+127.0.0.1 122807155757.c.mystat-in.net
 127.0.0.1 122907224924.c.mystat-in.net
 127.0.0.1 c.mystat-in.net
 127.0.0.1 f2.n1.b.mystat-in.net
@@ -40854,6 +41826,24 @@ white yt3.ggpht.com
 # nbci.com
 127.0.0.1 a1879.g.ak.nbci.com
 127.0.0.1 a556.g.ak.nbci.com
+127.0.0.1 aj.nbci.com
+127.0.0.1 bonzibuddy.nbci.com
+127.0.0.1 clubs.nbci.com
+127.0.0.1 dellnet.nbci.com
+127.0.0.1 dobhran.nbci.com
+127.0.0.1 edition.nbci.com
+127.0.0.1 epinions.nbci.com
+127.0.0.1 fourohfour.nbci.com
+127.0.0.1 ftp.nbci.com
+127.0.0.1 home.nbci.com
+127.0.0.1 images.nbci.com
+127.0.0.1 members.nbci.com
+127.0.0.1 netcaptor.nbci.com
+127.0.0.1 real2hs.nbci.com
+127.0.0.1 uswest.nbci.com
+127.0.0.1 www.nbci.com
+127.0.0.1 xb.nbci.com
+127.0.0.1 zen.nbci.com
 
 # nbcsandiego.com
 127.0.0.1 scrooge.nbcsandiego.com
@@ -40873,9 +41863,6 @@ white yt3.ggpht.com
 127.0.0.1 nbjmp.com
 127.0.0.1 rotator.nbjmp.com
 127.0.0.1 www.nbjmp.com
-
-# ncads.s3.amazonaws.com
-127.0.0.1 ncads.s3.amazonaws.com
 
 # ncast.cn
 127.0.0.1 sd.ncast.cn
@@ -41101,6 +42088,10 @@ white yt3.ggpht.com
 
 # net-s-sof-t-open.site
 127.0.0.1 net-s-sof-t-open.site
+
+# net.ru
+127.0.0.1 admed.net.ru
+127.0.0.1 bestsites.net.ru
 
 # netaffiliation.com
 127.0.0.1 netaffiliation.com
@@ -42215,9 +43206,6 @@ white yt3.ggpht.com
 127.0.0.1 ad.nozonedata.com
 127.0.0.1 ad1.nozonedata.com
 
-# np7beacon.cloudapp.net
-127.0.0.1 np7beacon.cloudapp.net
-
 # npmpecd.com
 127.0.0.1 npmpecd.com
 
@@ -43217,9 +44205,6 @@ white yt3.ggpht.com
 127.0.0.1 optify.net
 127.0.0.1 service.optify.net
 127.0.0.1 www.optify.net
-
-# optimizely.appspot.com
-127.0.0.1 optimizely.appspot.com
 
 # optimizely.com
 127.0.0.1 log.optimizely.com
@@ -44412,9 +45397,6 @@ white yt3.ggpht.com
 # pcauw.com
 127.0.0.1 pcauw.com
 
-# pcbutts1-therealtruth.blogspot.com
-127.0.0.1 pcbutts1-therealtruth.blogspot.com
-
 # pcbutts1.com
 127.0.0.1 pcbutts1.com
 127.0.0.1 www.pcbutts1.com
@@ -44764,9 +45746,6 @@ white yt3.ggpht.com
 
 # pgpartner.com
 127.0.0.1 pgpartner.com
-
-# phan-js.s3.amazonaws.com
-127.0.0.1 phan-js.s3.amazonaws.com
 
 # pharma-search.biz
 127.0.0.1 top.pharma-search.biz
@@ -45214,9 +46193,6 @@ white yt3.ggpht.com
 # plus8.net
 127.0.0.1 statto.plus8.net
 
-# plusmo.s3.amazonaws.com
-127.0.0.1 html5adkit.plusmo.s3.amazonaws.com
-
 # pmates.com
 127.0.0.1 as.pmates.com
 
@@ -45463,41 +46439,129 @@ white yt3.ggpht.com
 
 # popunder.ru
 127.0.0.1 1gavcom.popunder.ru
+127.0.0.1 2000usd.popunder.ru
+127.0.0.1 agregat.popunder.ru
+127.0.0.1 ais.popunder.ru
+127.0.0.1 alban.popunder.ru
+127.0.0.1 alex2222.popunder.ru
+127.0.0.1 alexkk.popunder.ru
+127.0.0.1 ampmr.popunder.ru
 127.0.0.1 anrysys.popunder.ru
+127.0.0.1 apokalypsemusic.popunder.ru
+127.0.0.1 artex.popunder.ru
+127.0.0.1 ataman-93.popunder.ru
+127.0.0.1 bashmacha1.popunder.ru
+127.0.0.1 basicsound.popunder.ru
 127.0.0.1 basterr.popunder.ru
+127.0.0.1 blackchek.popunder.ru
+127.0.0.1 bo0m73.popunder.ru
+127.0.0.1 bourne.popunder.ru
+127.0.0.1 brof.popunder.ru
 127.0.0.1 bugera.popunder.ru
+127.0.0.1 client.popunder.ru
 127.0.0.1 clik2008.popunder.ru
+127.0.0.1 danger0789.popunder.ru
+127.0.0.1 dardemon.popunder.ru
+127.0.0.1 darkvolk.popunder.ru
+127.0.0.1 darned.popunder.ru
 127.0.0.1 darseo.popunder.ru
+127.0.0.1 ded2151327.popunder.ru
+127.0.0.1 defender.popunder.ru
+127.0.0.1 dexter-g2.popunder.ru
+127.0.0.1 disorder.popunder.ru
+127.0.0.1 djanin.popunder.ru
 127.0.0.1 djeps.popunder.ru
 127.0.0.1 ead-soft.popunder.ru
+127.0.0.1 f1f10f32.popunder.ru
+127.0.0.1 facel.popunder.ru
+127.0.0.1 fennix.popunder.ru
+127.0.0.1 filosof20063.popunder.ru
+127.0.0.1 frear.popunder.ru
 127.0.0.1 freegroupvideo.popunder.ru
 127.0.0.1 gajime.popunder.ru
+127.0.0.1 guzmo.popunder.ru
 127.0.0.1 h0rnd0g.popunder.ru
+127.0.0.1 hakob03.popunder.ru
+127.0.0.1 iamb.popunder.ru
+127.0.0.1 ivani4.popunder.ru
 127.0.0.1 jabu.popunder.ru
+127.0.0.1 jmbo.popunder.ru
+127.0.0.1 jula2906.popunder.ru
 127.0.0.1 kamasutra.popunder.ru
+127.0.0.1 kiberius.popunder.ru
 127.0.0.1 kinofree.popunder.ru
+127.0.0.1 kirillrs3.popunder.ru
+127.0.0.1 kivik.popunder.ru
 127.0.0.1 kondratev.popunder.ru
+127.0.0.1 lega555.popunder.ru
+127.0.0.1 leks2a.popunder.ru
+127.0.0.1 lencik0883.popunder.ru
+127.0.0.1 leninforever.popunder.ru
+127.0.0.1 losting.popunder.ru
 127.0.0.1 low-hacker.popunder.ru
 127.0.0.1 luksona.popunder.ru
+127.0.0.1 mexa.popunder.ru
+127.0.0.1 mgnsk.popunder.ru
 127.0.0.1 milioner.popunder.ru
+127.0.0.1 nad7138.popunder.ru
+127.0.0.1 nashmir.popunder.ru
+127.0.0.1 nazaretto.popunder.ru
+127.0.0.1 nept.popunder.ru
+127.0.0.1 nmax.popunder.ru
+127.0.0.1 nsxmonster.popunder.ru
+127.0.0.1 olinik66.popunder.ru
+127.0.0.1 omeha3.popunder.ru
+127.0.0.1 pagor.popunder.ru
 127.0.0.1 palmebi.popunder.ru
+127.0.0.1 patriarch-ozo.popunder.ru
+127.0.0.1 piman.popunder.ru
+127.0.0.1 planchester.popunder.ru
 127.0.0.1 popunder.ru
+127.0.0.1 pznt.popunder.ru
 127.0.0.1 rapsubs.popunder.ru
+127.0.0.1 ravsaxel.popunder.ru
+127.0.0.1 rezolut.popunder.ru
+127.0.0.1 roller900.popunder.ru
+127.0.0.1 samlab.popunder.ru
 127.0.0.1 sayhello.popunder.ru
+127.0.0.1 sect0r.popunder.ru
 127.0.0.1 sergarius.popunder.ru
+127.0.0.1 shnurmotors.popunder.ru
+127.0.0.1 sofiahooch.popunder.ru
 127.0.0.1 softlinkers.popunder.ru
 127.0.0.1 soski.popunder.ru
 127.0.0.1 spike669.popunder.ru
 127.0.0.1 stepan007.popunder.ru
+127.0.0.1 sub.popunder.ru
+127.0.0.1 svetoidevil.popunder.ru
+127.0.0.1 tatarinbsc.popunder.ru
 127.0.0.1 tengo.popunder.ru
+127.0.0.1 teridesse.popunder.ru
 127.0.0.1 the-kret.popunder.ru
+127.0.0.1 tonymontana.popunder.ru
 127.0.0.1 tvzebra.popunder.ru
+127.0.0.1 uriy33.popunder.ru
+127.0.0.1 uskyura.popunder.ru
 127.0.0.1 vaime.net.popunder.ru
+127.0.0.1 valik62.popunder.ru
+127.0.0.1 van32.popunder.ru
+127.0.0.1 venom332.popunder.ru
 127.0.0.1 viper.popunder.ru
 127.0.0.1 vistas.popunder.ru
+127.0.0.1 vova66.popunder.ru
+127.0.0.1 vvs5500.popunder.ru
+127.0.0.1 waagex.popunder.ru
 127.0.0.1 wera.popunder.ru
+127.0.0.1 whyme.popunder.ru
+127.0.0.1 wrx78.popunder.ru
+127.0.0.1 wst78963.popunder.ru
 127.0.0.1 www.popunder.ru
+127.0.0.1 xkr.popunder.ru
+127.0.0.1 y10.popunder.ru
 127.0.0.1 zampolit1990.popunder.ru
+127.0.0.1 zerocool85.popunder.ru
+127.0.0.1 zhas74.popunder.ru
+127.0.0.1 zipik.popunder.ru
 127.0.0.1 zonawm.biz.popunder.ru
 
 # popup2m.com
@@ -45718,6 +46782,9 @@ white yt3.ggpht.com
 # powweb.com
 127.0.0.1 ads.powweb.com
 127.0.0.1 affiliates.powweb.com
+
+# pp.ru
+127.0.0.1 x0x0l.pp.ru
 
 # ppc-direct.com
 127.0.0.1 www.ppc-direct.com
@@ -46703,10 +47770,6 @@ white yt3.ggpht.com
 127.0.0.1 za1.quebec-bin.com
 
 # quebec-lea.com
-127.0.0.1 "usd.quebec-lea.com
-127.0.0.1 '-usd.quebec-lea.com
-127.0.0.1 *.quebec-lea.com
-127.0.0.1 *usd.quebec-lea.com
 127.0.0.1 aobr01.yamazen.co.jpusd.quebec-lea.com
 127.0.0.1 cusd.quebec-lea.com
 127.0.0.1 minecrafttoptips.comusd.quebec-lea.com
@@ -47991,11 +49054,6 @@ white yt3.ggpht.com
 127.0.0.1 ricollect.research-int.se
 127.0.0.1 shared.research-int.se
 
-# research.de.com
-127.0.0.1 s32.research.de.com
-127.0.0.1 s62.research.de.com
-127.0.0.1 s95.research.de.com
-
 # resellerratings.com
 127.0.0.1 images.resellerratings.com
 
@@ -48402,6 +49460,9 @@ white yt3.ggpht.com
 
 # rnm.ca
 127.0.0.1 ac.rnm.ca
+127.0.0.1 clicks.rnm.ca
+127.0.0.1 dns1.rnm.ca
+127.0.0.1 dns2.rnm.ca
 
 # rnmd.net
 127.0.0.1 ads.rnmd.net
@@ -48618,7 +49679,11 @@ white yt3.ggpht.com
 127.0.0.1 clicks.rtad.io
 
 # rtcode.com
+127.0.0.1 1.rtcode.com
 127.0.0.1 11.rtcode.com
+127.0.0.1 b.rtcode.com
+127.0.0.1 ww1.rtcode.com
+127.0.0.1 www.rtcode.com
 
 # rte.ie
 127.0.0.1 stats2.rte.ie
@@ -48882,7 +49947,101 @@ white yt3.ggpht.com
 127.0.0.1 cdn.sail-horizon.com
 
 # sakh.com
+127.0.0.1 3colors.sakh.com
 127.0.0.1 a.sakh.com
+127.0.0.1 afisha.sakh.com
+127.0.0.1 aleksandrovsk.sakh.com
+127.0.0.1 aniva.sakh.com
+127.0.0.1 api.sakh.com
+127.0.0.1 appmaps.sakh.com
+127.0.0.1 auto.sakh.com
+127.0.0.1 avatara.sakh.com
+127.0.0.1 avia.sakh.com
+127.0.0.1 avia.travel.sakh.com
+127.0.0.1 b.sakh.com
+127.0.0.1 basket.sakh.com
+127.0.0.1 bilet.sakh.com
+127.0.0.1 biz.sakh.com
+127.0.0.1 board.sakh.com
+127.0.0.1 ceye.sakh.com
+127.0.0.1 city.sakh.com
+127.0.0.1 dolinsk.sakh.com
+127.0.0.1 dom.sakh.com
+127.0.0.1 eda.sakh.com
+127.0.0.1 forum-beta.sakh.com
+127.0.0.1 forum-v2.sakh.com
+127.0.0.1 forum.sakh.com
+127.0.0.1 games.sakh.com
+127.0.0.1 go.sakh.com
+127.0.0.1 host-46.255.137.125.sakh.com
+127.0.0.1 i.sakh.com
+127.0.0.1 io.sakh.com
+127.0.0.1 japan.sakh.com
+127.0.0.1 kholmsk.sakh.com
+127.0.0.1 korsakov.sakh.com
+127.0.0.1 kurilsk.sakh.com
+127.0.0.1 logos.sakh.com
+127.0.0.1 long.sakh.com
+127.0.0.1 m.sakh.com
+127.0.0.1 ma-maps.sakh.com
+127.0.0.1 ma.maps.sakh.com
+127.0.0.1 makarov.sakh.com
+127.0.0.1 map.sakh.com
+127.0.0.1 maps.sakh.com
+127.0.0.1 market.sakh.com
+127.0.0.1 mb-maps.sakh.com
+127.0.0.1 mb.maps.sakh.com
+127.0.0.1 mc-maps.sakh.com
+127.0.0.1 mc.maps.sakh.com
+127.0.0.1 md-maps.sakh.com
+127.0.0.1 md.maps.sakh.com
+127.0.0.1 menu.sakh.com
+127.0.0.1 mobile.sakh.com
+127.0.0.1 nevelsk.sakh.com
+127.0.0.1 night.sakh.com
+127.0.0.1 nogliki.sakh.com
+127.0.0.1 ns.sakh.com
+127.0.0.1 ns3.sakh.com
+127.0.0.1 okha.sakh.com
+127.0.0.1 online.sakh.com
+127.0.0.1 pallada.sakh.com
+127.0.0.1 pda.sakh.com
+127.0.0.1 pixel.sakh.com
+127.0.0.1 pogoda.sakh.com
+127.0.0.1 poll.sakh.com
+127.0.0.1 poronaysk.sakh.com
+127.0.0.1 promo.sakh.com
+127.0.0.1 rabota.sakh.com
+127.0.0.1 reminder.sakh.com
+127.0.0.1 s.sakh.com
+127.0.0.1 school9.sakh.com
+127.0.0.1 skurilsk.sakh.com
+127.0.0.1 smile.sakh.com
+127.0.0.1 smirnyh.sakh.com
+127.0.0.1 static.sakh.com
+127.0.0.1 static2.sakh.com
+127.0.0.1 taxi.sakh.com
+127.0.0.1 tomari.sakh.com
+127.0.0.1 travel.sakh.com
+127.0.0.1 tymovskoe.sakh.com
+127.0.0.1 uglegorsk.sakh.com
+127.0.0.1 users.sakh.com
+127.0.0.1 w.sakh.com
+127.0.0.1 weather.sakh.com
+127.0.0.1 webcam.sakh.com
+127.0.0.1 www.auto.sakh.com
+127.0.0.1 www.avatara.sakh.com
+127.0.0.1 www.forum.sakh.com
+127.0.0.1 www.japan.sakh.com
+127.0.0.1 www.maps2.sakh.com
+127.0.0.1 www.rabota.sakh.com
+127.0.0.1 www.sakh.com
+127.0.0.1 www.school9.sakh.com
+127.0.0.1 www.uglegorsk.sakh.com
+127.0.0.1 www.ys.sakh.com
+127.0.0.1 ykurilsk.sakh.com
+127.0.0.1 ys.sakh.com
+127.0.0.1 zina.sakh.com
 
 # sakura.ad.jp
 127.0.0.1 sdc2.sakura.ad.jp
@@ -49829,6 +50988,9 @@ white yt3.ggpht.com
 # servedbyopenx.com
 127.0.0.1 i-cdn.servedbyopenx.com
 127.0.0.1 servedbyopenx.com
+
+# servehttp.com
+127.0.0.1 geotool.servehttp.com
 
 # server.us
 127.0.0.1 counterstrike.server.us
@@ -51205,9 +52367,6 @@ white yt3.ggpht.com
 127.0.0.1 slidesearch.net
 127.0.0.1 www.slidesearch.net
 
-# slideshare-audio.s3.amazonaws.com
-127.0.0.1 slideshare-audio.s3.amazonaws.com
-
 # slim.com
 127.0.0.1 ads.slim.com
 
@@ -51784,6 +52943,7 @@ white yt3.ggpht.com
 
 # sou7.com
 127.0.0.1 a.sou7.com
+127.0.0.1 www.sou7.com
 
 # soup.io
 127.0.0.1 spee1943.soup.io
@@ -51893,6 +53053,10 @@ white yt3.ggpht.com
 
 # spaworldcorp.net
 127.0.0.1 www.spaworldcorp.net
+
+# spb.ru
+127.0.0.1 alltraff.spb.ru
+127.0.0.1 cracks.spb.ru
 
 # spbland.ru
 127.0.0.1 cnt.spbland.ru
@@ -52985,9 +54149,6 @@ white yt3.ggpht.com
 # stats-log.com
 127.0.0.1 www.stats-log.com
 
-# stats-newyork1.bloxcms.com
-127.0.0.1 stats-newyork1.bloxcms.com
-
 # stats.de
 127.0.0.1 js.stats.de
 
@@ -53322,6 +54483,7 @@ white yt3.ggpht.com
 127.0.0.1 te.sunspot.net
 
 # suntimes.com
+127.0.0.1 31bullets.suntimes.com
 127.0.0.1 a1.suntimes.com
 127.0.0.1 a2.suntimes.com
 127.0.0.1 a3.suntimes.com
@@ -53336,9 +54498,93 @@ white yt3.ggpht.com
 127.0.0.1 a55.suntimes.com
 127.0.0.1 a7.suntimes.com
 127.0.0.1 ad-images.suntimes.com
+127.0.0.1 ads.suntimes.com
+127.0.0.1 advertising.suntimes.com
+127.0.0.1 barrington.suntimes.com
+127.0.0.1 beaconnews.suntimes.com
+127.0.0.1 birmingham.suntimes.com
+127.0.0.1 blogs.suntimes.com
+127.0.0.1 breakingnews.suntimes.com
+127.0.0.1 btc.suntimes.com
+127.0.0.1 charitytrust.suntimes.com
+127.0.0.1 chicago.suntimes.com
+127.0.0.1 circulars-chicago.suntimes.com
+127.0.0.1 circulars.chicago.suntimes.com
+127.0.0.1 couriernews.suntimes.com
+127.0.0.1 dallas.suntimes.com
+127.0.0.1 dc.suntimes.com
+127.0.0.1 dev.suntimes.com
+127.0.0.1 eedition.suntimes.com
+127.0.0.1 elections.suntimes.com
+127.0.0.1 entertainment.suntimes.com
+127.0.0.1 feature.suntimes.com
+127.0.0.1 games.chicago.suntimes.com
+127.0.0.1 graphics.suntimes.com
+127.0.0.1 guides.suntimes.com
+127.0.0.1 gunviolence.suntimes.com
+127.0.0.1 highlandpark.suntimes.com
+127.0.0.1 highschoolsports.suntimes.com
+127.0.0.1 hinsdale.suntimes.com
+127.0.0.1 homeresearch.suntimes.com
+127.0.0.1 homes.suntimes.com
+127.0.0.1 homicides.suntimes.com
+127.0.0.1 images.suntimes.com
+127.0.0.1 indianapolis.suntimes.com
+127.0.0.1 iwantit.suntimes.com
+127.0.0.1 jobs.suntimes.com
+127.0.0.1 legacy.suntimes.com
+127.0.0.1 link.suntimes.com
+127.0.0.1 listingnews.suntimes.com
+127.0.0.1 m.suntimes.com
+127.0.0.1 marketplace.suntimes.com
+127.0.0.1 miami.suntimes.com
+127.0.0.1 minimumwage.suntimes.com
+127.0.0.1 mlegacy.suntimes.com
+127.0.0.1 mortongrove.suntimes.com
+127.0.0.1 napervillesun.suntimes.com
+127.0.0.1 national.suntimes.com
+127.0.0.1 newark.suntimes.com
+127.0.0.1 newsletter.suntimes.com
+127.0.0.1 newspaperads.suntimes.com
+127.0.0.1 newspapers.suntimes.com
+127.0.0.1 niles.suntimes.com
+127.0.0.1 norridge.suntimes.com
+127.0.0.1 nyc.suntimes.com
 127.0.0.1 oascentral.suntimes.com
+127.0.0.1 oklahomacity.suntimes.com
+127.0.0.1 parkridge.suntimes.com
+127.0.0.1 payments.suntimes.com
+127.0.0.1 photos.suntimes.com
+127.0.0.1 politics.suntimes.com
+127.0.0.1 pot.suntimes.com
+127.0.0.1 projects.suntimes.com
+127.0.0.1 questionnaires.suntimes.com
+127.0.0.1 rochester.suntimes.com
+127.0.0.1 rogerebert.suntimes.com
+127.0.0.1 sacramento.suntimes.com
+127.0.0.1 salescontent.suntimes.com
+127.0.0.1 sanfrancisco.suntimes.com
+127.0.0.1 scores.suntimes.com
+127.0.0.1 seasonofsharing.suntimes.com
+127.0.0.1 skokie.suntimes.com
+127.0.0.1 southtownstar.suntimes.com
+127.0.0.1 splash.suntimes.com
+127.0.0.1 splashshop.suntimes.com
+127.0.0.1 suntimes-celeb-chatter.suntimes.com
+127.0.0.1 suntimes-politics-chatter.suntimes.com
+127.0.0.1 suntimes-sports-chatter.suntimes.com
 127.0.0.1 suntimes.com
 127.0.0.1 te.suntimes.com
+127.0.0.1 thrive.suntimes.com
+127.0.0.1 video.suntimes.com
+127.0.0.1 voices.suntimes.com
+127.0.0.1 votersedge.suntimes.com
+127.0.0.1 westernsprings.suntimes.com
+127.0.0.1 wilmington.suntimes.com
+127.0.0.1 winnetka.suntimes.com
+127.0.0.1 wssp.suntimes.com
+127.0.0.1 www.rogerebert.suntimes.com
+127.0.0.1 www.suntimes.com
 
 # sup.com
 127.0.0.1 ads.sup.com
@@ -54507,10 +55753,51 @@ white yt3.ggpht.com
 
 # tfag.de
 127.0.0.1 a.tfag.de
+127.0.0.1 ad3.tfag.de
 127.0.0.1 ak.tfag.de
+127.0.0.1 baaz.dhanbad.e.mrz.tfag.de
+127.0.0.1 bcn.tfag.de
+127.0.0.1 bllamp.blick.tfag.de
+127.0.0.1 burdanews.tfag.de
+127.0.0.1 cms.bcn.tfag.de
+127.0.0.1 cms.prod2.orsay.tfag.de
+127.0.0.1 cyber.playboy.tfag.de
+127.0.0.1 damaskus.e.mrz.tfag.de
+127.0.0.1 dhanbad.e.mrz.tfag.de
+127.0.0.1 duschanbe.e.mrz.tfag.de
+127.0.0.1 epaper.playboy.tfag.de
 127.0.0.1 i.tfag.de
+127.0.0.1 ilabblogserver.frz.tfag.de
+127.0.0.1 imagecache.playboy.mrz.tfag.de
+127.0.0.1 images.sales.tfag.de
+127.0.0.1 images3.playboy.mrz.tfag.de
+127.0.0.1 jira.tfag.de
+127.0.0.1 live.msgarkaden.tfag.de
+127.0.0.1 mail.tfag.de
+127.0.0.1 mailgw01.mrz.tfag.de
+127.0.0.1 mailgw01.tfag.de
+127.0.0.1 mrz.tfag.de
+127.0.0.1 otrs.wom.tfag.de
+127.0.0.1 php.sales.tfag.de
+127.0.0.1 playboy.tfag.de
+127.0.0.1 prod2.orsay.tfag.de
+127.0.0.1 pulse.stage.blick.frz.tfag.de
+127.0.0.1 sso.fzf.tfag.de
+127.0.0.1 tcg.tfag.de
 127.0.0.1 tfag.de
+127.0.0.1 tools.playboy.tfag.de
 127.0.0.1 tr.sales.tfag.de
+127.0.0.1 varnish.ilabblogserver.frz.tfag.de
+127.0.0.1 wb.tfag.de
+127.0.0.1 www.blitzlicht.tfag.de
+127.0.0.1 www.huffingtonpost.tfag.de
+127.0.0.1 www.old.playboy.tfag.de
+127.0.0.1 www.orsay.tfag.de
+127.0.0.1 www.playboy.tfag.de
+127.0.0.1 www.tfag.de
+127.0.0.1 www2.member.vgm.tfag.de
+127.0.0.1 www4.dkr.vrz.tfag.de
+127.0.0.1 wwwesc.huffingtonpost.tfag.de
 
 # tfd.com
 127.0.0.1 img.tfd.com
@@ -55513,6 +56800,11 @@ white yt3.ggpht.com
 
 # topnews.ru
 127.0.0.1 100.topnews.ru
+127.0.0.1 admin.topnews.ru
+127.0.0.1 dev.topnews.ru
+127.0.0.1 m.topnews.ru
+127.0.0.1 mirtesen.topnews.ru
+127.0.0.1 www.topnews.ru
 
 # topnovini.bg
 127.0.0.1 ads.topnovini.bg
@@ -56487,13 +57779,62 @@ white yt3.ggpht.com
 127.0.0.1 picture.triangle-v.com
 
 # tribalfusion.com
+127.0.0.1 3-as.tribalfusion.com
+127.0.0.1 3-eu.tribalfusion.com
+127.0.0.1 a-stage1-dsa.tribalfusion.com
+127.0.0.1 a.beta.tribalfusion.com
 127.0.0.1 a.tribalfusion.com
+127.0.0.1 ads.tribalfusion.com
+127.0.0.1 adxrtb-as.tribalfusion.com
+127.0.0.1 adxrtb-eu.tribalfusion.com
+127.0.0.1 apnxrtb-as.tribalfusion.com
+127.0.0.1 apnxrtb-eu.tribalfusion.com
+127.0.0.1 b9-as-imp.tribalfusion.com
+127.0.0.1 b9-eu-imp.tribalfusion.com
+127.0.0.1 b9-imp.tribalfusion.com
+127.0.0.1 bidder-vast.tribalfusion.com
+127.0.0.1 bidder9-as-imp.tribalfusion.com
+127.0.0.1 bidder9-eu-imp.tribalfusion.com
+127.0.0.1 bidder9-imp.tribalfusion.com
+127.0.0.1 blog.tribalfusion.com
+127.0.0.1 cdn.tribalfusion.com
 127.0.0.1 cdn1.tribalfusion.com
 127.0.0.1 cdn5.tribalfusion.com
+127.0.0.1 cdnx-mock.tribalfusion.com
+127.0.0.1 cdnx.tribalfusion.com
+127.0.0.1 cortex-imp.tribalfusion.com
+127.0.0.1 cortex-impression.tribalfusion.com
+127.0.0.1 creative.tribalfusion.com
 127.0.0.1 ctxt.tribalfusion.com
+127.0.0.1 ctxtad.tribalfusion.com
+127.0.0.1 ctxtfly.tribalfusion.com
+127.0.0.1 debug.tribalfusion.com
+127.0.0.1 grtb-asia-east1a.tribalfusion.com
+127.0.0.1 grtb-central1a.tribalfusion.com
+127.0.0.1 grtb-central1b.tribalfusion.com
+127.0.0.1 grtb-central1f.tribalfusion.com
+127.0.0.1 grtb-europe-west1b.tribalfusion.com
+127.0.0.1 grtb.asia-east1a.tribalfusion.com
+127.0.0.1 grtb.central1a.tribalfusion.com
+127.0.0.1 grtb.central1b.tribalfusion.com
+127.0.0.1 grtb.central1f.tribalfusion.com
+127.0.0.1 grtb.europe-west1b.tribalfusion.com
 127.0.0.1 m.tribalfusion.com
+127.0.0.1 mail.tribalfusion.com
+127.0.0.1 mock.tribalfusion.com
+127.0.0.1 ns1.tribalfusion.com
+127.0.0.1 ns11.tribalfusion.com
+127.0.0.1 ns12.tribalfusion.com
+127.0.0.1 ns3.tribalfusion.com
+127.0.0.1 ns4.tribalfusion.com
+127.0.0.1 ns5.tribalfusion.com
+127.0.0.1 pixel-bid.tribalfusion.com
 127.0.0.1 s.tribalfusion.com
+127.0.0.1 spxrtb-us-east.tribalfusion.com
 127.0.0.1 tribalfusion.com
+127.0.0.1 vmsdns-03.tribalfusion.com
+127.0.0.1 vmsdns-04.tribalfusion.com
+127.0.0.1 webmail.tribalfusion.com
 127.0.0.1 www.tribalfusion.com
 
 # tribalfusion.net
@@ -56518,7 +57859,29 @@ white yt3.ggpht.com
 
 # triggit.com
 127.0.0.1 a.triggit.com
+127.0.0.1 a1.triggit.com
+127.0.0.1 aud.triggit.com
+127.0.0.1 blog.triggit.com
+127.0.0.1 c.triggit.com
+127.0.0.1 ec2-euc-pxserver-02.triggit.com
+127.0.0.1 ec2-use1-pxserver-1.triggit.com
+127.0.0.1 ec2-usw1-pxserver-0.triggit.com
+127.0.0.1 ec2-usw1-pxserver-1.triggit.com
+127.0.0.1 ec2-usw1-pxserver-2.triggit.com
+127.0.0.1 ec2-usw1-pxserver-5.triggit.com
+127.0.0.1 email.triggit.com
+127.0.0.1 eng.triggit.com
+127.0.0.1 g-wc.triggit.com
+127.0.0.1 info.triggit.com
+127.0.0.1 nc.triggit.com
+127.0.0.1 o1.email.triggit.com
+127.0.0.1 s.triggit.com
 127.0.0.1 stats.triggit.com
+127.0.0.1 t.triggit.com
+127.0.0.1 tl-ec.triggit.com
+127.0.0.1 uk-bidder-01.triggit.com
+127.0.0.1 uk-bidder-02.triggit.com
+127.0.0.1 www.triggit.com
 
 # trik-a.com
 127.0.0.1 trik-a.com
@@ -56722,9 +58085,6 @@ white yt3.ggpht.com
 
 # tt-forums.net
 127.0.0.1 adsystem.tt-forums.net
-
-# ttv-boxart.s3.amazonaws.com
-127.0.0.1 ttv-boxart.s3.amazonaws.com
 
 # ttzmedia.com
 127.0.0.1 ttzmedia.com
@@ -56969,9 +58329,6 @@ white yt3.ggpht.com
 127.0.0.1 srv2.twittercounter.com
 127.0.0.1 twittercounter.com
 
-# twittermoms.s3.amazonaws.com
-127.0.0.1 twittermoms.s3.amazonaws.com
-
 # twittweb.com
 127.0.0.1 hits.twittweb.com
 
@@ -57067,11 +58424,210 @@ white yt3.ggpht.com
 127.0.0.1 raskrutka.ucoz.com
 
 # ucoz.net
+127.0.0.1 1denchik-film.ucoz.net
+127.0.0.1 3213.ucoz.net
 127.0.0.1 a.ucoz.net
+127.0.0.1 a2-karti-war3.ucoz.net
+127.0.0.1 abyss.ucoz.net
+127.0.0.1 aktivator7.ucoz.net
+127.0.0.1 all-cheats.ucoz.net
+127.0.0.1 all4css.ucoz.net
+127.0.0.1 battlgolos12.ucoz.net
+127.0.0.1 benzalkonia.ucoz.net
+127.0.0.1 bnsanimation.ucoz.net
+127.0.0.1 british.ucoz.net
+127.0.0.1 cadence.ucoz.net
+127.0.0.1 cheatss.ucoz.net
+127.0.0.1 cloudnail.ucoz.net
+127.0.0.1 coounter-strike.ucoz.net
+127.0.0.1 cs-xgm.ucoz.net
+127.0.0.1 csgoforce.ucoz.net
+127.0.0.1 csgokonokto.ucoz.net
+127.0.0.1 csgomix.ucoz.net
+127.0.0.1 csgotundra.ucoz.net
+127.0.0.1 demotionlocker.ucoz.net
+127.0.0.1 dfsfsafasf.ucoz.net
+127.0.0.1 dmand.ucoz.net
+127.0.0.1 dropicalxbeste.ucoz.net
+127.0.0.1 dropxluckyes.ucoz.net
+127.0.0.1 fastdrop.ucoz.net
+127.0.0.1 fdgsdgsd.ucoz.net
+127.0.0.1 fgjfj6ufgjhfgjf.ucoz.net
+127.0.0.1 gameapkur.ucoz.net
+127.0.0.1 gfdgdfgdf5.ucoz.net
+127.0.0.1 gigatorrent.ucoz.net
+127.0.0.1 goldandvipava.ucoz.net
+127.0.0.1 gta.ucoz.net
+127.0.0.1 guardmyheart.ucoz.net
+127.0.0.1 headshot-cs.ucoz.net
+127.0.0.1 innetmoney.ucoz.net
+127.0.0.1 jazzycat.ucoz.net
+127.0.0.1 jokoli.ucoz.net
+127.0.0.1 jopkasr.ucoz.net
+127.0.0.1 kinges.ucoz.net
+127.0.0.1 kinonlinefilms.ucoz.net
+127.0.0.1 konkers4715.ucoz.net
+127.0.0.1 krasivieludi19.ucoz.net
+127.0.0.1 lindasfotos55.ucoz.net
+127.0.0.1 loading-0144.ucoz.net
+127.0.0.1 lolipop.ucoz.net
+127.0.0.1 lytsk.ucoz.net
+127.0.0.1 magical-dropx.ucoz.net
+127.0.0.1 mirror4.ucoz.net
+127.0.0.1 mngpunk.ucoz.net
+127.0.0.1 modov-gta-sa-na.ucoz.net
+127.0.0.1 moneyzone.ucoz.net
+127.0.0.1 my-wow.ucoz.net
+127.0.0.1 mycsxdrope.ucoz.net
+127.0.0.1 netnetget.ucoz.net
+127.0.0.1 nvt.ucoz.net
+127.0.0.1 onenight.ucoz.net
+127.0.0.1 opensource.ucoz.net
+127.0.0.1 opros039.ucoz.net
+127.0.0.1 oprosovnik.ucoz.net
+127.0.0.1 oprossovi4.ucoz.net
+127.0.0.1 penoto.ucoz.net
+127.0.0.1 playmusic-kz.ucoz.net
+127.0.0.1 ppc.ucoz.net
+127.0.0.1 privetmir.ucoz.net
+127.0.0.1 ron-computers.ucoz.net
+127.0.0.1 s104.ucoz.net
+127.0.0.1 s16.ucoz.net
+127.0.0.1 s2.ucoz.net
+127.0.0.1 s30.ucoz.net
+127.0.0.1 s36.ucoz.net
+127.0.0.1 s39.ucoz.net
+127.0.0.1 s43.ucoz.net
+127.0.0.1 s51.ucoz.net
+127.0.0.1 s60.ucoz.net
+127.0.0.1 s70.ucoz.net
+127.0.0.1 s77.ucoz.net
+127.0.0.1 s85.ucoz.net
+127.0.0.1 s86.ucoz.net
+127.0.0.1 s89.ucoz.net
+127.0.0.1 semenixin.ucoz.net
+127.0.0.1 serials.ucoz.net
+127.0.0.1 sigrayvigry.ucoz.net
+127.0.0.1 silent-hill.ucoz.net
+127.0.0.1 skynetclan.ucoz.net
+127.0.0.1 skyter.ucoz.net
+127.0.0.1 svtkachenko.ucoz.net
+127.0.0.1 testerik.ucoz.net
+127.0.0.1 tpsnet.ucoz.net
+127.0.0.1 turkmen.ucoz.net
+127.0.0.1 update2019.ucoz.net
+127.0.0.1 urok.ucoz.net
+127.0.0.1 vgdfgsdgsdg.ucoz.net
+127.0.0.1 vitalika.ucoz.net
+127.0.0.1 vk-wall-153523.ucoz.net
+127.0.0.1 voprpsnik.ucoz.net
+127.0.0.1 web-cs.ucoz.net
+127.0.0.1 www.zhukovanat.ucoz.net
+127.0.0.1 xxx9910xxx.ucoz.net
+127.0.0.1 zaweka.ucoz.net
 
 # ucoz.ru
+127.0.0.1 7cheats.ucoz.ru
 127.0.0.1 a.ucoz.ru
+127.0.0.1 ageofempires3.ucoz.ru
+127.0.0.1 aleknow.ucoz.ru
+127.0.0.1 alhimic.ucoz.ru
+127.0.0.1 all4vk.ucoz.ru
+127.0.0.1 allcheats-world.ucoz.ru
+127.0.0.1 bagidlykarosa.ucoz.ru
+127.0.0.1 batle.ucoz.ru
+127.0.0.1 beatbox.ucoz.ru
+127.0.0.1 biatlonik.ucoz.ru
+127.0.0.1 blagochinie.ucoz.ru
+127.0.0.1 breal-dance.ucoz.ru
+127.0.0.1 cheatcs2.ucoz.ru
+127.0.0.1 cheatpropeklama.ucoz.ru
+127.0.0.1 chitomania.ucoz.ru
+127.0.0.1 clan4ikjackass.ucoz.ru
+127.0.0.1 cobet.ucoz.ru
+127.0.0.1 cp.ucoz.ru
 127.0.0.1 credity.ucoz.ru
+127.0.0.1 crossfire123.ucoz.ru
+127.0.0.1 crtdiu-nov.ucoz.ru
+127.0.0.1 disney-tv.ucoz.ru
+127.0.0.1 dotka.ucoz.ru
+127.0.0.1 dou186kem.ucoz.ru
+127.0.0.1 dragon-s.ucoz.ru
+127.0.0.1 fckommunalnik.ucoz.ru
+127.0.0.1 for-cheater.ucoz.ru
+127.0.0.1 forexmag4you.ucoz.ru
+127.0.0.1 fuckultet.ucoz.ru
+127.0.0.1 fun-crossfire.ucoz.ru
+127.0.0.1 fylhtq.ucoz.ru
+127.0.0.1 games-sait.ucoz.ru
+127.0.0.1 gamescom.ucoz.ru
+127.0.0.1 gildedyouth.ucoz.ru
+127.0.0.1 globalwow.ucoz.ru
+127.0.0.1 hns-kzhack.ucoz.ru
+127.0.0.1 informmcdobr.ucoz.ru
+127.0.0.1 isaeva-naida.ucoz.ru
+127.0.0.1 javatyt.ucoz.ru
+127.0.0.1 katerina90.ucoz.ru
+127.0.0.1 kdfx.ucoz.ru
+127.0.0.1 kember-clan.ucoz.ru
+127.0.0.1 kgu.ucoz.ru
+127.0.0.1 kinodacha.ucoz.ru
+127.0.0.1 korabli.ucoz.ru
+127.0.0.1 lelik270684.ucoz.ru
+127.0.0.1 lendex.ucoz.ru
+127.0.0.1 lesik.ucoz.ru
+127.0.0.1 marishka517.ucoz.ru
+127.0.0.1 meresofta.ucoz.ru
+127.0.0.1 murclub-bag.ucoz.ru
+127.0.0.1 newprosite.ucoz.ru
+127.0.0.1 nfs1.ucoz.ru
+127.0.0.1 noby.ucoz.ru
+127.0.0.1 obrazportal.ucoz.ru
+127.0.0.1 opengl32.ucoz.ru
+127.0.0.1 parket-almaty.ucoz.ru
+127.0.0.1 payne.ucoz.ru
+127.0.0.1 portal.ucoz.ru
+127.0.0.1 postroim.ucoz.ru
+127.0.0.1 prikoln.ucoz.ru
+127.0.0.1 pripyt-chaes.ucoz.ru
+127.0.0.1 pskovmuzmo.ucoz.ru
+127.0.0.1 publik-77.ucoz.ru
+127.0.0.1 rucheat.ucoz.ru
+127.0.0.1 samsungs5570g.ucoz.ru
+127.0.0.1 sancitymods.ucoz.ru
+127.0.0.1 sch32bry.ucoz.ru
+127.0.0.1 sky-cheats.ucoz.ru
+127.0.0.1 smotr-online.ucoz.ru
+127.0.0.1 sportplus.ucoz.ru
+127.0.0.1 swat.ucoz.ru
+127.0.0.1 sytnikirina.ucoz.ru
+127.0.0.1 teni-do.ucoz.ru
+127.0.0.1 thea-team.ucoz.ru
+127.0.0.1 tilda-mania.ucoz.ru
+127.0.0.1 topdownloads.ucoz.ru
+127.0.0.1 updater-wf.ucoz.ru
+127.0.0.1 uzemi.ucoz.ru
+127.0.0.1 vgarage.ucoz.ru
+127.0.0.1 vip-team.ucoz.ru
+127.0.0.1 vladimir33rus.ucoz.ru
+127.0.0.1 vorotynec.ucoz.ru
+127.0.0.1 vpo13.ucoz.ru
+127.0.0.1 vsepro100.ucoz.ru
+127.0.0.1 warface68.ucoz.ru
+127.0.0.1 webzon.ucoz.ru
+127.0.0.1 wemaketoys.ucoz.ru
+127.0.0.1 wfhack.ucoz.ru
+127.0.0.1 wh40kimperium.ucoz.ru
+127.0.0.1 www.aerovitebsk.ucoz.ru
+127.0.0.1 www.cobet.ucoz.ru
+127.0.0.1 www.vgarage.ucoz.ru
+127.0.0.1 www.vseh-pozdravim.ucoz.ru
+127.0.0.1 xnj.ucoz.ru
+127.0.0.1 youyou.ucoz.ru
+127.0.0.1 zao-dltrans.ucoz.ru
+127.0.0.1 zbot.ucoz.ru
+127.0.0.1 zenitspb.ucoz.ru
+127.0.0.1 zomfuzet.ucoz.ru
 
 # udmserve.net
 127.0.0.1 cdn.udmserve.net
@@ -57502,9 +59058,6 @@ white yt3.ggpht.com
 
 # usedstone.com
 127.0.0.1 usedstone.com
-
-# user.in.net
-127.0.0.1 user.in.net
 
 # usercash.com
 127.0.0.1 ads.usercash.com
@@ -58438,9 +59991,6 @@ white yt3.ggpht.com
 
 # vml.com
 127.0.0.1 sdc.vml.com
-
-# vml1.s3.amazonaws.com
-127.0.0.1 vml1.s3.amazonaws.com
 
 # vmn.net
 127.0.0.1 vmn.net
@@ -59504,8 +61054,11 @@ white yt3.ggpht.com
 127.0.0.1 a4.websponsors.com
 127.0.0.1 a5.websponsors.com
 127.0.0.1 ads.websponsors.com
+127.0.0.1 g-cdn.websponsors.com
 127.0.0.1 g.websponsors.com
+127.0.0.1 ocs-cdn.websponsors.com
 127.0.0.1 ocs.websponsors.com
+127.0.0.1 s.websponsors.com
 127.0.0.1 websponsors.com
 127.0.0.1 www.a.websponsors.com
 127.0.0.1 www.websponsors.com
@@ -59963,7 +61516,19 @@ white yt3.ggpht.com
 
 # windowsitpro.com
 127.0.0.1 a.windowsitpro.com
+127.0.0.1 cp-staging.windowsitpro.com
+127.0.0.1 demo.windowsitpro.com
+127.0.0.1 digital-edition.windowsitpro.com
+127.0.0.1 emea.windowsitpro.com
+127.0.0.1 forms.windowsitpro.com
+127.0.0.1 forums.windowsitpro.com
+127.0.0.1 m.windowsitpro.com
 127.0.0.1 metrics.windowsitpro.com
+127.0.0.1 newsletter.windowsitpro.com
+127.0.0.1 scripting.windowsitpro.com
+127.0.0.1 smetrics.windowsitpro.com
+127.0.0.1 sqlforums.windowsitpro.com
+127.0.0.1 www.windowsitpro.com
 
 # windowsmarketplace.com
 127.0.0.1 sdc.windowsmarketplace.com
@@ -60339,6 +61904,25 @@ white yt3.ggpht.com
 
 # wowinterface.com
 127.0.0.1 a.wowinterface.com
+127.0.0.1 boss.wowinterface.com
+127.0.0.1 cdn.wowinterface.com
+127.0.0.1 ckknight.wowinterface.com
+127.0.0.1 cladhaire.wowinterface.com
+127.0.0.1 faq.wowinterface.com
+127.0.0.1 fs.wowinterface.com
+127.0.0.1 git.wowinterface.com
+127.0.0.1 grayhoof.wowinterface.com
+127.0.0.1 kaelten.wowinterface.com
+127.0.0.1 mazzlefizz.wowinterface.com
+127.0.0.1 mikord.wowinterface.com
+127.0.0.1 s.cdn.wowinterface.com
+127.0.0.1 s.wowinterface.com
+127.0.0.1 secure.wowinterface.com
+127.0.0.1 svn.wowinterface.com
+127.0.0.1 wikwocket.wowinterface.com
+127.0.0.1 ww.wowinterface.com
+127.0.0.1 www.cladhaire.wowinterface.com
+127.0.0.1 www.wowinterface.com
 
 # wowmatrixz.com
 127.0.0.1 www.wowmatrixz.com
@@ -60578,9 +62162,6 @@ white yt3.ggpht.com
 # x0.nl
 127.0.0.1 www.x0.nl
 127.0.0.1 x0.nl
-
-# x0x0l.pp.ru
-127.0.0.1 x0x0l.pp.ru
 
 # x10.com
 127.0.0.1 ads.x10.com
@@ -60883,12 +62464,115 @@ white yt3.ggpht.com
 
 # xorg.pl
 127.0.0.1 1.googlenews.xorg.pl
+127.0.0.1 10.ameglori.xorg.pl
 127.0.0.1 2.googlenews.xorg.pl
 127.0.0.1 3.googlenews.xorg.pl
 127.0.0.1 4.googlenews.xorg.pl
 127.0.0.1 5.googlenews.xorg.pl
+127.0.0.1 aa1.xorg.pl
+127.0.0.1 antivirus12.xorg.pl
+127.0.0.1 antivirus16.xorg.pl
+127.0.0.1 antivirus18.xorg.pl
+127.0.0.1 cleanupit22p.xorg.pl
+127.0.0.1 cureofall5.xorg.pl
+127.0.0.1 dodatki.xorg.pl
+127.0.0.1 dzhoc3y.xorg.pl
+127.0.0.1 epolw83.xorg.pl
+127.0.0.1 facebookowyinternet.xorg.pl
 127.0.0.1 googlenews.xorg.pl
+127.0.0.1 imap.bc11jxu.xorg.pl
+127.0.0.1 konkurs-koomentarz.xorg.pl
+127.0.0.1 mail.xorg.pl
+127.0.0.1 movilesrecuperados.xorg.pl
+127.0.0.1 my-scanner1.xorg.pl
+127.0.0.1 my-scanner2.xorg.pl
+127.0.0.1 my-scanner3.xorg.pl
+127.0.0.1 newts.xorg.pl
+127.0.0.1 out.a4focj7skz.xorg.pl
+127.0.0.1 psychologia-wsb.xorg.pl
+127.0.0.1 rowinscanpc17.xorg.pl
+127.0.0.1 rowinscanpc3.xorg.pl
+127.0.0.1 rowinscanpc5.xorg.pl
+127.0.0.1 saferock10.xorg.pl
+127.0.0.1 saferock12.xorg.pl
+127.0.0.1 saferock14.xorg.pl
+127.0.0.1 saferock15.xorg.pl
+127.0.0.1 saferock16.xorg.pl
+127.0.0.1 saferock17.xorg.pl
+127.0.0.1 saferock18.xorg.pl
+127.0.0.1 saferock19.xorg.pl
+127.0.0.1 saferock20.xorg.pl
+127.0.0.1 saferock22.xorg.pl
+127.0.0.1 saferock23.xorg.pl
+127.0.0.1 saferock24.xorg.pl
+127.0.0.1 saferock27.xorg.pl
+127.0.0.1 saferock28.xorg.pl
+127.0.0.1 securehost37pd.xorg.pl
+127.0.0.1 securehost38pd.xorg.pl
+127.0.0.1 securehost39pd.xorg.pl
+127.0.0.1 securehost48pd.xorg.pl
+127.0.0.1 securehost49pd.xorg.pl
 127.0.0.1 shtozazalupa2.xorg.pl
+127.0.0.1 smtp3.mtair.xorg.pl
+127.0.0.1 testtralala.xorg.pl
+127.0.0.1 try-scan11.xorg.pl
+127.0.0.1 trybestscan.xorg.pl
+127.0.0.1 tryscan19.xorg.pl
+127.0.0.1 tyd6cr.xorg.pl
+127.0.0.1 www-antivir2.xorg.pl
+127.0.0.1 www-antivir4.xorg.pl
+127.0.0.1 www-antivir5.xorg.pl
+127.0.0.1 www-protection2.xorg.pl
+127.0.0.1 www-protection4.xorg.pl
+127.0.0.1 www-scanner1.xorg.pl
+127.0.0.1 www-scanner3.xorg.pl
+127.0.0.1 www-scanner5.xorg.pl
+127.0.0.1 www.cureofall5.xorg.pl
+127.0.0.1 www.testtralala.xorg.pl
+127.0.0.1 www.xorg.pl
+127.0.0.1 www1.savemypc15.xorg.pl
+127.0.0.1 www1.scan-protect10.xorg.pl
+127.0.0.1 www1.soptvirus34-pr.xorg.pl
+127.0.0.1 www1.suaguardprotect12p.xorg.pl
+127.0.0.1 www2.cromguard16.xorg.pl
+127.0.0.1 www2.cromguard2.xorg.pl
+127.0.0.1 www2.cromguard20.xorg.pl
+127.0.0.1 www2.cromguard5.xorg.pl
+127.0.0.1 www2.deepscanpc42-pd.xorg.pl
+127.0.0.1 www2.gydrosaving12.xorg.pl
+127.0.0.1 www2.gydrosaving13.xorg.pl
+127.0.0.1 www2.gydrosaving15.xorg.pl
+127.0.0.1 www2.gydrosaving16.xorg.pl
+127.0.0.1 www2.gydrosaving19.xorg.pl
+127.0.0.1 www2.gydrosaving20.xorg.pl
+127.0.0.1 www2.gydrosaving3.xorg.pl
+127.0.0.1 www2.gydrosaving6.xorg.pl
+127.0.0.1 www2.gydrosaving8.xorg.pl
+127.0.0.1 www2.realfastguard36pd.xorg.pl
+127.0.0.1 www2.safezonepc-41pd.xorg.pl
+127.0.0.1 www2.trueguardscaner30-p.xorg.pl
+127.0.0.1 www3.avprotector53-td.xorg.pl
+127.0.0.1 www3.drumbom77-td.xorg.pl
+127.0.0.1 www3.drumbom78-td.xorg.pl
+127.0.0.1 www3.lifeforpc10-td.xorg.pl
+127.0.0.1 www3.lifeforpc13-td.xorg.pl
+127.0.0.1 www3.lifeforpc14-td.xorg.pl
+127.0.0.1 www3.lifeforpc17-td.xorg.pl
+127.0.0.1 www3.lifeforpc20-td.xorg.pl
+127.0.0.1 www3.mypcsafetyscan2.xorg.pl
+127.0.0.1 www3.saveus37.xorg.pl
+127.0.0.1 www3.saveus40.xorg.pl
+127.0.0.1 www3.sdfhj40-td.xorg.pl
+127.0.0.1 www3.suaprotect04td.xorg.pl
+127.0.0.1 www3.suaprotect06td.xorg.pl
+127.0.0.1 www3.suaprotect08td.xorg.pl
+127.0.0.1 www3.suaprotect10td.xorg.pl
+127.0.0.1 www3.suaprotect11td.xorg.pl
+127.0.0.1 www3.yoursafetysystem1.xorg.pl
+127.0.0.1 www4.monaprotectguard11td.xorg.pl
+127.0.0.1 www4.realscan93pd.xorg.pl
+127.0.0.1 www4.resavepc13.xorg.pl
+127.0.0.1 www4.tobesafe26pd.xorg.pl
 
 # xost.ru
 127.0.0.1 neorsoft.xost.ru
@@ -61151,9 +62835,6 @@ white yt3.ggpht.com
 127.0.0.1 advertpro.ya.com
 127.0.0.1 googleadsense.ya.com
 127.0.0.1 publicidad.ya.com
-
-# yab-adimages.s3.amazonaws.com
-127.0.0.1 yab-adimages.s3.amazonaws.com
 
 # yabuka.com
 127.0.0.1 yabuka.com
@@ -61622,7 +63303,6 @@ white yt3.ggpht.com
 # yoc.mobi
 127.0.0.1 adserver-live.yoc.mobi
 127.0.0.1 adserver.yoc.mobi
-127.0.0.1 adserver_live.yoc.mobi
 127.0.0.1 www.adserver-live.yoc.mobi
 127.0.0.1 www.yoc.mobi
 127.0.0.1 yoc.mobi
@@ -62271,9 +63951,6 @@ white yt3.ggpht.com
 # zenoviaexchange.com
 127.0.0.1 ads1.zenoviaexchange.com
 127.0.0.1 zenoviaexchange.com
-
-# zenpie-adoption.appspot.com
-127.0.0.1 zenpie-adoption.appspot.com
 
 # zenzuu.com
 127.0.0.1 zenzuu.com
