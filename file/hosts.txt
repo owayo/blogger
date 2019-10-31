@@ -4,8 +4,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2019/10/31
-# block hosts: 32626 entry
+# last updated: 2019/11/01
+# block hosts: 32706 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -8372,10 +8372,90 @@ white yt3.ggpht.com
 127.0.0.1 a248.e.akamai.net
 
 # akamaihd.net
+127.0.0.1 2u4xaivygkvwexnxngdq-f-c976faef2-clientnsv4-s.akamaihd.net
+127.0.0.1 2u4xaiwvhelysxnxpauq-pr3rcu-1d5631c5c-clientnsv4-s.akamaihd.net
+127.0.0.1 3gl4ljtiksmgqxnwu6fa-pkmyaw-df559abcb-clientnsv4-s.akamaihd.net
+127.0.0.1 50adnet-a.akamaihd.net
+127.0.0.1 a266avoddashs3ww-a.akamaihd.net
+127.0.0.1 a56avoddashs3ww-a.akamaihd.net
+127.0.0.1 absvpvodps-vh.akamaihd.net
+127.0.0.1 arteptweb-vh.akamaihd.net
+127.0.0.1 bcboltnexti2-a.akamaihd.net
+127.0.0.1 bnetproduct-a.akamaihd.net
+127.0.0.1 browserbodyguard-a.akamaihd.net
+127.0.0.1 browsesecure-a.akamaihd.net
+127.0.0.1 brweb-a.akamaihd.net
+127.0.0.1 canvasstats-a.akamaihd.net
+127.0.0.1 cdncache1-a.akamaihd.net
+127.0.0.1 cleanbrowser-a.akamaihd.net
+127.0.0.1 countrylookup-a.akamaihd.net
+127.0.0.1 cperformmedia-a.akamaihd.net
+127.0.0.1 eobdortilothexnxqcia-pdifuq-89836d182-clientnsv4-s.akamaihd.net
+127.0.0.1 fgg6gi2ryaomsxnyr2dq-psiqap-e56e6a0b9-clientnsv4-s.akamaihd.net
+127.0.0.1 gamestoppd-a.akamaihd.net
+127.0.0.1 glvzsqwm5whlqxnykcva-pqk0yg-21940ed6f-clientnsv4-s.akamaihd.net
+127.0.0.1 h2nlwaqxgqgq6xnunx6a-f-7a597f1bb-clientnsv4-s.akamaihd.net
+127.0.0.1 hlscisco-a.akamaihd.net
+127.0.0.1 ht5t7hwliwfpaxny4mca-pgtsxb-ca4ac7a47-clientnsv4-s.akamaihd.net
+127.0.0.1 hukn42elv5lrexnxxnyq-ptg1da-f2dd32133-clientnsv4-s.akamaihd.net
+127.0.0.1 hukn42elv5lrexnxzl5q-pnwm36-a75307d7b-clientnsv4-s.akamaihd.net
+127.0.0.1 hukn42elv5lrexnxzntq-p97m93-bf1d208fd-clientnsv4-s.akamaihd.net
+127.0.0.1 hukn42elv5lrsxnx2ygq-pp952c-bc2ca169d-clientnsv4-s.akamaihd.net
+127.0.0.1 hukn42tiotz4uxnx7una-pvv4k4-1b2a7603b-clientnsv4-s.akamaihd.net
+127.0.0.1 hukn42ulv5lrsxnx2x2a-pkp0ut-df3008ceb-clientnsv4-s.akamaihd.net
+127.0.0.1 hukn42wljkgjexnx366q-pz958u-77560fc1f-clientnsv4-s.akamaihd.net
+127.0.0.1 hukn42wljkgncxnybheq-pt9klm-a4720848e-clientnsv4-s.akamaihd.net
+127.0.0.1 i0d73b200-ds-aksb-a.akamaihd.net
+127.0.0.1 i3cf82900-ds-aksb-a.akamaihd.net
+127.0.0.1 i4b912400-ds-aksb-a.akamaihd.net
+127.0.0.1 i63c6d400-ds-aksb-a.akamaihd.net
+127.0.0.1 i6502a800-ds-aksb-a.akamaihd.net
 127.0.0.1 inmobisdk-a.akamaihd.net
+127.0.0.1 jc4ohnyyr7gvwxnyg2ma-phq7om-7d509e045-clientnsv4-s.akamaihd.net
+127.0.0.1 jfwucnaxeaxcgxnxvv2q-p719gd-054968451-clientnsv4-s.akamaihd.net
+127.0.0.1 jjtoteixg7vysxnyketa-pt5dai-d86d6c10a-clientnsv4-s.akamaihd.net
+127.0.0.1 kehsrvr-a.akamaihd.net
+127.0.0.1 lbvscmb6dcmquxnymtya-pnaqwc-f42e33e3f-clientnsv4-s.akamaihd.net
+127.0.0.1 lcbw7iwu64hbsxnyj5dq-pfnbq9-eb40b7218-clientnsv4-s.akamaihd.net
+127.0.0.1 lgxr7qwud2dn6xnx3ija-prkaru-5ed8760c1-clientnsv4-s.akamaihd.net
+127.0.0.1 livehlsdai-i.akamaihd.net
+127.0.0.1 lpit2ecx6mdiqxnygb6q-p5ghej-c1b8a90d7-clientnsv4-s.akamaihd.net
+127.0.0.1 lumiere-a.akamaihd.net
+127.0.0.1 lwcom-a.akamaihd.net
+127.0.0.1 maqvogyxaz3kaxnxvy2q-p121s4-32a70f502-clientnsv4-s.akamaihd.net
 127.0.0.1 middycdn-a.akamaihd.net
+127.0.0.1 mkpp23cugwxxuxnxv2yq-pce234-17f6003e9-clientnsv4-s.akamaihd.net
+127.0.0.1 nca4fpyxzluscxnyfdcq-f-4d5b5027d-clientnsv4-s.akamaihd.net
+127.0.0.1 ntvassets-a.akamaihd.net
+127.0.0.1 og3i93vzhywk-a.akamaihd.net
+127.0.0.1 oxl67z3v55nraxnxxmoa-p5p460-e88bb17c5-clientnsv4-s.akamaihd.net
+127.0.0.1 pearson-a.akamaihd.net
+127.0.0.1 playntrade-a.akamaihd.net
+127.0.0.1 pnt-a.akamaihd.net
+127.0.0.1 prnewswire2-a.akamaihd.net
+127.0.0.1 protectsurf-a.akamaihd.net
+127.0.0.1 pushid-a.akamaihd.net
+127.0.0.1 pxlclnmdecom-a.akamaihd.net
+127.0.0.1 pxlgnpgecom-a.akamaihd.net
+127.0.0.1 qtlxsg6ou5hbaxnyksqa-pb3wlk-462f1b157-clientnsv4-s.akamaihd.net
 127.0.0.1 redge-a.akamaihd.net
+127.0.0.1 rhtvideo-vh.akamaihd.net
+127.0.0.1 savingsvau-a.akamaihd.net
+127.0.0.1 sstatictiller-a.akamaihd.net
+127.0.0.1 startsavin-a.akamaihd.net
 127.0.0.1 tapjoycdn-a.akamaihd.net
+127.0.0.1 telecomitalia-a.akamaihd.net
+127.0.0.1 timemeredith-a.akamaihd.net
+127.0.0.1 tvecsncalifornia-i.akamaihd.net
+127.0.0.1 twoo00-a.akamaihd.net
+127.0.0.1 ty90nwjc8wjt-a.akamaihd.net
+127.0.0.1 websafeguard-a.akamaihd.net
+127.0.0.1 yhaogjcxpp5egxnx3hxq-f-1445f2617-clientnsv4-s.akamaihd.net
+127.0.0.1 ykjpxn2i663haxnxygia-pgups5-ac163c979-clientnsv4-s.akamaihd.net
+127.0.0.1 ym34eas4ply5gxnyecoa-p6z3h0-6216ad6ba-clientnsv4-s.akamaihd.net
+127.0.0.1 ymvpstqccgongxnydvqq-f-19378cd6f-clientnsv4-s.akamaihd.net
+127.0.0.1 ymvpstsi663haxnx7pjq-p8reuz-06d7094a0-clientnsv4-s.akamaihd.net
+127.0.0.1 ymvpstsi663hwxnyasca-pmqtaz-5b9fef8c0-clientnsv4-s.akamaihd.net
 
 # akamaized.net
 127.0.0.1 browsi-a.akamaized.net
