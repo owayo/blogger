@@ -4,8 +4,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2019/11/05
-# block hosts: 32780 entry
+# last updated: 2019/11/07
+# block hosts: 32774 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -4384,7 +4384,6 @@ white yt3.ggpht.com
 127.0.0.1 img.v1.de.euban.adaos-ads.net
 127.0.0.1 js.v1.de.euserv.adaos-ads.net
 127.0.0.1 js.v1.de.euserv.adm.adaos-ads.net
-127.0.0.1 mailserv.v1.de.euserv.adaos-ads.net
 127.0.0.1 static.de.euserv.adaos-ads.net
 127.0.0.1 www.adaos-ads.net
 
@@ -7130,7 +7129,6 @@ white yt3.ggpht.com
 
 # adultgameserver.com
 127.0.0.1 adultgameserver.com
-127.0.0.1 www.adultgameserver.com
 
 # adultgameservers.com
 127.0.0.1 adultgameservers.com
@@ -8666,6 +8664,7 @@ white yt3.ggpht.com
 127.0.0.1 170skyfiregce-vimeo.akamaized.net
 127.0.0.1 180skyfiregce-vimeo.akamaized.net
 127.0.0.1 184skyfiregce-vimeo.akamaized.net
+127.0.0.1 188skyfiregce-vimeo.akamaized.net
 127.0.0.1 18skyfiregce-vimeo.akamaized.net
 127.0.0.1 192skyfiregce-vimeo.akamaized.net
 127.0.0.1 196skyfiregce-vimeo.akamaized.net
@@ -8686,6 +8685,7 @@ white yt3.ggpht.com
 127.0.0.1 amp.akamaized.net
 127.0.0.1 aod-dash-uk-live.akamaized.net
 127.0.0.1 apollo-frankfurt.akamaized.net
+127.0.0.1 apollo-ireland.akamaized.net
 127.0.0.1 appliv-domestic.akamaized.net
 127.0.0.1 assets-momentum-l.akamaized.net
 127.0.0.1 assets-momentum.akamaized.net
@@ -8707,8 +8707,11 @@ white yt3.ggpht.com
 127.0.0.1 cert00007-azurecdn.akamaized.net
 127.0.0.1 cert00009-azurecdn.akamaized.net
 127.0.0.1 cert00012-azurecdn.akamaized.net
+127.0.0.1 cert00027-azurecdn.akamaized.net
 127.0.0.1 cert00035-azurecdn.akamaized.net
 127.0.0.1 cert00039-azurecdn.akamaized.net
+127.0.0.1 cert00040-azurecdn.akamaized.net
+127.0.0.1 cert00050-azurecdn.akamaized.net
 127.0.0.1 contenido-prod.akamaized.net
 127.0.0.1 ctvsales-pmd.akamaized.net
 127.0.0.1 d30-invdn-com.akamaized.net
@@ -8717,6 +8720,7 @@ white yt3.ggpht.com
 127.0.0.1 d8-invdn-com.akamaized.net
 127.0.0.1 dashod.akamaized.net
 127.0.0.1 dice-gaming-live-eu.akamaized.net
+127.0.0.1 dienste-biwapp.akamaized.net
 127.0.0.1 dplaynordics-live-01.akamaized.net
 127.0.0.1 droidhen-games.akamaized.net
 127.0.0.1 ds-linear-abematv.akamaized.net
@@ -8816,6 +8820,7 @@ white yt3.ggpht.com
 127.0.0.1 tmg-mhtr.akamaized.net
 127.0.0.1 tmssl.akamaized.net
 127.0.0.1 toh-games.akamaized.net
+127.0.0.1 toofab.akamaized.net
 127.0.0.1 trbsoc.akamaized.net
 127.0.0.1 trtcdn.akamaized.net
 127.0.0.1 tvanouvelles.akamaized.net
@@ -15550,9 +15555,6 @@ white yt3.ggpht.com
 # clickochet.com
 127.0.0.1 clickochet.com
 
-# clickog.com
-127.0.0.1 www.clickog.com
-
 # clickon.co.il
 127.0.0.1 aff.clickon.co.il
 
@@ -17134,7 +17136,6 @@ white yt3.ggpht.com
 
 # crackulous.net
 127.0.0.1 crackulous.net
-127.0.0.1 cydia.crackulous.net
 127.0.0.1 ftp.crackulous.net
 127.0.0.1 www.crackulous.net
 
@@ -24366,7 +24367,6 @@ white yt3.ggpht.com
 # gamefeat.net
 127.0.0.1 file.gamefeat.net
 127.0.0.1 gamefeat.net
-127.0.0.1 web.gamefeat.net
 127.0.0.1 www.gamefeat.net
 
 # gamefiesta.com
@@ -26727,9 +26727,6 @@ white yt3.ggpht.com
 127.0.0.1 hernando.com
 127.0.0.1 shfr.hernando.com
 
-# heteml.jp
-127.0.0.1 vanillatee.heteml.jp
-
 # hetnet.nl
 127.0.0.1 sitestat.hetnet.nl
 
@@ -27103,7 +27100,6 @@ white yt3.ggpht.com
 127.0.0.1 ehg-mindshare.hitbox.com
 127.0.0.1 ehg-minglematch.hitbox.com
 127.0.0.1 ehg-mivadirect.hitbox.com
-127.0.0.1 ehg-motive.hitbox.com
 127.0.0.1 ehg-mshanken.hitbox.com
 127.0.0.1 ehg-mtv.hitbox.com
 127.0.0.1 ehg-myspaceinc.hitbox.com
@@ -29020,9 +29016,6 @@ white yt3.ggpht.com
 # humorcash.nl
 127.0.0.1 humorcash.nl
 127.0.0.1 www.humorcash.nl
-
-# humortrade.com
-127.0.0.1 www.humortrade.com
 
 # hunkymalecelebs.com
 127.0.0.1 www.hunkymalecelebs.com
@@ -37584,9 +37577,6 @@ white yt3.ggpht.com
 # mobileyouandme.com
 127.0.0.1 track.mobileyouandme.com
 
-# mobilityguru.com
-127.0.0.1 www.ad.mobilityguru.com
-
 # mobilityware.com
 127.0.0.1 ads.mobilityware.com
 127.0.0.1 apps.mobilityware.com
@@ -37774,9 +37764,6 @@ white yt3.ggpht.com
 
 # monclerbrandoutlet.com
 127.0.0.1 monclerbrandoutlet.com
-
-# monclerbusiness.info
-127.0.0.1 monclerbusiness.info
 
 # monclerdiscount.info
 127.0.0.1 monclerdiscount.info
@@ -42092,7 +42079,6 @@ white yt3.ggpht.com
 127.0.0.1 cm.npc-suntimes.overture.com
 127.0.0.1 cm.overture.com
 127.0.0.1 cm.quizilla.overture.com
-127.0.0.1 cm.spiketvifilm.overture.com
 127.0.0.1 cm.tw.overture.com
 127.0.0.1 cm.uk.independent.overture.com
 127.0.0.1 cm.uk.overture.com
@@ -46245,7 +46231,6 @@ white yt3.ggpht.com
 127.0.0.1 panel2.research-int.se
 127.0.0.1 prisjakt.research-int.se
 127.0.0.1 ricollect.research-int.se
-127.0.0.1 shared.research-int.se
 
 # resellerratings.com
 127.0.0.1 images.resellerratings.com
@@ -59812,7 +59797,6 @@ white yt3.ggpht.com
 127.0.0.1 gate1.powered-by.zango.com
 127.0.0.1 gate11.powered-by.zango.com
 127.0.0.1 gate12.powered-by.zango.com
-127.0.0.1 gate2.powered-by.zango.com
 127.0.0.1 gate3.powered-by.zango.com
 127.0.0.1 gate4.powered-by.zango.com
 127.0.0.1 gate6.powered-by.zango.com
