@@ -4,8 +4,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2019/11/09
-# block hosts: 32257 entry
+# last updated: 2019/11/10
+# block hosts: 32248 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -6748,6 +6748,7 @@ white yt3.ggpht.com
 127.0.0.1 lodeo-adnw.adtdp.com
 127.0.0.1 pv.amanad.adtdp.com
 127.0.0.1 rs-ap.adtdp.com
+127.0.0.1 serval.adtdp.com
 
 # adtear.com
 127.0.0.1 adtear.com
@@ -16729,9 +16730,6 @@ white yt3.ggpht.com
 # credonic.com
 127.0.0.1 www.credonic.com
 
-# creyo.jp
-127.0.0.1 creyo.jp
-
 # cricbuzz.com
 127.0.0.1 ads.cricbuzz.com
 127.0.0.1 ads1.cricbuzz.com
@@ -24151,7 +24149,6 @@ white yt3.ggpht.com
 127.0.0.1 gcirm.jacksonsun.gcion.com
 127.0.0.1 gcirm.jconline.gcion.com
 127.0.0.1 gcirm.laregionalonline.gcion.com
-127.0.0.1 gcirm.lsj.gcion.com
 127.0.0.1 gcirm.mconetwork.gcion.com
 127.0.0.1 gcirm.montgomeryadvertiser.gcion.com
 127.0.0.1 gcirm.mydesert.gcion.com
@@ -25532,9 +25529,6 @@ white yt3.ggpht.com
 # greenerworldmedia.com
 127.0.0.1 ads.greenerworldmedia.com
 
-# greenevillesun.com
-127.0.0.1 oascentral.greenevillesun.com
-
 # greenhorse.com
 127.0.0.1 greenhorse.com
 127.0.0.1 www.greenhorse.com
@@ -26455,7 +26449,6 @@ white yt3.ggpht.com
 127.0.0.1 ehg-alt64.hitbox.com
 127.0.0.1 ehg-apollogroup.hitbox.com
 127.0.0.1 ehg-aspca.hitbox.com
-127.0.0.1 ehg-associatednewmedia.hitbox.com
 127.0.0.1 ehg-ati.hitbox.com
 127.0.0.1 ehg-att2.hitbox.com
 127.0.0.1 ehg-attcorp.hitbox.com
@@ -30599,7 +30592,6 @@ white yt3.ggpht.com
 127.0.0.1 hq-celebrity.us.intellitxt.com
 127.0.0.1 htmlcenter.us.intellitxt.com
 127.0.0.1 huliq.us.intellitxt.com
-127.0.0.1 i-hacked.us.intellitxt.com
 127.0.0.1 i4u.us.intellitxt.com
 127.0.0.1 iamnotageek.us.intellitxt.com
 127.0.0.1 icentric.us.intellitxt.com
@@ -36568,9 +36560,11 @@ white yt3.ggpht.com
 127.0.0.1 rmad.microad.jp
 127.0.0.1 s-cm.send.microad.jp
 127.0.0.1 s-cs.send.microad.jp
+127.0.0.1 s-rtb.send.microad.jp
 127.0.0.1 send.microad.jp
 127.0.0.1 spvsc.send.microad.jp
 127.0.0.1 ssend.microad.jp
+127.0.0.1 ssp.send.microad.jp
 127.0.0.1 track.send.microad.jp
 127.0.0.1 vsc.send.microad.jp
 127.0.0.1 www.microad.jp
@@ -42386,7 +42380,6 @@ white yt3.ggpht.com
 127.0.0.1 www211.paypopup.com
 127.0.0.1 www213.paypopup.com
 127.0.0.1 www214.paypopup.com
-127.0.0.1 www215.paypopup.com
 127.0.0.1 www216.paypopup.com
 127.0.0.1 www217.paypopup.com
 127.0.0.1 www219.paypopup.com
@@ -44096,9 +44089,6 @@ white yt3.ggpht.com
 # prohledat.cz
 127.0.0.1 counter.prohledat.cz
 
-# prohosting.com
-127.0.0.1 onetube8.wave.prohosting.com
-
 # projectcounter.org
 127.0.0.1 projectcounter.org
 127.0.0.1 www.projectcounter.org
@@ -44284,7 +44274,6 @@ white yt3.ggpht.com
 127.0.0.1 faads.no.publicus.com
 127.0.0.1 fdads.sv.publicus.com
 127.0.0.1 hdads.no.publicus.com
-127.0.0.1 hpads.no.publicus.com
 127.0.0.1 lladinserts.us.publicus.com
 127.0.0.1 moads.no.publicus.com
 127.0.0.1 noads.no.publicus.com
@@ -49273,9 +49262,6 @@ white yt3.ggpht.com
 # soft-cleaner.net
 127.0.0.1 update2.soft-cleaner.net
 
-# soft-com.biz
-127.0.0.1 counters.soft-com.biz
-
 # soft32.com
 127.0.0.1 ads.soft32.com
 
@@ -52139,7 +52125,6 @@ white yt3.ggpht.com
 
 # theatlantic.com
 127.0.0.1 metrics.theatlantic.com
-127.0.0.1 www58.theatlantic.com
 
 # theb2bt.com
 127.0.0.1 metrics.theb2bt.com
@@ -54729,6 +54714,7 @@ white yt3.ggpht.com
 
 # uncn.jp
 127.0.0.1 cf.uncn.jp
+127.0.0.1 ds.uncn.jp
 127.0.0.1 uncn.jp
 
 # uncrate.com
@@ -54747,6 +54733,9 @@ white yt3.ggpht.com
 
 # undp.org
 127.0.0.1 metrics.undp.org
+
+# unext.jp
+127.0.0.1 adtrack.unext.jp
 
 # unfinished.jp
 127.0.0.1 counter.unfinished.jp
@@ -56331,9 +56320,6 @@ white yt3.ggpht.com
 
 # watchama2009.tk
 127.0.0.1 watchama2009.tk
-
-# watchfreeflix.com
-127.0.0.1 jumps.watchfreeflix.com
 
 # watchmygf.com
 127.0.0.1 stats.watchmygf.com
@@ -59275,7 +59261,6 @@ white yt3.ggpht.com
 127.0.0.1 frazoogames.powered-by.zango.com
 127.0.0.1 free.karaoke.songs.powered-by.zango.com
 127.0.0.1 freesudokus.powered-by.zango.com
-127.0.0.1 games.byethost32.powered-by.zango.com
 127.0.0.1 games.zango.com
 127.0.0.1 gate1.powered-by.zango.com
 127.0.0.1 gate11.powered-by.zango.com
@@ -59286,7 +59271,6 @@ white yt3.ggpht.com
 127.0.0.1 gate7.powered-by.zango.com
 127.0.0.1 gate8.powered-by.zango.com
 127.0.0.1 gate9.powered-by.zango.com
-127.0.0.1 gauntletvideos.powered-by.zango.com
 127.0.0.1 gec.zango.com
 127.0.0.1 getmusicvideocodes.powered-by.zango.com
 127.0.0.1 graffitifonts.powered-by.zango.com
@@ -59309,7 +59293,6 @@ white yt3.ggpht.com
 127.0.0.1 mymoneymakers.powered-by.zango.com
 127.0.0.1 myspace-backgrounds.powered-by.zango.com
 127.0.0.1 myspace.powered-by.zango.com
-127.0.0.1 myspacegraphics.powered-by.zango.com
 127.0.0.1 myspacegraphicsx.powered-by.zango.com
 127.0.0.1 myspaceiconsorg.powered-by.zango.com
 127.0.0.1 mytop12.com.powered-by.zango.com
