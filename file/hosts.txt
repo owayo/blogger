@@ -4,8 +4,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2019/11/10
-# block hosts: 32248 entry
+# last updated: 2019/11/13
+# block hosts: 32228 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -3193,7 +3193,6 @@ white yt3.ggpht.com
 127.0.0.1 www.web-counter.5u.com
 
 # 5zgmu7o20kt5d8yq.com
-127.0.0.1 us2-www.5zgmu7o20kt5d8yq.com
 127.0.0.1 www.5zgmu7o20kt5d8yq.com
 
 # 6.cn
@@ -5487,7 +5486,6 @@ white yt3.ggpht.com
 
 # adlimg05.com
 127.0.0.1 adlimg05.com
-127.0.0.1 www.adlimg05.com
 
 # adlink.de
 127.0.0.1 adlink.de
@@ -5848,7 +5846,6 @@ white yt3.ggpht.com
 127.0.0.1 s1.impcz.adocean.pl
 127.0.0.1 s1.my.adocean.pl
 127.0.0.1 s1.myao.adocean.pl
-127.0.0.1 s1.oglasnikhr.adocean.pl
 127.0.0.1 s1.pracuj.adocean.pl
 127.0.0.1 s1.sk.adocean.pl
 127.0.0.1 s1.skgde.adocean.pl
@@ -7529,7 +7526,6 @@ white yt3.ggpht.com
 127.0.0.1 projectorreviews.advertserve.com
 127.0.0.1 realfoodmedia.advertserve.com
 127.0.0.1 tradearabia.advertserve.com
-127.0.0.1 trucking.advertserve.com
 127.0.0.1 www.advertserve.com
 
 # advertstream.com
@@ -9507,7 +9503,6 @@ white yt3.ggpht.com
 # apptrackr.net
 127.0.0.1 apptrackr.net
 127.0.0.1 cydia.apptrackr.net
-127.0.0.1 ftp.apptrackr.net
 127.0.0.1 www.apptrackr.net
 
 # apptrackr.us
@@ -14218,9 +14213,6 @@ white yt3.ggpht.com
 
 # chargecards.com
 127.0.0.1 chargecards.com
-
-# chargemelater.com
-127.0.0.1 www.chargemelater.com
 
 # charleston.net
 127.0.0.1 oascentral.charleston.net
@@ -20151,7 +20143,6 @@ white yt3.ggpht.com
 
 # elwebsearch.info
 127.0.0.1 elwebsearch.info
-127.0.0.1 wvw.elwebsearch.info
 127.0.0.1 wwv.elwebsearch.info
 127.0.0.1 www.elwebsearch.info
 
@@ -22225,9 +22216,6 @@ white yt3.ggpht.com
 
 # findsearchlocate.net
 127.0.0.1 www.findsearchlocate.net
-
-# findstuffsearch.com
-127.0.0.1 www.findstuffsearch.com
 
 # findthewebsiteyouneed.com
 127.0.0.1 click.findthewebsiteyouneed.com
@@ -25642,7 +25630,6 @@ white yt3.ggpht.com
 127.0.0.1 engine.gtsads.com
 127.0.0.1 geoip.gtsads.com
 127.0.0.1 gtsads.com
-127.0.0.1 images.gtsads.com
 127.0.0.1 new.gtsads.com
 127.0.0.1 nimages.gtsads.com
 127.0.0.1 static.cdn.gtsads.com
@@ -26506,7 +26493,6 @@ white yt3.ggpht.com
 127.0.0.1 ehg-editorialpro.hitbox.com
 127.0.0.1 ehg-electrum.hitbox.com
 127.0.0.1 ehg-eline.hitbox.com
-127.0.0.1 ehg-emmiscommunications.hitbox.com
 127.0.0.1 ehg-equifax.hitbox.com
 127.0.0.1 ehg-eset.hitbox.com
 127.0.0.1 ehg-espn.hitbox.com
@@ -26599,7 +26585,6 @@ white yt3.ggpht.com
 127.0.0.1 ehg-pcsecurityshield.hitbox.com
 127.0.0.1 ehg-pennwell.hitbox.com
 127.0.0.1 ehg-pharmacia.hitbox.com
-127.0.0.1 ehg-pizzahut.hitbox.com
 127.0.0.1 ehg-playboy.hitbox.com
 127.0.0.1 ehg-proflowers.hitbox.com
 127.0.0.1 ehg-qualcomm.hitbox.com
@@ -32939,7 +32924,6 @@ white yt3.ggpht.com
 # kongzhong.com
 127.0.0.1 cps.kongzhong.com
 127.0.0.1 em.kongzhong.com
-127.0.0.1 zhulang.em.kongzhong.com
 
 # kontaktanzeigen-fotos.de
 127.0.0.1 kontaktanzeigen-fotos.de
@@ -36095,7 +36079,6 @@ white yt3.ggpht.com
 
 # mediarich.cc
 127.0.0.1 mediarich.cc
-127.0.0.1 www.mediarich.cc
 
 # mediarotator.ru
 127.0.0.1 tizer.mediarotator.ru
@@ -36746,7 +36729,6 @@ white yt3.ggpht.com
 127.0.0.1 click.mirarsearch.com
 127.0.0.1 mirarsearch.com
 127.0.0.1 redirect.mirarsearch.com
-127.0.0.1 static.mirarsearch.com
 127.0.0.1 www.mirarsearch.com
 
 # mirohost.net
@@ -47148,7 +47130,6 @@ white yt3.ggpht.com
 127.0.0.1 op20.searchteria.co.jp
 127.0.0.1 op21.searchteria.co.jp
 127.0.0.1 optag.searchteria.co.jp
-127.0.0.1 rl.searchteria.co.jp
 127.0.0.1 searchteria.co.jp
 127.0.0.1 sem.searchteria.co.jp
 
@@ -47318,9 +47299,6 @@ white yt3.ggpht.com
 
 # seekandsee.com
 127.0.0.1 xml.seekandsee.com
-
-# seekanyway.com
-127.0.0.1 www.seekanyway.com
 
 # seekbang.com
 127.0.0.1 seekbang.com
@@ -49477,7 +49455,6 @@ white yt3.ggpht.com
 # spamblockerutility.com
 127.0.0.1 installs.spamblockerutility.com
 127.0.0.1 spamblockerutility.com
-127.0.0.1 updates.spamblockerutility.com
 127.0.0.1 www.spamblockerutility.com
 
 # spamfighter.com
@@ -54614,7 +54591,6 @@ white yt3.ggpht.com
 127.0.0.1 adclient.uimserv.net
 127.0.0.1 adimg.uimserv.net
 127.0.0.1 creativeproxy.uimserv.net
-127.0.0.1 esmv.uimserv.net
 127.0.0.1 fips.uimserv.net
 127.0.0.1 hp.gmx.uimserv.net
 127.0.0.1 p.uimserv.net
@@ -58681,9 +58657,6 @@ white yt3.ggpht.com
 127.0.0.1 x7.yamanoha.com
 127.0.0.1 x8.yamanoha.com
 
-# yambosor.cn
-127.0.0.1 tfnbknfdeskm.yambosor.cn
-
 # yamx.com
 127.0.0.1 spads.yamx.com
 
@@ -59257,7 +59230,6 @@ white yt3.ggpht.com
 127.0.0.1 deansplanet.com.powered-by.zango.com
 127.0.0.1 downloads.zango.com
 127.0.0.1 fightvideos.powered-by.zango.com
-127.0.0.1 fightvids.powered-by.zango.com
 127.0.0.1 frazoogames.powered-by.zango.com
 127.0.0.1 free.karaoke.songs.powered-by.zango.com
 127.0.0.1 freesudokus.powered-by.zango.com
