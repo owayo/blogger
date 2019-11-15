@@ -5,7 +5,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2019/11/15
-# block hosts: 32194 entry
+# block hosts: 32169 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -5834,7 +5834,6 @@ white yt3.ggpht.com
 127.0.0.1 rogde.adocean.pl
 127.0.0.1 s1.ad.adocean.pl
 127.0.0.1 s1.advicepl.adocean.pl
-127.0.0.1 s1.centrumcz.adocean.pl
 127.0.0.1 s1.cz.adocean.pl
 127.0.0.1 s1.czgde.adocean.pl
 127.0.0.1 s1.delfilt.adocean.pl
@@ -6397,7 +6396,6 @@ white yt3.ggpht.com
 127.0.0.1 adservinginternational.com
 127.0.0.1 dr.adservinginternational.com
 127.0.0.1 media.adservinginternational.com
-127.0.0.1 mediaprovider.adservinginternational.com
 
 # adservingnetwork.com
 127.0.0.1 adservingnetwork.com
@@ -9493,7 +9491,6 @@ white yt3.ggpht.com
 
 # apptrack.org
 127.0.0.1 apptrack.org
-127.0.0.1 ftp.apptrack.org
 127.0.0.1 www.apptrack.org
 
 # apptrackr.net
@@ -10377,9 +10374,6 @@ white yt3.ggpht.com
 # baazee.com
 127.0.0.1 ads.baazee.com
 127.0.0.1 affiliate.baazee.com
-
-# babble.com
-127.0.0.1 oascentral.babble.com
 
 # babe-girls.com
 127.0.0.1 babe-girls.com
@@ -14288,7 +14282,6 @@ white yt3.ggpht.com
 127.0.0.1 rmm1u.checkm8.com
 127.0.0.1 sport5.checkm8.com
 127.0.0.1 sport5digital.checkm8.com
-127.0.0.1 txmonthly.checkm8.com
 127.0.0.1 web.checkm8.com
 127.0.0.1 web2.checkm8.com
 
@@ -19821,9 +19814,6 @@ white yt3.ggpht.com
 # edgecaching.net
 127.0.0.1 zde-affinity.edgecaching.net
 
-# edgegentle.ru
-127.0.0.1 edgegentle.ru
-
 # edgeio.com
 127.0.0.1 edgeio.com
 
@@ -24784,7 +24774,6 @@ white yt3.ggpht.com
 
 # gmo.jp
 127.0.0.1 img.gmo.jp
-127.0.0.1 tracking.gmo.jp
 
 # gmodmp.jp
 127.0.0.1 dmp.gmodmp.jp
@@ -26427,7 +26416,6 @@ white yt3.ggpht.com
 127.0.0.1 ehg-borgata.hitbox.com
 127.0.0.1 ehg-bskyb.hitbox.com
 127.0.0.1 ehg-cafepress.hitbox.com
-127.0.0.1 ehg-camcorderinfo.hitbox.com
 127.0.0.1 ehg-campmor.hitbox.com
 127.0.0.1 ehg-capitalgroup.hitbox.com
 127.0.0.1 ehg-cbc.hitbox.com
@@ -26452,7 +26440,6 @@ white yt3.ggpht.com
 127.0.0.1 ehg-ctv.hitbox.com
 127.0.0.1 ehg-cygnusbm.hitbox.com
 127.0.0.1 ehg-danskin.hitbox.com
-127.0.0.1 ehg-darden.hitbox.com
 127.0.0.1 ehg-darksideprod.hitbox.com
 127.0.0.1 ehg-datamonitor.hitbox.com
 127.0.0.1 ehg-davidsbridal.hitbox.com
@@ -26611,7 +26598,6 @@ white yt3.ggpht.com
 127.0.0.1 ehg-veohnetworksinc.hitbox.com
 127.0.0.1 ehg-verizon.hitbox.com
 127.0.0.1 ehg-viacom.hitbox.com
-127.0.0.1 ehg-vmixmediainc.hitbox.com
 127.0.0.1 ehg-vmware.hitbox.com
 127.0.0.1 ehg-vonage.hitbox.com
 127.0.0.1 ehg-wachovia.hitbox.com
@@ -28372,9 +28358,6 @@ white yt3.ggpht.com
 
 # http-tunnel.org
 127.0.0.1 www.http-tunnel.org
-
-# http-tunneling.com
-127.0.0.1 www.http-tunneling.com
 
 # httpool.com
 127.0.0.1 ad.httpool.com
@@ -33162,7 +33145,6 @@ white yt3.ggpht.com
 127.0.0.1 www2.layer-ads.de
 127.0.0.1 www3.layer-ads.de
 127.0.0.1 www5.layer-ads.de
-127.0.0.1 www6.layer-ads.de
 
 # layer-ads.org
 127.0.0.1 layer-ads.org
@@ -37224,9 +37206,6 @@ white yt3.ggpht.com
 # monclersoutlet2013.com
 127.0.0.1 monclersoutlet2013.com
 
-# monclersuzojp.com
-127.0.0.1 monclersuzojp.com
-
 # mondespersistants.com
 127.0.0.1 stats.mondespersistants.com
 
@@ -38832,7 +38811,6 @@ white yt3.ggpht.com
 127.0.0.1 narrowcastmedia.com
 
 # nasads.com
-127.0.0.1 nads48.nasads.com
 127.0.0.1 nads57.nasads.com
 
 # nascar.com
@@ -43709,9 +43687,6 @@ white yt3.ggpht.com
 # pradaoutlets-jp.com
 127.0.0.1 pradaoutlets-jp.com
 
-# pradapurse-tokyo.biz
-127.0.0.1 pradapurse-tokyo.biz
-
 # pradasalesnow-jp.com
 127.0.0.1 pradasalesnow-jp.com
 
@@ -46924,9 +46899,6 @@ white yt3.ggpht.com
 # searchdiscoverfind.net
 127.0.0.1 www.searchdiscoverfind.net
 
-# searchebuy.com
-127.0.0.1 www.searchebuy.com
-
 # searchenginecenter.org
 127.0.0.1 searchenginecenter.org
 
@@ -47467,7 +47439,6 @@ white yt3.ggpht.com
 # serving-sys.com
 127.0.0.1 activity.serving-sys.com
 127.0.0.1 bs.serving-sys.com
-127.0.0.1 datacapture.serving-sys.com
 127.0.0.1 ds-ll.serving-sys.com
 127.0.0.1 ds.serving-sys.com
 127.0.0.1 msn.serving-sys.com
@@ -47864,7 +47835,6 @@ white yt3.ggpht.com
 127.0.0.1 hewitt.sexybabesx.com
 127.0.0.1 hilaryduff.sexybabesx.com
 127.0.0.1 hilaryswank.sexybabesx.com
-127.0.0.1 janetjackson.sexybabesx.com
 127.0.0.1 jennajameson.sexybabesx.com
 127.0.0.1 jenniferellison.sexybabesx.com
 127.0.0.1 jennifergarner.sexybabesx.com
@@ -47873,7 +47843,6 @@ white yt3.ggpht.com
 127.0.0.1 jessicabiel.sexybabesx.com
 127.0.0.1 jessicasimpson.sexybabesx.com
 127.0.0.1 jojo.sexybabesx.com
-127.0.0.1 josiemaran.sexybabesx.com
 127.0.0.1 jossstone.sexybabesx.com
 127.0.0.1 juliaroberts.sexybabesx.com
 127.0.0.1 juliastiles.sexybabesx.com
@@ -47917,7 +47886,6 @@ white yt3.ggpht.com
 127.0.0.1 renee.sexybabesx.com
 127.0.0.1 roselynsanchez.sexybabesx.com
 127.0.0.1 salma.sexybabesx.com
-127.0.0.1 samairearmstrong.sexybabesx.com
 127.0.0.1 sandra.sexybabesx.com
 127.0.0.1 saniamirza.sexybabesx.com
 127.0.0.1 sashacohen.sexybabesx.com
@@ -51456,9 +51424,6 @@ white yt3.ggpht.com
 127.0.0.1 adash.m.taobao.com
 127.0.0.1 s.click.taobao.com
 
-# taotao373.com
-127.0.0.1 taotao373.com
-
 # tapad.com
 127.0.0.1 adsrv1.tapad.com
 127.0.0.1 pixel.tapad.com
@@ -51817,9 +51782,6 @@ white yt3.ggpht.com
 127.0.0.1 ads.tele.net
 127.0.0.1 adserver.tele.net
 127.0.0.1 sdc.tele.net
-
-# telebanners.com
-127.0.0.1 www.telebanners.com
 
 # telecharger.com
 127.0.0.1 boutique.telecharger.com
@@ -55993,7 +55955,6 @@ white yt3.ggpht.com
 127.0.0.1 cn.pub.vpon.com
 127.0.0.1 m.vpon.com
 127.0.0.1 medad.vpon.com
-127.0.0.1 sh2.vpon.com
 127.0.0.1 tw.api.vpon.com
 127.0.0.1 tw.pub.vpon.com
 127.0.0.1 www.vpon.com
@@ -57238,9 +57199,6 @@ white yt3.ggpht.com
 
 # windows-cannot-find.com
 127.0.0.1 www.windows-cannot-find.com
-
-# windows-registry-fix.net
-127.0.0.1 windows-registry-fix.net
 
 # windows.net
 127.0.0.1 open8video.blob.core.windows.net
@@ -59176,7 +59134,6 @@ white yt3.ggpht.com
 127.0.0.1 downloads.zango.com
 127.0.0.1 fightvideos.powered-by.zango.com
 127.0.0.1 frazoogames.powered-by.zango.com
-127.0.0.1 free.karaoke.songs.powered-by.zango.com
 127.0.0.1 freesudokus.powered-by.zango.com
 127.0.0.1 games.zango.com
 127.0.0.1 gate1.powered-by.zango.com
