@@ -5,7 +5,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2019/11/19
-# block hosts: 32112 entry
+# block hosts: 32107 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -10499,9 +10499,6 @@ white yt3.ggpht.com
 
 # baja.com
 127.0.0.1 becounted.baja.com
-
-# bakersfield.com
-127.0.0.1 oascentral.bakersfield.com
 
 # ballerft.site
 127.0.0.1 track.ballerft.site
@@ -26404,7 +26401,6 @@ white yt3.ggpht.com
 127.0.0.1 ehg-cskautocorporation.hitbox.com
 127.0.0.1 ehg-ctv.hitbox.com
 127.0.0.1 ehg-cygnusbm.hitbox.com
-127.0.0.1 ehg-danskin.hitbox.com
 127.0.0.1 ehg-darksideprod.hitbox.com
 127.0.0.1 ehg-datamonitor.hitbox.com
 127.0.0.1 ehg-davidsbridal.hitbox.com
@@ -32167,9 +32163,6 @@ white yt3.ggpht.com
 
 # jp-canadagoose.biz
 127.0.0.1 jp-canadagoose.biz
-
-# jp-canadagoose2013.biz
-127.0.0.1 jp-canadagoose2013.biz
 
 # jp-canadagoosedown.biz
 127.0.0.1 jp-canadagoosedown.biz
@@ -45542,7 +45535,6 @@ white yt3.ggpht.com
 127.0.0.1 panel.research-int.se
 127.0.0.1 panel2.research-int.se
 127.0.0.1 prisjakt.research-int.se
-127.0.0.1 ricollect.research-int.se
 
 # resellerratings.com
 127.0.0.1 images.resellerratings.com
@@ -48576,7 +48568,6 @@ white yt3.ggpht.com
 127.0.0.1 ads.skelbiu.lt
 
 # skenzo.com
-127.0.0.1 images.skenzo.com
 127.0.0.1 pics.skenzo.com
 
 # skilljam.com
