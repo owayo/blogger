@@ -4,8 +4,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2019/11/17
-# block hosts: 32119 entry
+# last updated: 2019/11/19
+# block hosts: 32112 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -13080,7 +13080,6 @@ white yt3.ggpht.com
 # burstmedia.com
 127.0.0.1 burstmedia.com
 127.0.0.1 survey.burstmedia.com
-127.0.0.1 web.burstmedia.com
 127.0.0.1 websurvey.burstmedia.com
 127.0.0.1 www.burstmedia.com
 
@@ -15827,7 +15826,6 @@ white yt3.ggpht.com
 127.0.0.1 siteanalytics.compete.com
 127.0.0.1 snapshot.compete.com
 127.0.0.1 www.compete.com
-127.0.0.1 www.home.compete.com
 
 # competeinc.com
 127.0.0.1 competeinc.com
@@ -26357,7 +26355,6 @@ white yt3.ggpht.com
 127.0.0.1 counter.hitbox.com
 127.0.0.1 ehg-aarp.hitbox.com
 127.0.0.1 ehg-accuweather.hitbox.com
-127.0.0.1 ehg-adteractive.hitbox.com
 127.0.0.1 ehg-adversitement.hitbox.com
 127.0.0.1 ehg-aha.hitbox.com
 127.0.0.1 ehg-akagourmet.hitbox.com
@@ -30862,7 +30859,6 @@ white yt3.ggpht.com
 127.0.0.1 whatthetech.us.intellitxt.com
 127.0.0.1 whoateallthepies.uk.intellitxt.com
 127.0.0.1 whyfame.us.intellitxt.com
-127.0.0.1 wi-fitechnology.uk.intellitxt.com
 127.0.0.1 wincert.us.intellitxt.com
 127.0.0.1 windows7news.uk.intellitxt.com
 127.0.0.1 windowsbbs.us.intellitxt.com
@@ -37121,9 +37117,6 @@ white yt3.ggpht.com
 # monclerdowns2013.com
 127.0.0.1 monclerdowns2013.com
 
-# monclerfashion2013.com
-127.0.0.1 monclerfashion2013.com
-
 # monclerfashions.info
 127.0.0.1 monclerfashions.info
 
@@ -37876,9 +37869,6 @@ white yt3.ggpht.com
 # myaffiliateprogram.com
 127.0.0.1 myaffiliateprogram.com
 127.0.0.1 www.myaffiliateprogram.com
-
-# myaffiliates.com
-127.0.0.1 media.commissionking.myaffiliates.com
 
 # myandu.com
 127.0.0.1 myandu.com
@@ -47154,9 +47144,6 @@ white yt3.ggpht.com
 
 # seek2.com
 127.0.0.1 landing.seek2.com
-
-# seek4shop.com
-127.0.0.1 www.seek4shop.com
 
 # seekandsee.com
 127.0.0.1 xml.seekandsee.com
