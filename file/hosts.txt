@@ -4,8 +4,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2019/11/19
-# block hosts: 32107 entry
+# last updated: 2019/11/20
+# block hosts: 32094 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -16240,9 +16240,6 @@ white yt3.ggpht.com
 # counter-shop.net
 127.0.0.1 counter-shop.net
 
-# counter-x.com
-127.0.0.1 www.counter-x.com
-
 # counter.cz
 127.0.0.1 counter.cz
 127.0.0.1 www.counter.cz
@@ -17823,9 +17820,6 @@ white yt3.ggpht.com
 
 # dictor.info
 127.0.0.1 dictor.info
-
-# dicu4v.biz
-127.0.0.1 images.dicu4v.biz
 
 # did-it.com
 127.0.0.1 track.did-it.com
@@ -26426,7 +26420,6 @@ white yt3.ggpht.com
 127.0.0.1 ehg-futurepub.hitbox.com
 127.0.0.1 ehg-fxcm.hitbox.com
 127.0.0.1 ehg-gamedaily.hitbox.com
-127.0.0.1 ehg-gameshownet.hitbox.com
 127.0.0.1 ehg-gamespot.hitbox.com
 127.0.0.1 ehg-globalgamingleague.hitbox.com
 127.0.0.1 ehg-harleydavidson.hitbox.com
@@ -26517,7 +26510,6 @@ white yt3.ggpht.com
 127.0.0.1 ehg-schwannssales.hitbox.com
 127.0.0.1 ehg-shanken.hitbox.com
 127.0.0.1 ehg-sharpelectronic.hitbox.com
-127.0.0.1 ehg-shoes.hitbox.com
 127.0.0.1 ehg-shopathome.hitbox.com
 127.0.0.1 ehg-silverpop.hitbox.com
 127.0.0.1 ehg-simstar.hitbox.com
@@ -31969,9 +31961,6 @@ white yt3.ggpht.com
 # jetblue.com
 127.0.0.1 omnistats.jetblue.com
 
-# jetfastads.com
-127.0.0.1 jetfastads.com
-
 # jethomepage.com
 127.0.0.1 jethomepage.com
 
@@ -37095,9 +37084,6 @@ white yt3.ggpht.com
 # moncler-outlets.net
 127.0.0.1 www.moncler-outlets.net
 
-# monclerbell.info
-127.0.0.1 monclerbell.info
-
 # monclerbrandoutlet.com
 127.0.0.1 monclerbrandoutlet.com
 
@@ -37729,7 +37715,6 @@ white yt3.ggpht.com
 
 # music-lookup.com
 127.0.0.1 music-lookup.com
-127.0.0.1 www.music-lookup.com
 
 # music-lookup.net
 127.0.0.1 music-lookup.net
@@ -48662,7 +48647,6 @@ white yt3.ggpht.com
 
 # slidefind.net
 127.0.0.1 slidefind.net
-127.0.0.1 www.slidefind.net
 
 # slidesearch.com
 127.0.0.1 slidesearch.com
@@ -48913,9 +48897,6 @@ white yt3.ggpht.com
 
 # smeshen.com
 127.0.0.1 reklama.smeshen.com
-
-# smgvt.com
-127.0.0.1 smgvt.com
 
 # smilepop.com
 127.0.0.1 smilepop.com
@@ -51302,9 +51283,6 @@ white yt3.ggpht.com
 127.0.0.1 b180.takru.com
 127.0.0.1 banners.takru.com
 127.0.0.1 takru.com
-
-# talset.net
-127.0.0.1 dk.talset.net
 
 # tangabilder.to
 127.0.0.1 www.tangabilder.to
@@ -55152,9 +55130,6 @@ white yt3.ggpht.com
 127.0.0.1 lance.vegnews.com
 127.0.0.1 margara.vegnews.com
 
-# vehix.com
-127.0.0.1 statsomni.vehix.com
-
 # veille-referencement.com
 127.0.0.1 veille-referencement.com
 
@@ -57792,7 +57767,6 @@ white yt3.ggpht.com
 127.0.0.1 ad.xdomain.ne.jp
 
 # xe-xenical.com
-127.0.0.1 www.xe-xenical.com
 127.0.0.1 xe-xenical.com
 
 # xeanon.com
@@ -59039,7 +59013,6 @@ white yt3.ggpht.com
 127.0.0.1 frazoogames.powered-by.zango.com
 127.0.0.1 freesudokus.powered-by.zango.com
 127.0.0.1 games.zango.com
-127.0.0.1 gate1.powered-by.zango.com
 127.0.0.1 gate11.powered-by.zango.com
 127.0.0.1 gate12.powered-by.zango.com
 127.0.0.1 gate3.powered-by.zango.com
