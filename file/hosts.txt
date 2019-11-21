@@ -4,8 +4,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2019/11/20
-# block hosts: 32094 entry
+# last updated: 2019/11/21
+# block hosts: 32057 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -582,7 +582,6 @@ white yt3.ggpht.com
 127.0.0.1 postgazette.247realmedia.com
 127.0.0.1 postgazettecollect.247realmedia.com
 127.0.0.1 singletraining56.247realmedia.com
-127.0.0.1 villagevoicecollect.247realmedia.com
 
 # 247search.com
 127.0.0.1 tracking.247search.com
@@ -912,7 +911,6 @@ white yt3.ggpht.com
 127.0.0.1 clubmom.122.2o7.net
 127.0.0.1 cmp.112.2o7.net
 127.0.0.1 cmpdotnetjunkiescom.112.2o7.net
-127.0.0.1 cmpdotnetjunkiescom.112.2oista.112.2o7.net
 127.0.0.1 cmpglobalvista.112.2o7.net
 127.0.0.1 cmtvia.112.2o7.net
 127.0.0.1 cnetasiapacific.122.2o7.net
@@ -3510,9 +3508,6 @@ white yt3.ggpht.com
 127.0.0.1 tracer.a-cast.jp
 127.0.0.1 tracer02.a-cast.jp
 
-# a-connect.jp
-127.0.0.1 www.a-connect.jp
-
 # a-counter.kiev.ua
 127.0.0.1 a-counter.kiev.ua
 127.0.0.1 www2.a-counter.kiev.ua
@@ -4537,12 +4532,10 @@ white yt3.ggpht.com
 127.0.0.1 imediac.adbureau.net
 127.0.0.1 inl-images.adbureau.net
 127.0.0.1 inl.adbureau.net
-127.0.0.1 intweave-images.adbureau.net
 127.0.0.1 itv-images.adbureau.net
 127.0.0.1 legacy-images.adbureau.net
 127.0.0.1 mediapst-images.adbureau.net
 127.0.0.1 mediapst.adbureau.net
-127.0.0.1 metro-images.adbureau.net
 127.0.0.1 msnap.adbureau.net
 127.0.0.1 npr-images.adbureau.net
 127.0.0.1 ordie.adbureau.net
@@ -5883,7 +5876,6 @@ white yt3.ggpht.com
 127.0.0.1 adonspot.com
 
 # adontext.com
-127.0.0.1 context.adontext.com
 127.0.0.1 context2.adontext.com
 127.0.0.1 testing.adontext.com
 
@@ -10875,7 +10867,6 @@ white yt3.ggpht.com
 127.0.0.1 service2.bargain-buddy.net
 127.0.0.1 service3.bargain-buddy.net
 127.0.0.1 service4.bargain-buddy.net
-127.0.0.1 service5.bargain-buddy.net
 127.0.0.1 service7.bargain-buddy.net
 127.0.0.1 www.bargain-buddy.net
 
@@ -11510,9 +11501,6 @@ white yt3.ggpht.com
 # big-tits-orgasm.biz
 127.0.0.1 big-tits-orgasm.biz
 127.0.0.1 www.big-tits-orgasm.biz
-
-# big2feed.com
-127.0.0.1 www.big2feed.com
 
 # bigad.com.au
 127.0.0.1 www.bigad.com.au
@@ -13662,8 +13650,6 @@ white yt3.ggpht.com
 127.0.0.1 isg20.casalemedia.com
 127.0.0.1 isg21.casalemedia.com
 127.0.0.1 isg22.casalemedia.com
-127.0.0.1 isg24.casalemedia.com
-127.0.0.1 isg25.casalemedia.com
 127.0.0.1 isg29.casalemedia.com
 127.0.0.1 isg30.casalemedia.com
 127.0.0.1 isg31.casalemedia.com
@@ -16915,9 +16901,6 @@ white yt3.ggpht.com
 
 # customcoupon.com
 127.0.0.1 gcirm.customcoupon.com
-
-# customeracquisitionsite.com
-127.0.0.1 media.customeracquisitionsite.com
 
 # customersupporthelp.com
 127.0.0.1 www.customersupporthelp.com
@@ -24027,9 +24010,6 @@ white yt3.ggpht.com
 # gbscript.com
 127.0.0.1 gbscript.com
 
-# gcconnected.com
-127.0.0.1 www.gcconnected.com
-
 # gccx.com
 127.0.0.1 ads1.gccx.com
 
@@ -24089,7 +24069,6 @@ white yt3.ggpht.com
 127.0.0.1 gcirm.thejournalnews.gcion.com
 127.0.0.1 gcirm.theleafchronicle.gcion.com
 127.0.0.1 gcirm.thespectrum.gcion.com
-127.0.0.1 gcirm.thestarpress.gcion.com
 127.0.0.1 gcirm.thetimesherald.gcion.com
 127.0.0.1 gcirm.tucson.gcion.com
 127.0.0.1 gcirm.usaweekend.gcion.com
@@ -24380,9 +24359,6 @@ white yt3.ggpht.com
 
 # get-around-firwall.com
 127.0.0.1 www.get-around-firwall.com
-
-# get-flash-player-10.com
-127.0.0.1 www.get-flash-player-10.com
 
 # get-spyware-destroyer.com
 127.0.0.1 get-spyware-destroyer.com
@@ -26402,7 +26378,6 @@ white yt3.ggpht.com
 127.0.0.1 ehg-dig.hitbox.com
 127.0.0.1 ehg-digg.hitbox.com
 127.0.0.1 ehg-dolphins.hitbox.com
-127.0.0.1 ehg-editorialpro.hitbox.com
 127.0.0.1 ehg-electrum.hitbox.com
 127.0.0.1 ehg-eline.hitbox.com
 127.0.0.1 ehg-equifax.hitbox.com
@@ -26424,7 +26399,6 @@ white yt3.ggpht.com
 127.0.0.1 ehg-globalgamingleague.hitbox.com
 127.0.0.1 ehg-harleydavidson.hitbox.com
 127.0.0.1 ehg-hartfordfireinsurance.hitbox.com
-127.0.0.1 ehg-haymarket.hitbox.com
 127.0.0.1 ehg-herenetworks.hitbox.com
 127.0.0.1 ehg-hollywood.hitbox.com
 127.0.0.1 ehg-icelandair.hitbox.com
@@ -26542,7 +26516,6 @@ white yt3.ggpht.com
 127.0.0.1 ehg-traderpublishing.hitbox.com
 127.0.0.1 ehg-tumbleweed.hitbox.com
 127.0.0.1 ehg-twi.hitbox.com
-127.0.0.1 ehg-u3.hitbox.com
 127.0.0.1 ehg-ubid.hitbox.com
 127.0.0.1 ehg-ubisoft.hitbox.com
 127.0.0.1 ehg-uniontrib.hitbox.com
@@ -26571,7 +26544,6 @@ white yt3.ggpht.com
 127.0.0.1 ehg-youtube.hitbox.com
 127.0.0.1 ehg-zazzle.hitbox.com
 127.0.0.1 ehg-zentropypartners.hitbox.com
-127.0.0.1 ehg-zoom.hitbox.com
 127.0.0.1 ehg-zoomerang.hitbox.com
 127.0.0.1 ehg-zvents.hitbox.com
 127.0.0.1 ehg.hitbox.com
@@ -28533,9 +28505,6 @@ white yt3.ggpht.com
 # hyperwebads.com
 127.0.0.1 www.hyperwebads.com
 
-# hyxencloud.com
-127.0.0.1 promev3-web.hyxencloud.com
-
 # hz7.de
 127.0.0.1 hz7.de
 
@@ -28803,9 +28772,6 @@ white yt3.ggpht.com
 
 # icelandair.is
 127.0.0.1 ssdc.icelandair.is
-
-# icelandair.net
-127.0.0.1 ssdc.icelandair.net
 
 # icentric.net
 127.0.0.1 www.icentric.net
@@ -31129,8 +31095,6 @@ white yt3.ggpht.com
 
 # invitemedia.com
 127.0.0.1 cdn2.invitemedia.com
-127.0.0.1 ev2.bid.invitemedia.com
-127.0.0.1 ev4.bid.invitemedia.com
 127.0.0.1 ev7.bid.invitemedia.com
 127.0.0.1 ev9.bid.invitemedia.com
 127.0.0.1 g-pixel.invitemedia.com
@@ -34922,7 +34886,6 @@ white yt3.ggpht.com
 # m1e.net
 127.0.0.1 m01.m1e.net
 127.0.0.1 m02.m1e.net
-127.0.0.1 m03.m1e.net
 127.0.0.1 m04.m1e.net
 127.0.0.1 m1e.net
 
@@ -36126,9 +36089,6 @@ white yt3.ggpht.com
 127.0.0.1 megapornmovs.com
 127.0.0.1 www.megapornmovs.com
 
-# megapowersearch.com
-127.0.0.1 www.megapowersearch.com
-
 # megaprizes-server76.loan
 127.0.0.1 competition7472.megaprizes-server76.loan
 
@@ -36336,9 +36296,6 @@ white yt3.ggpht.com
 
 # metsupport.com
 127.0.0.1 metsupport.com
-
-# mexfeed.com
-127.0.0.1 www.mexfeed.com
 
 # mfsuite.com
 127.0.0.1 mfsuite.com
@@ -40499,9 +40456,6 @@ white yt3.ggpht.com
 # officelive.com
 127.0.0.1 sitereports.officelive.com
 
-# official-anti-virus.com
-127.0.0.1 www.official-anti-virus.com
-
 # official-emule.com
 127.0.0.1 www.official-emule.com
 
@@ -41393,7 +41347,6 @@ white yt3.ggpht.com
 127.0.0.1 cm.uk.independent.overture.com
 127.0.0.1 cm.uk.overture.com
 127.0.0.1 cm.vh1.overture.com
-127.0.0.1 cm.weather.overture.com
 127.0.0.1 cmh.hk.overture.com
 127.0.0.1 cmh.tw.yahoo.overture.com
 127.0.0.1 cmhtml.revenuescience.overture.com
@@ -42800,7 +42753,6 @@ white yt3.ggpht.com
 
 # pinkcount.com
 127.0.0.1 pinkcount.com
-127.0.0.1 teen.pinkcount.com
 127.0.0.1 www.pinkcount.com
 
 # pinkpays.com
@@ -45778,7 +45730,6 @@ white yt3.ggpht.com
 
 # richwebmedia.com
 127.0.0.1 richwebmedia.com
-127.0.0.1 scripts.richwebmedia.com
 127.0.0.1 www.richwebmedia.com
 
 # rico02.com
@@ -46436,7 +46387,6 @@ white yt3.ggpht.com
 127.0.0.1 b.salon.com
 127.0.0.1 judo.salon.com
 127.0.0.1 oas.salon.com
-127.0.0.1 sacdcad01.salon.com
 127.0.0.1 sacdcad03.salon.com
 
 # samknows.com
@@ -46719,7 +46669,6 @@ white yt3.ggpht.com
 
 # search-fusion.com
 127.0.0.1 search-fusion.com
-127.0.0.1 www.search-fusion.com
 
 # search-itnow.com
 127.0.0.1 search-itnow.com
@@ -47801,7 +47750,6 @@ white yt3.ggpht.com
 127.0.0.1 sherylcrow.sexybabesx.com
 127.0.0.1 siennamiller.sexybabesx.com
 127.0.0.1 terapatrick.sexybabesx.com
-127.0.0.1 terihatcher.sexybabesx.com
 127.0.0.1 thorabirch.sexybabesx.com
 127.0.0.1 tyrabanks.sexybabesx.com
 127.0.0.1 umathurman.sexybabesx.com
@@ -48725,7 +48673,6 @@ white yt3.ggpht.com
 127.0.0.1 f05.smaato.net
 127.0.0.1 f06.smaato.net
 127.0.0.1 f07.smaato.net
-127.0.0.1 f09.smaato.net
 127.0.0.1 f10.smaato.net
 127.0.0.1 smaato.net
 127.0.0.1 soma.smaato.net
@@ -54411,7 +54358,6 @@ white yt3.ggpht.com
 127.0.0.1 ad-beacon-v01.uliza.jp
 
 # ultimaguard.com
-127.0.0.1 pay1.ultimaguard.com
 127.0.0.1 update1.ultimaguard.com
 
 # ultimate-guitar.com
@@ -55156,7 +55102,6 @@ white yt3.ggpht.com
 
 # velti.com
 127.0.0.1 atti.velti.com
-127.0.0.1 millionaire.velti.com
 127.0.0.1 mwc.velti.com
 127.0.0.1 ru.velti.com
 
@@ -58484,7 +58429,6 @@ white yt3.ggpht.com
 127.0.0.1 ycheba.info
 
 # ydoing.com
-127.0.0.1 www.ydoing.com
 127.0.0.1 ydoing.com
 
 # yeah.com
@@ -59042,7 +58986,6 @@ white yt3.ggpht.com
 127.0.0.1 myspace-backgrounds.powered-by.zango.com
 127.0.0.1 myspace.powered-by.zango.com
 127.0.0.1 myspacegraphicsx.powered-by.zango.com
-127.0.0.1 myspaceiconsorg.powered-by.zango.com
 127.0.0.1 mytop12.com.powered-by.zango.com
 127.0.0.1 narutowallpaper.powered-by.zango.com
 127.0.0.1 newgrounds.dressup.powered-by.zango.com
