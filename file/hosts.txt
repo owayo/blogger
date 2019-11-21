@@ -5,7 +5,7 @@
 #         https://twitter.com/logroid
 #
 # last updated: 2019/11/21
-# block hosts: 32057 entry
+# block hosts: 32024 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -7190,7 +7190,6 @@ white yt3.ggpht.com
 
 # adultvidsonly.com
 127.0.0.1 adultvidsonly.com
-127.0.0.1 www.adultvidsonly.com
 
 # adultwebmastersonline.com
 127.0.0.1 adultwebmastersonline.com
@@ -8836,9 +8835,6 @@ white yt3.ggpht.com
 # ami-admin.com
 127.0.0.1 ads1.ami-admin.com
 
-# amiadogroup.com
-127.0.0.1 master.ad.amiadogroup.com
-
 # amiami.jp
 127.0.0.1 amiami.jp
 
@@ -9290,7 +9286,6 @@ white yt3.ggpht.com
 127.0.0.1 an.appads.com
 127.0.0.1 appads.com
 127.0.0.1 caggsm-img.appads.com
-127.0.0.1 galatea.appads.com
 127.0.0.1 galatea1.appads.com
 127.0.0.1 galatea2.appads.com
 127.0.0.1 galatea3.appads.com
@@ -10200,9 +10195,6 @@ white yt3.ggpht.com
 
 # awmcenter.eu
 127.0.0.1 xchange.awmcenter.eu
-
-# awms-network.com
-127.0.0.1 stats.awms-network.com
 
 # axaldjqt.cn
 127.0.0.1 axaldjqt.cn
@@ -14331,7 +14323,6 @@ white yt3.ggpht.com
 127.0.0.1 kw123.chinoc.net
 127.0.0.1 kw15.chinoc.net
 127.0.0.1 kw17.chinoc.net
-127.0.0.1 kw40.chinoc.net
 127.0.0.1 kw46.chinoc.net
 127.0.0.1 kw62.chinoc.net
 127.0.0.1 kw80.chinoc.net
@@ -15005,7 +14996,6 @@ white yt3.ggpht.com
 127.0.0.1 origin-ics.clickpotato.tv
 127.0.0.1 te.clickpotato.tv
 127.0.0.1 tvf.clickpotato.tv
-127.0.0.1 www.clickpotato.tv
 
 # clickquick.com
 127.0.0.1 clickquick.com
@@ -15795,7 +15785,6 @@ white yt3.ggpht.com
 127.0.0.1 compactbanner.com
 
 # comparefacil.com
-127.0.0.1 img.comparefacil.com
 127.0.0.1 www.comparefacil.com
 
 # compareyourclicks.com
@@ -16007,7 +15996,6 @@ white yt3.ggpht.com
 127.0.0.1 ds.contextweb.com
 127.0.0.1 media.contextweb.com
 127.0.0.1 tag.contextweb.com
-127.0.0.1 www3.contextweb.com
 
 # convergetrack.com
 127.0.0.1 hits.convergetrack.com
@@ -17543,9 +17531,6 @@ white yt3.ggpht.com
 
 # dell.com
 127.0.0.1 nsm.dell.com
-
-# delmarvanow.com
-127.0.0.1 gcirm.delmarvanow.com
 
 # delo.ua
 127.0.0.1 stat.delo.ua
@@ -24042,7 +24027,6 @@ white yt3.ggpht.com
 127.0.0.1 gcirm.greatfallstribune.gcion.com
 127.0.0.1 gcirm.greenvilleonline.gcion.com
 127.0.0.1 gcirm.guampdn.gcion.com
-127.0.0.1 gcirm.hattiesburgamerican.gcion.com
 127.0.0.1 gcirm.honoluluadvertiser.gcion.com
 127.0.0.1 gcirm.indystar.gcion.com
 127.0.0.1 gcirm.injersey.gcion.com
@@ -25692,7 +25676,6 @@ white yt3.ggpht.com
 
 # hackulous.org
 127.0.0.1 hackulous.org
-127.0.0.1 www.hackulous.org
 
 # hahaue.com
 127.0.0.1 ct2.hahaue.com
@@ -26325,7 +26308,6 @@ white yt3.ggpht.com
 127.0.0.1 ehg-adversitement.hitbox.com
 127.0.0.1 ehg-aha.hitbox.com
 127.0.0.1 ehg-akagourmet.hitbox.com
-127.0.0.1 ehg-akronbeacon.hitbox.com
 127.0.0.1 ehg-alt64.hitbox.com
 127.0.0.1 ehg-apollogroup.hitbox.com
 127.0.0.1 ehg-aspca.hitbox.com
@@ -26417,7 +26399,6 @@ white yt3.ggpht.com
 127.0.0.1 ehg-jaygroup.hitbox.com
 127.0.0.1 ehg-jellyfish.hitbox.com
 127.0.0.1 ehg-jobster.hitbox.com
-127.0.0.1 ehg-jockey.hitbox.com
 127.0.0.1 ehg-kasperskylab.hitbox.com
 127.0.0.1 ehg-kingstontechnology.hitbox.com
 127.0.0.1 ehg-knightridder.hitbox.com
@@ -26438,7 +26419,6 @@ white yt3.ggpht.com
 127.0.0.1 ehg-mattress.hitbox.com
 127.0.0.1 ehg-mccormick.hitbox.com
 127.0.0.1 ehg-meevee.hitbox.com
-127.0.0.1 ehg-mgmmirageoperations.hitbox.com
 127.0.0.1 ehg-mgnlimited.hitbox.com
 127.0.0.1 ehg-mh.hitbox.com
 127.0.0.1 ehg-micron.hitbox.com
@@ -26538,7 +26518,6 @@ white yt3.ggpht.com
 127.0.0.1 ehg-wsseurope.hitbox.com
 127.0.0.1 ehg-wssuk.hitbox.com
 127.0.0.1 ehg-wynnresortsltd.hitbox.com
-127.0.0.1 ehg-xandria.hitbox.com
 127.0.0.1 ehg-y2m.hitbox.com
 127.0.0.1 ehg-yakpak.hitbox.com
 127.0.0.1 ehg-youtube.hitbox.com
@@ -29986,7 +29965,6 @@ white yt3.ggpht.com
 127.0.0.1 insightexpresserdd.com
 
 # insightfirst.com
-127.0.0.1 dealcollect.insightfirst.com
 127.0.0.1 economisttestcollect.insightfirst.com
 127.0.0.1 insightfirst.com
 127.0.0.1 unitedcollect.insightfirst.com
@@ -30621,7 +30599,6 @@ white yt3.ggpht.com
 127.0.0.1 prettyboring.us.intellitxt.com
 127.0.0.1 primedia.us.intellitxt.com
 127.0.0.1 priusonline.us.intellitxt.com
-127.0.0.1 pro-networks.us.intellitxt.com
 127.0.0.1 product-reviews.uk.intellitxt.com
 127.0.0.1 profootballweekly.us.intellitxt.com
 127.0.0.1 programme-tv.fr.intellitxt.com
@@ -32548,9 +32525,6 @@ white yt3.ggpht.com
 
 # kiehls.com
 127.0.0.1 www2.kiehls.com
-
-# kikclicks.com
-127.0.0.1 www.kikclicks.com
 
 # kikizo.com
 127.0.0.1 adserve.kikizo.com
@@ -37280,7 +37254,6 @@ white yt3.ggpht.com
 
 # movie-watching-site.com
 127.0.0.1 movie-watching-site.com
-127.0.0.1 www.movie-watching-site.com
 
 # movie-wiki.net
 127.0.0.1 movie-wiki.net
@@ -37459,9 +37432,6 @@ white yt3.ggpht.com
 
 # msmtrakk16a.com
 127.0.0.1 global.msmtrakk16a.com
-
-# msn-firewall.com
-127.0.0.1 www.msn-firewall.com
 
 # msn-ppe.com
 127.0.0.1 ads.msn-ppe.com
@@ -41222,7 +41192,6 @@ white yt3.ggpht.com
 127.0.0.1 adp4.us4.outblaze.com
 127.0.0.1 adserver.hk.outblaze.com
 127.0.0.1 adserver.us.outblaze.com
-127.0.0.1 download2.us4.outblaze.com
 127.0.0.1 img1.us4.outblaze.com
 
 # outboundlink.me
@@ -42155,11 +42124,9 @@ white yt3.ggpht.com
 127.0.0.1 www.paypopup.com
 127.0.0.1 www1.paypopup.com
 127.0.0.1 www10.paypopup.com
-127.0.0.1 www12.paypopup.com
 127.0.0.1 www13.paypopup.com
 127.0.0.1 www14.paypopup.com
 127.0.0.1 www2.paypopup.com
-127.0.0.1 www20.paypopup.com
 127.0.0.1 www21.paypopup.com
 127.0.0.1 www210.paypopup.com
 127.0.0.1 www211.paypopup.com
@@ -42330,7 +42297,6 @@ white yt3.ggpht.com
 127.0.0.1 peep-auktion.de
 
 # peepfinder.com
-127.0.0.1 js.peepfinder.com
 127.0.0.1 www.peepfinder.com
 
 # peer39.com
@@ -47667,7 +47633,6 @@ white yt3.ggpht.com
 127.0.0.1 christina.sexybabesx.com
 127.0.0.1 ciara.sexybabesx.com
 127.0.0.1 danicapatrick.sexybabesx.com
-127.0.0.1 demimoore.sexybabesx.com
 127.0.0.1 denise.sexybabesx.com
 127.0.0.1 elishacuthbert.sexybabesx.com
 127.0.0.1 emmawatson.sexybabesx.com
@@ -47702,7 +47667,6 @@ white yt3.ggpht.com
 127.0.0.1 katewinslet.sexybabesx.com
 127.0.0.1 katieholmes.sexybabesx.com
 127.0.0.1 keiraknightley.sexybabesx.com
-127.0.0.1 kellyclarkson.sexybabesx.com
 127.0.0.1 kristinkreuk.sexybabesx.com
 127.0.0.1 leeleesobieski.sexybabesx.com
 127.0.0.1 lindsay.sexybabesx.com
@@ -49593,7 +49557,6 @@ white yt3.ggpht.com
 127.0.0.1 ru09-hits.spylog.com
 127.0.0.1 skif.spylog.com
 127.0.0.1 spylog.com
-127.0.0.1 stats.spylog.com
 127.0.0.1 u001.13.spylog.com
 127.0.0.1 u001.22.spylog.com
 127.0.0.1 u002.01.spylog.com
@@ -50111,9 +50074,6 @@ white yt3.ggpht.com
 # startribune.com
 127.0.0.1 adlinks.startribune.com
 127.0.0.1 oas.startribune.com
-
-# startrt-page.org
-127.0.0.1 www.startrt-page.org
 
 # startsurfing.com
 127.0.0.1 www.startsurfing.com
@@ -53583,7 +53543,6 @@ white yt3.ggpht.com
 # trafiz.net
 127.0.0.1 cpc.trafiz.net
 127.0.0.1 t3.trafiz.net
-127.0.0.1 track-683.trafiz.net
 127.0.0.1 track-711.trafiz.net
 127.0.0.1 track.trafiz.net
 
@@ -55932,10 +55891,6 @@ white yt3.ggpht.com
 
 # w682.com
 127.0.0.1 w682.com
-
-# wa-track.com
-127.0.0.1 w10418.lb.wa-track.com
-127.0.0.1 w7697.lb.wa-track.com
 
 # wait3sec.org
 127.0.0.1 wait3sec.org
@@ -58838,9 +58793,6 @@ white yt3.ggpht.com
 # ypzjwioptz.pw
 127.0.0.1 ypzjwioptz.pw
 
-# ypzs88.com
-127.0.0.1 www.ypzs88.com
-
 # yrals.com
 127.0.0.1 www.yrals.com
 
@@ -58981,7 +58933,6 @@ white yt3.ggpht.com
 127.0.0.1 mmocenter.org.powered-by.zango.com
 127.0.0.1 musicvideocodes.powered-by.zango.com
 127.0.0.1 mvcodezone.powered-by.zango.com
-127.0.0.1 mydisplayimage.powered-by.zango.com
 127.0.0.1 myfriendspy.powered-by.zango.com
 127.0.0.1 myspace-backgrounds.powered-by.zango.com
 127.0.0.1 myspace.powered-by.zango.com
