@@ -4,8 +4,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2019/11/21
-# block hosts: 32024 entry
+# last updated: 2019/11/23
+# block hosts: 32023 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -26,6 +26,7 @@ white edge-chat.facebook.com
 white facebook.com
 white fbcdn.net
 white fbsbx.com
+white grp10.ias.rakuten.co.jp
 white imgstat.ameba.jp
 white lh3.ggpht.com
 white lh3.googleusercontent.com
@@ -44571,7 +44572,6 @@ white yt3.ggpht.com
 127.0.0.1 grp07.ias.rakuten.co.jp
 127.0.0.1 grp08.ias.rakuten.co.jp
 127.0.0.1 grp09.ias.rakuten.co.jp
-127.0.0.1 grp10.ias.rakuten.co.jp
 127.0.0.1 hb.afl.rakuten.co.jp
 127.0.0.1 hbb.afl.rakuten.co.jp
 127.0.0.1 ias.rakuten.co.jp
