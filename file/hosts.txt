@@ -4,8 +4,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2020/01/07
-# block hosts: 31828 entry
+# last updated: 2020/01/08
+# block hosts: 31827 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -20048,9 +20048,6 @@ white yt3.ggpht.com
 
 # emol.com
 127.0.0.1 ads.emol.com
-
-# empas.com
-127.0.0.1 statclick.empas.com
 
 # empflixlive.com
 127.0.0.1 ifa.empflixlive.com
