@@ -4,8 +4,8 @@
 #         http://logroid.blogspot.jp/
 #         https://twitter.com/logroid
 #
-# last updated: 2019/11/27
-# block hosts: 31887 entry
+# last updated: 2020/01/07
+# block hosts: 31828 entry
 
 127.0.0.1       localhost
 255.255.255.255 broadcasthost
@@ -400,9 +400,6 @@ white yt3.ggpht.com
 127.0.0.1 1stmovieclub.net
 127.0.0.1 thumbs.1stmovieclub.net
 127.0.0.1 www.1stmovieclub.net
-
-# 1tmg.info
-127.0.0.1 1tmg.info
 
 # 1trac.com
 127.0.0.1 www.1trac.com
@@ -4069,9 +4066,6 @@ white yt3.ggpht.com
 127.0.0.1 ref.ad-brix.com
 127.0.0.1 tracking.ad-brix.com
 
-# ad-click.biz
-127.0.0.1 www.ad-click.biz
-
 # ad-clix.com
 127.0.0.1 ad-clix.com
 127.0.0.1 www.ad-clix.com
@@ -4170,9 +4164,6 @@ white yt3.ggpht.com
 
 # ad-purge.com
 127.0.0.1 www.ad-purge.com
-
-# ad-rider.com
-127.0.0.1 ad.ad-rider.com
 
 # ad-rotator.com
 127.0.0.1 ad-rotator.com
@@ -4907,8 +4898,6 @@ white yt3.ggpht.com
 
 # adflare.bz
 127.0.0.1 adflare.bz
-127.0.0.1 js.adflare.bz
-127.0.0.1 js2.adflare.bz
 
 # adflare.jp
 127.0.0.1 adflare.jp
@@ -5021,7 +5010,6 @@ white yt3.ggpht.com
 
 # adglare.net
 127.0.0.1 adglare.net
-127.0.0.1 utraffic.engine.adglare.net
 
 # adgoto.com
 127.0.0.1 adgoto.com
@@ -5034,7 +5022,6 @@ white yt3.ggpht.com
 
 # adgrip.net
 127.0.0.1 adgrip.net
-127.0.0.1 adwebp.adgrip.net
 
 # adgroupm.com
 127.0.0.1 adsrv.adgroupm.com
@@ -5585,7 +5572,6 @@ white yt3.ggpht.com
 
 # admeme.net
 127.0.0.1 admeme.net
-127.0.0.1 adv.admeme.net
 
 # admeta.com
 127.0.0.1 admeta.com
@@ -5648,7 +5634,6 @@ white yt3.ggpht.com
 127.0.0.1 mmv.admob.com
 127.0.0.1 p.admob.com
 127.0.0.1 r.admob.com
-127.0.0.1 t.admob.com
 
 # admobitrack.com
 127.0.0.1 admobitrack.com
@@ -5977,9 +5962,6 @@ white yt3.ggpht.com
 
 # adpulse.com
 127.0.0.1 ads.adpulse.com
-
-# adpushup.com
-127.0.0.1 optimize.adpushup.com
 
 # adpv.com
 127.0.0.1 ads.adpv.com
@@ -6627,7 +6609,6 @@ white yt3.ggpht.com
 127.0.0.1 adstoclick.com
 
 # adstore.jp
-127.0.0.1 a1.adstore.jp
 127.0.0.1 adstore.jp
 
 # adsummos.net
@@ -7502,7 +7483,6 @@ white yt3.ggpht.com
 
 # advg.jp
 127.0.0.1 advg.jp
-127.0.0.1 dex.advg.jp
 127.0.0.1 ds.advg.jp
 127.0.0.1 o.advg.jp
 127.0.0.1 r.advg.jp
@@ -7700,6 +7680,9 @@ white yt3.ggpht.com
 127.0.0.1 ads.adx.nu
 127.0.0.1 adx.nu
 127.0.0.1 dn.adx.nu
+
+# adxadserv.com
+127.0.0.1 ads.adxadserv.com
 
 # adxpansion.com
 127.0.0.1 ads.adxpansion.com
@@ -8222,9 +8205,6 @@ white yt3.ggpht.com
 
 # aitds.com
 127.0.0.1 aitds.com
-
-# aiueo-keizai.com
-127.0.0.1 image.aiueo-keizai.com
 
 # aiya.com.cn
 127.0.0.1 js.aiya.com.cn
@@ -9000,7 +8980,6 @@ white yt3.ggpht.com
 
 # antennash.com
 127.0.0.1 antennash.com
-127.0.0.1 www.antennash.com
 
 # antennasync.me
 127.0.0.1 antennasync.me
@@ -9246,9 +9225,6 @@ white yt3.ggpht.com
 # app-c.net
 127.0.0.1 api.app-c.net
 127.0.0.1 app-c.net
-
-# app-install-world.com
-127.0.0.1 app-install-world.com
 
 # app-play-stores.com
 127.0.0.1 click.app-play-stores.com
@@ -10035,9 +10011,6 @@ white yt3.ggpht.com
 # autoweek.com
 127.0.0.1 oascentral.autoweek.com
 
-# av-mdeta.com
-127.0.0.1 av-mdeta.com
-
 # avalon-ad.net
 127.0.0.1 avalon-ad.net
 
@@ -10088,6 +10061,9 @@ white yt3.ggpht.com
 
 # avforce.com
 127.0.0.1 avforce.com
+
+# avgle.com
+127.0.0.1 sub2.avgle.com
 
 # aviationweek.com
 127.0.0.1 oascentral.aviationweek.com
@@ -12513,7 +12489,6 @@ white yt3.ggpht.com
 
 # brandscreen.biz
 127.0.0.1 brandscreen.biz
-127.0.0.1 static.brandscreen.biz
 
 # brat-online.ro
 127.0.0.1 220.count.brat-online.ro
@@ -15146,9 +15121,6 @@ white yt3.ggpht.com
 # clieye.com
 127.0.0.1 clieye.com
 
-# clipconverter.cc
-127.0.0.1 a.clipconverter.cc
-
 # clips4sale.com
 127.0.0.1 banners.clips4sale.com
 
@@ -15542,9 +15514,6 @@ white yt3.ggpht.com
 
 # coin-media.com
 127.0.0.1 coin-media.com
-
-# coinsicmp.com
-127.0.0.1 go.coinsicmp.com
 
 # coldhardcash.com
 127.0.0.1 redirects.coldhardcash.com
@@ -16145,9 +16114,6 @@ white yt3.ggpht.com
 # count24.de
 127.0.0.1 www.count24.de
 
-# count3.mobi
-127.0.0.1 count3.mobi
-
 # count4all.com
 127.0.0.1 count4all.com
 
@@ -16538,7 +16504,6 @@ white yt3.ggpht.com
 127.0.0.1 ads.crawler.com
 
 # crazy-bee.com
-127.0.0.1 c.crazy-bee.com
 127.0.0.1 hitsite.crazy-bee.com
 
 # crazyegg.com
@@ -17172,9 +17137,6 @@ white yt3.ggpht.com
 # daniweb.com
 127.0.0.1 aj.daniweb.com
 
-# danmeneldur.com
-127.0.0.1 danmeneldur.com
-
 # danni.com
 127.0.0.1 ads.danni.com
 
@@ -17297,7 +17259,6 @@ white yt3.ggpht.com
 
 # daum.net
 127.0.0.1 adtc.daum.net
-127.0.0.1 alea.adam.ad.daum.net
 127.0.0.1 alea.adam.daum.net
 127.0.0.1 m.adtc.daum.net
 
@@ -17359,9 +17320,6 @@ white yt3.ggpht.com
 
 # deadjournal.com
 127.0.0.1 djbanners.deadjournal.com
-
-# deaisakura-info.com
-127.0.0.1 image.deaisakura-info.com
 
 # deal-info.info
 127.0.0.1 medical.deal-info.info
@@ -18148,9 +18106,6 @@ white yt3.ggpht.com
 
 # dl-rms.com
 127.0.0.1 content.dl-rms.com
-
-# dlbooks.to
-127.0.0.1 gum.dlbooks.to
 
 # dlero.net
 127.0.0.1 dlero.net
@@ -19041,9 +18996,6 @@ white yt3.ggpht.com
 127.0.0.1 sidesearch.dropspam.com
 127.0.0.1 www.dropspam.com
 
-# dropzenad.com
-127.0.0.1 go.dropzenad.com
-
 # drphil.com
 127.0.0.1 oascentral.drphil.com
 
@@ -19672,9 +19624,6 @@ white yt3.ggpht.com
 
 # ecsuite.com
 127.0.0.1 bill.ecsuite.com
-
-# ectest.net
-127.0.0.1 onetag.ectest.net
 
 # ed4.net
 127.0.0.1 images.ed4.net
@@ -20670,9 +20619,6 @@ white yt3.ggpht.com
 
 # erotizer.info
 127.0.0.1 erotizer.info
-
-# erotube69.pw
-127.0.0.1 erotube69.pw
 
 # erovideo.ru
 127.0.0.1 ban.erovideo.ru
@@ -21758,7 +21704,6 @@ white yt3.ggpht.com
 
 # fc2.com
 127.0.0.1 11329921.ranking.fc2.com
-127.0.0.1 adf.fc2.com
 127.0.0.1 aimg.fc2.com
 127.0.0.1 analyzer-img.fc2.com
 127.0.0.1 analyzer.fc2.com
@@ -21780,7 +21725,6 @@ white yt3.ggpht.com
 127.0.0.1 dreamlove.h.fc2.com
 127.0.0.1 error.fc2.com
 127.0.0.1 game.fc2.com
-127.0.0.1 hypost.fc2.com
 127.0.0.1 liberazione.web.fc2.com
 127.0.0.1 media.fc2.com
 127.0.0.1 media3.fc2.com
@@ -22736,7 +22680,6 @@ white yt3.ggpht.com
 127.0.0.1 conv.fout.jp
 127.0.0.1 dsp.fout.jp
 127.0.0.1 fout.jp
-127.0.0.1 js-us.fout.jp
 127.0.0.1 js.fout.jp
 127.0.0.1 js.rfp.fout.jp
 127.0.0.1 sync.dmp.fout.jp
@@ -23525,9 +23468,6 @@ white yt3.ggpht.com
 127.0.0.1 bea4.v.fwmrm.net
 127.0.0.1 m2.fwmrm.net
 
-# fx-nyumon.com
-127.0.0.1 image.fx-nyumon.com
-
 # fx-on.com
 127.0.0.1 fx-on.com
 
@@ -23778,9 +23718,6 @@ white yt3.ggpht.com
 # gamevil.com
 127.0.0.1 appad.gamevil.com
 
-# gamewallet.jp
-127.0.0.1 gamewallet.jp
-
 # gamezone.com
 127.0.0.1 ad1.gamezone.com
 
@@ -23982,7 +23919,6 @@ white yt3.ggpht.com
 127.0.0.1 gcirm.thespectrum.gcion.com
 127.0.0.1 gcirm.thetimesherald.gcion.com
 127.0.0.1 gcirm.tucson.gcion.com
-127.0.0.1 gcirm.usaweekend.gcion.com
 127.0.0.1 gcirm.visaliatimesdelta.gcion.com
 127.0.0.1 gcirm.wisinfo.gcion.com
 
@@ -24267,9 +24203,6 @@ white yt3.ggpht.com
 
 # get-answers-fast.com
 127.0.0.1 www.get-answers-fast.com
-
-# get-around-firwall.com
-127.0.0.1 www.get-around-firwall.com
 
 # get-spyware-destroyer.com
 127.0.0.1 get-spyware-destroyer.com
@@ -24961,9 +24894,6 @@ white yt3.ggpht.com
 # googlegroups.com
 127.0.0.1 8ec6d0b7-a-62cb3a1a-s-sites.googlegroups.com
 
-# googlehen.com
-127.0.0.1 image.googlehen.com
-
 # googlehosted.com
 127.0.0.1 base.googlehosted.com
 
@@ -25571,6 +25501,9 @@ white yt3.ggpht.com
 
 # h0tbesfgirls.net
 127.0.0.1 www.h0tbesfgirls.net
+
+# h12-media.com
+127.0.0.1 tags.h12-media.com
 
 # haaretz.co.il
 127.0.0.1 dclk.haaretz.co.il
@@ -29225,9 +29158,7 @@ white yt3.ggpht.com
 127.0.0.1 aw.dw.impact-ad.jp
 127.0.0.1 bot.impact-ad.jp
 127.0.0.1 c.one.impact-ad.jp
-127.0.0.1 ch.impact-ad.jp
 127.0.0.1 data.arts.impact-ad.jp
-127.0.0.1 dc.impact-ad.jp
 127.0.0.1 demo.dc.impact-ad.jp
 127.0.0.1 demo.impact-ad.jp
 127.0.0.1 dev.x1.impact-ad.jp
@@ -29250,7 +29181,6 @@ white yt3.ggpht.com
 127.0.0.1 rep.ai.impact-ad.jp
 127.0.0.1 s.f1.impact-ad.jp
 127.0.0.1 spr.impact-ad.jp
-127.0.0.1 sr.impact-ad.jp
 127.0.0.1 staging.feedback.impact-ad.jp
 127.0.0.1 track.mk.impact-ad.jp
 127.0.0.1 x1.impact-ad.jp
@@ -29487,9 +29417,6 @@ white yt3.ggpht.com
 127.0.0.1 indieclick.com
 127.0.0.1 optimize.indieclick.com
 127.0.0.1 pixel.indieclick.com
-
-# indisancal.com
-127.0.0.1 indisancal.com
 
 # individuad.net
 127.0.0.1 rc.himedia.individuad.net
@@ -29730,12 +29657,9 @@ white yt3.ggpht.com
 127.0.0.1 c.w.inmobi.com
 127.0.0.1 cf.cdn.inmobi.com
 127.0.0.1 china.inmobi.com
-127.0.0.1 e.ai.inmobi.com
 127.0.0.1 et.w.inmobi.com
-127.0.0.1 go.inmobi.com
 127.0.0.1 i.w.inmobi.com
 127.0.0.1 i.w.sandbox.inmobi.com
-127.0.0.1 ifc.inmobi.com
 127.0.0.1 inmobi.com
 127.0.0.1 japan.inmobi.com
 127.0.0.1 js.w.inmobi.com
@@ -31242,9 +31166,6 @@ white yt3.ggpht.com
 # itarea.org
 127.0.0.1 ads.itarea.org
 
-# itatsuku.jp
-127.0.0.1 itatsuku.jp
-
 # itbannerexchange.com
 127.0.0.1 itbannerexchange.com
 
@@ -31665,9 +31586,6 @@ white yt3.ggpht.com
 127.0.0.1 j69i-browser.com
 127.0.0.1 static.j69i-browser.com
 
-# jacbridge.com
-127.0.0.1 jacbridge.com
-
 # jacksonsun.com
 127.0.0.1 ads.jacksonsun.com
 
@@ -31727,9 +31645,6 @@ white yt3.ggpht.com
 
 # japantoday.com
 127.0.0.1 banners.japantoday.com
-
-# japanxvideos.mobi
-127.0.0.1 aaa.japanxvideos.mobi
 
 # jasmin.hu
 127.0.0.1 counter.jasmin.hu
@@ -32156,9 +32071,6 @@ white yt3.ggpht.com
 # jwtt3.com
 127.0.0.1 ads.jwtt3.com
 
-# jyonetu-fx.com
-127.0.0.1 image.jyonetu-fx.com
-
 # k-network.com
 127.0.0.1 kads.k-network.com
 
@@ -32403,9 +32315,6 @@ white yt3.ggpht.com
 # kimcurlrvsms.com
 127.0.0.1 kimcurlrvsms.com
 
-# king-livechat.com
-127.0.0.1 image.king-livechat.com
-
 # king.com
 127.0.0.1 adtrack.king.com
 
@@ -32485,9 +32394,6 @@ white yt3.ggpht.com
 
 # kiwicasino.com
 127.0.0.1 kiwicasino.com
-
-# kixer.com
-127.0.0.1 cdn.kixer.com
 
 # kizash.com
 127.0.0.1 kizash.com
@@ -32907,7 +32813,6 @@ white yt3.ggpht.com
 127.0.0.1 www.lduhtrp.net
 
 # lead-ad.jp
-127.0.0.1 art.lead-ad.jp
 127.0.0.1 lead-ad.jp
 
 # leadacceptor.com
@@ -34088,9 +33993,6 @@ white yt3.ggpht.com
 
 # livedooor.info
 127.0.0.1 blog.livedooor.info
-
-# livedoor-plus.com
-127.0.0.1 livedoor-plus.com
 
 # livedoor.biz
 127.0.0.1 anews.livedoor.biz
@@ -35913,9 +35815,6 @@ white yt3.ggpht.com
 127.0.0.1 megapornmovs.com
 127.0.0.1 www.megapornmovs.com
 
-# megaprizes-server76.loan
-127.0.0.1 competition7472.megaprizes-server76.loan
-
 # megaroticlive.com
 127.0.0.1 mbs.megaroticlive.com
 
@@ -35972,9 +35871,6 @@ white yt3.ggpht.com
 
 # meninpain.com
 127.0.0.1 ads.meninpain.com
-
-# mens-renai.com
-127.0.0.1 image.mens-renai.com
 
 # menshealth.com
 127.0.0.1 www62.menshealth.com
@@ -37058,9 +36954,6 @@ white yt3.ggpht.com
 127.0.0.1 m9.webstats.motigo.com
 127.0.0.1 webstats.motigo.com
 
-# motionlink.jp
-127.0.0.1 www.motionlink.jp
-
 # motiveinteractive.com
 127.0.0.1 ad.motiveinteractive.com
 
@@ -37210,7 +37103,6 @@ white yt3.ggpht.com
 127.0.0.1 mr-rank.de
 
 # mreco0.jp
-127.0.0.1 ads.mreco0.jp
 127.0.0.1 img.ads.mreco0.jp
 127.0.0.1 mreco0.jp
 127.0.0.1 n2.ads.mreco0.jp
@@ -38372,9 +38264,6 @@ white yt3.ggpht.com
 
 # n69.com
 127.0.0.1 n69.com
-
-# n72adserv.com
-127.0.0.1 n72adserv.com
 
 # n9nedegrees.com
 127.0.0.1 adserver.n9nedegrees.com
@@ -40379,6 +40268,9 @@ white yt3.ggpht.com
 # olmeramarketing.com
 127.0.0.1 xml.olmeramarketing.com
 
+# olmsoneenh.info
+127.0.0.1 olmsoneenh.info
+
 # olx.com
 127.0.0.1 ads.olx.com
 127.0.0.1 tracking.olx.com
@@ -41983,9 +41875,6 @@ white yt3.ggpht.com
 127.0.0.1 click.payserve.com
 127.0.0.1 payserve.com
 
-# pazmas.com
-127.0.0.1 pazmas.com
-
 # pazudora-friend.com
 127.0.0.1 rss.pazudora-friend.com
 
@@ -42714,9 +42603,6 @@ white yt3.ggpht.com
 # playboy.com
 127.0.0.1 d1.playboy.com
 127.0.0.1 pei-ads.playboy.com
-
-# playfolders.com
-127.0.0.1 playfolders.com
 
 # playground.ru
 127.0.0.1 ad.playground.ru
@@ -44273,9 +44159,6 @@ white yt3.ggpht.com
 127.0.0.1 cs.r-ad.ne.jp
 127.0.0.1 tm.r-ad.ne.jp
 127.0.0.1 tm2.r-ad.ne.jp
-
-# r2t.jp
-127.0.0.1 www.r2t.jp
 
 # r3h.net
 127.0.0.1 bridgetrack.speedera.r3h.net
@@ -45885,7 +45768,6 @@ white yt3.ggpht.com
 
 # rtoaster.jp
 127.0.0.1 rt.rtoaster.jp
-127.0.0.1 y.rtoaster.jp
 
 # rtstats.com
 127.0.0.1 11.rtstats.com
@@ -46879,7 +46761,6 @@ white yt3.ggpht.com
 127.0.0.1 tvf.seekmo.com
 127.0.0.1 vidshrine.com.powered-by.seekmo.com
 127.0.0.1 www.seekmo.com
-127.0.0.1 xfreelesbianmovies.powered-by.seekmo.com
 
 # seekways.com
 127.0.0.1 www.seekways.com
@@ -48694,9 +48575,6 @@ white yt3.ggpht.com
 127.0.0.1 socdm.com
 127.0.0.1 ssl.socdm.com
 127.0.0.1 tg.socdm.com
-
-# social-runner.net
-127.0.0.1 social-runner.net
 
 # socialbakers.com
 127.0.0.1 ads.socialbakers.com
@@ -53242,9 +53120,6 @@ white yt3.ggpht.com
 127.0.0.1 traffictraders.com
 127.0.0.1 www.traffictraders.com
 
-# traffictradingtips.com
-127.0.0.1 traffictradingtips.com
-
 # trafficvalet.com
 127.0.0.1 cnt.trafficvalet.com
 
@@ -54173,9 +54048,6 @@ white yt3.ggpht.com
 # uncrate.com
 127.0.0.1 ads.uncrate.com
 
-# uncumlzowtkn.com
-127.0.0.1 www.uncumlzowtkn.com
-
 # undertone.com
 127.0.0.1 ads.undertone.com
 127.0.0.1 cdn.undertone.com
@@ -54259,7 +54131,15 @@ white yt3.ggpht.com
 
 # unity3d.com
 127.0.0.1 adserver.unityads.unity3d.com
+127.0.0.1 auction.unityads.unity3d.com
+127.0.0.1 auiopt.unityads.unity3d.com
 127.0.0.1 cdn-akamai.unityads.unity3d.com
+127.0.0.1 cdn-creatives-akamai-prd.unityads.unity3d.com
+127.0.0.1 cdn-store-icons-akamai-prd.unityads.unity3d.com
+127.0.0.1 config.unityads.unity3d.com
+127.0.0.1 publisher-config.unityads.unity3d.com
+127.0.0.1 publisher-event.unityads.unity3d.com
+127.0.0.1 tracking.prd.mz.internal.unity3d.com
 
 # universesearches.com
 127.0.0.1 universesearches.com
@@ -55157,11 +55037,6 @@ white yt3.ggpht.com
 127.0.0.1 adserver.virginmedia.com
 127.0.0.1 st.virginmedia.com
 
-# virool.com
-127.0.0.1 rb-validation.virool.com
-127.0.0.1 ssp.virool.com
-127.0.0.1 ups.virool.com
-
 # virtuagirlhd.com
 127.0.0.1 banners.virtuagirlhd.com
 127.0.0.1 cbanners.virtuagirlhd.com
@@ -55329,9 +55204,6 @@ white yt3.ggpht.com
 
 # vitamingood.cn
 127.0.0.1 vitamingood.cn
-
-# vivid-memory.com
-127.0.0.1 touch.vivid-memory.com
 
 # vividvip.com
 127.0.0.1 home.vividvip.com
@@ -55607,9 +55479,6 @@ white yt3.ggpht.com
 
 # vungle.com
 127.0.0.1 vungle.com
-
-# vuysooqimdbt.com
-127.0.0.1 www.vuysooqimdbt.com
 
 # vxsbill.com
 127.0.0.1 secure.vxsbill.com
@@ -56857,9 +56726,6 @@ white yt3.ggpht.com
 # wise-click.com
 127.0.0.1 feeds.wise-click.com
 
-# wiserapps.site
-127.0.0.1 wiserapps.site
-
 # wisewire.com
 127.0.0.1 wisewire.com
 
@@ -57398,9 +57264,6 @@ white yt3.ggpht.com
 127.0.0.1 ads.xbiz.com
 127.0.0.1 engine.xbiz.com
 127.0.0.1 exchange.xbiz.com
-
-# xbooks.to
-127.0.0.1 gum.xbooks.to
 
 # xbox.com
 127.0.0.1 o.xbox.com
