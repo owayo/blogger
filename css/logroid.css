@@ -78,11 +78,11 @@ a.icon-link {
 }
 
 a.icon-link.twitter {
-  background-image: url("http://3.bp.blogspot.com/-CgCObKBY2d4/UBfmUlvqPQI/AAAAAAAAX9U/zawkEBljaxY/s1600/twitter-bird.png")
+  background-image: url("://3.bp.blogspot.com/-CgCObKBY2d4/UBfmUlvqPQI/AAAAAAAAX9U/zawkEBljaxY/s1600/twitter-bird.png")
 }
 
 a.icon-link.rss {
-  background-image: url("http://2.bp.blogspot.com/-M5Dw1B0SAUE/UBaaaIS9U5I/AAAAAAAAX8k/xKHWmg8Hsyg/s1600/rss.png")
+  background-image: url("://2.bp.blogspot.com/-M5Dw1B0SAUE/UBaaaIS9U5I/AAAAAAAAX8k/xKHWmg8Hsyg/s1600/rss.png")
 }
 
 .cloud-label-widget-content {
@@ -812,7 +812,7 @@ footer a:active {
 }
 
 header {
-  background-image: url("http://2.bp.blogspot.com/-Q8LnWo8-jno/TyFZz0Z2opI/AAAAAAAAUm4/CF6IbYDncJY/s1600/droid.png");
+  background-image: url("://2.bp.blogspot.com/-Q8LnWo8-jno/TyFZz0Z2opI/AAAAAAAAUm4/CF6IbYDncJY/s1600/droid.png");
   background-position: center center;
   background-repeat: no-repeat
 }
@@ -1479,13 +1479,13 @@ a.google_play {
   -moz-border-radius: 5px;
   -webkit-border-radius: 5px;
   user-select: none;
-  background-image: url("http://3.bp.blogspot.com/-8ekFte088Dg/T-2k-K-UUxI/AAAAAAAAX0Y/pmwl0Y3VNOU/s1600/play_logo.png");
+  background-image: url("://3.bp.blogspot.com/-8ekFte088Dg/T-2k-K-UUxI/AAAAAAAAX0Y/pmwl0Y3VNOU/s1600/play_logo.png");
   background-repeat: no-repeat;
   background-position: 5px;
   background-color: #000;
-  background: url("http://3.bp.blogspot.com/-8ekFte088Dg/T-2k-K-UUxI/AAAAAAAAX0Y/pmwl0Y3VNOU/s1600/play_logo.png") no-repeat scroll 5px center, -moz-linear-gradient(#666, #000);
-  background: url("http://3.bp.blogspot.com/-8ekFte088Dg/T-2k-K-UUxI/AAAAAAAAX0Y/pmwl0Y3VNOU/s1600/play_logo.png") no-repeat scroll 5px center, -webkit-linear-gradient(#666, #000);
-  background: url("http://3.bp.blogspot.com/-8ekFte088Dg/T-2k-K-UUxI/AAAAAAAAX0Y/pmwl0Y3VNOU/s1600/play_logo.png") no-repeat scroll 5px center, linear-gradient(#666, #000);
+  background: url("://3.bp.blogspot.com/-8ekFte088Dg/T-2k-K-UUxI/AAAAAAAAX0Y/pmwl0Y3VNOU/s1600/play_logo.png") no-repeat scroll 5px center, -moz-linear-gradient(#666, #000);
+  background: url("://3.bp.blogspot.com/-8ekFte088Dg/T-2k-K-UUxI/AAAAAAAAX0Y/pmwl0Y3VNOU/s1600/play_logo.png") no-repeat scroll 5px center, -webkit-linear-gradient(#666, #000);
+  background: url("://3.bp.blogspot.com/-8ekFte088Dg/T-2k-K-UUxI/AAAAAAAAX0Y/pmwl0Y3VNOU/s1600/play_logo.png") no-repeat scroll 5px center, linear-gradient(#666, #000);
   border-radius: 5px;
   min-width: 128px;
   width: 100%;
@@ -1499,9 +1499,9 @@ a.google_play {
 
 .mobile a.google_play {
   background-position: center;
-  background: url("http://3.bp.blogspot.com/-8ekFte088Dg/T-2k-K-UUxI/AAAAAAAAX0Y/pmwl0Y3VNOU/s1600/play_logo.png") no-repeat scroll center center, -moz-linear-gradient(#666, #000);
-  background: url("http://3.bp.blogspot.com/-8ekFte088Dg/T-2k-K-UUxI/AAAAAAAAX0Y/pmwl0Y3VNOU/s1600/play_logo.png") no-repeat scroll center center, -webkit-linear-gradient(#666, #000);
-  background: url("http://3.bp.blogspot.com/-8ekFte088Dg/T-2k-K-UUxI/AAAAAAAAX0Y/pmwl0Y3VNOU/s1600/play_logo.png") no-repeat scroll center center, linear-gradient(#666, #000);
+  background: url("://3.bp.blogspot.com/-8ekFte088Dg/T-2k-K-UUxI/AAAAAAAAX0Y/pmwl0Y3VNOU/s1600/play_logo.png") no-repeat scroll center center, -moz-linear-gradient(#666, #000);
+  background: url("://3.bp.blogspot.com/-8ekFte088Dg/T-2k-K-UUxI/AAAAAAAAX0Y/pmwl0Y3VNOU/s1600/play_logo.png") no-repeat scroll center center, -webkit-linear-gradient(#666, #000);
+  background: url("://3.bp.blogspot.com/-8ekFte088Dg/T-2k-K-UUxI/AAAAAAAAX0Y/pmwl0Y3VNOU/s1600/play_logo.png") no-repeat scroll center center, linear-gradient(#666, #000);
   min-width: 35px;
   height: 35px
 }
@@ -1516,7 +1516,7 @@ a.google_play_badge {
   -khtml-user-select: none;
   -moz-user-select: none;
   user-select: none;
-  background-image: url("https://1.bp.blogspot.com/-OGMyqNS3yVM/WcJsXXIjc4I/AAAAAAAHfIQ/Srbllb4eyy4Ze4ExyBWzAS3YmvRne5a8QCLcBGAs/s1600/google-play-badge-w150.png");
+  background-image: url("://1.bp.blogspot.com/-OGMyqNS3yVM/WcJsXXIjc4I/AAAAAAAHfIQ/Srbllb4eyy4Ze4ExyBWzAS3YmvRne5a8QCLcBGAs/s1600/google-play-badge-w150.png");
   background-repeat: no-repeat;
   background-position: center;
   width: 150px;
