@@ -2299,3 +2299,7 @@ th.th-slash {
   margin-top: 50%;
   text-align: left;
 }
+
+.section {
+    padding: 5px !important;
+}
