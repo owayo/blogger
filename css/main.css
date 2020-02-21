@@ -7,3 +7,6 @@
 .foot.no-items.section {
   display:none;
 }
+.navbar {
+  min-height: 30px !important;
+}
