@@ -3,3 +3,7 @@
 .columns-inner {
   margin-bottom: 10px;
 }
+
+.foot.no-items.section {
+  display:none;
+}
