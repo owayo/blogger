@@ -8,3 +8,6 @@
   content: '\30b9\30dd\30f3\30b5\30fc\30ea\30f3\30af';
   display: block;
 }
+.inline-ad {
+  min-height: 100px;
+}
