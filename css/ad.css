@@ -1,0 +1,10 @@
+
+.adgoogle-wrapper{
+  margin-top: 10px;
+  margin-bottom: 10px;
+  min-width:250px;
+}
+.adgoogle-wrapper:before {
+  content: '\30b9\30dd\30f3\30b5\30fc\30ea\30f3\30af';
+  display: block;
+}
