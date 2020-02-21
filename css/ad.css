@@ -1,4 +1,3 @@
-
 .adgoogle-wrapper{
   margin-top: 10px;
   margin-bottom: 10px;
@@ -9,8 +8,6 @@
   display: block;
 }
 .inline-ad {
-  min-height: 100px;
-  width: 100%;
 }
 ins[data-ad-slot="9750729260"]{
   min-height: 600px;
@@ -21,4 +18,8 @@ ins[data-ad-slot="9750729260"] iframe {
   min-width: 160px;
 }
 ins[data-ad-slot="5814180973"]{
+}
+ins[data-ad-slot="5814180973"]{
+  min-height: 100px;
+  width: 100%;
 }
