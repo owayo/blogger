@@ -650,7 +650,8 @@ pre {
   overflow-x: auto;
   overflow-y: hidden;
   padding: 5px;
-  white-space: pre
+  white-space: pre;
+  word-wrap: initial !important;
 }
 
 pre.plain {
