@@ -519,6 +519,10 @@ blockquote.quote {
   position: relative
 }
 
+blockquote.quote pre {
+  background-color: #FFF !important;
+}
+
 blockquote.quote:before {
   -moz-border-radius-bottomleft: 80px 50px;
   -webkit-border-radius-bottomleft: 80px 50px;
