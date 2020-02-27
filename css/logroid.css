@@ -2308,3 +2308,6 @@ th.th-slash {
 .main.section {
     padding: 5px !important;
 }
+.main-inner>.columns{
+  display: block !important;
+}
