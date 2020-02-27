@@ -534,7 +534,8 @@ blockquote.quote:before {
   left: 50px;
   position: absolute;
   width: 50px;
-  z-index: 10
+  z-index: 10;
+  box-sizing: initial;
 }
 
 blockquote.quote:after {
