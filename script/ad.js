@@ -18,7 +18,7 @@
         '(adsbygoogle = window.adsbygoogle || []).push({});'
       )
       $wrapper.append($ad).append($script)
-      const $target = $('.post-body.entry-content>*:not(.adgoogle-wrapper):not(.adgoogle-wrapper +):not(.ad-inserted)')
+      const $target = $('.post-body.entry-content>*:not(.adgoogle-wrapper):not(.adgoogle-wrapper +):not(.ad-inserted):not(script):not(link)')
       const index = Math.floor(Math.random() * $target.length)
       $target.eq(index).before($wrapper).addClass('ad-inserted')
     })
