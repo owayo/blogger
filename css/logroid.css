@@ -149,20 +149,6 @@ legend {
   padding: 0 5px
 }
 
-textarea {
-  border: 1px solid #999;
-  font-family: Consolas, MS Gothic, monospace!important;
-  font-size: 12px;
-  height: 100px;
-  min-height: 100px;
-  padding: 2px;
-  resize: vertical;
-  width: 100%;
-  width: -moz-available;
-  width: -webkit-available;
-  width: available
-}
-
 kbd {
   background-color: #f7f7f7;
   border: 1px solid #ccc;
@@ -1231,84 +1217,6 @@ label {
   font-size: 1.1em;
   font-weight: bold;
   white-space: nowrap
-}
-
-input,
-textarea {
-  font-family: inherit;
-  font-size: 100%;
-  margin: 0;
-  padding: 0
-}
-
-textarea {
-  -moz-box-sizing: border-box;
-  -webkit-box-sizing: border-box;
-  box-sizing: border-box;
-  margin: 2px
-}
-
-input,
-select,
-label {
-  vertical-align: middle
-}
-
-input,
-textarea {
-  padding: 3px
-}
-
-textarea,
-input[type="text"],
-select {
-  border: 1px solid #999;
-  box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.1) inset
-}
-
-input[type="text"] {
-  -moz-box-sizing: border-box;
-  -webkit-box-sizing: border-box;
-  background-position: right center;
-  background-repeat: no-repeat;
-  border: 1px solid #d4d4d4;
-  box-sizing: border-box;
-  color: #666;
-  font-size: 12px;
-  margin: 2px
-}
-
-input[type="text"][size] {
-  font-family: monospace!important;
-  letter-spacing: 1.5px
-}
-
-input[type="text"]:not([size]) {
-  width: 400px
-}
-
-textarea:focus,
-input[type="text"]:focus {
-  border-color: #518cc6
-}
-
-textarea[readonly],
-select[readonly],
-input[type="text"][readonly] {
-  background-color: #EEE
-}
-
-textarea[disabled],
-input[disabled],
-select[disabled] {
-  opacity: .5;
-  box-shadow: none
-}
-
-textarea[disabled],
-input[type="text"][disabled],
-select[disabled] {
-  background-color: #EEE
 }
 
 .error-message {
