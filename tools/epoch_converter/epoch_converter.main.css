@@ -1,1 +1,13 @@
-#epoch_converter .unit{margin-right:1em}#epoch_converter .unit.is-small{line-height:27px}#epoch_converter .unit.is-middle{line-height:36px}#epoch_converter label{white-space:nowrap}
+#epoch_converter .unit {
+  margin-left: 5px;
+  margin-right: 1em;
+}
+#epoch_converter .unit.is-small {
+  line-height: 27px;
+}
+#epoch_converter .unit.is-middle {
+  line-height: 36px;
+}
+#epoch_converter label {
+  white-space: nowrap;
+}
